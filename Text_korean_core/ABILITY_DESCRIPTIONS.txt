@@ -1,0 +1,508 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ABILITY_DESCRIPTIONS]
+The stench may cause the target to flinch.
+악취를 풍겨서 공격했을 때 상대가 풀죽을 때가 있다.
+The Pokémon makes it rain if it appears in battle.
+등장했을 때 날씨를 비로 만든다.
+Its Speed stat is gradually boosted.
+매 턴 스피드가 올라간다.
+The Pokémon is protected against critical hits.
+단단한 껍질에 보호받아 상대의 공격이 급소에 맞지 않는다.
+It cannot be knocked out with one hit.
+HP가 꽉 찼을 때 기술을 받아도 일격에 쓰러지지 않는다. 일격필살 기술의 효과도 받지 않는다.
+Prevents the use of self-destructing moves.
+주변을 습하게 함으로써 자폭 등 폭발하는 기술을 아무도 못 쓰게 한다.
+The Pokémon is protected from paralysis.
+유연한 몸으로 인해 마비 상태가 되지 않는다.
+Boosts the Pokémon's evasion in a sandstorm.
+모래바람일 때 회피율이 올라간다.
+Contact with the Pokémon may cause paralysis.
+정전기를 몸에 둘러 자신에게 접촉한 상대를 마비시킬 때가 있다.
+Restores HP if hit by an Electric-type move.
+전기타입의 기술로 공격받으면 데미지를 받지 않고 회복한다.
+Restores HP if hit by a Water-type move.
+물타입의 기술로 공격받으면 데미지를 받지 않고 회복한다.
+Prevents it from becoming infatuated.
+둔감해서 헤롱헤롱이나 도발 상태가 되지 않는다. 위협을 당해도 동요하지 않는다.
+Eliminates the effects of weather.
+모든 날씨의 영향이 없어진다.
+The Pokémon's accuracy is boosted.
+복안을 가지고 있어 기술의 명중률이 올라간다.
+Prevents the Pokémon from falling asleep.
+잠들지 못하는 체질이라 잠듦 상태가 되지 않는다.
+Changes the Pokémon's type to the foe's move.
+상대에게 받은 기술의 타입으로 자신의 타입이 변화한다.
+Prevents the Pokémon from getting poisoned.
+체내에 면역을 가지고 있어 독 상태가 되지 않는다.
+It powers up Fire-type moves if it's hit by one.
+불꽃타입의 기술로 공격받으면 불꽃을 받아서 자신이 사용하는 불꽃타입의 기술이 강해진다.
+Blocks the added effects of attacks taken.
+인분에 보호받아 기술의 추가 효과를 받지 않게 된다.
+Prevents the Pokémon from becoming confused.
+마이페이스라서 혼란 상태가 되지 않는다. 위협을 당해도 동요하지 않는다.
+Negates all moves that force switching out.
+흡반으로 지면에 달라붙어 포켓몬을 교체시키는 기술이나 도구의 효과를 발휘하지 못하게 한다.
+Lowers the foe's Attack stat.
+등장했을 때 위협해서 상대를 위축시켜 상대의 공격을 떨어뜨린다.
+Prevents the foe from escaping.
+상대의 그림자를 밟아 도망치거나 교체할 수 없게 한다.
+Inflicts damage to the foe on contact.
+공격을 받았을 때 자신에게 접촉한 상대를 까칠까칠한 피부로 상처를 입힌다.
+Only super-effective moves will hit.
+효과가 굉장한 기술만 맞는 불가사의한 힘.
+Gives full immunity to all Ground-type moves.
+땅에서 뜨는 성질 때문에 땅타입의 기술로 공격받지 않는다.
+Contact may poison or cause paralysis or sleep.
+공격으로 자신에게 접촉한 상대를 독이나 마비, 잠듦 상태로 만들 때가 있다.
+Passes a burn, poison, or paralysis to the foe.
+자신이 걸린 독이나 마비, 화상을 상대에게 옮긴다.
+Prevents other Pokémon from lowering its stats.
+상대 기술이나 특성으로 능력이 떨어지지 않는다.
+All status problems heal when it switches out.
+지닌 포켓몬으로 돌아오면 상태 이상이 회복된다.
+Draws in all Electric-type moves to up Sp. Attack.
+전기타입의 기술을 자신에게 끌어모아 데미지를 받지 않고 특수공격을 올린다.
+Boosts the likelihood of added effects appearing.
+하늘의 은총 덕분에 기술의 추가 효과가 나오기 쉽다.
+Boosts the Pokémon's Speed in rain.
+비가 오는 날씨일 때 스피드가 올라간다.
+Boosts the Pokémon's Speed in sunshine.
+날씨가 맑을 때 스피드가 올라간다.
+Raises the likelihood of meeting wild Pokémon.
+주변을 밝게 하여 명중률이 떨어지지 않는다.
+The Pokémon copies a foe's Ability.
+등장했을 때 상대의 특성을 트레이스해서 같은 특성이 된다.
+Raises the Pokémon's Attack stat.
+물리공격의 위력이 2배가 된다.
+Contact with the Pokémon may poison the attacker.
+자신에게 접촉한 상대를 독 상태로 만들 때가 있다.
+The Pokémon is protected from flinching.
+단련한 정신 덕분에 상대의 공격에 풀죽지 않는다. 위협을 당해도 동요하지 않는다.
+Prevents the Pokémon from becoming frozen.
+뜨거운 마그마를 몸에 둘러서 얼음 상태가 되지 않는다.
+Prevents the Pokémon from getting a burn.
+물의 베일을 몸에 둘러서 화상 상태가 되지 않는다.
+Prevents Steel-type Pokémon from escaping.
+강철타입의 포켓몬을 자력으로 끌어모아 도망칠 수 없게 한다.
+Gives full immunity to all sound-based moves.
+소리를 차단하여 소리 기술의 영향을 받지 않는다.
+The Pokémon gradually regains HP in rain.
+비가 오는 날씨일 때 조금씩 HP를 회복한다.
+The Pokémon summons a sandstorm in battle.
+등장했을 때 날씨를 모래바람으로 만든다.
+The Pokémon raises the foe's PP usage.
+프레셔를 줘서 상대가 쓰는 기술의 PP를 많이 줄인다.
+Ups resistance to Fire- and Ice-type moves.
+두꺼운 지방으로 보호되고 있어 불꽃타입과 얼음타입의 기술의 데미지를 반감시킨다.
+The Pokémon awakens quickly from sleep.
+잠듦 상태가 되어도 2배 빠르게 깨어날 수 있다.
+Contact with the Pokémon may burn the attacker.
+자신에게 접촉한 상대를 화상 상태로 만들 때가 있다.
+Enables a sure getaway from wild Pokémon.
+야생 포켓몬으로부터 반드시 도망칠 수 있다.
+Prevents other Pokémon from lowering accuracy.
+날카로운 눈 덕분에 명중률이 떨어지지 않는다.
+Prevents other Pokémon from lowering Attack stat.
+힘이 자랑인 집게를 가지고 있어 상대가 공격을 떨어뜨리지 못하게 한다.
+The Pokémon may pick up items.
+상대가 사용한 도구를 주워 올 때가 있다. 모험 중에도 주워 온다.
+Pokémon can't attack on consecutive turns.
+기술을 사용하면 다음 턴은 쉰다.
+Boosts the Attack stat, but lowers accuracy.
+자신의 공격이 높아지지만 명중률이 떨어진다.
+Contact with the Pokémon may cause infatuation.
+자신에게 접촉한 상대를 헤롱헤롱하게 만들 때가 있다.
+Ups Sp. Atk if another Pokémon has Plus or Minus.
+플러스나 마이너스의 특성을 가진 포켓몬이 동료에 있으면 자신의 특수공격이 올라간다.
+Castform transforms with the weather.
+날씨의 영향을 받아 물타입, 불꽃타입, 얼음타입 중 하나로 변화한다.
+Protects the Pokémon from item theft.
+점성이 높은 몸에 도구가 달라붙어 있어 상대에게 도구를 뺏기지 않는다.
+The Pokémon may heal its own status problems.
+몸의 껍질을 벗어 던져 상태 이상을 회복할 때가 있다.
+Boosts Attack if there is a status problem.
+상태 이상이 되면 근성을 보여서 공격이 올라간다.
+Ups Defense if there is a status problem.
+상태 이상이 되면 이상한 비늘이 반응해서 방어가 올라간다.
+Damages attackers using any draining move.
+해감액을 흡수한 상대는 강렬한 악취로 데미지를 받아 HP가 줄어든다.
+Powers up Grass-type moves in a pinch.
+HP가 줄었을 때 풀타입 기술의 위력이 올라간다.
+Powers up Fire-type moves in a pinch.
+HP가 줄었을 때 불꽃타입 기술의 위력이 올라간다.
+Powers up Water-type moves in a pinch.
+HP가 줄었을 때 물타입 기술의 위력이 올라간다.
+Powers up Bug-type moves in a pinch.
+HP가 줄었을 때 벌레타입 기술의 위력이 올라간다.
+Protects the Pokémon from recoil damage.
+반동을 받는 기술을 사용해도 HP가 줄지 않는다.
+Turns the sunlight harsh if it is in battle.
+등장했을 때 날씨를 맑음으로 만든다.
+Prevents the foe from fleeing.
+배틀에서 상대를 도망칠 수 없게 한다.
+Raises evasion if the Pokémon is confused.
+혼란 상태일 때는 회피율이 올라간다.
+Raises Speed if hit by an Electric-type move.
+전기타입의 기술로 공격받으면 데미지를 받지 않고 스피드가 올라간다.
+Deals more damage to a foe of the same gender.
+성별이 같으면 투쟁심을 불태워 강해진다. 성별이 다르면 약해진다.
+Raises Speed each time the Pokémon flinches.
+풀죽을 때마다 불굴의 마음을 불태워 스피드가 올라간다.
+Raises evasion in a hailstorm.
+날씨가 눈일 때 회피율이 올라간다.
+Encourages the early use of a held Berry.
+HP가 줄어들면 먹을 나무열매를 HP가 절반일 때 먹어 버린다.
+Maxes Attack after taking a critical hit.
+급소에 공격이 맞으면 크게 분노해 공격력이 최대가 된다.
+Raises Speed if a held item is used.
+지니던 도구가 없어지면 스피드가 올라간다.
+Weakens the power of Fire-type moves.
+내열인 몸으로 인해 불꽃타입 공격의 데미지를 반감한다.
+The Pokémon is prone to wild stat changes.
+능력 변화가 평소의 2배가 된다.
+Reduces HP if it is hot. Water restores HP.
+비가 오는 날씨나 물타입의 기술로 공격받으면 HP가 회복되고 맑을 때나 불꽃타입의 기술로 공격받으면 줄어든다.
+Adjusts power according to a foe's defenses.
+상대의 방어와 특수방어를 비교해서 낮은 쪽 능력에 맞춰서 자신의 공격이나 특수공격을 올린다.
+Boosts the power of punching moves.
+펀치를 사용하는 기술의 위력이 올라간다.
+Restores HP if the Pokémon is poisoned.
+독 상태가 되면 HP가 줄지 않고 증가한다.
+Powers up moves of the same type.
+자신과 같은 타입인 기술의 위력이 올라간다.
+Increases the frequency of multi-strike moves.
+연속 기술을 사용하면 항상 최고 횟수로 사용할 수 있다.
+Heals status problems if it is raining.
+비가 오는 날씨일 때 상태 이상이 회복된다.
+In sunshine, Sp. Atk is boosted but HP decreases.
+날씨가 맑으면 특수공격이 올라가지만 매 턴 HP가 줄어든다.
+Boosts Speed if there is a status problem.
+상태 이상이 되면 스피드가 올라간다.
+All the Pokémon's moves become the Normal type.
+사용하는 기술의 타입이 모두 노말타입이 된다. 위력이 조금 올라간다.
+Powers up moves if they become critical hits.
+공격을 급소에 맞혔을 때 위력이 더욱 올라간다.
+The Pokémon only takes damage from attacks.
+공격 이외에는 데미지를 받지 않는다.
+Ensures attacks by or against the Pokémon land.
+노가드전법에 따라 서로가 사용하는 기술이 반드시 맞게 된다.
+The Pokémon moves after all other Pokémon do.
+기술을 사용하는 순서가 반드시 마지막이 된다.
+Powers up the Pokémon's weaker moves.
+위력이 약한 기술의 위력을 올려서 공격할 수 있다.
+Prevents problems with status in sunny weather.
+날씨가 맑을 때는 상태 이상이 되지 않는다.
+The Pokémon can't use any held items.
+지니고 있는 도구를 쓸 수 없다.
+Moves can be used regardless of Abilities.
+상대 특성에 방해받지 않고 상대에게 기술을 쓸 수 있다.
+Heightens the critical-hit ratios of moves.
+대운을 가지고 있어 상대의 급소에 공격이 맞기 쉽다.
+Damages the attacker landing the finishing hit.
+기절했을 때 접촉한 상대에게 데미지를 준다.
+Senses a foe's dangerous moves.
+상대가 지닌 위험한 기술을 감지할 수 있다.
+Determines what moves a foe has.
+등장했을 때 상대가 지닌 기술을 하나만 간파한다.
+Ignores any stat changes in the Pokémon.
+상대의 능력 변화를 무시하고 공격할 수 있다.
+Powers up "not very effective" moves.
+효과가 별로인 기술을 통상의 위력으로 쓸 수 있다.
+Reduces damage from super-effective attacks.
+자신이 받는 효과가 굉장한 공격의 위력을 약하게 만든다.
+Temporarily halves Attack and Speed.
+5턴 동안 공격과 스피드가 절반이 된다.
+Enables moves to hit Ghost-type Pokémon.
+노말타입과 격투타입 기술을 고스트타입에게 맞힐 수 있다. 위협을 당해도 동요하지 않는다.
+Draws in all Water-type moves to up Sp. Attack.
+물타입의 기술을 자신에게 끌어모아 데미지를 받지 않고 특수공격이 올라간다.
+The Pokémon gradually regains HP in a hailstorm.
+날씨가 눈일 때 HP를 조금씩 회복한다.
+The Pokémon summons a hailstorm in battle.
+등장했을 때 날씨를 눈으로 만든다.
+The Pokémon may gather Honey from somewhere.
+배틀이 끝났을 때 달콤한꿀을 주울 때가 있다.
+The Pokémon can check a foe's held item.
+등장했을 때 상대의 지닌 물건을 통찰할 수 있다.
+Powers up moves that have recoil damage.
+반동 데미지를 받는 기술의 위력이 올라간다.
+Changes type to match the held Plate.
+지니고 있는 플레이트나 Z크리스탈 타입에 따라 자신의 타입이 바뀐다. 이 특성은 무시할 수 없다.
+Powers up party Pokémon when it is sunny.
+날씨가 맑을 때 자신과 같은 편의 공격과 특수방어의 능력이 올라간다.
+Reduces a sleeping foe's HP.
+잠듦 상태의 상대에게 데미지를 준다.
+Steals an item when hit by another Pokémon.
+자신에게 접촉한 상대의 도구를 훔친다.
+Removes added effects to increase move damage.
+기술의 추가 효과가 없어지지만 그만큼 높은 위력으로 기술을 사용할 수 있다.
+Makes stat changes have an opposite effect.
+능력의 변화가 역전해서 올라갈 때 떨어지고 떨어질 때 올라간다.
+Makes the foe nervous and unable to eat Berries.
+상대를 긴장시켜 나무열매를 먹지 못하게 한다.
+When its stats are lowered its Attack increases.
+상대에 의해 능력이 떨어지면 공격이 크게 올라간다.
+Lowers stats when HP becomes half or less.
+HP가 절반이 되면 무기력해져서 공격과 특수공격이 반감된다.
+May disable a move used on the Pokémon.
+공격을 받으면 상대의 기술을 사슬묶기 상태로 만들 때가 있다.
+May heal an ally's status conditions.
+같은 편의 상태 이상을 가끔 회복시킨다.
+Reduces damage done to allies.
+같은 편의 데미지를 줄일 수 있다.
+Physical attacks lower Defense and raise Speed.
+물리 기술로 데미지를 받으면 방어가 떨어지고 스피드가 크게 올라간다.
+Doubles the Pokémon's weight.
+자신의 무게가 2배가 된다.
+Halves the Pokémon's weight.
+자신의 무게가 절반이 된다.
+Reduces damage when HP is full.
+HP가 꽉 찼을 때 받는 데미지가 줄어든다.
+Powers up physical attacks when poisoned.
+독 상태가 되었을 때 물리 기술의 위력이 올라간다.
+Powers up special attacks when burned.
+화상 상태가 되었을 때 특수 기술의 위력이 올라간다.
+May create another Berry after one is used.
+사용한 나무열매를 몇 번이고 만들어 낸다.
+Anticipates an ally's attack and dodges it.
+같은 편의 공격을 간파하여 기술을 회피한다.
+Raises one stat and lowers another.
+매 턴 능력 중 하나가 크게 오르고 하나가 떨어진다.
+Protects the Pokémon from damage from weather.
+모래바람에 데미지를 받지 않는다. 가루나 포자의 영향도 받지 않는다.
+May poison targets when a Pokémon makes contact.
+접촉하기만 해도 상대를 독 상태로 만들 때가 있다.
+Restores a little HP when withdrawn from battle.
+지닌 포켓몬으로 돌아오면 HP를 조금 회복한다.
+Protects from Defense-lowering attacks.
+방어를 떨어뜨리는 효과를 받지 않는다.
+Boosts the Pokémon's Speed in a sandstorm.
+날씨가 모래바람일 때 스피드가 올라간다.
+Makes status-changing moves more likely to miss.
+변화 기술을 받기 어려운 몸으로 되어 있다.
+Boosts move power when the Pokémon moves last.
+제일 마지막에 기술을 쓰면 기술의 위력이 올라간다.
+Comes out disguised as the Pokémon in back.
+지닌 포켓몬 중 제일 뒤에 있는 포켓몬으로 둔갑하여 나와서 상대를 속인다.
+It transforms itself into the Pokémon it is facing.
+눈앞의 포켓몬으로 변신해 버린다.
+Passes through the foe's barrier and strikes.
+상대의 벽이나 대타출동을 뚫고 공격할 수 있다.
+Contact with this Pokémon spreads this Ability.
+상대가 접촉하면 상대를 미라로 만들어버린다.
+Boosts Attack after knocking out any Pokémon.
+상대를 쓰러뜨리면 자신감이 붙어서 공격이 올라간다.
+Raises Attack when hit by a Dark-type move.
+악타입 공격을 받으면 정의감으로 공격이 올라간다.
+Some move types scare it and boost its Speed.
+악, 고스트, 벌레타입 기술로 공격받거나 위협을 받으면 주눅이 들어 스피드가 올라간다.
+Reflects status-changing moves.
+상대가 쓴 변화 기술을 반사해 그대로 되돌려줄 수 있다.
+Boosts Attack when hit by a Grass-type move.
+풀타입 기술로 공격받으면 데미지를 받지 않고 공격이 올라간다.
+Gives priority to a status move.
+변화 기술을 먼저 쓸 수 있다.
+Boosts certain moves' power in a sandstorm.
+날씨가 모래바람일 때 바위타입과 땅타입, 강철타입 기술의 위력이 올라간다.
+Inflicts damage to the Pokémon on contact.
+자신에게 접촉한 상대에게 철가시로 데미지를 준다.
+Changes the Pokémon's shape when HP is halved.
+HP가 절반 이하가 되면 모습이 변화한다.
+Boosts the accuracy of its allies and itself.
+자신과 같은 편의 명중률이 올라간다.
+Protects against attacks that limit move choices.
+자신과 같은 편으로 향하는 멘탈 공격을 막을 수 있다.
+Protects Grass-type allies from stat/status effects.
+같은 편의 풀타입 포켓몬은 능력이 떨어지지 않고 상태 이상도 되지 않는다.
+Restores HP as well when the Pokémon eats a Berry.
+나무열매를 먹으면 추가로 HP를 회복한다.
+It changes type to that of the move it's about to use.
+배틀에 나올 때마다 단 한 번 자신이 사용한 기술과 같은 타입으로 변화한다.
+Halves the damage from physical moves.
+상대로부터 받는 물리 기술의 데미지가 절반이 된다.
+Steals the held item of a Pokémon it hits.
+기술을 맞은 상대의 도구를 빼앗아 버린다.
+Protects the Pokémon from some ball and bomb moves.
+상대의 구슬이나 폭탄 등의 기술을 막을 수 있다.
+Sharply boosts Sp. Atk when a stat is lowered.
+상대에 의해 능력이 떨어지면 특수공격이 크게 올라간다.
+Boosts the power of biting moves.
+턱이 튼튼하여 무는 기술의 위력이 올라간다.
+Normal-type moves become Ice-type and powered up.
+노말타입의 기술이 얼음타입이 된다. 위력이 조금 올라간다.
+Prevents itself and allies from falling asleep.
+자신과 같은 편의 포켓몬이 잠들지 않게 된다.
+Changes between Blade and Shield Forme with attacks.
+공격 기술을 쓰면 블레이드폼으로 기술 킹실드를 쓰면 실드폼으로 변한다.
+Flying-type moves gain priority when its HP is full.
+HP가 꽉 찼을 때 비행타입의 기술을 먼저 쓸 수 있다.
+Powers up aura and pulse moves.
+파동 기술의 위력이 올라간다.
+Boosts the Defense stat on Grassy Terrain.
+그래스필드일 때 방어가 올라간다.
+Passes its held item to an ally that has used theirs.
+같은 편이 도구를 쓰면 자신이 지니고 있는 도구를 같은 편에게 건넨다.
+Powers up moves that make direct contact.
+상대에게 접촉하는 기술의 위력이 올라간다.
+Normal-type moves become Fairy-type and powered up.
+노말타입의 기술이 페어리타입이 된다. 위력이 조금 올라간다.
+Contact with it lowers the attacker's Speed stat.
+공격으로 자신에게 접촉한 상대의 스피드를 떨어뜨린다.
+Normal-type moves become Flying-type and power up.
+노말타입의 기술이 비행타입이 된다. 위력이 조금 올라간다.
+Parent and child each attacks.
+부모와 자식 2마리로 2번 공격할 수 있다.
+Powers up each Pokémon's Dark-type moves.
+전원의 악타입 기술이 강해진다.
+Powers up each Pokémon's Fairy-type moves.
+전원의 페어리타입 기술이 강해진다.
+Reverses "Aura" Abilities to weaken affected moves.
+오라의 효과를 역전시켜 위력을 떨어뜨린다.
+Changes the weather to nullify Fire-type moves.
+불꽃타입의 공격을 받지 않는 날씨로 만든다.
+Changes the weather to nullify Water-type moves.
+물타입의 공격을 받지 않는 날씨로 만든다.
+Alters weather to remove Flying-type's weaknesses.
+비행타입의 약점이 없어지는 날씨로 만든다.
+Boosts Defense when hit by an attack.
+공격을 받으면 방어가 올라간다.
+Cowardly switches out if its HP becomes half or less.
+HP가 절반이 되면 황급히 도망쳐서 지닌 포켓몬으로 돌아간다.
+Switches out if its HP becomes half or less.
+HP가 절반이 되면 위험을 회피하기 위해 지닌 포켓몬으로 돌아간다.
+Sharply ups Defense when hit by a Water-type move.
+물타입의 기술로 공격받으면 방어가 크게 올라간다.
+Its attacks are critical hits when it is poisoned.
+독 상태의 상대를 공격하면 반드시 급소에 맞는다.
+Its shell breaks if its HP becomes half or less.
+HP가 절반이 되면 껍질이 깨져 공격적으로 된다.
+Deals doubles damage to a target's replacement.
+교체로 나온 상대에게 2배 데미지로 공격할 수 있다.
+Weakens incoming Fire-type moves and prevents burns.
+자신을 향하는 불꽃타입 기술의 위력을 떨어뜨린다. 화상을 입지 않는다.
+Powers up Steel-type moves.
+강철타입 기술의 위력이 올라간다.
+Ups Sp. Atk if a hit makes its HP half or less.
+상대의 공격으로 HP가 절반이 되면 특수공격이 올라간다.
+Boosts the Pokémon's Speed stat in a hailstorm.
+날씨가 눈일 때 스피드가 올라간다.
+Uses moves without making contact with the target.
+모든 기술을 상대에게 접촉하지 않고 사용할 수 있다.
+Its sound-based moves become Water-type.
+모든 소리 기술이 물타입이 된다.
+Gives priority to a healing move.
+회복 기술을 먼저 사용할 수 있다.
+Normal-type moves become Electric-type and powered.
+노말타입 기술이 전기타입이 된다. 위력이 조금 올라간다.
+Doubles Speed on Electric Terrain.
+일렉트릭필드일 때 스피드가 2배가 된다.
+Forms a powerful school while it has a lot of HP.
+HP가 많을 때 무리 지어 강해진다. HP가 얼마 남지 않으면 무리는 뿔뿔이 흩어진다.
+Its shroud protects it from an attack just once.
+몸을 덮는 탈로 1번 공격을 막을 수 있다.
+Defeating a foe lets it become Ash-Greninja.
+상대를 쓰러뜨리면 트레이너와의 유대감이 깊어져서 자신의 공격, 특수공격, 스피드가 올라간다.
+Changes with other Cells if HP becomes half or less.
+HP가 절반이 되면 셀들이 응원하러 달려와 퍼펙트폼으로 모습이 변한다.
+It can poison Steel- and Poison-type targets.
+강철타입이나 독타입 포켓몬도 독 상태로 만들 수 있다.
+It's always drowsing, and attacks without waking.
+항상 비몽사몽 상태로 절대 깨지 않는다. 잠든 상태로 공격할 수 있다.
+Makes foes unable to use priority attacks.
+이쪽을 향한 선제 기술을 사용할 수 없게 한다.
+Damages an attacker that lands the finishing hit.
+상대에게 쓰러졌을 때 남아 있던 HP의 양만큼 상대에게 데미지를 준다.
+Repeats another Pokémon's dance move immediately.
+누군가 춤 기술을 쓰면 자신도 이어서 춤 기술을 쓸 수 있다.
+Powers up ally Pokémon's special moves.
+같은 편 특수 기술의 위력을 올린다.
+Resists contact damage but weaker to Fire-type.
+상대로부터 받은 접촉하는 기술의 데미지를 반감시키지만 불꽃타입 기술의 데미지는 2배가 된다.
+Boosts Sp. Atk each time a Pokémon faints.
+포켓몬이 기절할 때마다 특수공격이 올라간다.
+Contact with it lowers the attacker's Speed.
+공격으로 자신에게 접촉한 상대의 스피드를 떨어뜨린다.
+Copies the Ability of a defeated ally.
+쓰러진 같은 편의 특성을 이어받아 같은 특성이 된다.
+Boosts its best stat each time it deals a KO.
+상대를 기절시켰을 때 자신의 가장 높은 능력이 올라간다.
+Its type matches the memory disc it holds.
+Its type matches the memory disc it holds.
+Turns the ground into Electric Terrain.
+등장했을 때 일렉트릭필드를 사용한다.
+Turns the ground into Psychic Terrain.
+등장했을 때 사이코필드를 사용한다.
+Turns the ground into Misty Terrain.
+등장했을 때 미스트필드를 사용한다.
+Turns the ground into Grassy Terrain.
+등장했을 때 그래스필드를 사용한다.
+Resists damage while its HP is full.
+HP가 꽉 찼을 때 받는 데미지가 줄어든다.
+Powers up moves that are super-effective.
+효과가 굉장한 공격의 위력이 더욱 올라간다.
+Boosts Attack when entering a battle.
+처음 등장했을 때 공격이 올라간다.
+Boosts Defense when entering a battle.
+Boosts Defense when entering a battle.
+Retrieves the first thrown Poké Ball if it failed.
+도구를 지니고 있지 않은 경우 첫 번째로 던져서 실패한 몬스터볼을 주워 온다.
+Scatters Speed-lowering cotton fluff when hit.
+공격을 받으면 솜털을 흩뿌려서 자신을 제외한 모든 포켓몬의 스피드를 떨어뜨린다.
+This Pokémon's moves cannot be redirected.
+상대의 기술을 끌어모으는 특성이나 기술의 영향을 받지 않는다.
+Bounces back stat-lowering effects.
+자신이 받는 능력 다운 효과에 한해 되받아친다.
+Catches prey via Surf or Dive, spits it out when hit.
+파도타기나 다이빙을 쓰면 먹이를 물어 온다. 데미지를 받으면 먹이를 토해 내서 공격한다.
+Boosts Speed drastically if hit by a Fire or Water move.
+물타입이나 불꽃타입 기술로 공격받으면 스피드가 매우 크게 올라간다.
+Powers up own sound moves. Resists other sound moves.
+소리 기술의 위력이 올라간다. 상대로부터 받는 소리 기술의 데미지는 절반이 된다.
+Creates a sandstorm when hit by an attack.
+공격을 받으면 모래바람을 일으킨다.
+Halves the damage taken from special moves.
+얼음인분의 보호를 받아 특수공격으로 받는 데미지가 절반이 된다.
+Ripens Berries and doubles their effect.
+나무열매를 숙성시켜서 효과를 2배로 만든다.
+Blocks a physical hit, but the ice head breaks.
+물리공격을 머리의 얼음이 대신 맞아 주지만 모습도 바뀐다. 얼음은 눈이 내리면 원래대로 돌아온다.
+Just being next to the Pokémon powers up moves.
+옆에 있기만 해도 기술의 위력이 올라간다.
+Changes type depending on the terrain.
+Changes type depending on the terrain.
+On entering battle, clears effects of Reflect, etc.
+등장했을 때 상대와 같은 편의 빛의장막, 리플렉터, 오로라베일의 효과가 사라진다.
+Powers up ally Pokémon's Steel-type moves.
+같은 편의 강철타입 공격의 위력이 올라간다.
+Both Pokémon faint 3 turns after taking a contact hit.
+접촉하는 기술로 공격받으면 3턴 후에 양쪽 모두 기절한다. 교체되면 효과가 없어진다.
+Swaps Abilities with contact-making Pokémon.
+접촉하는 기술로 공격해 온 포켓몬과 특성을 바꾼다.
+Boosts Attack, but allows only one move to be used.
+공격이 올라가지만 처음에 선택한 기술 외에는 쓸 수 없게 된다.
+Nullifies the effects of all other Abilities.
+화학변화가스를 가진 포켓몬이 배틀에 나와 있으면 모든 포켓몬이 가진 특성의 효과가 사라지거나 발동하지 않게 된다.
+Protects the Pokémon and its allies from poisoning.
+자신과 같은 편은 독 상태가 되지 않는다.
+Changes between Full Belly and Hangry Mode each turn.
+턴이 끝날 때마다 배부른 모양과 배고픈 모양으로 번갈아서 모습을 바꾼다.
+Enables the Pokémon to move first occasionally.
+상대보다 먼저 행동할 수도 있다.
+The Pokémon's contact moves ignore protections.
+상대에게 접촉하는 기술을 사용하면 방어의 효과를 무시하고 공격할 수 있다.
+Removes all allies' stat changes on joining battle.
+등장했을 때 조개껍질에서 약을 흩뿌려서 같은 편의 능력 변화를 원래대로 되돌린다.
+Powers up Electric-type moves.
+전기타입 기술의 위력이 올라간다.
+Powers up Dragon-type moves.
+드래곤타입 기술의 위력이 올라간다.
+When knocking out a target, raises Attack.
+상대를 쓰러뜨리면 차가운 울음소리를 내면서 공격이 올라간다.
+When knocking out a target, raises Sp. Atk.
+상대를 쓰러뜨리면 무서운 울음소리를 내면서 특수공격이 올라간다.
+Combines Unnerve and Chilling Neigh Abilities.
+버드렉스의 긴장감과 블리자포스의 백의울음 두 가지 특성을 겸비한다.
+Combines Unnerve and Grim Neigh Abilities.
+버드렉스의 긴장감과 레이스포스의 흑의울음 두 가지 특성을 겸비한다.

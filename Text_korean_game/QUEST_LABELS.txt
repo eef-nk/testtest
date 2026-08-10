@@ -1,0 +1,8 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[QUEST_LABELS]
+lab1
+lab1
+lab2
+lab2

@@ -1,0 +1,1526 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[MOVE_NAMES]
+Megahorn
+메가혼
+Attack Order
+공격지령
+Bug Buzz
+벌레의야단법석
+First Impression
+만나자마자
+Pollen Puff
+꽃가루경단
+Leech Life
+흡혈
+Lunge
+덤벼들기
+X-Scissor
+시저크로스
+Signal Beam
+시그널빔
+Skitter Smack
+엄습하는일격
+U-turn
+유턴
+Steamroller
+하드롤러
+Bug Bite
+벌레먹기
+Silver Wind
+은빛바람
+Fell Stinger
+마지막일침
+Struggle Bug
+벌레의저항
+Fury Cutter
+연속자르기
+Pin Missile
+바늘미사일
+Twineedle
+더블니들
+Infestation
+엉겨붙기
+Defend Order
+방어지령
+Heal Order
+회복지령
+Powder
+분진
+Quiver Dance
+나비춤
+Rage Powder
+분노가루
+Spider Web
+거미집
+Sticky Web
+끈적끈적네트
+String Shot
+실뿜기
+Tail Glow
+반딧불
+Hyperspace Fury
+이차원러시
+Foul Play
+속임수
+Fiery Wrath
+타오르는분노
+Darkest Lariat
+DD래리어트
+Night Daze
+나이트버스트
+Crunch
+깨물어부수기
+Dark Pulse
+악의파동
+False Surrender
+사죄의찌르기
+Jaw Lock
+물고버티기
+Throat Chop
+지옥찌르기
+Wicked Blow
+암흑강타
+Lash Out
+분풀이
+Night Slash
+깜짝베기
+Sucker Punch
+기습
+Knock Off
+탁쳐서떨구기
+Assurance
+승부굳히기
+Bite
+물기
+Brutal Swing
+세차게휘두르기
+Feint Attack
+속여때리기
+Faint Attack
+속여떼리기
+Thief
+도둑질
+Snarl
+바크아웃
+Payback
+보복
+Pursuit
+따라가때리기
+Beat Up
+집단구타
+Fling
+내던지기
+Power Trip
+기어오르기
+Punishment
+혼내기
+Dark Void
+다크홀
+Embargo
+금제
+Fake Tears
+거짓울음
+Flatter
+부추기기
+Hone Claws
+손톱갈기
+Memento
+추억의선물
+Nasty Plot
+나쁜음모
+Obstruct
+블로킹
+Parting Shot
+막말내뱉기
+Quash
+순서미루기
+Snatch
+가로채기
+Switcheroo
+바꿔치기
+Taunt
+도발
+Topsy-Turvy
+뒤집어엎기
+Torment
+트집
+Eternabeam
+무한다이빔
+Dragon Energy
+드래곤에너지
+Roar of Time
+시간의포효
+Draco Meteor
+용성군
+Outrage
+역린
+Clanging Scales
+스케일노이즈
+Core Enforcer
+코어퍼니셔
+Dragon Rush
+드래곤다이브
+Dynamax Cannon
+다이맥스포
+Spacial Rend
+공간절단
+Dragon Hammer
+드래곤해머
+Dragon Pulse
+용의파동
+Dragon Claw
+드래곤클로
+Breaking Swipe
+와이드브레이커
+Dragon Breath
+용의숨결
+DragonBreath
+용의숨걸
+Dragon Tail
+드래곤테일
+Dragon Darts
+드래곤애로
+Dual Chop
+더블촙
+Twister
+회오리
+Scale Shot
+스케일샷
+Dragon Rage
+용의분노
+Clangorous Soul
+소울비트
+Dragon Dance
+용의춤
+Bolt Strike
+뇌격
+Volt Tackle
+볼트태클
+Zap Cannon
+전자포
+Aura Wheel
+오라휠
+Thunder
+번개
+Fusion Bolt
+크로스썬더
+Plasma Fists
+플라스마피스트
+Thunderbolt
+10만볼트
+Wild Charge
+와일드볼트
+Bolt Beak
+전격부리
+Discharge
+방전
+Overdrive
+오버드라이브
+Thunder Cage
+썬더프리즌
+Zing Zap
+찌리리따끔따끔
+Thunder Punch
+번개펀치
+ThunderPunch
+번게펀치
+Rising Voltage
+라이징볼트
+Volt Switch
+볼트체인지
+Parabolic Charge
+파라볼라차지
+Spark
+스파크
+Thunder Fang
+번개엄니
+Shock Wave
+전격파
+Electroweb
+일렉트릭네트
+Charge Beam
+차지빔
+Thunder Shock
+전기쇼크
+ThunderShock
+젼기쇼크
+Nuzzle
+볼부비부비
+Electro Ball
+일렉트릭볼
+Charge
+충전
+Eerie Impulse
+괴전파
+Electric Terrain
+일렉트릭필드
+Electrify
+송전
+Ion Deluge
+플라스마샤워
+Magnet Rise
+전자부유
+Magnetic Flux
+자기장조작
+Thunder Wave
+전기자석파
+Light of Ruin
+파멸의빛
+Fleur Cannon
+플뢰르캐논
+Misty Explosion
+미스트버스트
+Moonblast
+문포스
+Play Rough
+치근거리기
+Strange Steam
+원더스팀
+Dazzling Gleam
+매지컬샤인
+Spirit Break
+소울크래시
+Draining Kiss
+드레인키스
+Disarming Voice
+차밍보이스
+Fairy Wind
+요정의바람
+Nature's Madness
+자연의분노
+Aromatic Mist
+아로마미스트
+Baby-Doll Eyes
+초롱초롱눈동자
+Charm
+애교부리기
+Crafty Shield
+트릭가드
+Decorate
+데코레이션
+Fairy Lock
+페어리록
+Floral Healing
+플라워힐
+Flower Shield
+플라워가드
+Geomancy
+지오컨트롤
+Misty Terrain
+미스트필드
+Moonlight
+달빛
+Sweet Kiss
+천사의키스
+Focus Punch
+힘껏펀치
+Meteor Assault
+스타어설트
+High Jump Kick
+무릎차기
+Hi Jump Kick
+무릅차기
+Close Combat
+인파이트
+Focus Blast
+기합구슬
+Superpower
+엄청난힘
+Cross Chop
+크로스촙
+Dynamic Punch
+폭발펀치
+DynamicPunch
+폭팔펀치
+Flying Press
+플라잉프레스
+Hammer Arm
+암해머
+Jump Kick
+점프킥
+Sacred Sword
+성스러운칼
+Thunderous Kick
+천둥차기
+Secret Sword
+신비의칼
+Sky Uppercut
+스카이어퍼
+Aura Sphere
+파동탄
+Body Press
+바디프레스
+Submission
+지옥의바퀴
+Brick Break
+깨트리기
+Drain Punch
+드레인펀치
+Vital Throw
+받아던지기
+Wake-Up Slap
+잠깨움뺨치기
+Low Sweep
+로킥
+Circle Throw
+업어후리기
+Force Palm
+발경
+Revenge
+리벤지
+Rolling Kick
+돌려차기
+Storm Throw
+배대뒤치기
+Karate Chop
+태권당수
+Mach Punch
+마하펀치
+Power-Up Punch
+그로우펀치
+Rock Smash
+바위깨기
+Vacuum Wave
+진공파
+Double Kick
+두번차기
+Arm Thrust
+손바닥치기
+Triple Kick
+트리플킥
+Counter
+카운터
+Final Gambit
+목숨걸기
+Low Kick
+안다리걸기
+Reversal
+기사회생
+Seismic Toss
+지구던지기
+Bulk Up
+벌크업
+Coaching
+코칭
+Detect
+판별
+Mat Block
+마룻바닥세워막기
+No Retreat
+배수의진
+Octolock
+문어굳히기
+Quick Guard
+패스트가드
+V-create
+V제너레이트
+Blast Burn
+블라스트번
+Eruption
+분화
+Mind Blown
+깜짝헤드
+Shell Trap
+트랩셸
+Blue Flare
+푸른불꽃
+Burn Up
+불사르기
+Overheat
+오버히트
+Flare Blitz
+플레어드라이브
+Pyro Ball
+화염볼
+Fire Blast
+불대문자
+Fusion Flare
+크로스플레임
+Inferno
+연옥
+Magma Storm
+마그마스톰
+Sacred Fire
+성스러운불꽃
+Searing Shot
+화염탄
+Heat Wave
+열풍
+Flamethrower
+화염방사
+Blaze Kick
+블레이즈킥
+Fiery Dance
+불꽃춤
+Fire Lash
+불꽃채찍
+Fire Pledge
+불꽃의맹세
+Lava Plume
+분연
+Fire Punch
+불꽃펀치
+Mystical Fire
+매지컬플레임
+Burning Jealousy
+질투의불꽃
+Flame Burst
+불꽃튀기기
+Fire Fang
+불꽃엄니
+Flame Wheel
+화염바퀴
+Incinerate
+불태우기
+Flame Charge
+니트로차지
+Ember
+불꽃세례
+Fire Spin
+회오리불꽃
+Heat Crash
+히트스탬프
+Sunny Day
+쾌청
+Will-O-Wisp
+도깨비불
+Sky Attack
+불새
+Brave Bird
+브레이브버드
+Dragon Ascent
+화룡점정
+Hurricane
+폭풍
+Aeroblast
+에어롤블라스트
+Beak Blast
+부리캐논
+Fly
+공중날기
+Bounce
+뛰어오르기
+Drill Peck
+회전부리
+Oblivion Wing
+데스윙
+Air Slash
+에어슬래시
+Chatter
+수다
+Aerial Ace
+제비반환
+Air Cutter
+에어커터
+Pluck
+쪼아대기
+Sky Drop
+프리폴
+Wing Attack
+날개치기
+Acrobatics
+애크러뱃
+Dual Wingbeat
+더블윙
+Gust
+바람일으키기
+Peck
+쪼기
+Defog
+안개제거
+Feather Dance
+깃털댄스
+FeatherDance
+깃털덴스
+Mirror Move
+따라하기
+Roost
+날개쉬기
+Tailwind
+순풍
+Astral Barrage
+아스트랄비트
+Shadow Force
+섀도다이브
+Poltergeist
+폴터가이스트
+Moongeist Beam
+섀도레이
+Phantom Force
+고스트다이브
+Spectral Thief
+섀도스틸
+Shadow Bone
+섀도본
+Shadow Ball
+섀도볼
+Spirit Shackle
+그림자꿰매기
+Shadow Claw
+섀도클로
+Hex
+병상첨병
+Ominous Wind
+괴상한바람
+Shadow Punch
+섀도펀치
+Shadow Sneak
+야습
+Astonish
+놀래키기
+Lick
+핥기
+Night Shade
+나이트헤드
+Confuse Ray
+이상한빛
+Curse
+저주
+Destiny Bond
+길동무
+Grudge
+원념
+Nightmare
+악몽
+Spite
+원한
+Trick-or-Treat
+핼러윈
+Frenzy Plant
+하드플랜트
+Leaf Storm
+리프스톰
+Solar Blade
+솔라블레이드
+Petal Dance
+꽃잎댄스
+Power Whip
+파워휩
+Seed Flare
+시드플레어
+Solar Beam
+솔라빔
+Wood Hammer
+우드해머
+Energy Ball
+에너지볼
+Leaf Blade
+리프블레이드
+Petal Blizzard
+꽃보라
+Apple Acid
+사과산
+Drum Beating
+드럼어택
+Grass Pledge
+풀의맹세
+Grav Apple
+G의힘
+Seed Bomb
+씨폭탄
+Giga Drain
+기가드레인
+Horn Leech
+우드혼
+Grassy Glide
+그래스슬라이드
+Trop Kick
+트로피컬킥
+Leaf Tornado
+그래스믹서
+Magical Leaf
+매지컬리프
+Needle Arm
+바늘팔
+Razor Leaf
+잎날가르기
+Vine Whip
+덩쿨채찍
+Branch Poke
+가지찌르기
+Leafage
+나뭇잎
+Mega Drain
+메가드레인
+Snap Trap
+집게덫
+Bullet Seed
+씨기관총
+Absorb
+흡수
+Grass Knot
+풀묶기
+Aromatherapy
+아로마테라피
+Cotton Guard
+코튼가드
+Cotton Spore
+목화포자
+Forest's Curse
+숲의저주
+Grass Whistle
+풀피리
+GrassWhistle
+퓰피리
+Grassy Terrain
+그래스필드
+Ingrain
+뿌리박기
+Jungle Healing
+정글힐
+Leech Seed
+씨뿌리기
+Sleep Powder
+수면가루
+Spiky Shield
+니들가드
+Spore
+버섯포자
+Strength Sap
+힘흡수
+Stun Spore
+저리가루
+Synthesis
+광합성
+Worry Seed
+고민씨
+Precipice Blades
+단애의칼
+Earthquake
+지진
+High Horsepower
+10만마력
+Earth Power
+대지의힘
+Land's Wrath
+그라운드포스
+Thousand Arrows
+사우전드애로
+Thousand Waves
+사우전드웨이브
+Dig
+구멍파기
+Drill Run
+드릴라이너
+Stomping Tantrum
+분함의발구르기
+Scorching Sands
+열사의대지
+Bone Club
+뼈다귀치기
+Mud Bomb
+진흙폭탄
+Bulldoze
+땅고르기
+Mud Shot
+머드샷
+Bonemerang
+뼈다귀부메랑
+Sand Tomb
+모래지옥
+Bone Rush
+본러시
+Mud-Slap
+진흙뿌리기
+Fissure
+땅가르기
+Magnitude
+매그니튜드
+Mud Sport
+흙놀이
+Rototiller
+Rototiller
+Sand Attack
+모래뿌리기
+Sand-Attack
+모레뿌리기
+Shore Up
+모래모으기
+Spikes
+압정뿌리기
+Freeze Shock
+프리즈볼트
+Ice Burn
+콜드플레어
+Glacial Lance
+블리자드랜스
+Blizzard
+눈보라
+Ice Hammer
+아이스해머
+Ice Beam
+냉동빔
+Icicle Crash
+고드름떨구기
+Ice Punch
+냉동펀치
+Freeze-Dry
+프리즈드라이
+Aurora Beam
+오로라빔
+Glaciate
+얼어붙은세계
+Ice Fang
+얼음엄니
+Avalanche
+눈사태
+Frost Breath
+얼음숨결
+Icy Wind
+얼어붙은바람
+Ice Shard
+얼음뭉치
+Powder Snow
+눈싸라기
+Ice Ball
+아이스볼
+Icicle Spear
+고드름침
+Triple Axel
+트리플악셀
+Sheer Cold
+절대영도
+Aurora Veil
+오로라베일
+Hail
+싸라기눈
+Haze
+흑안개
+Mist
+흰안개
+Explosion
+대폭발
+Self-Destruct
+자폭
+Selfdestruct
+자푝
+Giga Impact
+기가임팩트
+Hyper Beam
+파괴광선
+Boomburst
+폭음파
+Last Resort
+비장의무기
+Skull Bash
+로켓박치기
+Double-Edge
+이판사판태클
+Head Charge
+아프로브레이크
+Mega Kick
+메가톤킥
+Multi-Attack
+멀티어택
+Techno Blast
+테크노버스터
+Thrash
+난동부리기
+Egg Bomb
+알폭탄
+Judgment
+심판의뭉치
+Hyper Voice
+하이퍼보이스
+Revelation Dance
+잠재댄스
+Rock Climb
+록클라임
+Take Down
+돌진
+Uproar
+소란피기
+Body Slam
+누르기
+Extreme Speed
+신속
+ExtremeSpeed
+신쇽
+Hyper Fang
+필살앞니
+Mega Punch
+메가톤펀치
+Razor Wind
+칼바람
+Slam
+힘껏치기
+Strength
+괴력
+Tri Attack
+트라이어택
+Crush Claw
+브레이크클로
+Relic Song
+옛노래
+Chip Away
+야금야금
+Dizzy Punch
+잼잼펀치
+Facade
+객기
+Headbutt
+박치기
+Retaliate
+원수갚기
+Secret Power
+비밀의힘
+Slash
+베어가르기
+Smelling Salts
+정신차리기
+SmellingSalt
+정신챠리기
+Horn Attack
+뿔찌르기
+Stomp
+짓밟기
+Covet
+탐내기
+Hidden Power
+잠재파워
+Round
+돌림노래
+Swift
+스피드스타
+Vise Grip
+찝기
+Vice Grip
+찝개
+ViceGrip
+찝게
+Cut
+풀베기
+Rapid Spin
+고속스핀
+Snore
+코골기
+Terrain Pulse
+대지의파동
+Weather Ball
+웨더볼
+Echoed Voice
+에코보이스
+Fake Out
+속이기
+False Swipe
+칼등치기
+Hold Back
+적당히손봐주기
+Pay Day
+고양이돈받기
+Pound
+막치기
+Quick Attack
+전광석화
+Scratch
+할퀴기
+Tackle
+몸통박치기
+Double Hit
+더블어택
+Feint
+페인트
+Tail Slap
+스위프뺨치기
+Rage
+분노
+Spike Cannon
+가시대포
+Comet Punch
+연속펀치
+Fury Swipes
+마구할퀴기
+Barrage
+구슬던지기
+Bind
+조이기
+Double Slap
+연속뺨치기
+DoubleSlap
+연속빰치기
+Fury Attack
+마구찌르기
+Wrap
+김밥말이
+Constrict
+휘감기
+Bide
+참기
+Crush Grip
+묵사발
+Endeavor
+죽기살기
+Flail
+바둥바둥
+Frustration
+화풀이
+Guillotine
+가위자르기
+Horn Drill
+뿔드릴
+Natural Gift
+자연의은혜
+Present
+프레젠트
+Return
+은혜갚기
+Sonic Boom
+소닉붐
+SonicBoom
+소닉븀
+Spit Up
+토해내기
+Super Fang
+분노의앞니
+Trump Card
+마지막수단
+Wring Out
+쥐어짜기
+Acupressure
+경혈찌르기
+After You
+당신먼저
+Assist
+조수
+Attract
+헤롱헤롱
+Baton Pass
+배턴터치
+Belly Drum
+배북
+Bestow
+기프트패스
+Block
+블록
+Camouflage
+보호색
+Captivate
+유혹
+Celebrate
+축하
+Confide
+비밀이야기
+Conversion
+텍스처
+Conversion 2
+텍스처2
+Copycat
+흉내쟁이
+Court Change
+코트체인지
+Defense Curl
+웅크리기
+Disable
+사슬묶기
+Double Team
+그림자분신
+Encore
+앙코르
+Endure
+버티기
+Entrainment
+동료만들기
+Flash
+플래시
+Focus Energy
+기충전
+Follow Me
+날따름
+Foresight
+꿰뚫어보기
+Glare
+뱀눈초리
+Growl
+울음소리
+Growth
+성장
+Happy Hour
+해피타임
+Harden
+단단해지기
+Heal Bell
+치료방울
+Helping Hand
+도우미
+Hold Hands
+손에손잡기
+Howl
+멀리짖기
+Laser Focus
+예민해지기
+Leer
+째려보기
+Lock-On
+록온
+Lovely Kiss
+악마의키스
+Lucky Chant
+주술
+Me First
+선취
+Mean Look
+검은눈빛
+Metronome
+손가락흔들기
+Milk Drink
+우유마시기
+Mimic
+흉내내기
+Mind Reader
+마음의눈
+Minimize
+작아지기
+Morning Sun
+아침햇살
+Nature Power
+자연의힘
+Noble Roar
+부르짖기
+Odor Sleuth
+냄새구별
+Pain Split
+아픔나누기
+Perish Song
+멸망의노래
+Play Nice
+친해지기
+Protect
+방어
+Psych Up
+자기암시
+Recover
+HP회복
+Recycle
+리사이클
+Reflect Type
+미러타입
+Refresh
+리프레시
+Roar
+울부짖기
+Safeguard
+신비의부적
+Scary Face
+겁나는얼굴
+Screech
+싫은소리
+Sharpen
+각지기
+Shell Smash
+껍질깨기
+Simple Beam
+심플빔
+Sing
+노래하기
+Sketch
+스케치
+Slack Off
+게으름피우기
+Sleep Talk
+잠꼬대
+Smokescreen
+연막
+SmokeScreen
+연먁
+Soft-Boiled
+알낳기
+Softboiled
+알낫기
+Splash
+튀어오르기
+Spotlight
+스포트라이트
+Stockpile
+비축하기
+Stuff Cheeks
+볼가득넣기
+Substitute
+대타출동
+Supersonic
+초음파
+Swagger
+뽐내기
+Swallow
+꿀꺽
+Sweet Scent
+달콤한향기
+Swords Dance
+칼춤
+Tail Whip
+꼬리흔들기
+Tearful Look
+눈물그렁그렁
+Teatime
+다과회
+Teeter Dance
+흔들흔들댄스
+Tickle
+간지르기
+Transform
+변신
+Whirlwind
+날려버리기
+Wish
+희망사항
+Work Up
+분발
+Yawn
+하품
+Belch
+트림
+Gunk Shot
+더스트슈트
+Sludge Wave
+오물웨이브
+Shell Side Arm
+셸암즈
+Sludge Bomb
+오물폭탄
+Poison Jab
+독찌르기
+Cross Poison
+크로스포이즌
+Sludge
+오물공격
+Venoshock
+베놈쇼크
+Clear Smog
+클리어스모그
+Poison Fang
+맹독엄니
+Poison Tail
+포이즌테일
+Acid
+용해액
+Acid Spray
+애시드봄
+Smog
+스모그
+Poison Sting
+독침
+Acid Armor
+녹기
+Baneful Bunker
+토치카
+Coil
+똬리틀기
+Corrosive Gas
+부식가스
+Gastro Acid
+위액
+Poison Gas
+독가스
+Poison Powder
+독가루
+PoisonPowder
+독갸루
+Purify
+정화
+Toxic
+맹독
+Toxic Spikes
+독압정
+Toxic Thread
+독실
+Venom Drench
+베놈트랩
+Prismatic Laser
+프리즘레이저
+Psycho Boost
+사이코부스트
+Future Sight
+미래예지
+Synchronoise
+싱크로노이즈
+Dream Eater
+꿈먹기
+Photon Geyser
+포톤가이저
+Psystrike
+사이코브레이크
+Freezing Glare
+얼어붙는시선
+Psychic
+사이코키네시스
+Psychic Fangs
+사이코팽
+Eerie Spell
+섬뜩한주문
+Expanding Force
+와이드포스
+Extrasensory
+신통력
+Hyperspace Hole
+이차원홀
+Psyshock
+사이코쇼크
+Zen Headbutt
+사념의박치기
+Luster Purge
+러스터퍼지
+Mist Ball
+미스트볼
+Psycho Cut
+사이코커터
+Psybeam
+환상빔
+Heart Stamp
+하트스탬프
+Confusion
+염동력
+Stored Power
+어시스트파워
+Mirror Coat
+미러코트
+Psywave
+사이코웨이브
+Agility
+고속이동
+Ally Switch
+사이드체인지
+Amnesia
+망각술
+Barrier
+배리어
+Calm Mind
+명상
+Cosmic Power
+코스믹파워
+Gravity
+중력
+Guard Split
+가드셰어
+Guard Swap
+가드스왑
+Heal Block
+회복봉인
+Heal Pulse
+치유파동
+Healing Wish
+치유소원
+Heart Swap
+하트스왑
+Hypnosis
+최면술
+Imprison
+봉인
+Instruct
+지휘
+Kinesis
+숟가락휘기
+Light Screen
+빛의장막
+Lunar Dance
+초승달춤
+Magic Coat
+매직코트
+Magic Powder
+마법가루
+Magic Room
+매직룸
+Meditate
+요가포즈
+Miracle Eye
+미라클아이
+Power Split
+파워셰어
+Power Swap
+파워스왑
+Power Trick
+파워트릭
+Psychic Terrain
+사이코필드
+Psycho Shift
+사이코시프트
+Reflect
+리플렉터
+Rest
+잠자기
+Role Play
+역할
+Skill Swap
+스킬스왑
+Speed Swap
+스피드스왑
+Telekinesis
+텔레키네시스
+Teleport
+순간이동
+Trick
+트릭
+Trick Room
+트릭룸
+Wonder Room
+원더룸
+Head Smash
+양날박치기
+Rock Wrecker
+암석포
+Meteor Beam
+메테오빔
+Diamond Storm
+다이아스톰
+Stone Edge
+스톤에지
+Power Gem
+파워젬
+Rock Slide
+스톤샤워
+Ancient Power
+원시의힘
+AncientPower
+원시에힘
+Rock Tomb
+암석봉인
+Rock Throw
+돌떨구기
+Smack Down
+떨어뜨리기
+Accelerock
+액셀록
+Rollout
+구르기
+Rock Blast
+록블라스트
+Rock Polish
+록커트
+Sandstorm
+모래바람
+Stealth Rock
+스텔스록
+Tar Shot
+타르샷
+Wide Guard
+와이드가드
+Doom Desire
+파멸의소원
+Steel Beam
+철제광선
+Steel Roller
+아이언롤러
+Behemoth Bash
+거수탄
+Behemoth Blade
+거수참
+Iron Tail
+아이언테일
+Sunsteel Strike
+메테오드라이브
+Meteor Mash
+코멧펀치
+Anchor Shot
+앵커샷
+Flash Cannon
+러스터캐논
+Iron Head
+아이언헤드
+Smart Strike
+스마트혼
+Steel Wing
+강철날개
+Double Iron Bash
+더블펀처
+Mirror Shot
+미러샷
+Magnet Bomb
+마그넷봄
+Gear Grind
+기어소서
+Metal Claw
+메탈클로
+Bullet Punch
+불릿펀치
+Gyro Ball
+자이로볼
+Heavy Slam
+헤비봄버
+Metal Burst
+메탈버스트
+Autotomize
+바디퍼지
+Gear Up
+어시스트기어
+Iron Defense
+철벽
+King's Shield
+킹실드
+Metal Sound
+금속음
+Shift Gear
+기어체인지
+Hydro Cannon
+하이드로캐논
+Water Spout
+해수스파우팅
+Hydro Pump
+하이드로펌프
+Origin Pulse
+근원의파동
+Steam Eruption
+스팀버스트
+Crabhammer
+집게해머
+Aqua Tail
+아쿠아테일
+Muddy Water
+탁류
+Sparkling Aria
+물거품아리아
+Surf
+파도타기
+Fishious Rend
+아가미물기
+Liquidation
+아쿠아브레이크
+Dive
+다이빙
+Scald
+열탕
+Snipe Shot
+노려맞히기
+Water Pledge
+물의맹세
+Waterfall
+폭포오르기
+Razor Shell
+셸블레이드
+Brine
+소금물
+Bubble Beam
+거품광선
+BubbleBeam
+거퓸광선
+Octazooka
+대포무노포
+Flip Turn
+퀵턴
+Water Pulse
+물의파동
+Aqua Jet
+아쿠아제트
+Bubble
+거품
+Water Gun
+물대포
+Clamp
+껍질끼우기
+Whirlpool
+바다회오리
+Surging Strikes
+수류연타
+Water Shuriken
+물수리검
+Aqua Ring
+아쿠아링
+Life Dew
+생명의물방울
+Rain Dance
+비바라기
+Soak
+물붓기
+Water Sport
+물놀이
+Withdraw
+껍질에숨기

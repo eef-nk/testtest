@@ -1,0 +1,640 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ITEM_DESCRIPTIONS]
+가라르지방의 신비한 입자를 응축해넣은 용기. 지니게 하면 다이맥스를 할 수 있다.
+가라르지방의 신비한 입자를 응축해넣은 용기. 지니게 하면 다이맥스를 할 수 있다.
+팔데아지방의 신비한 크리스탈을 응집한 것. 지니게 하면 테라스탈을 할 수 있다.
+팔데아지방의 신비한 크리스탈을 응집한 것. 지니게 하면 테라스탈을 할 수 있다.
+A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon.
+조각내면 예리하게 날이 서는 유리 같은 성질을 띠는 검은 돌. 어떤 포켓몬이 좋아하는 물건이다.
+A block of muddy material that is for fuel. It’s loved by a certain Pokémon.
+진흙 같은 석탄 덩어리. 말리면 연료로도 쓸 수 있다. 어떤 포켓몬이 좋아하는 물건이다.
+A string exuding a mysterious energy of connection. It’s loved by certain Pokémon.
+모종의 유대감이 느껴지는 신비한 에너지가 담긴 끈. 어떤 포켓몬들이 좋아하는 물건이다.
+When held by Dialga, this large, glowing gem wells with power and allows the Pokémon to change form.
+눈부시게 빛나는 큰 구슬. 디아루가에게 사용하면 힘이 넘쳐서 모습이 바뀐다.
+When held by Palkia, this large, glowing orb wells with power and allows the Pokémon to change form.
+눈부시게 빛나는 큰 구슬. 펄기아에게 사용하면 힘이 넘쳐서 모습이 바뀐다.
+A stone tablet to be held by a certain Pokémon. It the holder the power of every type there is.
+만물의 힘이 깃든 석판. 특정 포켓몬에게 사용하면 모든 타입의 힘을 얻는다.
+An item to be held by a Pokémon. It is a stone tablet that boosts the power of Normal-type moves.
+노말타입의 석판. 어느 포켓몬에게 사용하면 노말의 힘을 얻는다.
+A Berry that can be fed to a Pokémon to restore its PP.
+포켓몬에게 먹이면 PP를 회복하는 열매.
+When held by Giratina, this large, glowing gem wells with power and allows the Pokémon to change form.
+눈부시게 빛나는 큰 구슬. 기라티나에게 사용하면 힘이 넘쳐서 모습이 바뀐다.
+A mysterious ball that can be thrown at wild Pokémon in order to catch them.
+A mysterious ball that can be thrown at wild Pokémon in order to catch them.
+A mysterious ball that provides a higher success catch rate than a standard Poké Ball.
+A mysterious ball that provides a higher success catch rate than a standard Poké Ball.
+A mysterious ball that provides an even higher success catch rate than a Great Ball does.
+A mysterious ball that provides an even higher success catch rate than a Great Ball does.
+A ball that flies fast and true ideal for catching nimble Pokémon or Pokémon that fly high in the air.
+A ball that flies fast and true ideal for catching nimble Pokémon or Pokémon that fly high in the air.
+An improvement on the original Feather Ball design. It has a higher success rate than the Feather Ball.
+An improvement on the original Feather Ball design. It has a higher success rate than the Feather Ball.
+The ultimate iteration of the Feather Ball. It has an even higher success rate than the Wing Ball does.
+The ultimate iteration of the Feather Ball. It has an even higher success rate than the Wing Ball does.
+A ball that is too heavy to throw, but it is highly effective to an unsuspecting Pokémon.
+A ball that is too heavy to throw, but it is highly effective to an unsuspecting Pokémon.
+An improvement on the original Heavy Ball design. It has a higher success rate than the Heavy Ball.
+An improvement on the original Heavy Ball design. It has a higher success rate than the Heavy Ball.
+The ultimate iteration of the Heavy Ball. It has an even higher success rate than the Leaden Ball does.
+The ultimate iteration of the Heavy Ball. It has an even higher success rate than the Leaden Ball does.
+An irreplicable Poké Ball that was once used to catch the frenzied Pokémon at the Temple of Sinnoh.
+An irreplicable Poké Ball that was once used to catch the frenzied Pokémon at the Temple of Sinnoh.
+A strange looking Poke Ball that arrived from the past Sinnoh.
+과거의 신오지방에서 온 기묘하게 생긴 몬스터볼.
+A peculiar set of armor that can make a certain Pokémon evolve. Auspicious wishes live within it.
+어느 특정 포켓몬을 진화시키는 이상한 갑옷. 축복의 감정이 담겨 있다.
+A peculiar set of armor that can make a certain Pokémon evolve. Malicious will lurks within it.
+어느 특정 포켓몬을 진화시키는 이상한 갑옷. 저주의 감정이 담겨 있다.
+A scroll that evolves certain Pokémon. Written on it are the true secrets of the path of darkness.
+어느 특정 포켓몬을 진화시키는 이상한 족자. 악의 오의가 적혀 있다.
+A scroll that evolves certain Pokémon. Written on it are the true secrets of the path of water.
+어느 특정 포켓몬을 진화시키는 이상한 족자. 물의 오의가 적혀 있다.
+A shard of what appears to be an old blade of some sort. It is held only by a head of certain Pokémon group.
+오래된 날붙이로 보이는 조각. 자망칼 무리를 통솔하는 절각참만이 소유하고 있다.
+An item to be held by Pokémon with certain Abilities. It boosts the strength of the Pokémon.
+에너지가 가득한 캡슐. 어떤 특성을 가진 포켓몬에게 지니게 하면 그 힘을 증폭시킨다.
+An item to be held by a Pokémon. This shield protects the holder from having its Ability changed by others.
+귀엽고 개성적인 방패. 지니게 하면 상대에 의해 특성이 바뀌지 않는다.
+An item to be held by a Pokémon. It protects the holder from having its stats lowered.
+투명하고 빛나는 참. 지니게 하면 상대의 기술이나 특성으로 능력이 떨어지지 않는다.
+An item to be held by a Pokémon. This herb will allow the holder to mirror an opponent's stat increases once.
+지니게 한 포켓몬은 한 번에 의해 상대의 능력이 올랐을 때 흉내 내어 똑같이 능력을 올린다.
+An item to be held by a Pokémon. It boosts the holder's punching moves and prevents direct contact.
+주먹을 보호하는 글러브. 지니게 하면 펀치 기술의 위력이 오르고 상대에게 접촉하지 않는 펀치가 된다.
+An item to be held by a Pokémon. It conceals the holder, protecting it from move's additional effects.
+상대의 눈을 속이는 후드 달린 망토. 지니게 하면 몸을 숨겨서 기술의 추가 효과를 받지 않게 된다.
+An item to be held by a Pokémon. It ensures the holder's multistrike moves hit more times.
+좋은 눈만 나오는 주사위. 지니게 하고 연속 기술을 사용하면 많은 횟수로 기술을 사용할 수 있다.
+An item that accidentally dropped by a Pokémon. It seems that Gimmighoul treasure and hoard these.
+포켓몬이 우연히 떨어뜨린 유실물. 모으령이 소중하게 모으고 있다.
+A small and rare bamboo shoot. It's quite popular with a certain class of gourmands.
+A small and rare bamboo shoot. It's quite popular with a certain class of gourmands.
+A large and rare bamboo shoot. It's extremely popular with a certain class of gourmands.
+A large and rare bamboo shoot. It's extremely popular with a certain class of gourmands.
+The latest model of smartphone. A Rotom lives within it, and it can be used to run all sorts of handy apps.
+The latest model of smartphone. A Rotom lives within it, and it can be used to run all sorts of handy apps.
+A record of the Heath's expedition on the Great Crater of Paldea. It has the name "Sada" written on it.
+A record of the Heath's expedition on the Great Crater of Paldea. It has the name "Sada" written on it.
+A record of the Heath's expedition on the Great Crater of Paldea. It has the name "Turo" written on it.
+A record of the Heath's expedition on the Great Crater of Paldea. It has the name "Turo" written on it.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's HP stat.
+으깬 나무열매가 들어 있는 떡. 포켓몬 1마리의 HP 기초 포인트를 올린다.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Attack stat.
+으깬 나무열매가 들어 있는 떡. 포켓몬 1마리의 공격 기초 포인트를 올린다.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Defense stat.
+으깬 나무열매가 들어 있는 떡. 포켓몬 1마리의 방어 기초 포인트를 올린다.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Sp. Atk stat.
+으깬 나무열매가 들어 있는 떡. 포켓몬 1마리의 특수공격 기초 포인트를 올린다.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Sp. Def stat.
+으깬 나무열매가 들어 있는 떡. 포켓몬 1마리의 특수방어 기초 포인트를 올린다.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Speed stat.
+으깬 나무열매가 들어 있는 떡. 포켓몬 1마리의 스피드 기초 포인트를 올린다.
+A mochi cake with Berries kneaded into its dough. It causes a Pokémon to lose all its base points.
+으깬 나무열매가 들어 있는 떡. 포켓몬의 기초 포인트가 모두 사라지게 한다.
+An item to be held by a Pokémon. It boosts the power of the holder's Fairy-type moves.
+빛에 비추면 희미하게 빛나는 깃털. 지니게 하면 페어리타입 기술의 위력이 올라간다.
+A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally syrupy.
+어느 특정 포켓몬을 진화시키는 이상한 사과. 엄청나게 꿀맛이다.
+A peculiar cracked teacup that can make a certain species of Pokémon evolve. It makes delicious tea.
+어느 특정 포켓몬을 진화시키는 이상한 찻잔. 깨졌지만 차는 맛있어진다.
+A peculiar chipped teacup that can make a certain species of Pokémon evolve. It makes delicious tea.
+어느 특정 포켓몬을 진화시키는 이상한 찻잔. 이가 빠졌지만 차는 맛있어진다.
+A carved wooden mask to be held by Ogerpon. It allows Ogerpon to wield the Water type during battle.
+결정이 장식되어 있는 목각 가면. 오거폰에게 지니게 하면 물타입을 두르고 싸울 수 있다.
+A carved wooden mask to be held by Ogerpon. It allows Ogerpon to wield the Fire type during battle.
+결정이 장식되어 있는 목각 가면. 오거폰에게 지니게 하면 불꽃타입을 두르고 싸울 수 있다.
+A carved wooden mask to be held by Ogerpon. It allows Ogerpon to wield the Rock type during battle.
+결정이 장식되어 있는 목각 가면. 오거폰에게 지니게 하면 바위타입을 두르고 싸울 수 있다.
+A teal mask patterned after the face of an ogre. Dropped by Ogerpon after visiting the Festival of Masks.
+도깨비의 얼굴을 본뜬 초록색 가면. 가면 축제에서 만난 아이가 계단에서 떨어뜨린 것을 주웠다.
+A peculiar metal that can make certain species of Pokémon evolve. It is composed of many layers.
+어느 특정 포켓몬을 진화시키는 이상한 금속. 여러 겹으로 겹쳐져 있다.
+A mysterious disk with an indigo shine to it, given by the Top Champion. It seems to be tied to Area Zero.
+치프 챔피언에게서 받은 푸른빛으로 빛나는 수수께끼의 디스크. 에리어 제로와 연관이 있는 것 같다.
+A Pecha Berry of the highest quality. It's one of every a few years berry that carefully tended by an expert.
+장인이 소중하게 키운 복슝나무에서 수년에 단 하나만 열린다고 전해 내려오는 최상급 복슝열매. 빛깔부터 남다르다.
+A device that synchronizes your mind and feelings with your Pokémon's as one. It's still a prototype—hence.
+A device that synchronizes your mind and feelings with your Pokémon's as one. It's still a prototype—hence.
+A rock that fell to earth from space. It allows a certain species of Pokémon to change forms.
+A rock that fell to earth from space. It allows a certain species of Pokémon to change forms.
+A proof copy of the exploration notes, along with Briar's thoughts covering the Area Zero Underdepths.
+A proof copy of the exploration notes, along with Briar's thoughts covering the Area Zero Underdepths.
+A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.
+A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.
+The user charmingly gazes at the foe, making it less wary. The target's Attack is harshly lowered.
+The user charmingly gazes at the foe, making it less wary. The target's Attack is harshly lowered.
+The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.
+The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.
+The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+The user hurls mud in the target's face to inflict damage and lower its accuracy.
+The user hurls mud in the target's face to inflict damage and lower its accuracy.
+The user frightens the target with a scary face to harshly reduce its Speed stat.
+The user frightens the target with a scary face to harshly reduce its Speed stat.
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+The user bites with flame-cloaked fangs. It may also make the target flinch or leave it burned.
+The user bites with flame-cloaked fangs. It may also make the target flinch or leave it burned.
+The user bites with electrified fangs. It may also make the target flinch or leave it with paralysis.
+The user bites with electrified fangs. It may also make the target flinch or leave it with paralysis.
+The user bites with cold-infused fangs. It may also make the target flinch or leave it frozen.
+The user bites with cold-infused fangs. It may also make the target flinch or leave it frozen.
+The user attacks the target with a pulsing blast of water. It may also confuse the target.
+The user attacks the target with a pulsing blast of water. It may also confuse the target.
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+The user spits fluid that works to melt the target. This harshly reduces the target's Sp. Def stat.
+The user spits fluid that works to melt the target. This harshly reduces the target's Sp. Def stat.
+The user nimbly strikes the foe. This attack does more damage if the user is not holding an item.
+The user nimbly strikes the foe. This attack does more damage if the user is not holding an item.
+While resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced.
+While resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced.
+The target is attacked with a peculiar ray. It may also cause confusion.
+The target is attacked with a peculiar ray. It may also cause confusion.
+The target is exposed to a sinister ray that triggers confusion.
+The target is exposed to a sinister ray that triggers confusion.
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.
+Letting out a charming cry, the user does emotional damage to foes. This attack never misses.
+Letting out a charming cry, the user does emotional damage to foes. This attack never misses.
+The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat.
+The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat.
+The user attacks by pouncing on the target. This also lowers the target's Speed stat.
+The user attacks by pouncing on the target. This also lowers the target's Speed stat.
+The user attacks the target by showering it with water that's so cold it saps the target's power. This also lowers the target's Attack stat.
+The user attacks the target by showering it with water that's so cold it saps the target's power. This also lowers the target's Attack stat.
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.
+The target becomes trapped within a fierce vortex of fire that rages for four to five turns.
+The target becomes trapped within a fierce vortex of fire that rages for four to five turns.
+An attack move that doubles its power if the user is poisoned, burned, or has paralysis.
+An attack move that doubles its power if the user is poisoned, burned, or has paralysis.
+The user hits the target with its tail. It may also poison the target. Critical hits land more easily.
+The user hits the target with its tail. It may also poison the target. Critical hits land more easily.
+The user confounds the foe with speed, then slashes. The attack lands without fail.
+The user confounds the foe with speed, then slashes. The attack lands without fail.
+The user strikes everything around it by stomping on the ground. It reduces hit Pokémon's Speed.
+The user strikes everything around it by stomping on the ground. It reduces hit Pokémon's Speed.
+This relentless attack does massive damage to a target affected by status problems.
+This relentless attack does massive damage to a target affected by status problems.
+The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease.
+The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease.
+The target is raked with steel claws. It may also raise the user's Attack stat.
+The target is raked with steel claws. It may also raise the user's Attack stat.
+Star-shaped rays are shot at the opposing team. This attack never misses.
+Star-shaped rays are shot at the opposing team. This attack never misses.
+The user scatters curious leaves that chase the target. This attack will not miss.
+The user scatters curious leaves that chase the target. This attack will not miss.
+The user attacks with a gust of chilled air. It also lowers the targets' Speed stat.
+The user attacks with a gust of chilled air. It also lowers the targets' Speed stat.
+The user attacks by hurling a blob of mud at the target. It also reduces the target's Speed.
+The user attacks by hurling a blob of mud at the target. It also reduces the target's Speed.
+Boulders are hurled at the target. It also lowers the target's Speed by preventing its movement.
+Boulders are hurled at the target. It also lowers the target's Speed by preventing its movement.
+The user steals the target's HP with a kiss. The user's HP is restored by over half of the damage dealt.
+The user steals the target's HP with a kiss. The user's HP is restored by over half of the damage dealt.
+The user cloaks itself in flame and attacks. Building up more power, it raises the user's Speed stat.
+The user cloaks itself in flame and attacks. Building up more power, it raises the user's Speed stat.
+The user attacks the target's legs swiftly, reducing the target's Speed stat.
+The user attacks the target's legs swiftly, reducing the target's Speed stat.
+The user launches razor-like wind to slash the opposing team. Critical hits land more easily.
+The user launches razor-like wind to slash the opposing team. Critical hits land more easily.
+The user attacks with stored power. The more the user's stats are raised, the greater the damage.
+The user attacks with stored power. The more the user's stats are raised, the greater the damage.
+The user makes the foe see a frightening mirage. It inflicts damage matching the user's level.
+The user makes the foe see a frightening mirage. It inflicts damage matching the user's level.
+The user flings its held item at the target to attack. Its power and effects depend on the item.
+The user flings its held item at the target to attack. Its power and effects depend on the item.
+The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.
+The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.
+The user drenches the foe in a special poisonous liquid. Its power doubles if the target is poisoned.
+The user drenches the foe in a special poisonous liquid. Its power doubles if the target is poisoned.
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.
+The user intensifies the sun for five turns, powering up Fire-type moves.
+The user intensifies the sun for five turns, powering up Fire-type moves.
+The user summons a heavy rain that falls for five turns, powering up Water-type moves.
+The user summons a heavy rain that falls for five turns, powering up Water-type moves.
+Summons a five-turn sandstorm to hurt all combatants except the Rock, Ground, and Steel types.
+Summons a five-turn sandstorm to hurt all combatants except the Rock, Ground, and Steel types.
+The user summons a snowstorm lasting five turns. This boosts the Defense stats of Ice types.
+The user summons a snowstorm lasting five turns. This boosts the Defense stats of Ice types.
+The user stabs the target with a sharp horn. This attack never misses.
+The user stabs the target with a sharp horn. This attack never misses.
+The user materializes an odd psychic wave to attack the target. This attack does physical damage.
+The user materializes an odd psychic wave to attack the target. This attack does physical damage.
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.
+The user forcefully shoots seeds at the target. Two to five seeds are shot in rapid succession.
+The user forcefully shoots seeds at the target. Two to five seeds are shot in rapid succession.
+The user attacks with a swift chop. It can also break any barrier such as Light Screen and Reflect.
+The user attacks with a swift chop. It can also break any barrier such as Light Screen and Reflect.
+The user focuses its willpower to its head and attacks the foe. It may also make the target flinch.
+The user focuses its willpower to its head and attacks the foe. It may also make the target flinch.
+The user turns the foe's power against it. It does more damage the higher the target's Attack stat.
+The user turns the foe's power against it. It does more damage the higher the target's Attack stat.
+The user bites the target using psychic capabilities. This can also destroy Light Screen and Reflect.
+The user bites the target using psychic capabilities. This can also destroy Light Screen and Reflect.
+The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.
+The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.
+The user attacks with a blade of air that slices even the sky. It may also make the target flinch.
+The user attacks with a blade of air that slices even the sky. It may also make the target flinch.
+The user drops onto the target with its full body weight. It may leave the target with paralysis.
+The user drops onto the target with its full body weight. It may leave the target with paralysis.
+The target is punched with a fiery fist. It may leave the target with a burn.
+The target is punched with a fiery fist. It may leave the target with a burn.
+The target is punched with an electrified fist. It may also leave the target with paralysis.
+The target is punched with an electrified fist. It may also leave the target with paralysis.
+The target is punched with an icy fist. It may also leave the target frozen.
+The target is punched with an icy fist. It may also leave the target frozen.
+The user slams a barrage of hard-shelled seeds down on the target from above.
+The user slams a barrage of hard-shelled seeds down on the target from above.
+The user hurls an electric orb at the foe. It does more damage the faster the user is.
+The user hurls an electric orb at the foe. It does more damage the faster the user is.
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.
+The user hurls hard rocks at the target. Two to five rocks are launched in quick succession.
+The user hurls hard rocks at the target. Two to five rocks are launched in quick succession.
+The user slashes the target with huge, sharp claws.
+The user slashes the target with huge, sharp claws.
+The user waggles a finger and stimulates its brain into randomly using nearly any move.
+The user waggles a finger and stimulates its brain into randomly using nearly any move.
+The user snares the target with grass and trips it. The heavier the target, the greater the damage.
+The user snares the target with grass and trips it. The heavier the target, the greater the damage.
+A weak electric charge is launched at the target. It causes paralysis if it hits.
+A weak electric charge is launched at the target. It causes paralysis if it hits.
+The target is stabbed with a tentacle or arm seeped with poison. It may also poison the target.
+The target is stabbed with a tentacle or arm seeped with poison. It may also poison the target.
+The user attacks driven by frustration. Power increases if the user's previous move failed.
+The user attacks driven by frustration. Power increases if the user's previous move failed.
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.
+Large boulders are hurled at the foes to inflict damage. It may also make the targets flinch.
+Large boulders are hurled at the foes to inflict damage. It may also make the targets flinch.
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.
+The user attacks by slamming its body into the target. Power increases the higher the user's Defense is.
+The user attacks by slamming its body into the target. Power increases the higher the user's Defense is.
+The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.
+The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.
+The user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle.
+The user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle.
+If the foe knows any move also known by the user, the foe is prevented from using it.
+If the foe knows any move also known by the user, the foe is prevented from using it.
+The user gathers all its light energy and releases it at once. It may also lower the target's Sp. Def stat.
+The user gathers all its light energy and releases it at once. It may also lower the target's Sp. Def stat.
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.
+The user drains the target's blood. The user's HP is restored by half the damage taken by the target.
+The user drains the target's blood. The user's HP is restored by half the damage taken by the target.
+The user's body generates an eerie impulse. Harshly lowers the target's Sp. Atk stat.
+The user's body generates an eerie impulse. Harshly lowers the target's Sp. Atk stat.
+The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.
+The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+The user attacks with a ray of light that sparkles as if it were made of gemstones.
+The user attacks with a ray of light that sparkles as if it were made of gemstones.
+The user shoots filthy garbage at the target to attack. It may also poison the target.
+The user shoots filthy garbage at the target to attack. It may also poison the target.
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.
+The user crashes into its target while rotating its body like a drill. Critical hits land more easily.
+The user crashes into its target while rotating its body like a drill. Critical hits land more easily.
+The user shoots a sinister, bluish-white flame at the target to inflict a burn.
+The user shoots a sinister, bluish-white flame at the target to inflict a burn.
+The user crunches up the target with sharp fangs. It may also lower the target's Defense stat.
+The user crunches up the target with sharp fangs. It may also lower the target's Defense stat.
+The user catches the target off guard and swaps its held item with its own.
+The user catches the target off guard and swaps its held item with its own.
+The user slams into the target using a full-force blast of water. May lower the target's Defense.
+The user slams into the target using a full-force blast of water. May lower the target's Defense.
+The user looses a blast of aura power from deep within its body. This move is certain to hit.
+The user looses a blast of aura power from deep within its body. This move is certain to hit.
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for four turns.
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for four turns.
+The user hurls a shadowy blob at the target. It may also lower the target's Sp. Def stat.
+The user hurls a shadowy blob at the target. It may also lower the target's Sp. Def stat.
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.
+The user lets loose a horribly echoing shout with the power to inflict damage.
+The user lets loose a horribly echoing shout with the power to inflict damage.
+The user attacks by exhaling hot breath on the opposing team. It may also leave targets with a burn.
+The user attacks by exhaling hot breath on the opposing team. It may also leave targets with a burn.
+The user draws power from nature and fires it at the target. It may also lower the target's Sp. Def.
+The user draws power from nature and fires it at the target. It may also lower the target's Sp. Def.
+The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat.
+The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat.
+The user slams into the foe with its heavy body. The heavier the user, the greater the damage.
+The user slams into the foe with its heavy body. The heavier the user, the greater the damage.
+The user compels the target to keep using only the move it last used for three turns.
+The user compels the target to keep using only the move it last used for three turns.
+It swamps the area around the user with a giant wave. It can also be used for crossing water.
+It swamps the area around the user with a giant wave. It can also be used for crossing water.
+The user covers its feet in thin ice and twirls around, slamming into the target. This move's spinning motion also destroys the terrain.
+The user covers its feet in thin ice and twirls around, slamming into the target. This move's spinning motion also destroys the terrain.
+The target is scorched with an intense blast of fire. It may also leave the target with a burn.
+The target is scorched with an intense blast of fire. It may also leave the target with a burn.
+A strong electric blast is loosed at the target. It may also leave the target with paralysis.
+A strong electric blast is loosed at the target. It may also leave the target with paralysis.
+The user plays rough with the target and attacks it. This may also lower the target's Attack stat.
+The user plays rough with the target and attacks it. This may also lower the target's Attack stat.
+The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.
+The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.
+The user assists an ally by boosting the power of its attack.
+The user assists an ally by boosting the power of its attack.
+Fires an exploding pollen puff at enemies, or a HP-restoring one at allies.
+Fires an exploding pollen puff at enemies, or a HP-restoring one at allies.
+The user switches places with a party Pokémon in waiting, passing along any stat changes.
+The user switches places with a party Pokémon in waiting, passing along any stat changes.
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+An all-out attack that becomes more powerful the less HP the user has.
+An all-out attack that becomes more powerful the less HP the user has.
+The target is struck with an icy-cold beam of energy. It may also freeze the target solid.
+The target is struck with an icy-cold beam of energy. It may also freeze the target solid.
+The user electrifies the ground for five turns. Pokémon on the ground no longer fall asleep.
+The user electrifies the ground for five turns. Pokémon on the ground no longer fall asleep.
+The user turns the ground to grass for five turns. Grounded Pokémon restore a little HP every turn.
+The user turns the ground to grass for five turns. Grounded Pokémon restore a little HP every turn.
+Protects grounded Pokémon from priority moves and powers up Psychic-type moves for five turns.
+Protects grounded Pokémon from priority moves and powers up Psychic-type moves for five turns.
+The user covers the ground with mist for five turns. Grounded Pokémon can't gain status conditions.
+The user covers the ground with mist for five turns. Grounded Pokémon can't gain status conditions.
+The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.
+The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.
+The target is blasted by a huge volume of water launched under great pressure.
+The target is blasted by a huge volume of water launched under great pressure.
+A howling blizzard is summoned to strike the opposing team. It may also freeze them solid.
+A howling blizzard is summoned to strike the opposing team. It may also freeze them solid.
+A column of fire hits opposing Pokémon. When used with its Grass equivalent, it makes a sea of fire.
+A column of fire hits opposing Pokémon. When used with its Grass equivalent, it makes a sea of fire.
+A column of water strikes the target. When combined with its fire equivalent, it makes a rainbow.
+A column of water strikes the target. When combined with its fire equivalent, it makes a rainbow.
+A column of grass hits the foes. When used with its water equivalent, it creates a vast swamp.
+A column of grass hits the foes. When used with its water equivalent, it creates a vast swamp.
+The user shrouds itself in electricity and smashes into its foe. It also damages the user a little.
+The user shrouds itself in electricity and smashes into its foe. It also damages the user a little.
+Unsanitary sludge is hurled at the target. It may also poison the target.
+Unsanitary sludge is hurled at the target. It may also poison the target.
+The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio.
+The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio.
+The user vanishes somewhere, then strikes on the next turn. Hits through protections.
+The user vanishes somewhere, then strikes on the next turn. Hits through protections.
+The user charges at the target using every bit of its power. The user must rest on the next turn.
+The user charges at the target using every bit of its power. The user must rest on the next turn.
+The target is razed by a fiery explosion. The user must rest on the next turn, however.
+The target is razed by a fiery explosion. The user must rest on the next turn, however.
+The target is hit with a watery blast. The user must rest on the next turn, however.
+The target is hit with a watery blast. The user must rest on the next turn, however.
+The user slams the target with an enormous tree. The user can't move on the next turn.
+The user slams the target with an enormous tree. The user can't move on the next turn.
+The user rampages and attacks for two to three turns. It then becomes confused, however.
+The user rampages and attacks for two to three turns. It then becomes confused, however.
+The user attacks the target at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.
+The user attacks the target at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.
+A storm of sharp is whipped up. The attack's recoil harshly reduces the user's Sp. Atk stat.
+A storm of sharp is whipped up. The attack's recoil harshly reduces the user's Sp. Atk stat.
+The user wraps its foe in a fierce wind that flies up into the sky. It may also confuse the foe.
+The user wraps its foe in a fierce wind that flies up into the sky. It may also confuse the foe.
+The user vibrates its wings to generate a damaging sound wave. It may also lower the target's Sp. Def stat.
+The user vibrates its wings to generate a damaging sound wave. It may also lower the target's Sp. Def stat.
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.
+The user tucks in its wings and charges from a low altitude. The user also takes serious damage.
+The user tucks in its wings and charges from a low altitude. The user also takes serious damage.
+The user cloaks itself in fire and charges at the foe. The user also takes damage and may burn the target.
+The user cloaks itself in fire and charges at the foe. The user also takes damage and may burn the target.
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.
+The user fights the foe up close without guarding itself. It also cuts the user's Defense and Sp. Def.
+The user fights the foe up close without guarding itself. It also cuts the user's Defense and Sp. Def.
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+Comets are summoned down from the sky. The attack's recoil harshly reduces the user's Sp. Atk stat.
+Comets are summoned down from the sky. The attack's recoil harshly reduces the user's Sp. Atk stat.
+The user fires a beam of steel that it collected from its entire body. This also damages the user.
+The user fires a beam of steel that it collected from its entire body. This also damages the user.
+The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends.
+The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends.
+The user boosts the power of the Electric move it uses next. It also raises the user's Sp. Def stat.
+The user boosts the power of the Electric move it uses next. It also raises the user's Sp. Def stat.
+The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.
+The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.
+The user traps the target inside a harshly raging sandstorm for four to five turns.
+The user traps the target inside a harshly raging sandstorm for four to five turns.
+The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.
+The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+The user throws a stone or projectile to attack. A flying Pokémon will fall to the ground when hit.
+The user throws a stone or projectile to attack. A flying Pokémon will fall to the ground when hit.
+The user tackles the target with a high-speed spin. The slower the user, the greater the damage.
+The user tackles the target with a high-speed spin. The slower the user, the greater the damage.
+The user slaps down the target's held item, preventing that item from being used in the battle.
+The user slaps down the target's held item, preventing that item from being used in the battle.
+The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.
+The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.
+The user chomps hard on the target with its sharp front fangs. It cuts the target's HP to half.
+The user chomps hard on the target with its sharp front fangs. It cuts the target's HP to half.
+The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.
+The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.
+The user makes a lunge at the target, attacking with full force. This lowers the target's Attack stat.
+The user makes a lunge at the target, attacking with full force. This lowers the target's Attack stat.
+The user fiercely attacks the target using its entire body.
+The user fiercely attacks the target using its entire body.
+The user launches sharp icicles at the target. It strikes two to five times in a row.
+The user launches sharp icicles at the target. It strikes two to five times in a row.
+The user shoots boiling hot water at its target. It may also leave the target with a burn.
+The user shoots boiling hot water at its target. It may also leave the target with a burn.
+The user slams the foe with its flaming body. The heavier the user is, the greater the damage.
+The user slams the foe with its flaming body. The heavier the user is, the greater the damage.
+The user gathers light energy into a blade, attacking the target on the next turn.
+The user gathers light energy into a blade, attacking the target on the next turn.
+The user attacks in an uproar for three turns. Over that time, no one can fall asleep.
+The user attacks in an uproar for three turns. Over that time, no one can fall asleep.
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.
+This move's type and power change depending on the weather at the time the move is used.
+This move's type and power change depending on the weather at the time the move is used.
+Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain.
+Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain.
+The user attacks with energy from jealousy. This burns all foes that had their stats boosted this turn.
+The user attacks with energy from jealousy. This burns all foes that had their stats boosted this turn.
+The user slams the target with its wings. The target is hit twice in a row.
+The user slams the target with its wings. The target is hit twice in a row.
+Attacks the target by controlling its item. The move fails if the target doesn't have an item.
+Attacks the target by controlling its item. The move fails if the target doesn't have an item.
+The user lashes out to vent its frustration. Power is doubled if its stats dropped this turn.
+The user lashes out to vent its frustration. Power is doubled if its stats dropped this turn.
+Attacks by shooting scales two to five times in a row. Boosts the user's Speed but lowers its Defense.
+Attacks by shooting scales two to five times in a row. Boosts the user's Speed but lowers its Defense.
+The user attacks everything around and faints upon using this move. Power increases on Misty Terrain.
+The user attacks everything around and faints upon using this move. Power increases on Misty Terrain.
+The user adds its HP to the target's HP, then equally shares the combined HP with the target.
+The user adds its HP to the target's HP, then equally shares the combined HP with the target.
+A reckless, life-risking tackle. It also damages the user by a fairly large amount, however.
+A reckless, life-risking tackle. It also damages the user by a fairly large amount, however.
+An attack move that cuts down the target's HP to equal the user's HP.
+An attack move that cuts down the target's HP to equal the user's HP.
+The user stirs up a violent petal blizzard and attacks everything around it.
+The user stirs up a violent petal blizzard and attacks everything around it.
+Traps foes in a violent swirling whirlpool for four to five turns.
+Traps foes in a violent swirling whirlpool for four to five turns.
+The user attacks by shooting muddy water at the opposing team. It may also lower the target's accuracy.
+The user attacks by shooting muddy water at the opposing team. It may also lower the target's accuracy.
+The user drops onto the target with its electrified body. If it misses, the user is hurt instead.
+The user drops onto the target with its electrified body. If it misses, the user is hurt instead.
+The user captures and attacks foes by using an electric net, which lowers their Speed stat.
+The user captures and attacks foes by using an electric net, which lowers their Speed stat.
+A consecutive three-kick attack that becomes more powerful with each successful hit.
+A consecutive three-kick attack that becomes more powerful with each successful hit.
+The user properly coaches its ally Pokémon, boosting their Attack and Defense stats.
+The user properly coaches its ally Pokémon, boosting their Attack and Defense stats.
+It swamps the area around the user with a giant sludge wave. It may also poison those hit.
+It swamps the area around the user with a giant sludge wave. It may also poison those hit.
+The user throws scorching sand at the target to attack. This may also burn the target.
+The user throws scorching sand at the target to attack. This may also burn the target.
+The user covers the target's body with a mass of down that harshly lowers its Attack stat.
+The user covers the target's body with a mass of down that harshly lowers its Attack stat.
+Two turns after this move is used, a hunk of psychic energy attacks the target.
+Two turns after this move is used, a hunk of psychic energy attacks the target.
+The user attacks the target with psychic power. Powers up and hits all foes on Psychic Terrain.
+The user attacks the target with psychic power. Powers up and hits all foes on Psychic Terrain.
+The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat.
+The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat.
+Gathers space power and boosts its Sp. Atk stat on the first turn, attacks on the next turn.
+Gathers space power and boosts its Sp. Atk stat on the first turn, attacks on the next turn.
+The user attacks the target's throat. The target cannot use sound-based moves for two turns.
+The user attacks the target's throat. The target cannot use sound-based moves for two turns.
+The user swings its tough tail wildly and attacks all foes. This also lowers their Attack stats.
+The user swings its tough tail wildly and attacks all foes. This also lowers their Attack stats.
+A horrible sound like scraping metal harshly reduces the target's Sp. Def stat.
+A horrible sound like scraping metal harshly reduces the target's Sp. Def stat.
+A move that works differently for the Ghost type than for all the other types.
+A move that works differently for the Ghost type than for all the other types.
+The target is crushed with great force. The attack is more powerful the more HP the target has left.
+The target is crushed with great force. The attack is more powerful the more HP the target has left.
+The user raises its allies’ critical hit ratio with a draconic cry. This rouses Dragon types more.
+The user raises its allies’ critical hit ratio with a draconic cry. This rouses Dragon types more.
+Attacks using an angelic voice. This confuses the target if its stats have been raised this turn.
+Attacks using an angelic voice. This confuses the target if its stats have been raised this turn.
+Attacks the target with unpleasant sound waves. Prevents the target from healing for two turns.
+Attacks the target with unpleasant sound waves. Prevents the target from healing for two turns.
+An attack that hits first and makes the target flinch. Fails if the target isn't using a high priority move.
+An attack that hits first and makes the target flinch. Fails if the target isn't using a high priority move.
+Handy containers for cultivating Berries wherever you go.
+어디서든 나무열매를 키울 수 있는 편리한 도구.
+A Wishing Star has been affixed to it. It lets out light that allows Pokémon to Dynamax when at a Power Spot.
+소원의별을 가공해서 만든 팔찌. 파워스폿에 있을 때 포켓몬을 다이맥스할 수 있는 빛을 발한다.
+A stone that radiates Dynamax energy. It can fully recharge your Dynamax Band in battle.
+다이맥스 에너지를 방출하는 돌. 전투 중에 다이맥스밴드의 에너지를 다시 충전한다.
+Raises the Dynamax Level of a single Pokémon by one. A higher level means higher HP when Dynamaxed.
+포켓몬 1마리의 다이맥스 레벨을 1 올리는 사탕. 레벨이 높을수록 다이맥스했을 때의 HP가 올라간다.
+Maxes out the Dynamax Level of a single Pokémon. A higher level means higher HP when Dynamaxed.
+포켓몬 1마리의 다이맥스 레벨을 최대로 올리는 사탕. 레벨이 높을수록 다이맥스했을 때의 HP가 올라간다.
+A soup that packs a huge kick. Certain Pokémon that consume it may be given the ability to Gigantamax.
+어마어마한 맛이 깃들어있는 수프. 특정 포켓몬이 먹으면 거다이맥스를 할 수 있게 된다.
+Having one of these mysterious charms makes it more likely you’ll encounter a Pokémon with a mark.
+지니고 있으면 증표가 붙은 포켓몬과 만나기 쉬워지는 이상하고 개성적인 부적.
+An orb that holds the power to crystallize. When charged, it allows Pokémon to Terastallize.
+결정의 힘을 간직하고 있는 오브. 에너지가 충전되면 포켓몬을 테라스탈시킬 수 있다.
+On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
+테라스탈 포켓몬이 쓰러졌을 때 부서진 테라스탈 주얼이 드물게 결정화한 조각.
+A mostly in-tact Tera Jewel. Its awkward shape makes it hard to tell what Tera Type it may unlock.
+거의 온전한 형태의 테라주얼. 테라스탈타입을 바꾸지만, 불규칙한 모양 때문에 어떤 타입이 될지 알 수 없다.
+A perfectly hexogonal Tera Jewel. Using this can unlock any Tera Type that the user desires.
+완벽한 육방정계의 테라주얼. 포켓몬의 테라스탈타입을 사용자가 바란다면 무엇으로든 바꿀 수 있다.
+A jewel glistening with Terastal energy. It can fully recharge your Tera Orb in battle.
+테라스탈 에너지로 반짝이는 보석. 배틀 중에 테라스탈오브의 에너지를 다시 충전할 수 있다.
+A mysterious glimmering charm that increases the number of Tera Shards you receive from Tera Raid Battles.
+지니고 있으면 테라 레이드배틀에서 받을 수 있는 테라피스가 늘어나는 이상하고 반짝이는 부적.
+A mysterious ring that enables Pokémon to use Z-Power if they are holding a compatible Z-Crystal.
+트레이너의 기력과 체력을 사용해서 포켓몬이 Z파워를 발산할 수 있게 하는 신비한 팔찌.
+A crystal brimming with Z-Power. It can fully recharge your Z-Ring in battle.
+Z파워로 반짝이는 크리스탈. 배틀 중에 Z링의 에너지를 다시 충전할 수 있다.
+It converts Z-Power into crystals that upgrade Normal-type moves to Normal-type Z-Moves.
+노말타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Fighting-type moves to Fighting-type Z-Moves.
+격투타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Flying-type moves to Flying-type Z-Moves.
+비행타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Poison-type moves to Poison-type Z-Moves.
+독타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Ground-type moves to Ground-type Z-Moves.
+땅타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Rock-type moves to Rock-type Z-Moves.
+바위타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Bug-type moves to Bug-type Z-Moves.
+벌레타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Ghost-type moves to Ghost-type Z-Moves.
+고스트타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Steel-type moves to Steel-type Z-Moves.
+강철타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Fire-type moves to Fire-type Z-Moves.
+불꽃타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Water-type moves to Water-type Z-Moves.
+물타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Grass-type moves to Grass-type Z-Moves.
+풀타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Electric-type moves to Electric-type Z-Moves.
+전기타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Psychic-type moves to Psychic-type Z-Moves.
+에스퍼타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Ice-type moves to Ice-type Z-Moves.
+얼음타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Dragon-type moves to Dragon-type Z-Moves.
+드래곤타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Dark-type moves to Dark-type Z-Moves.
+악타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Fairy-type moves to Fairy-type Z-Moves.
+페어리타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Pikachu's Volt Tackle to an exclusive Z-Move.
+피카츄의 볼트태클을 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade a capped Pikachu's Thunderbolt to an exclusive Z-Move.
+모자를 쓴 피카츄의 10만볼트를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Alolan Raichu's Thunderbolt to an exclusive Z-Move.
+알로라의 모습 라이츄의 10만볼트를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Eevee's Last Resort to an exclusive Z-Move.
+이브이의 마지막수단을 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Snorlax's Giga Impact to an exclusive Z-Move.
+잠만보의 기가임팩트를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Mew's Psychic to an exclusive Z-Move.
+뮤의 사이코키네시스를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Decidueye's Spirit Shackle to an exclusive Z-Move.
+모크나이퍼의 그림자꿰매기를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Incineroar's Darkest Lariat to an exclusive Z-Move.
+어흥염의 DD래리어트를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Primarina's Sparkling Aria to an exclusive Z-Move.
+누리레느의 물거품아리아를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Lycanroc's Stone Edge to an exclusive Z-Move.
+루가루암의 스톤에지를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Mimikyu's Play Rough to an exclusive Z-Move.
+따라큐의 치근거리기를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Kommo-o's Clanging Scales to an exclusive Z-Move.
+짜랑고우거의 스케일노이즈를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade the tapus' Nature's Madness to an exclusive Z-Move.
+카푸들의 자연의분노를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Solgaleo's Sunsteel Strike to an exclusive Z-Move.
+솔가레오의 메테오드라이브를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Lunala's Moongeist Beam to an exclusive Z-Move.
+루나아라의 섀도레이를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It converts Z-Power into crystals that upgrade Marshadow's Spectral Thief to an exclusive Z-Move.
+마샤도의 섀도스틸을 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.
+It's a crystal that turns Necrozma fused with Solgaleo or Lunala into a new form.
+솔가레오나 루나아라와 합체한 네크로즈마를 새로운 형태로 바꾸는 크리스탈.

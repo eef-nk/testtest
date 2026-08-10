@@ -1,0 +1,3236 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[SCRIPT_TEXTS]
+Kanto Pokédex
+관동도감
+Johto Pokédex
+성도도감
+My Game by:
+포켓몬스터 AA by:
+Also involved were:
+도움을 주신 분들:
+Special thanks to:
+Special thanks to:
+Show NPC Indicator
+NPC 말풍선을..
+Show
+보이기
+Hide
+숨기기
+Choose whether indicator bubbles appear above NPCs.
+NPC의 말풍선의 표시 여부를 선택합니다.
+NPC Indicator Move
+NPC 말풍선 움직임
+Don't Move
+움직이지 않는다
+Choose whether indicator bubbles above NPCs move up and down.
+NPC의 말풍선이 위아래로 움직이게 할지 여부를 결정합니다.
+Field '{1}' is not an integer.
+Field '{1}' is not an integer.
+Field '{1}' is not a positive integer or 0.
+Field '{1}' is not a positive integer or 0.
+Field '{1}' is not a positive integer.
+Field '{1}' is not a positive integer.
+Field '{1}' must be greater than 0.
+Field '{1}' must be greater than 0.
+Field '{1}' is not a hexadecimal number.
+Field '{1}' is not a hexadecimal number.
+Field '{1}' is not a number.
+Field '{1}' is not a number.
+Field '{1}' is not a Boolean value (true, false, 1, 0).
+Field '{1}' is not a Boolean value (true, false, 1, 0).
+Field '{1}' must contain only letters, digits, and<<n>>underscores and can't begin with a number.
+Field '{1}' must contain only letters, digits, and<<n>>underscores and can't begin with a number.
+'{1}' is not a defined type (type {2}, Weaknesses).
+'{1}' is not a defined type (type {2}, Weaknesses).
+'{1}' is not a defined type (type {2}, Resistances).
+'{1}' is not a defined type (type {2}, Resistances).
+'{1}' is not a defined type (type {2}, Immunities).
+'{1}' is not a defined type (type {2}, Immunities).
+Check Moves
+기술 확인
+Remember Moves
+기술 떠올리기
+Forget Moves
+기술 잊기
+Use TM's
+기술머신 사용
+Nickname
+닉네임
+{1} forgot how to use {2}.
+{1}(은)는 {2}(을)를 잊었다.
+Set the Pokémon's #{status} count.
+이 포켓몬의 #{status} 카운트 세트(0-99).
+Set {1}'s #{status} count (0-99).
+{1}의 #{status} 카운트 세트(0-99).
+{1} was freed from the jagged splinters!
+{1}(은)는 파편의 효과로부터 풀려났다!
+{1} was freed from the sticky candy syrup!
+{1}(을)를 덮고 있는 끈적한 물엿이 사라졌다!
+{1} is hurt by the jagged splinters!
+{1}(은)는 파편의 데미지를 받고 있다!
+{1} is hurt by Salt Cure!
+{1}(은)는 소금에 절여지고 있다!
+{1} was revived and is ready to fight again!
+{1}(은)는 기력이 회복되어 다시 싸울 준비를 했다!
+{1}'s Ability is protected by the effects of its Ability Shield!
+{1}의 특성은 특성가드로 보호받고 있다!
+{1} comes out of {2}'s mouth!
+{1}(은)는 {2}의 입에서 나왔다!
+{1} was shocked wide awake!
+{1}(은)는 졸음을 깼다!
+{1} warmed up!
+{1}(은)는 동상이 나았다!
+{1} can't be used twice in a row!
+{1}(은)는 2회 연속으로 쓸 수 없다!
+Drowsy
+졸음
+Frostbite
+동상
+Snow is falling.
+눈이 내리고 있다.
+A harsh hailstorm bellows!
+우박폭풍이 사납게 울부짖는다!
+It started to snow!
+눈이 내리기 시작했다!
+The hailstorm ended.
+우박폭풍이 끝났다.
+The snow stopped.
+눈이 그쳤다.
+{1} is already drowsy!
+{1}(은)는 이미 졸립다!
+{1} is already frostbitten!
+{1}(은)는 이미 동상에 걸렸다!
+But the uproar kept {1} alert!
+그러나 소란스러워서 {1}(은)는 잠들 수 없다!
+{1} stays alert!
+{1} stays alert!
+{1} cannot be frostbitten!
+{1} cannot be frostbitten!
+{1} stays alert because of {2}'s {3}!
+{1} stays alert because of {2}'s {3}!
+{1} cannot be frostbitten because of {2}'s {3}!
+{1} cannot be frostbitten because of {2}'s {3}!
+{1}'s {2} prevents drowsiness!
+{1}'s {2} prevents drowsiness!
+{1}'s {2} prevents frostbites!
+{1}'s {2} prevents frostbites!
+{1} grew drowsy!<<n>>It may be too sleepy to move!
+{1} grew drowsy!<<n>>It may be too sleepy to move!
+{1} was frostbitten!
+{1} was frostbitten!
+{1} became alert again.
+{1} became alert again.
+{1}'s frostbite was healed.
+{1}'s frostbite was healed.
+{1} is too drowsy to move!
+{1} is too drowsy to move!
+{1} was hurt by its frostbite!
+{1} was hurt by its frostbite!
+Being hit by Tailwind charged {1} with power!
+{1}(은)는 순풍에 맞아 충전되었다!
+{1} cut its own HP and minimized its Attack!
+{1}(은)는 HP를 깎아 자신의 공격을 최저로 만들었다!
+{1} cut its own HP and maximized its Attack!
+{1}(은)는 HP를 깎아 자신의 공격을 최대로 만들었다!
+Jagged splinters dug into {1}!
+Jagged splinters dug into {1}!
+{1} used up all its electricity!
+{1}(은)는 자신의 전기를 전부 써버렸다!
+{1} is being salt cured!
+{1}(은)는 소금에 절여졌다!
+The pointed stones disappeared from around {1}!
+{1} 주위에 뾰족한 바위가 사라졌다!
+The pointed steel disappeared from around {1}!
+{1} 주위에 뾰족한 쇳조각이 사라졌다!
+The spikes disappeared from the ground around {1}!
+{1} 발밑에 압정이 사라졌다!
+The poison spikes disappeared from the ground around {1}!
+{1} 발밑에 독압정이 사라졌다!
+The sticky web has disappeared from the ground around {1}!
+{1} 발밑에 끈적끈적네트가 사라졌다!
+Tidying up complete!
+정리정돈 끝!
+{1} blew away the pointed steel!
+{1}(은)는 뾰족한 쇳조각을 날려버렸다!
+{1} is preparing to tell a chillingly bad joke!
+{1}(은)는 썰렁개그를 말할 준비하고 있다!
+{1} shed its tail to create a decoy!
+{1}(은)는 꼬리를 잘라 대타로 삼았다!
+{1} got covered in sticky candy syrup!
+{1}(은)는 끈적한 물엿을 뒤집어썼다!
+{1} absorbed electricity!
+{1}(은)는 전기를 흡수했다!
+{1} is going all out for this attack!
+{1}(은)는 전력을 다하기 시작했다!
+{1} is already pumped!
+{1}(은)는 이미 의욕이 넘친다!
+{1}'s {2} made it alert again!
+{1}'s {2} made it alert again!
+{1}'s {2} healed its frostbite!
+{1}'s {2} healed its frostbite!
+{1}'s {2} made its partner alert again!
+{1}'s {2} made its partner alert again!
+{1}'s {2} healed its partner's frostbite!
+{1}'s {2} healed its partner's frostbite!
+{1}'s {2} made {3} drowsy! It may be too sleepy to move!
+{1}'s {2} made {3} drowsy! It may be too sleepy to move!
+{1}'s {2} caused {3} to become frostbitten!
+{1}'s {2} caused {3} to become frostbitten!
+A lingering aroma clings to {1}!
+{1}에게 가시지않는향기가 배어버렸다!
+{1}'s Ability is protected by the effects of its {2}!
+{1}의 특성은 {2}의 효과로 보호받고 있다!
+{1} gained strength from the fallen!
+{1}(은)는 스러진 이들로부터 힘을 받았다!
+Being hit by {1} charged {2} with power!
+{2}(은)는 {1}에 맞아 충전되었다!
+Poison spikes were scattered on the ground all around {1}!
+{1}의 발밑에 독압정이 흩뿌려졌다!
+{1} underwent a heroic transformation!
+{1}(은)는 변신하고 돌아왔다!
+{1} goes inside the mouth of {2}!
+{1}(은)는 {2}의 입 안으로 들어간다!
+{1}'s {2} weakened the {3} of all surrounding Pokémon!
+{1}의 {2}에 의해 주위의 {3}(이)가 약해졌다!
+{1} basked in the sunlight, sending its ancient pulse into a frenzy!
+{1}(은)는 햇살을 받아 고대의 고동을 폭발시켰다!!
+{1} turned the sunlight harsh, sending its ancient pulse into a frenzy!
+{1}(은)는 햇살을 강하게 하여 고대의 고동을 폭발시켰다!!
+{1} used the Electric Terrain to energize its futuristic engine!
+{1}(은)는 일렉트릭필드의 힘으로 미래 기관을 가동했다!!
+{1} turned the ground into Electric Terrain, energizing its futuristic engine!
+{1}(은)는 일렉트릭필드를 전개하여 미래 기관을 가동했다!!
+The effects of {1}'s {2} wore off!
+{1}의 {2} 효과가 사라졌다!
+The #{cause} activated {1}'s {2}!
+{1}의 {2}(이)가 #{cause}에 의해 발동했다!
+{1} used its {2} to activate its {3}!
+{1}(은)는 {2}(으)로 {3}(을)를 발동했다!
+{1}'s {2} was heightened!
+{1}의 {2}(이)가 증가했다!
+A supersweet aroma is wafting from the syrup covering {1}!
+{1}의 꿀에서 달콤한 향기가 나고 있다!
+{1} drank down all the matcha that {2} made!
+{1}(은)는 {2}(이)가 내온 차를 모두 비웠다!
+The {1} worn by {2} shone brilliantly!
+{2}의 {1}이 눈부시게 빛난다!
+{1} made its shell gleam! It's distorting type matchups!
+{1}(은)는 등껍질을 빛나게 하여 타입 상성을 왜곡시켰다!
+The harsh sunlight faded!
+강한 햇살의 기세가 꺾였다!
+The heavy rain has lifted!
+세찬 비가 잦아들었다!
+The mysterious air current has dissipated!
+수수께끼의 난기류가 흩어져버렸다!
+The weather returned to normal.
+날씨가 보통 상태로 돌아왔다.
+The battlefield returned to normal.
+필드가 보통 상태로 돌아왔다.
+{1} used its {2} to mirror its opponent's stat changes!
+{1}(은)는 {2}(으)로 상대의 상태 변화를 흉내냈다!
+{1}'s base points were all reset to zero!
+{1}의 기초포인트가 모두 0이 되었다!
+Normal Forme
+노말폼
+Attack Forme
+어택폼
+Defense Forme
+디펜스폼
+Speed Forme
+스피드폼
+Which form should {1} change into?
+{1}(을)를 어느 폼으로 바꾸시겠습니까?
+{1}'s effort values were reset.
+{1}의 노력치가 리셋됐습니다.
+Begin mining mini-game.
+Begin mining mini-game.
+Remember Move
+기술 떠올리기
+Forget Move
+기술 잊기
+#{cmd}
+#{cmd}
+Graphics/UI/Pokedex/bg_#{suffix}
+Graphics/UI/Pokedex/bg_#{suffix}
+Shiny leaf
+빛나는나뭇잎
+Has shiny crown.
+Has shiny crown.
+Has shiny leaf x#{pkmn.shiny_leaf}.
+Has shiny leaf x#{pkmn.shiny_leaf}.
+Set leaf count
+Set leaf count
+Set crown
+Set crown
+Set {1}'s leaf count (max. 6).
+Set {1}'s leaf count (max. 6).
+Gym Leader
+체육관 관장
+View Legacy
+추억을 본다
+General
+일반 추억
+Total time in party:
+함께 지낸 시간:
+Items consumed:
+소비한 아이템 수:
+Moves learned:
+배운 기술 수:
+Eggs produced:
+만든 알의 수:
+Number of times traded:
+교환한 횟수:
+Battle History
+배틀 추억
+Opponents defeated:
+쓰러뜨린 상대 수:
+Number of times fainted:
+기력이 다한 횟수:
+Supereffective hits dealt:
+효과가 굉장한 기술을 맞춘 횟수:
+Critical hits dealt:
+급소에 맞춘 횟수:
+Total number of retreats:
+총 도망친 횟수:
+Team History
+팀과의 추억
+Trainer battle victories:
+트레이너 배틀 승리:
+Gym Leader battle victories:
+체육관 관장 배틀 승리:
+Wild legendary battle victories:
+야생 전설의포켓몬 배틀 승리:
+Total Hall of Fame inductions:
+명예의전당 입성 횟수:
+Total draws or losses:
+비기거나 진 횟수:
+{1}'S LEGACY
+{1}의 추억
+{1}
+{1}
+|
+|
+EV/IV Total
+총 노력치/개체값
+EV's Remaining:
+남은 노력치:
+Hidden Power Type:
+잠재파워 타입:
+Graphics/UI/types_mini
+Graphics/UI/types_mini
+Held Item
+지닌물건
+To Next Lv.: {1}
+다음 레벨까지: {1}
+Trainer Memo
+트레이너 메모
+Encounter
+만남
+Characteristics
+특징
+{1} in nature.
+{1} 성격.
+--
+--
+Met at Lv. {1}
+에서 Lv. {1}일 때
+Egg received
+받은 알이
+Traded at Lv. {1}
+에서 Lv. {1}일 때 교환받아
+Had a fateful encounter at Lv. {1}
+에서 Lv. {1}일 떄 운명적으로
+on
+, <<n>>
+.
+에 만났다.
+Egg hatched
+에서 부화하여
+Stats
+능력치
+Current Moves
+현재 기술
+Battle Moves
+배틀 기술
+Category
+분류
+Power
+위력
+Accuracy
+명중
+Cheer
+응원
+Launch
+발사
+{1} can only use {2} due to its Encore!
+{1}(은)는 앙코르 때문에 {2} 밖에 쓸 수 없다!
+{1} is completely immune to being copied!
+{1}(은)는 변신이 전혀 통하지 않는다!
+Remove
+제거
+Do what with this rule?
+이 룰로 무엇을 하시겠습니까?
+There are no remaining battle rules to add.
+There are no remaining battle rules to add.
+Selected battle rule is invalid.
+Selected battle rule is invalid.
+Battle rule inverted.
+Battle rule inverted.
+Deluxe plugin settings...
+Deluxe plugin settings...
+Settings added by the Deluxe Battle Kit and other add-on plugins.
+Settings added by the Deluxe Battle Kit and other add-on plugins.
+Set battle rules...
+Set battle rules...
+Set battle rules to apply to the next encounter.
+Set battle rules to apply to the next encounter.
+Set partner trainer
+Set partner trainer
+Set a partner trainer to accompany the player in battle.
+Set a partner trainer to accompany the player in battle.
+Replace
+Replace
+Do what with the player's existing partner? ({1})
+Do what with the player's existing partner? ({1})
+Removed {1} as partner.
+Removed {1} as partner.
+Choose a new partner.
+Choose a new partner.
+PARTNER TRAINER
+PARTNER TRAINER
+Registered {1} as partner.
+Registered {1} as partner.
+Trainer is missing a back sprite.<<n>>Unable to set as partner.
+Trainer is missing a back sprite.<<n>>Unable to set as partner.
+Toggle battle gimmicks...
+Toggle battle gimmicks...
+Toggles for various battle gimmicks such as Mega Evolution.
+Toggles for various battle gimmicks such as Mega Evolution.
+Toggle Mega Evolution
+Toggle Mega Evolution
+Toggles the availability of Mega Evolution functionality.
+Toggles the availability of Mega Evolution functionality.
+Mega Evolution {1}.
+메가진화 {1}.
+<<[>>ADD NEW RULE<<]>>
+<<[>>ADD NEW RULE<<]>>
+Select a new battle rule to apply.
+Select a new battle rule to apply.
+<<[>>CLEAR ALL RULES<<]>>
+<<[>>CLEAR ALL RULES<<]>>
+Clear all active battle rules.
+Clear all active battle rules.
+No battle active battle rules to clear.
+No battle active battle rules to clear.
+Are you sure you want to clear all active battle rules?
+Are you sure you want to clear all active battle rules?
+Determines the number of battlers on each side of the field.
+Determines the number of battlers on each side of the field.
+Set the battle size.
+Set the battle size.
+The player's partner trainer will not participate in battle.
+The player's partner trainer will not participate in battle.
+The game will continue even if the player loses the battle.
+The game will continue even if the player loses the battle.
+The player will be unable to select the Run command.
+The player will be unable to select the Run command.
+Wild Pokémon will always attempt to flee as their first action.
+Wild Pokémon will always attempt to flee as their first action.
+Trainers will be unable to manually switch out Pokémon.
+Trainers will be unable to manually switch out Pokémon.
+Determines whether or not switch mode is enabled.
+Determines whether or not switch mode is enabled.
+Set whether switch mode should be enabled. (Trainer battles only)
+Set whether switch mode should be enabled. (Trainer battles only)
+The player's Pokémon will not gain any experience.
+The player's Pokémon will not gain any experience.
+The player will not lose or receive any prize money.
+The player will not lose or receive any prize money.
+Determines the default battle weather.
+Determines the default battle weather.
+Set the default battle weather.
+Set the default battle weather.
+Determines the default battle terrain.
+Determines the default battle terrain.
+Set the default battle terrain.
+Set the default battle terrain.
+Determines the battle environment.
+Determines the battle environment.
+Set the battle environment.
+Set the battle environment.
+Poké Balls will be unable to be selected from the bag.
+Poké Balls will be unable to be selected from the bag.
+Any captured Pokémon must be added to the party.
+Any captured Pokémon must be added to the party.
+Determines whether or not battle animations are enabled.
+Determines whether or not battle animations are enabled.
+Set whether battle animations should be enabled.
+Set whether battle animations should be enabled.
+Determines the graphic used for the battle background.
+Determines the graphic used for the battle background.
+Set the name of the background graphic.
+Set the name of the background graphic.
+Determines the graphics used for the battle bases.
+Determines the graphics used for the battle bases.
+Set the name of the battle base graphics.
+Set the name of the battle base graphics.
+The variable number used to store the battle outcome.
+The variable number used to store the battle outcome.
+Set a variable number.
+Set a variable number.
+Determines temporary player attributes.
+Determines temporary player attributes.
+Enter the player's temporary display name.
+Enter the player's temporary display name.
+Set the player's temporary outfit number.
+Set the player's temporary outfit number.
+Determines the player's temporary party.
+Determines the player's temporary party.
+Add a temporary party member (slot {1}).<<n>>(Exit menu to end early)
+Add a temporary party member (slot {1}).<<n>>(Exit menu to end early)
+Set a level for {1}.
+Set a level for {1}.
+Set a temporary party of {1}.
+Set a temporary party of {1}.
+Determines the player's temporary inventory.
+Determines the player's temporary inventory.
+Add a new item to the temporary bag.<<n>>(Exit menu to end)
+Add a new item to the temporary bag.<<n>>(Exit menu to end)
+Set the number of {1} to add.
+Set the number of {1} to add.
+Set a temporary inventory of {1} items.
+Set a temporary inventory of {1} items.
+Trainers are unable to use any items from their inventories.
+Trainers are unable to use any items from their inventories.
+Determines which side Mega Evolution is disabled for.
+Determines which side Mega Evolution is disabled for.
+Choose a side to disable Mega Evolution for.
+Choose a side to disable Mega Evolution for.
+The AI will control the player's commands.
+The AI will control the player's commands.
+The battle functions like a Battle Tower or PvP battle.
+The battle functions like a Battle Tower or PvP battle.
+Type effectiveness will be inverted.
+Type effectiveness will be inverted.
+Determines a battle gimmick to be used by wild Pokémon.
+Determines a battle gimmick to be used by wild Pokémon.
+Choose a battle gimmick for wild Pokémon to use.
+Choose a battle gimmick for wild Pokémon to use.
+Determines whether Poké Balls always succeeed or fail.
+Determines whether Poké Balls always succeeed or fail.
+Set whether Poké Balls will always succeed or fail.
+Set whether Poké Balls will always succeed or fail.
+Captured Pokémon will not be kept or registered in the Pokédex.
+Captured Pokémon will not be kept or registered in the Pokédex.
+You're prompted to capture a wild Pokémon when its HP drops to zero.
+You're prompted to capture a wild Pokémon when its HP drops to zero.
+Determines the music effect upon capturing a Pokémon.
+Determines the music effect upon capturing a Pokémon.
+Set the music effect that plays upon capturing a Pokémon.
+Set the music effect that plays upon capturing a Pokémon.
+Determines the battle background music.
+Determines the battle background music.
+Set the battle background music. (Set to None to disable)
+Set the battle background music. (Set to None to disable)
+Determines the battle victory music.
+Determines the battle victory music.
+Set the battle victory music. (Set to None to disable)
+Set the battle victory music. (Set to None to disable)
+Determines the low HP background music.
+Determines the low HP background music.
+Set the low HP background music. (Set to None to disable)
+Set the low HP background music. (Set to None to disable)
+Determines the text displayed at the start of an encounter.
+Determines the text displayed at the start of an encounter.
+Set the displayed encounter text.
+Set the displayed encounter text.
+Determines the opposing trainer's win speech.
+Determines the opposing trainer's win speech.
+Set the opposing trainer's win speech. (PvP-style battles only)
+Set the opposing trainer's win speech. (PvP-style battles only)
+Determines the opposing trainer's lose speech.
+Determines the opposing trainer's lose speech.
+Set the opposing trainer's lose speech.
+Set the opposing trainer's lose speech.
+Determines the way opponents slide on screen when encountered.
+Determines the way opponents slide on screen when encountered.
+Set the way opponents slide on screen.
+Set the way opponents slide on screen.
+Determines the style of the displayed databoxes.
+Determines the style of the displayed databoxes.
+Set the databox style to display.
+Set the databox style to display.
+Determines which mid-battle script to run.
+Determines which mid-battle script to run.
+No valid midbattle scripts found.
+No valid midbattle scripts found.
+Set a mid-battle script to run.
+Set a mid-battle script to run.
+#{msg}
+#{msg}
+{1} used the {2} on {3}.
+{1}(은)는 {3}에게 {2}(을)를 사용했다.
+{1} used the {2}.
+{1}(은)는 {2}(을)를 사용했다.
+{1} transformed into the {2}-type!
+{1}(은)는 {2} 타입으로 변했다!
+{1} put on its {2}!
+{1}(은)는 {2}을 썼다!
+#{g}You don't have enough Pokémon in your party that can participate...
+#{g}You don't have enough Pokémon in your party that can participate...
+#{g}Come back when you have enough Pokémon to battle with.
+#{g}Come back when you have enough Pokémon to battle with.
+#{g}Huh? Changed your mind?
+#{g}Huh? Changed your mind?
+#{g}Come back when you have the right Pokéméon you want to battle with.
+#{g}Come back when you have the right Pokéméon you want to battle with.
+{1} evolved into {2}!
+{1}(은)는 {2}(으)로 진화했다!
+{1} is weak!<<n>>Throw a Poké Ball now!
+{1}(이)가 약해진 상태다!<<n>>몬스터볼을 던지자!
+Capture {1}?
+{1}(을)를 포획하시겠습니까?
+But there is no room left in the PC!
+그러나 PC에 자리가 없다!
+Items can't be used in this battle.
+이 배틀 중에는 도구를 쓸 수 없다.
+#{@introText}
+#{@introText}
+{1} is completely immune to being put to sleep!
+{1}(은)는 잠듦이 전혀 통하지 않는다!
+{1} is completely immune to poisoning!
+{1}(은)는 독이 전혀 통하지 않는다!
+{1} is completely immune to burns!
+{1}(은)는 화상이 전혀 통하지 않는다!
+{1} is completely immune to paralysis!
+{1}(은)는 마비가 전혀 통하지 않는다!
+{1} is completely immune to being frozen!
+{1}(은)는 얼음 상태가 전혀 통하지 않는다!
+{1} is completely immune to frostbite!
+{1} is completely immune to frostbite!
+{1} is completely immune to becoming drowsy!
+{1} is completely immune to becoming drowsy!
+{1} is completely immune to confusion!
+{1}(은)는 혼란이 전혀 통하지 않는다!
+{1} is completely immune to infatuation!
+{1}(은)는 헤롱헤롱이 전혀 통하지 않는다!
+{1} is completely immune to having its stats lowered!
+{1}(은)는 능력 하락이 전혀 통하지 않는다!
+{1} is completely immune to indirect damage!
+{1}(은)는 직접적인 데미지 외에는 통하지 않는다!
+{1} is completely immune to effects that may disable its moves!
+{1}(은)는 사슬묶기 효과가 전혀 통하지 않는다!
+{1} radiates with Mega energy!
+{1}에게서 메가진화 에너지가 뿜어져 나온다!
+{1}'s {2} radiates with Mega energy!
+{1}의 {2}에게서 메가진화 에너지가 뿜어져 나온다!
+Basic
+기본
+Long
+롱
+Graphics/Items/#{@battler.item_id}
+Graphics/Items/#{@battler.item_id}
+#{param}
+#{param}
+{1} reverted to its original typing!
+{1}(은)는 원래의 타입으로 돌아왔다!
+{1}'s held {2} was removed!
+{1}의 {2}(이)가 없어졌다!
+{1} obtained {2} {3}!
+{1}(은)는 {3}(을)를 획득했다!
+{1}'s stat changes returned to normal!
+{1}의 능력 변화가 원래대로 돌아왔다!
+{1}'s raised stats returned to normal!
+{1}의 능력 상승이 원래대로 돌아왔다!
+{1}'s lowered stats returned to normal!
+{1}의 능력 하락이 원래대로 돌아왔다!
+{1} made a wish!
+{1}의 희망사항이 이루어졌다!
+The weather cleared.
+날씨가 맑아졌다.
+{1} emited a powerful magnetic pulse!
+{1}(은)는 강력한 자기장을 방출했다!
+Your Poké Balls short-circuited!<<n>>They cannot be used this battle!
+몬스터볼이 쇼트됐다!<<n>>이 배틀 동안 쓸 수 없다!
+{1} possessed a new appliance!
+{1}(은)는 가전제품으로 들어갔다!
+{1} equipped a {2} it found in the appliance!
+{1}(은)는 가전제품에서 찾은 {2}(을)를 장착했다!
+{1} emited an electrical pulse out of desperation!
+{1} emited an electrical pulse out of desperation!
+The cave ceiling begins to crumble down all around you!
+The cave ceiling begins to crumble down all around you!
+I am not letting you escape!
+I am not letting you escape!
+I don't care if this whole cave collapses down on the both of us...haha!
+I don't care if this whole cave collapses down on the both of us...haha!
+Defeat your opponent before time runs out!
+Defeat your opponent before time runs out!
+The cave continues to collapse all around you!
+The cave continues to collapse all around you!
+{1} was struck on the head by a falling rock!
+{1} was struck on the head by a falling rock!
+You're running out of time!
+You're running out of time!
+You need to escape immediately!
+You need to escape immediately!
+You failed to defeat your opponent in time!
+You failed to defeat your opponent in time!
+You were forced to flee the battle!
+You were forced to flee the battle!
+My {1} will never give up!
+My {1} will never give up!
+{1} is standing its ground!
+{1} is standing its ground!
+Haha...you'll never make it out alive!
+Haha...you'll never make it out alive!
+{1}'s Mega Evolution faded!<<n>>It may now be captured!
+{1}의 메가진화가 풀렸다!<<n>>지금이라면 잡히겠어!
+Some edits have been made. Save changes?
+변경사항을 저장하시겠습니까?
+This trainer doesn't have a shadow to edit.
+This trainer doesn't have a shadow to edit.
+Set this shadow visibility?
+Set this shadow visibility?
+Replay Animation
+Replay Animation
+Set Sprite Scaling
+Set Sprite Scaling
+Set Shadow Visibility
+Set Shadow Visibility
+Set Sprite Hue
+Set Sprite Hue
+Search for a specific trainer type.
+Search for a specific trainer type.
+Edit properties
+Edit properties
+Edit sprites
+Edit sprites
+Edit trainer sprites
+Edit trainer sprites
+Edit various metrics related to trainer sprites.
+Edit various metrics related to trainer sprites.
+This is a working Menu Entry for Voltseon's Pause Menu.
+This is a working Menu Entry for Voltseon's Pause Menu.
+Set Menu Theme
+메뉴 테마 설정
+Change the Menu Theme for Voltseon's Pause Menu...
+VPM의 메뉴 테마를 변경합니다.
+Set the menu theme. (1 - {1})
+메뉴 테마를 선택하세요. (1 - {1})
+The menu theme has been set to {1}.
+메뉴 테마가 {1} 로 변경되었습니다.
+Menu Theme
+메뉴 테마
+Set pause menu theme.
+일시정지 메뉴 테마를 변경합니다.
+Steps: {1}/{2}
+걸음 수: {1}/{2}
+Caught: {1}
+포획 수: {1}
+Level: {1}
+레벨: {1}
+Caught: None
+포획: 없음
+{1} {2} {3}
+{1} {2} {3}
+You have {1} new quest!
+{1}개의 새 퀘스트가 있습니다!
+You have {1} new quests!
+{1}개의 새 퀘스트가 있습니다!
+an
+an
+a
+a
+{1}'
+{1}의
+The 'quest' argument should be a symbol, e.g. ':Quest1'.
+The 'quest' argument should be a symbol, e.g. ':Quest1'.
+\se[{1}]<ac><c2=#{colorQuest(
+\se[{1}]<ac><c2=#{colorQuest(
+{1} tasks
+{1} 수행중
+Choose the type of {1}'s Hidden Power.
+{1}의 잠재파워 타입을 선택하세요.
+{1}'s Hidden Power has been set to {2}.
+{1}의 잠재파워는 {2} 타입이 되었다!
+This Pokemon's Hidden Power has already been altered.
+이 포켓몬의 잠재파워는 이미 바뀌었다.
+Hidden Power:
+잠재파워:
+H. Power:
+잠재파워:
+: A
+: A
+: S
+: S
+Used: {1}
+방금 씀: {1}
+Turn {1}
+턴 {1}
+Abil.
+특성
+Evasion
+회피
+Crit. Hit
+크리
+The Pokémon's HP won't fall below {1}% when attacked.
+공격받아도 HP가 {1}% 이하로 떨어지지 않는다.
+Damage Gate
+데미지 락
+The Pokémon is immune to status moves and takes less damage.
+변화 기술의 효과가 없고 데미지를 적게 받는다.
+Raid Shield
+레이드 실드
+The Pokémon is in its Mega Evolved form.
+메가진화 폼이다.
+The Pokémon is in its Primal form.
+원시회귀 폼이다.
+Primal Reversion
+원시회귀
+The Pokémon is in its Ultra form.
+울트라버스트 폼이다.
+Ultra Burst
+울트라버스트
+The Pokémon is in the Dynamax state.
+다이맥스 상태이다.
+Dynamax
+다이맥스
+The Pokémon is Terastallized into the {1} type.
+{1} 타입으로 테라스탈했다.
+Terastallization
+테라스탈
+Hailstorm
+우박폭풍
+Fire type moves deal 50% more damage. Halves Water move damage.
+불꽃 기술의 위력이 50% 상승하고 물 기술의 위력이 50% 하락한다.
+Fire type moves deal 50% more damage. Negates Water type moves.
+불꽃 기술의 위력이 50% 상승하고 물 기술이 무효가 된다.
+Water type moves deal 50% more damage. Halves Fire move damage.
+물 기술의 위력이 50% 상승하고 불꽃 기술의 위력이 50% 하락한다.
+Water type moves deal 50% more damage. Negates Fire type moves.
+물 기술의 위력이 50% 상승하고 불꽃 기술이 무효가 된다.
+All Flying-type weaknesses are suppressed.
+모든 비행타입의 약점이 사라진다.
+The combined effects of both Hail and Snow.
+설경과 싸라기눈이 합쳐진 효과.
+Boosts the Sp. Defense stat of the Pokémon by 50%.
+이 포켓몬은 특수방어가 50% 상승한다.
+The Pokémon loses {1} HP each turn.
+이 포켓몬은 매 턴 {1} HP를 잃는다.
+Pokémon may lose HP each turn. Boosts Sp. Defense of Rock types.
+매턴 HP를 잃는다. 바위타입은 특수방어가 오른다.
+The Pokémon loses {1} HP each turn. Blizzard always hits.
+이 포켓몬은 매 턴 {1} HP를 잃는다. 눈보라가 반드시 맞는다.
+Pokémon may lose HP each turn. Blizzard always hits.
+매 턴 {1} HP를 잃는다. 눈보라가 반드시 맞는다.
+Boosts the Defense of the Pokémon by 50%. Blizzard always hits.
+이 포켓몬은 방어가 50% 상승한다. 눈보라가 반드시 맞는다.
+The move Blizzard always hits. Boosts Defense of Ice types.
+눈보라가 반드시 맞는다. 얼음타입의 방어가 오른다.
+The power of the Pokémon's Shadow type moves are boosted by 50%.
+The power of the Pokémon's Shadow type moves are boosted by 50%.
+Non-Shadow Pokémon may lose HP each turn.
+Non-Shadow Pokémon may lose HP each turn.
+Unknown weather.
+불명의 날씨.
+{1} Terrain
+{1}필드
+The Pokémon can't fall asleep. Electric moves boosted by 30%.
+이 포켓몬은 잠들지 않는다. 전기 기술의 위력이 30% 상승한다.
+Grounded Pokémon can't fall asleep. Boosts Electric moves.
+지상의 포켓몬은 잠들지 않는다. 전기 기술이 강해진다.
+The Pokémon heals {1} HP each turn. Grass moves boosted by 30%.
+이 포켓몬은 매턴 {1} HP 회복한다. 풀 기술의 위력이 30% 상승한다.
+Grounded Pokémon may recover HP each turn. Boosts Grass moves.
+지상의 포켓몬은 매턴 HP를 회복한다. 풀 기술이 강해진다.
+The Pokémon is immune to priority. Psychic moves boosted by 30%.
+이 포켓몬은 선제 기술을 받지 않는다. 에스퍼 기술의 위력이 30% 상승한다.
+Grounded Pokémon immune to priority. Boosts Psychic moves.
+지상의 포켓몬은 선제 기술을 받지 않는다. 에스퍼 기술이 강해진다.
+The Pokémon is immune to statuses. Dragon moves weakened.
+이 포켓몬은 상태 이상이 되지 않는다. 드래곤 기술이 약해진다.
+Grounded Pokémon immune to statuses. Weakens Dragon moves.
+지상의 포켓몬은 상태 이상이 되지 않는다. 드래곤 기술이 약해진다.
+Unknown terrain.
+불명의 필드.
+Normal type moves of all Pokémon on the field become Electric type.
+나와있는 모든 포켓몬의 노말 기술은 전기타입이 된다.
+No Pokémon on the field can flee.
+나와있는 모든 포켓몬은 도망칠 수 없다.
+Grounds all Pokémon. Prevents midair actions. Increases accuracy.
+모든 포켓몬을 끌어내린다. 공중 행동을 막는다. 명중이 오른다.
+No Pokémon on the field can use their held items.
+나와 있는 모든 포켓몬은 지닌물건을 쓸 수 없다.
+All Pokémon on the field swap their Defense and Sp. Defense stats.
+나와 있는 모든 포켓몬은 방어와 특수방어가 맞바뀐다.
+Reverses Speed order so slower Pokémon on the field move first.
+스피드 순서가 뒤집혀 느린 포켓몬부터 행동한다.
+All Pokémon on the field take less damage from Electric moves.
+나와 있는 모든 포켓몬에 전기 기술의 데미지가 줄어든다.
+All Pokémon on the field take less damage from Fire moves.
+나와 있는 모든 포켓몬에 불꽃 기술의 데미지가 줄어든다.
+Offense Cheer 1
+공격 응원 1
+Attacks of Pokémon on this side deal increased damage.
+이쪽 편 포켓몬의 공격이 더 큰 데미지를 입힌다.
+Offense Cheer 2
+공격 응원 2
+Attacks Pokémon on this side always trigger effects.
+이쪽 편 포켓몬의 기술이 항상 추가효과가 발생한다.
+Offense Cheer 3
+공격 응원 3
+Attacks of Pokémon on this side bypass protections.
+이쪽 편 포켓몬의 공격이 방어 상태를 통과한다.
+Defense Cheer 1
+방어 응원 1
+Pokémon on this side take reduced damage from attacks.
+이쪽 편 포켓몬이 받는 피해를 줄인다.
+Defense Cheer 2
+방어 응원 2
+Pokémon on this side are immune to move effects.
+이쪽 편 포켓몬이 기술의 추가효과를 받지 않는다.
+Defense Cheer 3
+방어 응원 3
+Pokémon on this side will endure incoming attacks.
+이쪽 편 포켓몬이 공격을 버틴다.
++1/1
++1/1
+Pokémon on this side take Rock type damage upon entry.
+이쪽 편 포켓몬은 등장 시 바위 타입 데미지를 받는다.
+Pokémon on this side take Steel type damage upon entry.
+이쪽 편 포켓몬은 등장 시 강철 타입 데미지를 받는다.
+The Speed of grounded Pokémon on this side is lowered upon entry.
+이쪽 편 지상 포켓몬의 스피드가 등장 시 1랭크 내려간다.
+Grounded Pokémon on this side lose HP upon entry.
+이쪽 편 지상 포켓몬은 등장 시 HP를 잃는다.
+Grounded Pokémon on this side are poisoned upon entry.
+이쪽 편 지상 포켓몬은 등장 시 독에 걸린다. 독타입이 밟으면 제거된다.
+Pokémon on this side lose HP each turn. No effect on Grass types.
+이쪽 편 포켓몬은 매 턴 HP를 잃는다. 풀 타입에겐 무효.
+Pokémon on this side lose HP each turn. No effect on Fire types.
+이쪽 편 포켓몬은 매 턴 HP를 잃는다. 불꽃 타입에겐 무효.
+Pokémon on this side lose HP each turn. No effect on Water types.
+이쪽 편 포켓몬은 매 턴 HP를 잃는다. 물 타입에겐 무효.
+Pokémon on this side lose HP each turn. No effect on Rock types.
+이쪽 편 포켓몬은 매 턴 HP를 잃는다. 바위 타입에겐 무효.
+Sea of Fire
+불바다
+Rainbow
+무지개
+Pokémon on this side are more likely to trigger move effects.
+이쪽 편 포켓몬은 기술의 추가효과가 나오기 쉽다.
+Swamp
+늪지대
+The Speed of the Pokémon on this side is halved.
+이쪽 편 포켓몬은 스피드가 절반이 된다.
+The Speed of the Pokémon on this side is doubled.
+이쪽 편 포켓몬은 스피드가 2배가 된다.
+Pokémon on this side are protected from most status moves.
+이쪽 편 포켓몬은 대부분의 변화 기술을 방어하고 있다.
+Pokémon on this side are protected from most priority moves.
+이쪽 편 포켓몬은 대부분의 선제 기술을 방어하고 있다.
+Pokémon on this side are protected from most spread moves.
+이쪽 편 포켓몬은 대부분의 광역 기술을 방어하고 있다.
+Pokémon on this side are protected from most damaging moves.
+이쪽 편 포켓몬은 대부분의 데미지를 주는 기술을 방어하고 있다.
+All moves deal less damage to Pokémon on this side.
+이쪽 편 포켓몬에게 모든 기술의 데미지가 줄어든다.
+Physical moves deal less damage to Pokémon on this side.
+이쪽 편 포켓몬에게 물리 기술의 데미지가 줄어든다.
+Special moves deal less damage to Pokémon on this side.
+이쪽 편 포켓몬에게 특수 기술의 데미지가 줄어든다.
+Pokémon on this side are protected from status conditions.
+이쪽 편 포켓몬은 상태 이상을 방어하고 있다.
+The stats of Pokémon on this side cannot be lowered.
+이쪽 편 포켓몬의 능력치는 떨어지지 않는다.
+Pokémon on this side are immune to critical hits.
+이쪽 편 포켓몬은 급소에 맞지 않는다.
+Future Attack
+미래예지 공격
+{1} will strike the Pokémon in this spot in {2} more turn(s).
+{1}(이)가 이 자리의 포켓몬을 {2}턴 뒤에 덮칠 것이다.
+The Pokémon in this spot will restore {1} HP in {2} more turn(s).
+이 자리의 포켓몬은 {2}턴 뒤에 {1} HP를 회복할 것이다.
+Fully heals a Pokémon switching into this spot.
+이 자리에 교체되어 나오는 포켓몬은 완전히 회복할 것이다.
+Z-Healing
+Z-회복
+A Pokémon switching into this spot will recover its HP.
+이 자리에 교체되어 나오는 포켓몬은 회복할 것이다.
+The Pokémon will survive all incoming attacks with 1 HP.
+이 포켓몬은 모든 공격에 1 HP로 버틸 것이다.
+A substitute with {1} HP stands in for the Pokémon.
+{1} HP의 대타가 이 포켓몬 대신 나와 있다.
+The Pokémon restores {1} HP at the end of each turn.
+이 포켓몬은 매 턴이 끝날 때마다 {1} HP를 회복한다.
+The Pokémon restores {1} HP every turn, but cannot escape.
+이 포켓몬은 매 턴 {1} HP를 회복하나 도망칠 수도 없다.
+Badly Poisoned
+맹독
+Damage the Pokémon takes from its poison worsens every turn.
+독으로 받는 데미지가 매 턴 강해진다.
+Each turn, {1} leeches {2} HP from the Pokémon.
+매 턴, 이 포켓몬에게서 {2} HP 만큼을 {1}(이)가 흡수한다.
+The Pokémon loses {1} HP at the end of each turn.
+이 포켓몬은 매 턴이 끝날 때마다 {1} HP를 잃는다.
+The Pokémon loses {1} HP each turn it spends asleep.
+이 포켓몬은 잠들어 있는 매 턴마다 {1} HP를 잃는다.
+Splinters
+파편
+The Pokémon takes {1} type damage at the end of each turn.
+The Pokémon takes {1} type damage at the end of each turn.
+The Pokémon takes damage at the end of each turn.
+The Pokémon takes damage at the end of each turn.
+The Pokémon cannot use any healing effects that restores HP.
+이 포켓몬은 어떠한 회복 효과도 받지 못한다.
+Infatuation
+헤롱헤롱
+The Pokémon is less likely to attack {1}.
+이 포켓몬은 종종 {1}에게 공격하지 못한다.
+Confusion
+혼란
+?/?
+?/?
+The Pokémon may hurt itself in confusion instead of attacking.
+이 포켓몬은 때때로 공격 대신에 스스로를 공격한다.
+Rampaging
+폭주
+The Pokémon rampages for a few turns. It then becomes confused.
+이 포켓몬은 몇 턴 정도 날뛴다. 그 뒤에 혼란에 빠진다.
+The Pokémon cannot use the same move twice in a row.
+이 포켓몬은 같은 기술을 연달아 사용할 수 없다.
+The Pokémon cannot use any sound-based moves.
+이 포켓몬은 소리 기술을 사용할 수 없다.
+The Pokémon may only use the move {1}.
+이 포켓몬은 {1} 기술 밖에 사용할 수 없다.
+Move Disabled
+사슬묶기
+The Pokémon cannot use the move {1}.
+이 포켓몬은 {1} 기술을 사용할 수 없다.
+The Pokémon cannot use any status moves.
+이 포켓몬은 변화 기술을 사용할 수 없다.
+No Ability
+무특성
+The Pokémon's ability is negated.
+이 포켓몬의 특성은 무효화됐다.
+Items cannot be used on or by the Pokémon.
+이 포켓몬은 도구를 사용하거나 도구의 효과를 받을 수 없다.
+The next Electric move used by the Pokémon will double in power.
+이 포켓몬이 다음에 사용하는 전기 기술의 위력이 2배가 된다.
+The next move used by the Pokémon will become Electric type.
+이 포켓몬이 다음에 사용하는 기술은 전기타입이 된다.
+The Pokémon is airborne and immune to Ground moves.
+이 포켓몬은 공중에 떠 있어 땅 기술을 맞지 않는다.
+The next Fire move used by the Pokémon will ignite and explode.
+이 포켓몬이 다음에 사용하는 불꽃 기술은 폭발할 것이다.
+The Pokémon has been made weaker to Fire type moves.
+이 포켓몬은 불꽃 기술에 더 약해진 상태다.
+The Pokémon is grounded and no longer immune to Ground moves.
+이 포켓몬은 끌어내려져 땅 기술에 맞게 되었다.
+The Pokémon is grounded.
+이 포켓몬은 끌어내려졌다.
+The Pokémon's evasion boosts are ignored. No Ghost immunities.
+이 포켓몬의 회피 상승은 무시된다. 노말과 격투가 통하게 된다.
+The Pokémon's evasion boosts are ignored.
+이 포켓몬의 회피 상승은 무시된다.
+The Pokémon's evasion boosts are ignored. No Dark immunities.
+이 포켓몬의 회피 상승은 무시된다. 에스퍼가 통하게 된다.
+The Attack stat of the Pokémon increases whenever it is hit.
+공격받을 때마다 이 포켓몬의 공격이 상승한다.
+The damage dealt with the Pokémon's next move will be increased.
+이 포켓몬의 다음 기술의 위력이 상승한다.
+The Attack and Defense stats of the Pokémon are swapped.
+이 포켓몬의 공격과 방어가 맞바뀌었다.
+The Pokémon's next attack will be a guaranteed critical hit.
+이 포켓몬의 다음 공격은 반드시 급소에 맞는다.
+The Pokémon is amassing a stockpile to use or consume.
+이 포켓몬은 토해내거나 삼킬 것을 비축하고 있다.
+The Pokémon takes more damage from certain moves while minimized.
+작아져 있는 동안 이 포켓몬은 특정 기술에 더 큰 데미지를 받는다.
+Vulnerable
+취약
+The Pokémon cannot evade and takes double damage from attacks.
+이 포켓몬은 피할 수 없고 공격에 2배 데미지를 받는다.
+The Pokémon has been made airborne, but it cannot evade attacks.
+이 포켓몬은 공중에 떠 있으며 공격을 피할 수 없다.
+The Pokémon's next move is sure to hit {1}.
+이 포켓몬의 다음 기술은 {1}에게 반드시 맞는다.
+Speed Down
+물엿범벅
+Each turn, {1} lowers the Pokémon's Speed.
+매 턴마다 {1}의 스피드가 낮아진다.
+Weight Changed
+무게 변화
+The Pokémon's weight has been {1}.
+이 포켓몬의 무게: {1}.
+The Pokémon refuses to flee or switch out.
+이 포켓몬은 도망과 교체를 거부한다.
+Trapped by {1}.
+{1}에게 붙잡혔다.
+Trapped by {1}. Defense drops each turn.
+{1}에게 붙잡혔다. 매 턴 방어가 떨어진다.
+Bound
+구속
+Trapped by {1}. Loses HP each turn.
+{1}에게 붙잡혔다. 매 턴 HP를 잃는다.
+Trapped and loses HP each turn.
+붙잡혀서 매 턴 HP를 잃는다.
+The Pokémon bounces back most incoming status moves.
+이 포켓몬은 자신을 향한 대부분의 변화 기술을 튕겨낸다.
+The Pokémon is protected from most incoming attacks.
+이 포켓몬은 자신을 향한 대부분의 공격을 방어한다.
+Protected from most moves. Contact inflicts damage.
+대부분의 공격을 방어한다. 접촉시 데미지를 받는다.
+Protected from most moves. Contact inflicts poison.
+대부분의 공격을 방어한다. 접촉시 독에 걸린다.
+Protected from damage dealing moves. Contact inflicts a burn.
+대부분의 공격을 방어한다. 접촉시 화상에 걸린다.
+Protected from damage dealing moves. Contact lowers Attack.
+대부분의 공격을 방어한다. 접촉시 공격이 깎인다.
+Protected from damage dealing moves. Contact lowers Defense.
+대부분의 공격을 방어한다. 접촉시 방어가 깎인다.
+Protected from damage dealing moves. Contact lowers Speed.
+대부분의 공격을 방어한다. 접촉시 스피드가 깎인다.
+Charging Turn
+모으기 턴
+The Pokémon will use {1} next turn.
+이 포켓몬은 다음 턴 {1}(을)를 사용한다.
+Semi-Invulnerable
+반무적 상태
+The Pokémon cannot be hit by most attacks.
+이 포켓몬은 대부분의 공격이 맞지 않는다.
+The Pokémon is being lifted in the air by {1}.
+이 포켓몬은 {1}에 의해 공중으로 끌려갔다.
+Recharging
+재충전 상태
+The Pokémon cannot act for {1} more turn(s).
+이 포켓몬은 {1}턴 동안 행동할 수 없다.
+The Pokémon will fall asleep in {1} more turn(s).
+이 포켓몬은 {1}턴 뒤에 잠들게 된다.
+Perish Count
+멸망의 카운트
+The Pokémon will be forced to faint in {1} more turn(s).
+이 포켓몬은 {1}턴 뒤에 쓰러지게 된다.
+The Pokémon gets its act together in {1} more turn(s).
+이 포켓몬은 {1}턴 뒤에 컨디션이 좋아진다.
+The Pokémon is trapped while latched to {1}.
+이 포켓몬은 {1}에게 물고늘어져 붙잡혀 있다.
+The Pokémon can't use moves known by {1}.
+이 포켓몬은 {1}(이)가 아는 기술을 사용할 수 없다.
+{1}'s uproar prevents sleeping.
+{1}의 소란피기가 잠들지 못하게 한다.
+Pow
+위력
+Pri
+우선
+Eff
+효과
+Type changed by the {1} ability.
+특성 {1}에 의해 타입이 바뀌었다.
+Effect chance boosted by the {1} ability.
+특성 {1}에 의해 추가 효과가 상승했다.
+Priority boosted by the {1} ability.
+특성 {1}에 의해 우선도가 상승했다.
+Priority lowered by the {1} ability.
+특성 {1}에 의해 우선도가 하락했다.
+Accuracy boosted by the {1} ability.
+특성 {1}에 의해 명중이 상승했다.
+Accuracy lowered by the {1} ability.
+특성 {1}에 의해 명중이 하락했다.
+Power boosted by the {1} ability.
+특성 {1}에 의해 위력이 상승했다.
+Power weakened by the {1} ability.
+특성 {1}에 의해 위력이 약해졌다.
+Accuracy boosted by the held {1}.
+지니고 있는 {1}에 의해 명중이 상승했다.
+Accuracy lowered by the held {1}.
+지니고 있는 {1}에 의해 명중이 하락했다.
+Power boosted by the held {1}.
+지니고 있는 {1}에 의해 위력이 상승했다.
+Power weakened by the held {1}.
+지니고 있는 {1}에 의해 위력이 하락했다.
+Healing boosted by the {1} ability.
+특성 {1}에 의해 회복량이 상승했다.
+Power boosted by Terastallization.
+테라스탈에 의해 위력이 상승했다.
+Z-Power: Fully restores the user's HP.
+Z파워: 사용자의 HP를 완전히 회복한다.
+Z-Power: Fully restores an incoming Pokémon's HP.
+Z파워: 교체로 나오는 포켓몬의 HP를 완전히 회복한다.
+Z-Power: Raises the user's critical hit rate.
+Z파워: 사용자의 급소율을 높인다.
+Z-Power: Resets the user's lowered stat stages.
+Z파워: 사용자의 능력 하락을 원래대로 되돌린다.
+Z-Power: The user becomes the center of attention.
+Z파워: 사용자는 주목의 대상이 된다.
+Z-Power: Drastically raises the user's {1}.
+Z파워: 사용자의 {1}(을)를 매우 크게 올린다.
+Z-Power: Sharply raises the user's {1}.
+Z파워: 사용자의 {1}(을)를 크게 올린다.
+Z-Power: Raises the user's {1}.
+Z파워: 사용자의 {1}(을)를 올린다.
+Z: Hide
+Z: 숨기기
+Z: Details
+Z: 자세히
+Return
+돌아가기
+Return to the command menu.
+커맨드 메뉴로 돌아간다.
+C: Use
+C: 사용
+Graphics/UI/BerryPots/bg_pot
+Graphics/UI/BerryPots/bg_pot
+Graphics/UI/BerryPots/pot_space
+Graphics/UI/BerryPots/pot_space
+Graphics/UI/BerryPots/pot
+Graphics/UI/BerryPots/pot
+Graphics/Characters/berrytreeDry
+Graphics/Characters/berrytreeDry
+Graphics/Animations/Overworld dust and grass
+Graphics/Animations/Overworld dust and grass
+Graphics/UI/BerryPots/arrowu
+Graphics/UI/BerryPots/arrowu
+Graphics/UI/BerryPots/arrowd
+Graphics/UI/BerryPots/arrowd
+Graphics/UI/BerryPots/cancel_btn
+Graphics/UI/BerryPots/cancel_btn
+Graphics/UI/BerryPots/
+Graphics/UI/BerryPots/
+Graphics/UI/BerryPots/#{@item}
+Graphics/UI/BerryPots/#{@item}
+Graphics/Items/#{@item}
+Graphics/Items/#{@item}
+Graphics/UI/BerryPots/space_watering_can
+Graphics/UI/BerryPots/space_watering_can
+{1} watered the plant.\wtnp[40]
+{1}(은)는 식물에 물을 주었다.\wtnp[40]
+Berry
+나무열매
+Apricorn
+규토리
+Plant Apricorn
+규토리 심기
+{1} has been laid down.<<1>>
+{1}(이)가 뿌려졌다.<<1>>
+You don't have any fertilizer!
+비료를 가지고 있지 않다!
+The {1} was scattered on the soil.<<1>>
+{1}(을) 흙에 뿌렸다.<<1>>
+It's soft, loamy soil.<<n>>Plant a berry?
+부드럽고 비옥한 흙이다.<<n>>나무열매를 심을까?
+It's soft, loamy soil.<<n>>Plant a berry or apricorn?
+부드럽고 비옥한 흙이다.<<n>>나무열매나 규토리를 심을까?
+It's soft, loamy soil.<<n>>Plant an apricorn?
+부드럽고 비옥한 흙이다.<<n>>규토리를 심을까?
+You don't have any Berries!
+나무열매를 가지고 있지 않다!
+You don't have any Apricorns!
+규토리를 가지고 있지 않다!
+\me[Berry get]You picked the {1} \c[1]{2}\c[0].\wtnp[30]
+\me[Berry get]\c[1]{2}\c[0] {1}개를 수확했다.\wtnp[30]
+\me[Berry get]You picked the \c[1]{1}\c[0].\wtnp[30]
+\me[Berry get]\c[1]{1}\c[0] 1개를 수확했다.\wtnp[30]
+{1} put the \c<<[>>1<<]>>{2}\c<<[>>0<<]>> in the <icon=bagPocket{3}>\c<<[>>1<<]>>{4}\c<<[>>0<<]>> Pocket.<<1>>
+{1}(은)는 \c<<[>>1<<]>>{2}\c<<[>>0<<]>>(을)를<icon=bagPocket{3}>\c<<[>>1<<]>>{4}\c<<[>>0<<]>> 포켓에 넣었다.<<1>>
+Score: {1}<<n>>Hits: {2}/{3}
+점수: {1} <<n>>타격 수: {2}/{3}
+Exit?
+그만할까?
+{1}'s {2} is maxed.
+{1}의 {2}(이)가 끝까지 올랐다.
+'{1}' is not a defined memento ({2}, PreviousRanks).
+'{1}' is not a defined memento ({2}, PreviousRanks).
+Bad size: {1} (must be 0-255).<<n>>{2}
+Bad size: {1} (must be 0-255).<<n>>{2}
+Size
+크기
+Size variance of the Pokémon (0-255).
+포켓몬의 다양한 크기. (0-255).
+Memento
+증표
+The memento adorned on the Pokémon. This determines its title.
+포켓몬을 꾸미는 증표. 이름 앞에 붙는다.
+Mementos...
+증표...
+Set Ribbons/Marks
+Set Ribbons/Marks
+Mementos:<<n>>{1}
+증표:<<n>>{1}
+Set Memento/Title
+Set Memento/Title
+{1} doesn't have any mementos that may grant it a title.
+{1} doesn't have any mementos that may grant it a title.
+<<[>>Random<<]>>
+<<[>>Random<<]>>
+<<[>>Remove<<]>>
+<<[>>Remove<<]>>
+Memento:<<n>>{1}.
+Memento:<<n>>{1}.
+{1} already has the title granted by that memento.
+{1} already has the title granted by that memento.
+Cleared {1}'s memento and title.
+Cleared {1}'s memento and title.
+{1} will now be known as<<n>>{2}.
+{1} will now be known as<<n>>{2}.
+Set size
+Set size
+Scale the Pokémon's size (max. 255).
+Scale the Pokémon's size (max. 255).
+{1} is now considered {2} in size.
+{1} is now considered {2} in size.
+Set player birthday
+플레이어 생일 지정
+Sets the month and day of the player's birthday.
+플레이어 생일의 월과 일을 지정해주세요.
+The player's birthdate was set to {1} {2}.
+플레이어 생일이 {1}월 {2}일로 지정되었습니다..
+#{new_title}
+#{new_title}
+#{title.first.upcase + title[1..title.length]}
+#{title.first.upcase + title[1..title.length]}
+Which month is your birthday in?
+당신의 생일은 몇 월입니까?
+Which day in {1} is your birthday?
+당신의 생일은 {1} 며칠입니까?
+So, your birthday is {1} {2}{3}, correct?
+{1} {2}일, 당신의 생일이 맞습니까?
+'{1}'
+'{1}'
+Type:
+타입:
+ID No.:
+ID No.:
+#{idnum}
+#{idnum}
+Rank:
+랭크:
+Name:
+이름:
+#{name}
+#{name}
+Title Conferred:
+붙는 칭호:
+#{title}
+#{title}
+View mementos:
+증표 보기:
+#{type}
+#{type}
+#{rank}
+#{rank}
+#{count}
+#{count}
+#{header}
+#{header}
+Confer title
+칭호 수여
+Remove title
+칭호 제거
+Sort mementos
+증표 정렬
+Would you like to remove {1}'s attached memento and conferred title?
+{1}에게 붙은 증표와 칭호를 제거하시겠습니까?
+{1}'s memento and any associated titles were removed.
+{1}의 증표와 관련 칭호가 제거되었다.
+Only highest rank
+최고랭크만
+Only ribbons
+리본만
+Only marks
+마크만
+Only contest ribbons
+콘테스트 리본만
+Only league ribbons
+리그 리본만
+Only frontier ribbons
+프론티어 리본만
+Only memorial ribbons
+증표만
+Only special ribbons
+특별한 리본만
+All mementos
+모든 증표
+This memento has multiple ranks.<<n>>Which title should be conferred?
+이 증표는 여러 랭크를 가지고 있습니다.<<n>>어떤 칭호를 수여하시겠습니까?
+{1} has already been conferred with this title...
+{1}(은)는 이미 이 칭호를 가지고 있다...
+Would you like to remove this attached memento from {1}?
+{1}에게서 이 증표를 제거하시겠습니까?
+{1} will now be known as<<n>>{2}!
+{1}(은)는 이제부터<<n>>{2}(으)로 불리게 되었다!
+Would you like to attach this memento and confer its title to {1}?
+{1}에게 이 증표와 그 칭호를 수여할까요?
+This memento doesn't have any associated title to confer...
+이 증표에는 수여할 수 있는 관련 칭호가 없습니다...
+Graphics/UI/DexNav/types
+Graphics/UI/DexNav/types
+>
+>
+<
+<
+< >
+< >
+No species in this area
+이 지역에는 포켓몬이 없다
+Chain: {1}
+체인: {1}
+What you want to do?
+무엇을 하시겠습니까?
+Search
+서치
+{1} registered, press Ctrl to search.
+{1}(이)가 등록되었습니다. Ctrl 을 눌러 서치해주세요.
+There is no option for this species yet.
+아직 이 포켓몬에 대한 옵션이 없습니다.
+DexNav
+도감내비
+Land
+지상
+Water
+수상
+Land - Action to change
+지상 - [Action] 키로 변경
+Water - Action to change
+수상 - [Action] 키로 변경
+Search Level
+서치 레벨
+Method
+방법
+Hidden Ability
+숨겨진 특성
+The Pokémon ran away!
+포켓몬은 도망쳤다!
+Max Steps: {1}; Coords {2},{3}; Active species: {4}
+최대 걸음 수: {1}; 좌표 {2},{3}; 활성 포켓몬: {4}
+Battler {1}
+Battler {1}
+Searching... \wtnp[5]... \wtnp[5]... \wtnp[5]
+서치중... \wtnp[5]... \wtnp[5]... \wtnp[5]
+</c2>{1}<<n>>{2}<<n>>{3}
+</c2>{1}<<n>>{2}<<n>>{3}
+Level {1} for {2} is not a valid level as it goes {3}. The level has been reset to {4}
+{2}의 레벨 {1}이 유효 레벨 범위를 벗어났습니다. 레벨이 {4}로 초기화되었습니다.
+{1} got a reduced {2} Exp. Points!
+{1}(은)는 줄어든 {2} 경험치를 얻었다!
+{1} refuses to eat the {2}.
+{1}(은)는 {2}(을)를 먹기를 거절했다.
+{1} gained {2} level(s) from {3} Rare Candies!
+{1}(은)는 이상한사탕 {3}개로 {2} 레벨 올랐다!
+Current Lvl Cap: {1}
+현재 레벨 캡: {1}
+Normal sprites
+노말 스프라이트
+Dynamax sprites
+다이맥스 스프라이트
+SHOW_DYNAMAX_SIZE is set to 'false', so no Dynamax metrics need to be set.
+SHOW_DYNAMAX_SIZE is set to 'false', so no Dynamax metrics need to be set.
+Are you sure you want to reposition all Dynamax sprites?
+Are you sure you want to reposition all Dynamax sprites?
+Half back sprites (Gen 4 style)
+Half back sprites (Gen 4 style)
+Full back sprites (Gen 5 style)
+Full back sprites (Gen 5 style)
+What style of back sprites are you using?
+What style of back sprites are you using?
+Repositioning all Dynamax sprites. Please wait.
+Repositioning all Dynamax sprites. Please wait.
+Toggle Dynamax
+Toggle Dynamax
+Toggles the availability of Dynamax functionality.
+Toggles the availability of Dynamax functionality.
+Dynamax {1}.
+Dynamax {1}.
+Determines which side Dynamax is disabled for.
+Determines which side Dynamax is disabled for.
+Choose a side to disable Dynamax for.
+Choose a side to disable Dynamax for.
+Dynamax settings...
+Dynamax settings...
+Edit Dynamax availability and Dynamax metrics.
+Edit Dynamax availability and Dynamax metrics.
+Dynamax usable on every map [{1}]
+Dynamax usable on every map [{1}]
+Dynamax usable in wild battles [{1}]
+Dynamax usable in wild battles [{1}]
+Edit Dynamax metrics
+Edit Dynamax metrics
+Auto-set Dynamax metrics
+Auto-set Dynamax metrics
+Dynamax is now usable on every map.
+Dynamax is now usable on every map.
+Dynamax is now only usable on maps with the 'PowerSpot' flag.
+Dynamax is now only usable on maps with the 'PowerSpot' flag.
+Dynamax is now also usable in wild battles.
+Dynamax is now also usable in wild battles.
+Dynamax is now only usable in trainer battles.
+Dynamax is now only usable in trainer battles.
+Plugin attributes...
+Plugin attributes...
+Dynamax...
+Dynamax...
+Eligible: {1}<<n>>Dynamax Level: {2}<<n>>G-Max Factor: {3}<<n>>Dynamaxed: {4}
+Eligible: {1}<<n>>Dynamax Level: {2}<<n>>G-Max Factor: {3}<<n>>Dynamaxed: {4}
+Set eligibility
+Set eligibility
+Set Dynamax Level
+Set Dynamax Level
+Set G-Max Factor
+Set G-Max Factor
+Set Dynamax
+Set Dynamax
+Reset All
+Reset All
+{1} belongs to a species or form that cannot currently use Dynamax.<<n>>Eligibility cannot be changed.
+{1} belongs to a species or form that cannot currently use Dynamax.<<n>>Eligibility cannot be changed.
+{1} is no longer able to use Dynamax.
+{1} is no longer able to use Dynamax.
+{1} is now able to use Dynamax.
+{1} is now able to use Dynamax.
+Set {1}'s Dynamax level (max. 10).
+Set {1}'s Dynamax level (max. 10).
+Can't edit Dynamax values on that Pokémon.
+Can't edit Dynamax values on that Pokémon.
+Gigantamax factor was removed from {1}.
+Gigantamax factor was removed from {1}.
+Gigantamax factor was given to {1}.
+Gigantamax factor was given to {1}.
+{1} doesn't have a Gigantamax form.<<n>>Give it Gigantamax factor anyway?
+{1} doesn't have a Gigantamax form.<<n>>Give it Gigantamax factor anyway?
+{1} is no longer Dynamaxed.
+{1} is no longer Dynamaxed.
+{1} is now Dynamaxed.
+{1} is now Dynamaxed.
+All Dynamax settings restored to default.
+All Dynamax settings restored to default.
+Whether each trainer is allowed to Dynamax.
+Whether each trainer is allowed to Dynamax.
+Choose trainer to toggle whether they can Dynamax.
+Choose trainer to toggle whether they can Dynamax.
+Dynamax values
+Dynamax values
+{1} Dynamax <<[>>Lvl: {2}<<]>> <<[>>G-Max: {3}<<]>><<n>>{4} currently Dynamaxed.
+{1} Dynamax <<[>>Lvl: {2}<<]>> <<[>>G-Max: {3}<<]>><<n>>{4} currently Dynamaxed.
+Set Dynamax Lvl
+Set Dynamax Lvl
+Set Dynamax state
+Set Dynamax state
+No Dynamax
+No Dynamax
+If set to true, the trainer will never Dynamax this Pokémon.
+If set to true, the trainer will never Dynamax this Pokémon.
+Dynamax Lv
+Dynamax Lv
+Dynamax level of the Pokémon (0-10).
+Dynamax level of the Pokémon (0-10).
+Gigantamax
+Gigantamax
+If set to true, the Pokémon will have G-Max Factor.
+If set to true, the Pokémon will have G-Max Factor.
+All sprites
+All sprites
+Gigantamax sprites
+Gigantamax sprites
+Sprites by generation...
+Sprites by generation...
+Which sprites do you want to edit?
+Which sprites do you want to edit?
+Select a generation.
+Select a generation.
+Dynamax Lv.
+다이맥스 레벨
+{1}'s Dynamax level was increased to 10!
+{1}의 다이맥스 레벨이 10까지 올랐다!
+{1}'s Dynamax level was increased by 1!
+{1}의 다이맥스 레벨이 1 만큼 올랐다!
+{1} lost its Gigantamax energy.
+{1}(은)는 거다이맥스 에너지를 잃었다.
+{1} is now bursting with Gigantamax energy!
+{1}(은)는 이제 거다이맥스 에너지로 충만하다!
+You don't have a {1} to charge!
+충전할 {1}(이)가 없다!
+You can't use this item while issuing orders at the same time!
+이 아이템은 명령과 동시에 사용할 수 없다!
+You don't need to recharge your {1} yet!
+{1}에는 아직 재충전할 필요가 없다!
+The {1} fully recharged {2}'s {3}!<<n>>{2} can use Dynamax again!
+{1}(이)가 {2}의 {3}(을)를 완전히 충전했다!<<n>>{2}(은)는 다시 다이맥스를 쓸 수 있다!
+{1}'s Dynamax energy faded!<<n>>It may now be captured!
+{1}의 다이맥스 에너지가 사라졌다!<<n>>이젠 잡히겠어!
+Dynamax Band
+다이맥스밴드
+{1} surrounded itself in {2} energy!
+{1}(은)는 {2} 에너지로 둘러싸였다!
+{1} recalled {2}!
+{1}(은)는 {2}의 부름에 응답했다!
+{1}'s ball surges with {2} energy!
+{1}의 볼이 {2} 에너지로 흘러넘친다!
+The sharp steel bit into {1}!
+뾰족한 쇳조각이 {1}(을)를 찔렀다!
+{1} is hurt by {2}'s ferocious beating!
+{1}(은)는 {2}의 채찍질에 데미지를 입었다!
+{1} is burning up within {2}'s flames!
+{1}(은)는 {2}의 불길에 타올랐다!
+{1} is hurt by {2}'s vortex!
+{1}(은)는 {2}의 와류에 데미지를 입었다!
+{1} is hurt by the rocks thrown out by {2}!
+{1}(은)는 {2}에서 던져진 바위에 데미지를 입었다!
+{1} was released from {2}'s beating!
+{1}(은)는 {2}의 맹공으로부터 해방됐다!
+{1} was released from {2}'s flames!
+{1}(은)는 {2}의 불길로부터 해방됐다!
+{1} was released from {2}'s vortex!
+{1}(은)는 {2}의 와류로부터 해방됐다!
+Rocks stopped being thrown out by {1} on {2}!
+{1}에서 {2}에게로 바위가 떨어지는 게 멈췄다!
+{1} couldn't fully protect itself and got hurt!
+{1}(은)는 공격을 완전히 방어하지 못하고 데미지를 입었다!
+{1} became drowsy!
+{1}(은)는 졸음이 쏟아졌다!
+{1} got trapped with vines!
+{1}(은)는 덩굴에 붙잡혔다!
+{1} were surrounded by fire!
+{1}(은)는 불꽃에 둘러싸였다!
+{1} got caught in a vortex of water!
+{1}(은)는 소용돌이에 갇혔다!
+{1} became surrounded by rocks!
+{1}(은)는 바위에 둘러싸였다!
+Sharp-pointed pieces of steel started floating around {1}!
+뾰족한 강철 조각이 {1} 주위에 떠 다니기 시작했다!
+{1} became stronger against physical and special moves!
+{1}에 대한 물리와 특수 기술의 데미지가 줄어들었다!
+{1} became trapped in the watery vortex!
+{1}(은)는 바다회오리에 갇혔다!
+{1}'s PP was reduced!
+{1}의 PP가 줄어들었다!
+Toggle Terastallization
+토글: 테라스탈
+Toggles the availability of Terastallization functionality.
+테라스탈 기능 활성 여부를 토글합니다.
+Terastallization {1}.
+테라스탈: {1}.
+Determines which side Terastallization is disabled for.
+Determines which side Terastallization is disabled for.
+Choose a side to disable Terastallization for.
+Choose a side to disable Terastallization for.
+Terastal settings...
+Terastal settings...
+Edit the player's Tera Orb and Pokémon Tera types.
+Edit the player's Tera Orb and Pokémon Tera types.
+Player's Tera Orb is charged [{1}]
+Player's Tera Orb is charged [{1}]
+Tera Orb has infinite charge [{1}]
+Tera Orb has infinite charge [{1}]
+Randomize Pokémon Tera types [{1}]
+Randomize Pokémon Tera types [{1}]
+The player's Tera Orb is now {1}.
+The player's Tera Orb is now {1}.
+The player's Tera Orb now requires {1} between uses.
+The player's Tera Orb now requires {1} between uses.
+New Pokémon will now generate with {1} Tera types.
+New Pokémon will now generate with {1} Tera types.
+Terastal...
+Terastal...
+Eligible: {1}<<n>>Tera type: {2}<<n>>Terastallized: {3}
+Eligible: {1}<<n>>Tera type: {2}<<n>>Terastallized: {3}
+Set Tera type
+Set Tera type
+Set Terastallized
+Set Terastallized
+{1} belongs to a species or form that cannot currently Terastallize.<<n>>Eligibility cannot be changed.
+{1} belongs to a species or form that cannot currently Terastallize.<<n>>Eligibility cannot be changed.
+{1} is no longer able to Terastallize.
+{1} is no longer able to Terastallize.
+{1} is now able to Terastallize.
+{1} is now able to Terastallize.
+{1}'s Tera type cannot be changed.
+{1}의 테라스탈타입은 바꿀 수 없다.
+{1}'s Tera type is now {2}.
+{1}의 테라스탈타입은 {2} 타입이 되었다.
+Can't edit Terastal values on that Pokémon.
+Can't edit Terastal values on that Pokémon.
+{1} changes form when Terastallized.<<n>>This may only occur in battle.
+{1} changes form when Terastallized.<<n>>This may only occur in battle.
+{1} is no longer Terastallized.
+{1} is no longer Terastallized.
+{1} is now Terastallized.
+{1} is now Terastallized.
+All Terastal settings restored to default.
+All Terastal settings restored to default.
+Whether each trainer is allowed to Terastallize.
+Whether each trainer is allowed to Terastallize.
+Choose trainer to toggle whether they can Terastallize.
+Choose trainer to toggle whether they can Terastallize.
+Terastal values
+Terastal values
+{1} Terastallize <<[>>Type: {2}<<]>><<n>>{3} currently Terastallized.
+{1} Terastallize <<[>>Type: {2}<<]>><<n>>{3} currently Terastallized.
+Set Terastal state
+Set Terastal state
+Not enough {1} remaining...
+남은 {1}(이)가 부족하다...
+You don't have enough {1}...<<n>>You need {2} shards to change a Pokémon's Tera type.
+{1}(이)가 부족하다...<<n>>포켓몬의 테라스탈 타입을 바꾸려면 {2}개가 필요하다.
+UNABLE
+불가능
+You don't have enough {1}...
+{1}(이)가 부족하다...
+Select a new Tera type for {1}.
+{1}의 새로운 테라스탈타입을 선택하세요.
+The {1} fully recharged {2}'s {3}!<<n>>{2} can use Terastallization again!
+{1}(이)가 {2}의 {3}(을)를 완전히 충전했다!<<n>>{2}(은)는 다시 테라스탈을 쓸 수 있다!
+No Tera
+테라 없음
+If set to true, the trainer will never Terastallize this Pokémon.
+true 설정 시 이 트레이너는 절대로 이 포켓몬을 테라스탈하지 않습니다.
+Tera Type
+테라스탈타입
+Tera type of the Pokémon.
+이 포켓몬의 테라스탈타입
+{1}'s Tera Jewel shattered!<<n>>It may now be captured!
+{1}의 테라주얼이 흩어졌다!<<n>>이제 잡히겠어!
+{1}'s Tera type changed to {2}!
+{1}의 테라스탈타입이 {2} 타입으로 바뀌었다!
+Tera Orb
+테라스탈오브
+{1} Terastallized into the {2}-type!
+{1}(은)는 {2}타입으로 테라스탈했다!
+{1} surrounded itself in Terastal energy!
+{1}(은)는 테라스탈 에너지를 휘감았다!
+{1} is reacting to {2}'s {3}!
+{1}(은)는 {2}의 {3}에 반응하고 있다!
+Dynamax Metre
+다이맥스미터
+EV/IV
+노력치/개체값
+Rank
+랭크
+Title Conferred
+수여된 칭호
+Infertile
+비생식성
+Aquatic
+수중
+Insect
+곤충
+Avian
+조류
+Animalia
+동물형
+Pixie
+요정
+Plant
+식물
+Primordial
+원시성
+Inanimate
+비생물성
+Marine
+해양성
+Replica
+복제성
+Draconic
+용성
+????
+????
+{1}{2}
+{1}{2}
+near a {1}
+{1}의 근처
+near an {1}
+{1}의 근처
+in a {1}
+{1} 안에서
+{1} trigger a special event
+{1}(을)를 지니고 특수 이벤트 발생 시
+Trade {1}
+{1}(을)를 교환한다.
+Or trade
+또는 교환
+{1} conclude a battle
+{1} 배틀 종료 후
+Level up {1}
+{1}의 레벨을 올린다
+Or level up
+또는 레벨 업
+{1} reach level {2} or higher
+{1}의 레벨을 {2} 이상 올린다
+May be left behind in an empty party slot after {1}
+{1} 후에 지닌포켓몬에 자리가 남아있을 것
+{1} through unknown means
+불명의 방법으로 {1}
+#{@description}
+#{@description}
+{1} {2}.
+{2} {1}.
+{1}.
+{1}.
+in the day
+낮 동안
+at night
+밤 동안
+in the morning
+아침 동안
+in the afternoon
+오후 동안
+during the evening
+저녁 사이에
+while the weather is clear
+날씨가 맑을 때
+while the sunlight is harsh
+날씨가 쾌청일 때
+while it's raining
+날씨가 비가 올 때
+while it's snowing
+날씨가 눈이 올 때
+during a sandstorm
+날씨가 모래바람일 때
+while traveling by bicycle
+자전거로 다닐 때
+while traveling over water
+물 위로 다닐 때
+while traveling underwater
+물 아래로 다닐 때
+while traveling in darkness
+깜깜한 곳을 다닐 때
+while there's a {1}-type in the party
+{1}타입 포켓몬이 지닌포켓몬에 있을 때
+while its {1} is higher than its {2}
+{1}(이)가 {2}보다 더 높을 때
+while its {2} is higher than its {1}
+{2}(이)가 {1}보다 더 높을 때
+while its {1} and {2} are equal
+{1}, {2} 둘 다 똑같을 때
+- results may vary
+: 랜덤
+- this may leave behind a husk afterwards
+: 그 뒤에 허물을 남긴다
+while it's happy
+친밀도가 높을 때
+while it's the happiest it can be
+최대로 친밀도가 높을 때
+in the day while it's happy
+친밀도가 높을 때 낮 동안
+at night while it's happy
+친밀도가 높을 때 밤 동안
+while it's happy and knows the move {1}
+친밀도가 높고 {1} 기술을 알고 있을 때
+while it's happy and knows {1}-type move
+친밀도가 높고 {1}타입 기술을 알고 있을 때
+while it's happy and holds {1}
+친밀도가 높고 {1}(을)를 지니고 있을 때
+while its beauty is high
+아름다움이 높을 때
+while it holds {1}
+{1}(을)를 지니고 있을 때
+in the day while it holds {1}
+{1}(을)를 지니고 있을 때 낮 동안
+at night while it holds {1}
+{1}(을)를 지니고 있을 때 밤 동안
+while it knows the move {1}
+{1} 기술을 알고 있을 때
+while it knows {1}-type move
+{1}타입 기술을 알고 있을 때
+while {1} is in the party
+{1}(이)가 지닌포켓몬에 있을 때
+while located in {1}
+{1}에 위치할 때
+while {1}
+{1}일 때
+while located in the {1} region
+{1} 지역에 위치할 때
+for {1}
+{1}에서
+where it landed {1} or more critical hits
+{1} 이상 급소를 맞췄을 때
+after losing at least 49 HP
+HP 49 이상을 잃은 후
+after walking {1} steps with it as party leader
+선두에 두고 {1}걸음을 걸은 후
+while you are partnered with another trainer
+다른 트레이너를 파트너로 둔 상태에서
+after it has used the move {1} 20 times
+{1} 기술을 20번 사용한 후
+after losing at least {1} HP to recoil
+{1} HP 이상을 반동으로 잃고 난 후
+after it beats 3 of its own kind that held {1}
+{1}(을)를 지닌 채로 동종을 3회 쓰러트린 후
+with atleast 999x {2} in the bag
+가방에 {2} 999개 이상 들어있을 경우
+Zen Mode
+달마모드
+Abilities
+특성
+Moves
+기술
+Jump to <c2=043c3aff>{1}</c2>'s entry page?
+<c2=043c3aff>{1}</c2>의 페이지로 점프합니까?
+View only <c2=043c3aff>compatible species</c2> that know the move <c2=65467b14>{1}</c2>?
+<c2=65467b14>{1}</c2> 기술을 습득 가능한 <c2=043c3aff>관련 포켓몬</c2>만 보시겠습니까?
+No compatible species found.
+관련 포켓몬을 찾을 수 없습니다.
+View <c2=043c3aff>all species</c2> that know the move <c2=65467b14>{1}</c2>?
+<c2=65467b14>{1}</c2> 기술을 습득 가능한 <c2=043c3aff>모든 포켓몬</c2>을 보시겠습니까?
+No species found.
+포켓몬을 찾을 수 없습니다.
+All species that learn this move:
+이 기술을 습득 가능한 모든 포켓몬:
+Graphics/UI/Pokedex/icon_own
+Graphics/UI/Pokedex/icon_own
+Compatible species that learn this move:
+이 기술을 습득 가능한 관련 포켓몬:
+Graphics/Pokemon/Eggs/000_icon
+Graphics/Pokemon/Eggs/000_icon
+LEVEL-UP
+레벨 업
+TM/TUTOR
+기술머신/가르침
+INHERIT
+유전 기술
+Z-MOVES
+Z기술
+MAX MOVES
+다이맥스 기술
+Graphics/Items/#{item.id}
+Graphics/Items/#{item.id}
+View Compatible
+관련 포켓몬 보기
+View Details
+자세히 보기
+Total: {1:3d}
+총합: {1:3d}
+{1:3d}
+{1:3d}
+View Family
+가계도 보기
+Z-Crystals
+Z크리스탈
+Toggle Z-Moves
+Toggle Z-Moves
+Toggles the availability of Z-Move functionality.
+Toggles the availability of Z-Move functionality.
+Z-Moves {1}.
+Z-Moves {1}.
+Determines which side Z-Moves are disabled for.
+Determines which side Z-Moves are disabled for.
+Choose a side to disable Z-Moves for.
+Choose a side to disable Z-Moves for.
+Toggle Ultra Burst
+Toggle Ultra Burst
+Toggles the availability of Ultra Burst functionality.
+Toggles the availability of Ultra Burst functionality.
+Ultra Burst {1}.
+울트라버스트 {1}.
+Determines which side Ultra Burst is disabled for.
+Determines which side Ultra Burst is disabled for.
+Choose a side to disable Ultra Burst for.
+Choose a side to disable Ultra Burst for.
+Z-Moves
+Z기술
+Whether each trainer is allowed to use Z-Moves.
+Whether each trainer is allowed to use Z-Moves.
+Choose trainer to toggle whether they can use Z-Moves.
+Choose trainer to toggle whether they can use Z-Moves.
+Whether each trainer is allowed to Ultra Burst.
+Whether each trainer is allowed to Ultra Burst.
+Choose trainer to toggle whether they can Ultra Burst.
+Choose trainer to toggle whether they can Ultra Burst.
+The move taught by a TM/HM/TR, or a Z-Move linked to a Z-Crystal.
+The move taught by a TM/HM/TR, or a Z-Move linked to a Z-Crystal.
+Alternate description of this item while it's being held by a Pokémon.
+Alternate description of this item while it's being held by a Pokémon.
+A move ID followed by any number of species ID's.
+A move ID followed by any number of species ID's.
+{1} is a Z-Crystal, but missing a Z-Move in the 'Move' field.<<n>>{2}
+{1} is a Z-Crystal, but missing a Z-Move in the 'Move' field.<<n>>{2}
+{1} is a Z-Crystal, but the 'ZCombo' field is missing a move or a species.<<n>>{2}
+{1} is a Z-Crystal, but the 'ZCombo' field is missing a move or a species.<<n>>{2}
+{1} is already holding a piece of {2}.
+{1}(은)는 {2}(을)를 이미 지니고 있다.
+{1} cannot currently use this crystal's Z-Power. Is that OK?
+{1}(은)는 지금은 이 Z크리스탈의 Z파워를 발휘하지 못합니다. 괜찮습니까?
+The piece of {1} will be given to {2} so that it may use its Z-Power!
+{2}(은)는 {1}(을)를 지녀 Z파워를 쓸 수 있게 됐다!
+{1} is already holding {2} {3}.<<1>>
+{1}(은)는 이미 {3}(을)를 지니고 있습니다.<<1>>
+You took {1}'s {2} and gave it a piece of {3}.
+{1}의 {2}(을)를 가져오고 {3}(을)를 건네줬다.
+{1} is now holding a piece of {2}!
+{1}(은)는 이제 {2}(을)를 지닌다!
+The {1} fully recharged {2}'s {3}!<<n>>{2} can use Z-Moves again!
+{2}의 {3}(이)가 {1}에 의해 완전히 충전되었다!<<n>>{2}(은)는 다시 Z기술을 쓸 수 있다!
+The Z-Power healed {1}!
+Z파워가 {1}(을)를 회복시켰다!
+{1} surrounded itself with its Z-Power!
+{1}(은)는 Z파워에 몸이 둘러싸였다!
+{1} unleashed its full force Z-Move!
+{1}(이)가 뿜어내는 전력의 Z기술!
+{1} restored its HP using its Z-Power!
+{1}(은)는 Z파워를 통해 HP를 회복했다!
+{1} boosted its critical hit ratio using its Z-Power!
+{1}(은)는 Z파워를 통해 기술이 급소에 맞기 쉬워졌다!
+{1} returned its decreased stats to normal using its Z-Power!
+{1}(은)는 Z파워를 통해 능력 하락을 원래대로 되돌렸다!
+{1} became the center of attention using its Z-Power!
+{1}(은)는 Z파워를 통해 주목의 대상이 되었다!
+{1} boosted its {2} using its Z-Power!
+{1}(은)는 Z파워를 통해 {2}(이)가 올랐다!
+{1}'s aura flared to life!
+{1}의 오라가 생명력을 폭발시킨다!
+{1}'s Z-Power was replenished by its aura!
+{1}의 Z파워가 그 오라를 다시 보충했다!
+{1}'s aura faded!<<n>>It may now be captured!
+{1}의 오라가 사라졌다!<<n>>이제 잡히겠어!
+Z-Ring
+Z링
+{1} is not compatible with {2}!
+{1}(은)는 {2}에 호환되지 않는다!
+{1}'s Ultra Burst faded!<<n>>It may now be captured!
+{1}의 울트라버스트가 사라졌다!<<n>>이제 잡히겠어!
+Bright light is about to burst out of {1}!
+눈부신 빛이 {1}에게서 뿜어져 나온다!
+{1} regained its true power with Ultra Burst!
+{1}(은)는 울트라버스트로 진정한 힘을 되찾았다!
+Exit. If you changed anything, asks if you want to keep changes.
+나가기. 변경사항이 있을 경우 적용할지 물어봅니다.
+Restore the default controls.
+초기의 조작 세팅으로 되돌립니다.
+Moves the character. Select entries and navigate menus.
+캐릭터를 이동합니다. 입력을 선택하거나 메뉴를 조작할 수도 있습니다.
+Confirm a choice, check things, talk to people, and move through text.
+선택을 결정하고, 사물을 조사하고, 말을 걸고, 텍스트를 넘깁니다.
+Exit, cancel a choice or mode, and move at field in a different speed.
+나가거나, 선택이나 조정의 취소, 그리고 필드에서 다른 속도로 움직이게 합니다.
+Open the menu. Also has various functions depending on context.
+메뉴를 엽니다. 또한 상황에 따라 다양한 기능을 가집니다.
+Advance quickly in menus.
+메뉴 창을 빠르게 넘깁니다.
+Open Ready Menu, with registered items and available field moves.
+등록된 아이템이나 필드 기술 등을 쓸 수 있는 퀵메뉴를 엽니다.
+Set the controls.
+조작 세팅을 설정했습니다.
+Default
+초기화
+Are you sure? Anyway, you can exit this screen without keeping the changes.
+정말로 적용하시겠습니까? 변경사항을 적용하지 않고 이 화면을 나갈 수도 있습니다.
+Replace new key
+새 키로 교체
+Add key
+키 추가
+Remove key
+키 제거
+Choose an assigned key.
+등록된 키를 선택하세요.
+You can't add more than {1} keys to an action!
+action에 할당하는 키는 {1}개 넘게 추가할 수 없습니다!
+You can't remove a key when there was only one!
+하나밖에 없는 할당 키를 제거할 수 없습니다!
+Controls
+조작
+Press a new key.
+새 키를 누르세요.
+Fill all fields!
+모든 필드를 채우세요!
+Speed Up Settings
+배속 세팅
+Always
+항상
+Only Battles
+배틀에서만
+Choose which aspect is sped up.
+언제 배속을 사용할지 정해주세요.
+Battle Speed
+배틀 배속 옵션
+x#{SPEEDUP_STAGES[0]}
+x#{SPEEDUP_STAGES[0]}
+x#{SPEEDUP_STAGES[1]}
+x#{SPEEDUP_STAGES[1]}
+x#{SPEEDUP_STAGES[2]}
+x#{SPEEDUP_STAGES[2]}
+Choose the battle speed when the battle speed-up is set to 'Battles Only'.
+배속 세팅에서 '배틀에서만'을 골랐을 때의 배틀 배속 옵션을 선택하세요.
+Hidden Power
+잠재파워
+Overworld Shadows
+오버월드 그림자
+EX
+EX
+EX++
+EX++
+MAX
+MAX
+Escoge qué tipo de sombra quieres que se aplique en el juego.
+게임에 적용할 그림자 유형을 선택하세요.
+No se aplicará ningún tipo de sombra.
+어떤 유형의 그림자도 적용되지 않습니다.
+Se aplicará una sombra sencilla.
+단순한 그림자가 적용됩니다.
+Mejoras estéticas para hacer más dinámica la sombra sencilla.
+단순한 그림자를 더 역동적으로 만들기 위한 미적 개선 사항입니다.
+Se aplicará una sombra dinámica que calza con la forma del Overworld.
+오버월드 스프라이트에 맞춰 동적 그림자를 생성합니다.
+Indicator Exist
+말풍선의 존재
+Change view of the indicator icons that NPCs use.
+NPC가 쓰는 말풍선 아이콘의 표시 여부를 바꿉니다.
+Indicator Style
+말풍선 스타일
+Standard
+스탠다드
+Change the indicator icons that NPCs use.
+NPC가 쓰는 말풍선 아이콘의 스타일을 바꿉니다.
+Indicator Movement
+말풍선 움직임
+Float
+떠 있기
+Object
+오브젝트
+Set NPC indicator icons to an extra animation or not.
+NPC 아이콘 말풍선의 애니메이션을 결정합니다.
+Indicator Type
+말풍선 유형
+Static
+가만있기
+Animated
+움직이기
+Choose to animate NPC indicator icons or make them static.
+NPC 말풍선 아이콘의 동작 여부를 선택합니다.
+Still
+가만히
+Normal
+보통
+Slowest
+가장 느리게
+Both
+둘 다
+Ally
+아군
+Enemy
+상대
+Set Animation Speed
+애니메이션 속도 설정
+Set Super Shiny Hue
+슈퍼 이로치 색감 설정
+Search for a specific species.
+특정 종류를 검색합니다.
+Pokémon Animations
+포켓몬 애니메이션
+Choose whether Pokémon sprites should be animated.
+포켓몬 스프라이트의 애니메이션 동작 여부를 결정합니다.
+＞
+＞
+＜
+＜
+＜ ＞
+＜ ＞
+View all abilities available to this species.
+이 종이 가질 수 있는 모든 특성을 봅니다.
+Unknown.
+불명.
+View all moves this species may learn.
+이 종이 배울 수 있는 모든 기술을 봅니다.
+Encounters
+만남
+Number Defeated:
+쓰러트린 횟수:
+Number Captured:
+포획한 횟수:
+General Statistics
+일반 특징
+Capture Success Rate: #{c}%
+포획 성공률: #{c}%
+This species is #{t[2]}always male
+성비: #{t[2]}수컷 100%
+This species is #{t[1]}always female
+성비: #{t[1]}암컷 100%
+This species is genderless
+성비: 무성
+This species is #{t[2]} #{m.to_s}% likely to be male
+성비: #{t[2]} 수컷 #{m.to_s}%
+This species is #{t[1]} #{m.to_s}% likely to be female
+성비: #{t[1]} 암컷 #{m.to_s}%
+This species has an equal gender ratio
+성비: 암수 50%
+#{t[0]}Held Items
+#{t[0]}Held Items
+Base Stats
+종족값
+Habitat
+서식지
+This species may be found roaming within wide open #{nt}{1}#{t[0]} areas.
+이 종은 넓은 #{nt}{1}#{t[0]} 지역에서 돌아다니는 걸 볼 수 있다.
+This species may be found within densely wooded areas, such as a #{nt}{1}#{t[0]}.
+이 종은 #{nt}{1}#{t[0]}과 같이 나무가 빽빽한 지역에서 볼 수 있다.
+This species may be found within areas near the #{nt}{1}#{t[0]}.
+이 종은 #{nt}{1}#{t[0]} 근처 지역에서 볼 수 있다.
+This species may be found roaming above or below bodies of water, such as the #{nt}{1}#{t[0]}.
+이 종은 #{nt}{1}#{t[0]}와 같이 물 위 또는 물 속에서 찾을 수 있다.
+This species may be found within dark and secluded areas, such as a #{nt}{1}#{t[0]}.
+이 종은 #{nt}{1}#{t[0]} 등, 어두컴컴하고 한적한 장소에서 볼 수 있다.
+This species may be found up high, scaling the sides of #{nt}{1}#{t[0]} ranges.
+이 종은 높고 경사가 가파른 #{nt}{1}#{t[0]} 등지에서 볼 수 있다.
+This species may be found within harsher locales with #{nt}{1}#{t[0]}.
+이 종은 #{nt}{1}#{t[0]}처럼 험준한 장소에서 볼 수 있다.
+This species may be found near man-made structures or within #{nt}{1}#{t[0]} areas.
+이 종은 #{nt}{1}#{t[0]} 지역처럼 인공구조물 근처나 내에서 볼 수 있다.
+This species may be found only in very #{nt}{1}#{t[0]} situations or locations.
+이 종은 굉장히 #{nt}{1}#{t[0]}한 상황이나 장소에서만 볼 수 있다.
+This species may be found in an unknown location.
+이 종이 발견되는 장소는 불명이다.
+unknown.
+불명.
+Morphology
+생김새
+This species is primarily #{nt}{1}#{t[0]} in color, and its body shape is just a #{nt2}{2}#{t[0]}.
+이 종의 색은 주로 #{nt}{1}#{t[0]}이고, 체형은 단지 #{nt2}{2}#{t[0]}이다.
+This species is primarily #{nt}{1}#{t[0]} in color, and its body has a #{nt2}{2}#{t[0]} shape.
+이 종의 색은 주로 #{nt}{1}#{t[0]}이고, 체형은 #{nt2}{2}#{t[0]}이다.
+This species is primarily #{nt}{1}#{t[0]} in color, and its body has an #{nt2}{2}#{t[0]} shape.
+이 종의 색은 주로 #{nt}{1}#{t[0]}이고, 체형은 #{nt2}{2}#{t[0]}이다.
+This species is primarily #{nt}{1}#{t[0]} in color, and its body is #{nt2}{2}#{t[0]} and shaped for swimming.
+이 종의 색은 주로 #{nt}{1}#{t[0]}이고, #{nt2}{2}#{t[0]}이라 수영에 적합하다.
+This species is primarily #{nt}{1}#{t[0]} in color, and its body shape can't be classified.
+이 종의 색은 주로 #{nt}{1}#{t[0]}이고, 체형은 정의할 수 없다.
+Breeding
+알 그룹
+This species is genderless, and may only breed with species in the #{t[1]}#{name}#{t[0]} group.
+This species is genderless, and may only breed with species in the #{t[1]}#{name}#{t[0]} group.
+This species is in the #{t[1]}#{name}#{t[0]} group, and may breed with species in all other groups.
+이 종은 #{t[1]}#{name}#{t[0]} 그룹이며, 다른 모든 알 그룹과 교배할 수 있다.
+This species is in the #{t[1]}#{name}#{t[0]} group, and is incapable of breeding.
+이 종은 #{t[1]}#{name}#{t[0]} 그룹이며, 교배는 불가능하다.
+This species may only breed with species in the {1} or {2} groups.
+이 종은 {1} 또는 {2} 그룹의 종이랑만 교배할 수 있다.
+This species may only breed with species in the {1} group.
+이 종은 오직 {1} 그룹의 종과 교배할 수 있다.
+Evolution Paths
+진화 경로
+Does not evolve.
+진화하지 않는다.
+Use various #{t[2]}Sweets#{t[0]} on #{name}.
+다양한 #{t[2]}스위츠#{t[0]}를 #{name}에게 사용한다.
+Evolution Method
+진화 방법
+#{region} Evolution
+#{region} Evolution
+Must be day for this form.
+낮에만 이 모습으로 진화한다.
+Must be night for this form.
+밤에만 이 모습으로 진화한다.
+Requires #{t[2]}{1}#{t[0]}.
+특성 #{t[2]}{1}#{t[0]}가 필요하다.
+Form depends on #{t[2]}Nature#{t[0]}.
+모습은 #{t[2]}성격#{t[0]}으로 결정된다.
+(Final stage)
+(마지막 페이지)
+Mega Evolution Method
+메가진화 방법
+Available when #{t[1]}{1}#{t[0]} triggers its held #{t[2]}{2}#{t[0]}.
+지니고 있는 #{t[2]}{2}#{t[0]}(을)를 #{t[1]}{1}#{t[0]}(이)가 발동시킨 경우.
+Available when #{t[1]}{1}#{t[0]} has the move #{t[2]}{2}#{t[0]}.
+기술로 #{t[1]}{1}#{t[0]}(이)가 #{t[2]}{2}#{t[0]}(을)를 알고 있는 경우.
+Primal Reversion Method
+원시회귀 방법
+Primal orb
+고대구슬
+Occurs when #{t[1]}{1}#{t[0]} enters battle with its held {2}.
+{2}(을)를 지닌 채로 #{t[1]}{1}#{t[0]}(이)가 배틀에 나왔을 경우 발생.
+a fused form of #{base_data.name}
+- #{base_data.name}의 합체한 모습
+Ultra Burst Method
+울트라버스트 방법
+Ultra item
+울트라도구
+Available when #{t[1]}{1}#{t[0]} triggers its held {2}.
+지니고 있는#{t[2]}{2}#{t[0]}(을)를 #{t[1]}{1}#{t[0]}(이)가 발동시킨 경우.
+any form of #{base_data.name}
+아무 모습: #{base_data.name}
+Gigantamax Method
+거다이맥스 방법
+Available when #{t[1]}{1}#{t[0]} has #{t[2]}G-Max Factor#{t[0]}.
+- #{t[1]}{1}#{t[0]}에게 #{t[2]}거다이인자#{t[0]}가 있을 경우
+Eternamax Method
+무한다이맥스 방법
+Terastal Form Method
+테라스탈 폼 방법
+Available when #{t[1]}{1}#{t[0]} triggers Terastallization.
+- #{t[1]}{1}#{t[0]}(이)가 테라스탈했을 경우.
+This is a #{t[1]}common#{t[0]} item that may be held by this species.
+이 종에겐 #{t[1]}흔하게#{t[0]} 발견되는 도구이다.
+This is an #{t[1]}uncommon#{t[0]} item that may be held by this species.
+이 종에겐 #{t[1]}흔치 않게#{t[0]} 발견되는 도구이다.
+This is a #{t[1]}rare#{t[0]} item that may be held by this species.
+이 종에겐 #{t[1]}희귀하게#{t[0]} 발견되는 도구이다.
+Moss Rock
+이끼낀 바위
+Ice Rock
+얼어붙은 바위
+magnetic area
+자성을 띤 장소
+special area
+특별한 장소
+Have #{full_name} trigger a special event
+Have #{full_name} trigger a special event
+Or trigger a special event
+또는 특별한 이벤트를 발생시킨다
+Expose #{full_name} to {1}
+Expose #{full_name} to {1}
+Or use {1}
+또는 {1}(을)를 사용한다
+Have #{full_name} conclude a battle
+Have #{full_name} conclude a battle
+Or conclude a battle
+또는 배틀을 끝낸다
+Have #{full_name} reach level {1} or higher
+Have #{full_name} reach level {1} or higher
+Or reach level {1} or higher
+또는 레벨을 {1} 이상 올린다
+May be left behind in an empty party slot after #{full_name} evolves
+May be left behind in an empty party slot after #{full_name} evolves
+May be left behind in an empty party slot after evolution
+진화 후 파티의 빈 자리에 남을 것이다
+Common
+흔함
+Uncommon
+가끔
+Slot #{list.index(id) + 1}
+슬롯 #{list.index(id) + 1}
+Hidden
+숨특
+Special
+특별
+Available as the #{t[1]}only#{t[0]} ability for this species.
+이 종에게 가능한 #{t[1]}유일한#{t[0]} 특성.
+Available as the #{t[1]}base#{t[0]} ability for this species.
+이 종에게 가능한 #{t[1]}기본적인#{t[0]} 특성.
+Available as the #{t[1]}primary#{t[0]} ability for this species.
+이 종에게 가능한 #{t[1]}첫번째#{t[0]} 특성.
+Available as the #{t[1]}secondary#{t[0]} ability for this species.
+이 종에게 가능한 #{t[1]}두번째#{t[0]} 특성.
+Available as a #{t[1]}hidden#{t[0]} ability for this species.
+이 종에게 가능한 #{t[1]}숨겨진#{t[0]} 특성.
+Available as a #{t[1]}special#{t[0]} ability for this species.
+이 종에게 가능한 #{t[1]}특별한#{t[0]} 특성.
+Learned by this species
+이 종의 습득 방법
+through #{t[1]}move relearning#{t[0]}
+- #{t[1]}기술 되살리기#{t[0]}
+upon #{t[1]}evolution#{t[0]}
+- #{t[1]}진화 시#{t[0]}
+at #{t[1]}level #{m[0]}#{t[0]}
+\\#{t[1]}Lv.#{m[0]}#{t[0]}
+through #{t[1]}inheritance#{t[0]}
+- #{t[1]}유전 기술#{t[0]}
+by visiting a #{t[1]}move tutor#{t[0]}
+- #{t[1]}기술 가르침#{t[0]}
+by using #{t[1]}#{item.name}#{t[0]}
+- #{t[1]}#{item.name} 사용#{t[0]}
+by using an #{t[1]}HM#{t[0]}
+- #{t[1]}비전머신#{t[0]}
+by using a #{t[1]}TM#{t[0]}
+- #{t[1]}기술머신#{t[0]}
+by using a #{t[1]}TR#{t[0]}
+- #{t[1]}기술레코드#{t[0]}
+through unknown means
+불명의 방법
+or
+또는
+{1} and {2}
+{1} (과)와 {2}
+Have {1} trigger a special event
+{1}(으)로 특별한 이벤트를 발생시킨다
+Expose {1} to {2}
+{1}에게 {2}(을)를 사용한다
+Have {1} conclude a battle
+{1}(으)로 배틀을 끝낸다
+Have {1} reach level {2} or higher
+{1}의 레벨을 {2} 이상 올린다
+May be left behind in an empty party slot after {1} evolves
+{1}(이)가 진화한 후 파티의 빈 자리에 남을 것이다
+{1} evolves through unknown means
+{1}(은)는 불명의 방법으로 진화한다
+Or through unknown means
+또는 불명의 방법을 통해서
+Capture Success Rate:
+포획 성공율:
+This species is {1}always male
+성비: {1}100% 수컷
+This species is {1}always female
+성비: {1}100% 암컷
+This species is {1} likely to be male
+성비: {1} 수컷
+This species is {1} likely to be female
+성비: {1} 암컷
+{1}Held Items
+{1}지닌물건
+This species may be found roaming within wide open {1} areas.
+이 종은 넓은 {1} 지역에서 돌아다니는 걸 볼 수 있다.
+This species may be found within densely wooded areas, such as a {1}.
+이 종은 {1}과 같이 나무가 빽빽한 지역에서 볼 수 있다.
+This species may be found within areas near the {1}.
+이 종은 {1} 근처 지역에서 볼 수 있다.
+This species may be found roaming above or below bodies of water, such as the {1}.
+이 종은 {1}와 같이 물 위 또는 물 속에서 찾을 수 있다.
+This species may be found within dark and secluded areas, such as a {1}.
+이 종은 {1} 등, 어두컴컴하고 한적한 장소에서 볼 수 있다.
+This species may be found up high, scaling the sides of {1} ranges.
+이 종은 높고 경사가 가파른 {1} 등지에서 볼 수 있다.
+This species may be found within harsher locales with {1}.
+이 종은 {1}처럼 험준한 장소에서 볼 수 있다.
+This species may be found near man-made structures or within {1} areas.
+이 종은 {1} 지역처럼 인공구조물 근처나 내에서 볼 수 있다.
+This species may be found only in very {1} situations or locations.
+이 종은 굉장히 {1}한 상황이나 장소에서만 볼 수 있다.
+This species is primarily {1} in color, and its body shape is just a {2}.
+이 종의 색은 주로 {1}이고, 체형은 단지 {2}이다.
+This species is primarily {1} in color, and its body has a {2} shape.
+이 종의 색은 주로 {1}이고, 체형은 {2}이다.
+This species is primarily {1} in color, and its body has an {2} shape.
+이 종의 색은 주로 {1}이고, 체형은 {2}이다.
+This species is primarily {1} in color, and its body is {2} and shaped for swimming.
+이 종의 색은 주로 {1}이고, {2}이라 수영에 적합하다.
+This species is primarily {1} in color, and its body shape can't be classified.
+이 종의 색은 주로 {1}이고, 체형은 정의할 수 없다.
+This species is genderless, and may only breed with species in the {1} group.
+이 종은 무성이며, 오직 {1} 그룹의 종이랑만 교배할 수 있다.
+This species is in the {1} group, and may breed with species in all other groups.
+이 종은 {1} 그룹에 속하며, 다른 모든 그룹과 교배할 수 있다.
+This species is in the {1} group, and is incapable of breeding.
+이 종은 {1} 그룹에 속하며, 교배는 불가능하다.
+Use various {1}Sweets{2} on {3}.
+다양한 {1}스위츠{2}를 {3}에게 사용한다.
+Requires {1}.
+특성 {1} (이)가 필요하다.
+Form depends on {1}Nature{2}.
+{1}성격{2}에 따라 모습이 결정된다.
+{1} Evolution
+{1} 진화
+Available when {1} triggers its held {2}.
+{1}(이)가 {2}(을)를 발동시키면 가능.
+Available when {1} has the move {2}.
+{1}(이)가 {2} 기술을 알면 가능.
+Occurs when {1} enters battle with its held {2}.
+{1}(이)가 {2}(을)를 지닌 채 배틀에 입장하면 발생.
+a fused form of {1}
+{1}의 합체한 모습
+any form of {1}
+{1}의 아무 모습
+Available when {1} has {2}G-Max Factor{3}.
+{1}(이)가 {2}거다이인자{3}를 가지면 가능.
+Available when {1} triggers Terastallization.
+{1}(이)가 테라스탈했을 경우 가능.
+This is a {1}common{2} item that may be held by this species.
+이 종에겐 {1}흔하게{2} 발견되는 도구이다.
+This is an {1}uncommon{2} item that may be held by this species.
+이 종에겐 {1}가끔씩{2} 발견되는 도구이다.
+This is a {1}rare{2} item that may be held by this species.
+이 종에겐 {1}희귀하게{2} 발견되는 도구이다.
+Available as the {1}only{2} ability for this species.
+이 종에게 가능한 {1}유일한{2} 특성.
+Available as the {1}base{2} ability for this species.
+이 종에게 가능한 {1}기본적인{2} 특성.
+Available as the {1}primary{2} ability for this species.
+이 종에게 가능한 {1}첫번째{2} 특성.
+Available as the {1}secondary{2} ability for this species.
+이 종에게 가능한 {1}두번째{2} 특성.
+Available as a {1}hidden{2} ability for this species.
+이 종에게 가능한 {1}숨겨진{2} 특성.
+Available as a {1}special{2} ability for this species.
+이 종에게 가능한 {1}특별한{2} 특성.
+through {1}move relearning{2}
+{1}기술 되살리기{2}
+upon {1}evolution{2}
+{1}진화 시{2}
+at {1}level {2}
+{1}Lv.{2}
+through {1}inheritance{2}
+{1}유전 기술{2}
+by visiting a {1}move tutor{2}
+{1}기술 가르침{2}
+by using {1}
+{1} 사용
+by using an {1}HM{2}
+{1}비전머신{2} 사용
+by using a {1}TM{2}
+{1}기술머신{2} 사용
+by using a {1}TR{2}
+{1}기술레코드{2} 사용
+{1} forgot how to use {2}.<<n>>And...
+{1} forgot how to use {2}.<<n>>And...
+{1}(은)는 {2}(을)를 잊었다.\<<n>>그리고...
+{1}(은)는 {2}(을)를 잊었다.\<<n>>그리고...
+Alolan
+알로라
+Galarian
+가라르
+Hisuian
+히스이
+Paldean
+팔데아
+Example Tip
+팁 예시
+This is the text of the tip. You can include formatting.
+이것은 팁의 텍스트입니다. 포맷팅을 포함할 수 있습니다.
+Catching Pokémon
+포켓몬 포획
+This is the text of the tip. You catch Pokémon by throwing a <c2=0999367C><b>Poké Ball</b></c2> at them.
+이것은 팁의 텍스트입니다. <c2=0999367C><b>몬스터볼</b></c2>을 포켓몬에게 던져 잡을 수 있습니다.
+This is the text of the tip with a bottom picture. You catch Pokémon by throwing a <c2=0999367C><b>Poké Ball</b></c2> at them.
+This is the text of the tip with a bottom picture. You catch Pokémon by throwing a <c2=0999367C><b>Poké Ball</b></c2> at them.
+This is the text of the other tip. You may find items lying around.
+This is the text of the other tip. You may find items lying around.
+This is the text of the other tip with a right picture. You may find items lying around.
+This is the text of the other tip with a right picture. You may find items lying around.
+Page 1
+페이지 1
+<al>This is the first page. <br>Introducing: all the characters!</al>
+<al>This is the first page. <br>Introducing: all the characters!</al>
+Page 2
+페이지 2
+<al>This is the second page. <br>Introducing: the vilain!</al>
+<al>This is the second page. <br>Introducing: the vilain!</al>
+Page 3
+페이지 3
+<al>This is the third page. <br>It's conflict time!</al>
+<al>This is the third page. <br>It's conflict time!</al>
+Page 4
+페이지 4
+<al>This is the final page. <br>It's resolution time!</al>
+<al>This is the final page. <br>It's resolution time!</al>
+Beginner Tips
+초심자 팁
+Catching Tips
+포획 팁
+Item Tips
+아이템 팁
+Book Alpha
+Book Alpha
+Graphics/Pictures/Tip Cards/#{Settings::TIP_CARDS_DEFAULT_BG}
+Graphics/Pictures/Tip Cards/#{Settings::TIP_CARDS_DEFAULT_BG}
+Graphics/Pictures/Tip Cards/arrow_right
+Graphics/Pictures/Tip Cards/arrow_right
+Graphics/Pictures/Tip Cards/arrow_left
+Graphics/Pictures/Tip Cards/arrow_left
+Graphics/Pictures/Tip Cards/#{info[:Background]}
+Graphics/Pictures/Tip Cards/#{info[:Background]}
+Graphics/Pictures/Tip Cards/Images/#{info[:Image]}
+Graphics/Pictures/Tip Cards/Images/#{info[:Image]}
+<ac>Tip not defined.</ac>
+<ac>팁이 정의되지 않았습니다.</ac>
+{1}/{2}
+{1}/{2}
+Graphics/Pictures/Tip Cards/group_header
+Graphics/Pictures/Tip Cards/group_header
+The current map has no MapPosition defined in the map_metadata.txt PBS file.
+The current map has no MapPosition defined in the map_metadata.txt PBS file.
+#{currency} is an invalid currency!
+#{currency} is an invalid currency!
+North Essen
+North Essen
+East Essen
+East Essen
+South Essen
+South Essen
+West Essen
+West Essen
+Central Essen
+Central Essen
+Central Tiall
+Central Tiall
+Normal Map
+노멀 맵
+Fly Map
+공중날기 맵
+Quest Map
+퀘스트 맵
+Berry Map
+나무열매 맵
+Roaming Map
+배회포켓몬 맵
+Trainer Map
+트레이너 맵
+No information Available
+정보없음
+A fairly old and loud town. It's a big and not so pretty place.
+A fairly old and loud town. It's a big and not so pretty place.
+<ac>The first Route in the Region and a home to Kurt.</ac>
+<ac>The first Route in the Region and a home to Kurt.</ac>
+The biggest City in Essen. It has a department store!
+The biggest City in Essen. It has a department store!
+The biggest City in Essen. It has a department store and what does it not have?
+The biggest City in Essen. It has a department store and what does it not have?
+The place to be when you're feeling tired and your Pokémon too of course.
+The place to be when you're feeling tired and your Pokémon too of course.
+A 6 floor tall building where you can almost buy anything you can imagine.
+A 6 floor tall building where you can almost buy anything you can imagine.
+A great place to spend the day but don't be mad if you're broke at the end!
+A great place to spend the day but don't be mad if you're broke at the end!
+Earn the Rainbow Badge by defeating Eric the Bug Type Gym Leader.
+Earn the Rainbow Badge by defeating Eric the Bug Type Gym Leader.
+A place for people that like to go to an institute...
+A place for people that like to go to an institute...
+A route with a lot of bridges.
+A route with a lot of bridges.
+Another Small Town. And a lot of text to fill the space here up to 3 lines yes yes baguette!
+Another Small Town. And a lot of text to fill the space here up to 3 lines yes yes baguette!
+A big Park and it's natural.
+A big Park and it's natural.
+Ice Cave
+Ice Cave
+A Route full with Trainers.
+A Route full with Trainers.
+An Icy Cold Cave located here... And still a lot of Trainers!
+An Icy Cold Cave located here... And still a lot of Trainers!
+Once a trainer has collected all 8 Badges, they are allowed to enter the League and challenge the E4 and Champion!
+Once a trainer has collected all 8 Badges, they are allowed to enter the League and challenge the E4 and Champion!
+The start of the Cycling Bridge.
+The start of the Cycling Bridge.
+The Cycling Bridge itself!
+The Cycling Bridge itself!
+The end of the Cycling Bridge
+The end of the Cycling Bridge
+A rocky route with mountains and caves and stuff.
+A rocky route with mountains and caves and stuff.
+Rock Cave
+Rock Cave
+Challenge the Brains of the Frontier! Which are just Humans.
+Challenge the Brains of the Frontier! Which are just Humans.
+A zone to go on Safari. What else would you do here?
+A zone to go on Safari. What else would you do here?
+Is this even a Route? It's just water and a waterfall.
+Is this even a Route? It's just water and a waterfall.
+The island which is home to the Pokémon named Deoxys.
+The island which is home to the Pokémon named Deoxys.
+The island which is home to the Pokémon named Mew and it's shiny!
+The island which is home to the Pokémon named Mew and it's shiny!
+There's something here but I don't know what!
+There's something here but I don't know what!
+All there's known about this place is that they sell Baguette!
+All there's known about this place is that they sell Baguette!
+There was no file named '#{file}' found.
+There was no file named '#{file}' found.
+DOWN
+DOWN
+LEFT
+LEFT
+RIGHT
+RIGHT
+UP
+UP
+Menu
+Menu
+ACTION
+ACTION
+BACK
+BACK
+Action
+Action
+USE
+USE
+Scroll Up
+Scroll Up
+JUMPUP
+JUMPUP
+Scroll Down
+Scroll Down
+JUMPDOWN
+JUMPDOWN
+Ready Menu
+Ready Menu
+SPECIAL
+SPECIAL
+Caps
+Caps
+pg Up
+pg Up
+pg Dn
+pg Dn
+prt Scr
+prt Scr
+Num 0
+Num 0
+Num 1
+Num 1
+Num 2
+Num 2
+Num 3
+Num 3
+Num 4
+Num 4
+Num 5
+Num 5
+Num 6
+Num 6
+Num 7
+Num 7
+Num 8
+Num 8
+Num 9
+Num 9
+Multi
+Multi
+Sep
+Sep
+Sub
+Sub
+Dec
+Dec
+Div
+Div
+Num
+Num
+Scroll
+Scroll
+Change Mode
+모드 변경
+Change Region
+지역 변경
+Enable Zoom
+줌 활성화
+Disable Zoom
+줌 비활성화
+Zoom In/Out
+줌 인/아웃
+Zoom In
+줌 인
+Zoom Out
+줌 아웃
+View Info
+정보 보기
+Hide Info
+정보 숨기기
+Extend Info
+정보 확장
+View Encounter Info
+조우 정보 보기
+Select Species
+종류 선택
+Reveal Seen Species
+마주친 종류 해금
+Hide Seen Species
+마주친 종류 숨기기
+Change Page
+페이지 변경
+Change Species
+종류 변경
+Change Info
+정보 변경
+Go Back
+뒤로 가기
+Search Location
+지역 검색
+Quick Search
+빠른 검색
+Sort Search
+정렬 검색
+Quick Fly
+빠른 이동
+View Quest
+퀘스트 보기
+Hide Quest
+퀘스트 숨기기
+View Quests
+퀘스트 보기
+Change Quest
+퀘스트 변경
+Show Berry
+나무열매 보기
+Show Berries
+나무열매 보기
+Change Berry
+나무열매 변경
+Hide Berry
+나무열매 숨기기
+Close Map
+맵 닫기
+No information given.
+정보 없음.
+Invalid Location
+유효하지 않은 지역
+#{questName.length} Active Quests
+#{questName.length} Active Quests
+Quest: #{questName[0]}
+Quest: #{questName[0]}
+Invalid Quest Position
+유효하지 않은 퀘스트 위치
+Not Given
+없음
+Which quest would you like to view info about?
+Which quest would you like to view info about?
+Which berry would you like to view info about?
+Which berry would you like to view info about?
+Encounter Type '#{type}' has not been added to EncounterTypes in 000_RegionMap_Settings.rb
+Encounter Type '#{type}' has not been added to EncounterTypes in 000_RegionMap_Settings.rb
+There was no file named 'map#{type}Box#{encKey}' found.
+There was no file named 'map#{type}Box#{encKey}' found.
+The Self Switch may only be assigned to 1 trainer
+The Self Switch may only be assigned to 1 trainer
+Game map with ID #{mapId} has either no or an invalid Map Position.
+Game map with ID #{mapId} has either no or an invalid Map Position.
+No rxdata file found for map #{mapId}
+No rxdata file found for map #{mapId}
+event #{eventId} does not exist on map #{mapId}
+event #{eventId} does not exist on map #{mapId}
+No Highlight Image defined for point '#{mapData[0]}, #{mapData[1]} - #{mapData[2]}' in PBS file: town_map.txt
+No Highlight Image defined for point '#{mapData[0]}, #{mapData[1]} - #{mapData[2]}' in PBS file: town_map.txt
+The Game Map '#{spot[0][0][:map]}' does not exist!
+The Game Map '#{spot[0][0][:map]}' does not exist!
+Quick Fly: Choose one of the available locations to fly to.
+빠른 공중날기: 공중날기로 가려는 유효한 장소를 고르세요.
+Quick traveling to {1}!
+{1}(으)로 빠른 이동을 했다!
+No Higlight Image found for point '#{@mapInfo[curPos][:realname].to_s}' in PBS file: town_map.txt
+No Higlight Image found for point '#{@mapInfo[curPos][:realname].to_s}' in PBS file: town_map.txt
+No Unvisited Image found for point '#{value[:realname]}' in PBS file: town_map.txt
+No Unvisited Image found for point '#{value[:realname]}' in PBS file: town_map.txt
+Which mode would you like to switch to?
+어떤 모드로 교체하시겠습니까?
+Which Region would you like to change to?
+어느 지방으로 바꾸시겠습니까?
+Game map: #{id}, #{name}: MapPosition = #{region[0]},#{region[1]},#{region[2]} => #{region[0]} is not a valid Region ID.
+Game map: #{id}, #{name}: MapPosition = #{region[0]},#{region[1]},#{region[2]} => #{region[0]} is not a valid Region ID.
+Map%03d.rxdata not found, please check your mapMetadata.txt PBS file
+Map%03d.rxdata not found, please check your mapMetadata.txt PBS file
+Choose a Location (press #{convertButtonToString(ARMSettings::OrderSearchButton)} to order the list.)
+지역을 선택해주세요 (리스트 정렬은 #{convertButtonToString(ARMSettings::OrderSearchButton)} 버튼.)
+There's no mapMetadata for map '#{$game_map.name}' with ID #{$game_map.map_id}.<<n>>Add it to the map_metadata.txt to fix this error!
+There's no mapMetadata for map '#{$game_map.name}' with ID #{$game_map.map_id}. <<n>>Add it to the map_metadata.txt to fix this error!
+#{map_metadata.name} has no mapPosition defined in map_metadata.txt PBS file.
+#{map_metadata.name} has no mapPosition defined in map_metadata.txt PBS file.
+Choose a Location (press #{convertButtonToString(ARMSettings::OrderSearchButton)} #{times} to undo the Quick Search.)
+Choose a Location (press #{convertButtonToString(ARMSettings::OrderSearchButton)} #{times} to undo the Quick Search.)
+Choose a Location (press #{convertButtonToString(ARMSettings::OrderSearchButton)} to unorder the list.)
+Choose a Location (press #{convertButtonToString(ARMSettings::OrderSearchButton)} to unorder the list.)
+You {1} \c[1]{2}\c[0]!
+\c[1]{2}\c[0](을)를 얻었다!
+You {1} {2} \c[1]{3} {4}\c[0]!
+You {1} {2} \c[1]{3} {4}\c[0]!
+You {1} \c[1]{2} {3}\c[0]!
+You {1} \c[1]{2} {3}\c[0]!
+You {1} {2} \c[1]{3}\c[0]!
+You {1} {2} \c[1]{3}\c[0]!
+You {1} an \c[1]{2}\c[0]!
+You {1} an \c[1]{2}\c[0]!
+You {1} a \c[1]{2}\c[0]!
+You {1} a \c[1]{2}\c[0]!
+Coins:<<n>><r>{1}
+코인:<<n>><r>{1}
+Please check the value of game variable #{@discount}, it's too high according to it's Discounts values
+Please check the value of game variable #{@discount}, it's too high according to it's Discounts values
+{1} Coin#{price.to_i > 1 ? 's' : ''}
+{1} 코인
+x{1}<r>{2}
+x{1}<r>{2}
+Be aware that when an item has a price of 1, discounts don't work.
+가격이 1이면 할인이 적용되지 않음에 주의하세요.
+You turned over the {1} and got {2}.
+You turned over the {1} and got {2}.
+The given stock does not exist
+The given stock does not exist
+The stock cannot be empty!
+The stock cannot be empty!
+The given speech does not exist
+The given speech does not exist
+#{random[0]} should be the refresh time and needs to be a string.
+#{random[0]} should be the refresh time and needs to be a string.
+#{random[1]} should be the amount of random items to select and needs to be an integer/number
+#{random[1]} should be the amount of random items to select and needs to be an integer/number
+#{random[0]} is not a supported refresh rate for random items, please use 'daily', '2daily' or 'weekly' instead.
+#{random[0]} is not a supported refresh rate for random items, please use 'daily', '2daily' or 'weekly' instead.
+Unknown filter given.
+Unknown filter given.
+No refresh rate was set for the items with a limit.
+No refresh rate was set for the items with a limit.
+The min limit can't be bigger than the max limit for :#{item[0]}
+The min limit can't be bigger than the max limit for :#{item[0]}
+#{stock} does not exist in the StockItems setting.
+#{stock} does not exist in the StockItems setting.
+Species with name: #{item[:name]} does not exist, please check the spelling.
+Species with name: #{item[:name]} does not exist, please check the spelling.
+Missing name:
+Missing name:
+There's no :amount defined for :#{item} in BonusItems.
+There's no :amount defined for :#{item} in BonusItems.
+:#{item} has no bonus item(s) defined in BonusItems (ignore if intented).
+:#{item} has no bonus item(s) defined in BonusItems (ignore if intented).
+And have {1} on the house! (Not all bonus items were added, not enough room in your bag.)
+And have {1} on the house! (Not all bonus items were added, not enough room in your bag.)
+You have not enough room in your bag for the bonus items.
+You have not enough room in your bag for the bonus items.
+Game variable #{var} is not a number!
+Game variable #{var} is not a number!
+Bill:<<n>><r>${1}
+영수증:<<n>><r>{1}원
+Bill:<<n>><r>{1} coins
+영수증:<<n>><r>{1} 코인
+Bill:<<n>><r>{1} BP
+영수증: <<n>><r>{1} BP
+In Basket:<r>#{@adapter.getQuantityBasket(item.id)}
+바구니:<r>#{@adapter.getQuantityBasket(item.id)}
+In Bag:<r>#{@adapter.getQuantity(item)}
+가방:<r>#{@adapter.getQuantity(item)}
+In Basket:<r>{1}
+바구니:<r>{1}
+Your Item list is too long, the following items won't be shown and used: #{mergeArrayToString(@stock[18..-1])}
+Your Item list is too long, the following items won't be shown and used: #{mergeArrayToString(@stock[18..-1])}
+Sell price of this item in Battle Points (BP). If blank, is half the purchase price.
+Sell price of this item in Battle Points (BP). If blank, is half the purchase price.
+Purchase price of this item in Coins
+Purchase price of this item in Coins
+Sell price of this item in Coins. If blank, is half the purchase price.
+Sell price of this item in Coins. If blank, is half the purchase price.
+The level for "#{species}" is set too high, the max level is "#{Settings::MAXIMUM_LEVEL}"!
+The level for "#{species}" is set too high, the max level is "#{Settings::MAXIMUM_LEVEL}"!
+Ability: the index cannot be lower than "0"
+Ability: the index cannot be lower than "0"
+Ability with Index: "#{value}" is invalid for "#{species.speciesName}"
+Ability with Index: "#{value}" is invalid for "#{species.speciesName}"
+Ability: "#{value}" does not exist!
+Ability: "#{value}" does not exist!
+Ability: "#{value}" cannot to be given to "#{species.speciesName}"!
+Ability: "#{value}" cannot to be given to "#{species.speciesName}"!
+Ability: "#{value}" must be either a Integer or Hash.
+Ability: "#{value}" must be either a Integer or Hash.
+Nickname: "#{value}" exceeds the max length of "#{Pokemon::MAX_NAME_SIZE}" for Species Nicknames.
+Nickname: "#{value}" exceeds the max length of "#{Pokemon::MAX_NAME_SIZE}" for Species Nicknames.
+Gender: "#{value}" is not a valid for "#{species.speciesName}".
+Gender: "#{value}" is not a valid for "#{species.speciesName}".
+Item: #{value} does not exist!
+Item: #{value} does not exist!
+Pokeball: #{value} does not exist!
+Pokeball: #{value} does not exist!
+Pokeball: #{value} is not a Poke Ball Item.
+Pokeball: #{value} is not a Poke Ball Item.
+Nature: #{value} does not exist!
+Nature: #{value} does not exist!
+Form: "#{value}" is not a valid form for "#{species.speciesName}".
+Form: "#{value}" is not a valid form for "#{species.speciesName}".
+Obtain Level: "#{value}" should not be higher than "#{species.level}" for "#{species.speciesName}".
+Obtain Level: "#{value}" should not be higher than "#{species.level}" for "#{species.speciesName}".
+Obtain Level: "#{value}" should be greater than or equal to 1.
+Obtain Level: "#{value}" should be greater than or equal to 1.
+Obtain Map: Map "#{value}" does not exist!
+Obtain Map: Map "#{value}" does not exist!
+Obtain Method: "#{value}" does not exist!
+Obtain Method: "#{value}" does not exist!
+Obtain Text: "#{value}" is not a string.
+Obtain Text: "#{value}" is not a string.
+Owner ID: "#{value}" should not be "#{value < 1 ?
+Owner ID: "#{value}" should not be "#{value < 1 ?
+Owner Name: "#{value}" exceeds the max length of "#{Settings::MAX_PLAYER_NAME_SIZE}" for NPC Names.
+Owner Name: "#{value}" exceeds the max length of "#{Settings::MAX_PLAYER_NAME_SIZE}" for NPC Names.
+Owner Gender: "#{value}" does not exist!
+Owner Gender: "#{value}" does not exist!
+Owner Language: "#{value}" does not exist!
+Owner Language: "#{value}" does not exist!
+IV: "#{value}" is not valid as IVs are disabled.
+IV: "#{value}" is not valid as IVs are disabled.
+IV: "#{type}" has a value of "#{value}" which cannot be "#{value < 1 ?
+IV: "#{type}" has a value of "#{value}" which cannot be "#{value < 1 ?
+EV: "#{value}" is not valid as EVs are disabled.
+EV: "#{value}" is not valid as EVs are disabled.
+EV: "#{type}" has a value of "#{value}" which cannot be "#{value < 1 ?
+EV: "#{type}" has a value of "#{value}" which cannot be "#{value < 1 ?
+EV: "#{type}" has a value of "#{value}" which will make the current total of "#{sumEV}" exceed the max EV limit of "#{Pokemon::EV_LIMIT}".
+EV: "#{type}" has a value of "#{value}" which will make the current total of "#{sumEV}" exceed the max EV limit of "#{Pokemon::EV_LIMIT}".
+Moves: "#{species.speciesName}" can only learn "#{Pokemon::MAX_MOVES}" moves at a time. If you give more, the first ones will be replaced each time.
+Moves: "#{species.speciesName}" can only learn "#{Pokemon::MAX_MOVES}" moves at a time. If you give more, the first ones will be replaced each time.
+Cannot Store: "#{value}" is not valid! Set to either "true" or "false".
+Cannot Store: "#{value}" is not valid! Set to either "true" or "false".
+Cannot Trade: "#{value}" is not valid! Set to either "true" or "false".
+Cannot Trade: "#{value}" is not valid! Set to either "true" or "false".
+Cannot Release: "#{value}" is not valid! Set to either "true" or "false".
+Cannot Release: "#{value}" is not valid! Set to either "true" or "false".
+Happiness: "#{value}" cannot be higher than 255.
+Happiness: "#{value}" cannot be higher than 255.
+Happiness: "#{value}" does not exist!
+Happiness: "#{value}" does not exist!
+Pokerus: "#{value}" is not a number!
+Pokerus: "#{value}" is not a number!
+Pokerus: "#{value}" cannot be #{value < 1 ?
+Pokerus: "#{value}" cannot be #{value < 1 ?
+Status: "#{value}" does not exist!
+Status: "#{value}" does not exist!
+{1} Active Quests
+{1} 개의 활성화된 퀘스트
+Quest: {1}
+퀘스트: {1}
+Choose a Location (press {1} to order the list.)
+지역을 선택해주세요 (리스트 정렬은 {1} 버튼.)
+Choose a Location (press {1} {2} to undo the Quick Search.)
+지역을 선택해주세요 (빠른 서치 취소는 {1} 버튼 {2}.)
+Choose a Location (press {1} to unorder the list.)
+지역을 선택해주세요 (리스트 정렬 해제는 {1} 버튼.)
+작은 꽃의 향기와 바닷바람 향기가 나는 마을
+작은 꽃의 향기와 바닷바람 향기가 나는 마을
+시작의 마을
+시작의 마을
+ABCD
+ABCD
+뭔가의 시작을 알리는 바람이 부는 마을
+뭔가의 시작을 알리는 바람이 부는 마을
+고풍스러운 마을의 풍경이 지금도 남아있는 마을
+고풍스러운 마을의 풍경이 지금도 남아있는 마을
+사람들과 포켓몬이 소박하게 살고 있는 마을
+사람들과 포켓몬이 소박하게 살고 있는 마을
+사람과 포켓몬이 오가는 발전한 대도시
+사람과 포켓몬이 오가는 발전한 대도시
+역사의 알려지지 않은 일면을 지금도 전해주는 마을
+역사의 알려지지 않은 일면을 지금도 전해주는 마을
+해조음의 멜로디가 들러오는 마을
+해조음의 멜로디가 들러오는 마을
+바다의 은혜로 생겨난 해변의 마을
+바다의 은혜로 생겨난 해변의 마을
+괴이한 기미가 감도는 시노비의 은둔 마을
+괴이한 기미가 감도는 시노비의 은둔 마을
+바위 표면을 개간한 신비의 산촌
+바위 표면을 개간한 신비의 산촌
+풀내음에 둘러싸인 조용한 여행의 길
+풀내음에 둘러싸인 조용한 여행의 길
+젊은 트레이너들이 승부를 즐기는 어린 풀의 길
+젊은 트레이너들이 승부를 즐기는 어린 풀의 길
+짧지만 기복이 심한 정겨운 자연 속의 길
+짧지만 기복이 심한 정겨운 자연 속의 길
+리니어와 삼다리가 교차하는 자연과 문화가 조화를 이루는 길
+리니어와 삼다리가 교차하는 자연과 문화가 조화를 이루는 길
+동굴을 빠져나와 도착하면 언제나 비가 내리는 길
+동굴을 빠져나와 도착하면 언제나 비가 내리는 길
+도시 근처에 있으며 초록빛 우거진 길
+도시 근처에 있으며 초록빛 우거진 길
+연못의 물빛이 눈에 편안히 빛나는 걷기 쉬운 길
+연못의 물빛이 눈에 편안히 빛나는 걷기 쉬운 길
+울창한 나무가 우거진 초록의 삼거리 길
+울창한 나무가 우거진 초록의 삼거리 길
+규토리 나무 세 그루가 상징인 트레이너에게 인상적인 길
+규토리 나무 세 그루가 상징인 트레이너에게 인상적인 길
+나무숲 속을 지나 목장으로 빠져나오는 임간 도로
+나무숲 속을 지나 목장으로 빠져나오는 임간 도로
+고원의 산들바람을 맞으며 언덕을 내려가는 계단 길
+고원의 산들바람을 맞으며 언덕을 내려가는 계단 길
+담청시티의 서쪽에서 바다로 이어져 가는 해조음 길
+담청시티의 서쪽에서 바다로 이어져 가는 해조음 길
+바다회오리가 여행자 앞을 가로막는 바다의 험난한 곳
+바다회오리가 여행자 앞을 가로막는 바다의 험난한 곳
+험준한 절구산 일부를 갈라 만든 산기슭 길
+험준한 절구산 일부를 갈라 만든 산기슭 길
+분노의 호수로 가는 길목
+분노의 호수로 가는 길목
+풍요로운 샘물과 초록이 넘치는 가슴 뛰는 길
+풍요로운 샘물과 초록이 넘치는 가슴 뛰는 길
+구불구불한 강가의 길은 마운틴 로드라고 불린다
+구불구불한 강가의 길은 마운틴 로드라고 불린다
+산기슭에서 평야까지 이어지는 귀향길
+산기슭에서 평야까지 이어지는 귀향길
+여행자를 떨게 하는 낭떠러지 절벽의 산길
+여행자를 떨게 하는 낭떠러지 절벽의 산길
+산을 넘어 사파리존으로 향하는 맑은 공기의 등산로
+산을 넘어 사파리존으로 향하는 맑은 공기의 등산로
+성도에서 관동으로 걸음을 내딛는 새로운 여행의 길
+성도에서 관동으로 걸음을 내딛는 새로운 여행의 길
+성스러운 은빛산에 이어지는 사람 사는 마을과 떨어진 숨은 산길
+성스러운 은빛산에 이어지는 사람 사는 마을과 떨어진 숨은 산길
+고대의 로망을 발견할 수 있는 장소
+고대의 로망을 발견할 수 있는 장소
+숯의 재료가 되는 나무를 많이 수확할 수 있는 숲
+숯의 재료가 되는 나무를 많이 수확할 수 있는 숲
+넓디 넓은 아름다운 공원
+넓디 넓은 아름다운 공원
+실력을 가늠하기 위해 각지에서 모여드는 장소
+실력을 가늠하기 위해 각지에서 모여드는 장소
+투명한 물을 가득 담은 큰 호수
+투명한 물을 가득 담은 큰 호수
+야생의 스릴을 안전하고 가볍게 체험할 수 있다.
+야생의 스릴을 안전하고 가볍게 체험할 수 있다.
+성도에서 관동 사이에 솟아 있는 성스러운 산
+성도에서 관동 사이에 솟아 있는 성스러운 산
+그 어떤 것에도 물들지 않은 새롭고 작은 마을
+그 어떤 것에도 물들지 않은 새롭고 작은 마을
+영원한 초록에 둘러싸인 아름다운 마을
+영원한 초록에 둘러싸인 아름다운 마을
+험준한 산과 돌에 둘러싸인 조용한 마을
+험준한 산과 돌에 둘러싸인 조용한 마을
+흐르는 물과 탐스러운 꽃이 아름다운 마을
+흐르는 물과 탐스러운 꽃이 아름다운 마을
+저녁놀에 그윽하게 물든 오렌지빛의 항구 마을
+저녁놀에 그윽하게 물든 오렌지빛의 항구 마을
+사람과 포켓몬이 모이는 풍요로운 무지개색 마을
+사람과 포켓몬이 모이는 풍요로운 무지개색 마을
+금빛으로 찬란하게 빛나는 관동 최고의 대도시
+금빛으로 찬란하게 빛나는 관동 최고의 대도시
+보랏빛의 고귀함이 배어있는 작은 마을
+보랏빛의 고귀함이 배어있는 작은 마을
+옛것과 새로움이 교체되는 마을
+옛것과 새로움이 교체되는 마을
+화산의 분화로 휩쓸려버린 과거의 마을
+화산의 분화로 휩쓸려버린 과거의 마을
+우거진 녹음과 턱이 울퉁불퉁한 시골길
+우거진 녹음과 턱이 울퉁불퉁한 시골길
+숲 입구의 구불구불 구부러진 길
+숲 입구의 구불구불 구부러진 길
+하늘에서 쏟아진 돌이 크레이터를 판 길
+하늘에서 쏟아진 돌이 크레이터를 판 길
+완만한 슬로프가 즐거운 일방통행 비탈길
+완만한 슬로프가 즐거운 일방통행 비탈길
+지하통로로 향하는 입구가 있는 노랑시티의 북쪽 길
+지하통로로 향하는 입구가 있는 노랑시티의 북쪽 길
+지하통로로 향하는 입구가 있는 노랑시티의 남쪽 길
+지하통로로 향하는 입구가 있는 노랑시티의 남쪽 길
+봉쇄된 지하통로로의 입구가 있는 짧은 길
+봉쇄된 지하통로로의 입구가 있는 짧은 길
+작은 바위산과 턱이 미로를 형성한 길
+작은 바위산과 턱이 미로를 형성한 길
+운하를 따라서 발전소로 빠져나오는 길
+운하를 따라서 발전소로 빠져나오는 길
+산뜻한 바람이 부는 초록의 초원 길
+산뜻한 바람이 부는 초록의 초원 길
+낚시의 명소 삼다리 별명은 고요한 다리
+낚시의 명소 삼다리 별명은 고요한 다리
+좁은 통로에 트레이너가 기다리는 단련의 길
+좁은 통로에 트레이너가 기다리는 단련의 길
+잔물결과 함께 부는 바람이 기분 좋은 해안 길
+잔물결과 함께 부는 바람이 기분 좋은 해안 길
+가로수 사이를 통과하여 해안으로 빠져나오는 길
+가로수 사이를 통과하여 해안으로 빠져나오는 길
+쾌적한 사이클링 로드의 북쪽 출발점
+쾌적한 사이클링 로드의 북쪽 출발점
+바다 위에서 페달을 가볍게 밟는 비탈길 사이클링 로드
+바다 위에서 페달을 가볍게 밟는 비탈길 사이클링 로드
+쾌적한 사이클링 로드의 남쪽 종착점
+쾌적한 사이클링 로드의 남쪽 종착점
+홍련섬 분화의 영향으로 바위가 무너진 바다로의 길
+홍련섬 분화의 영향으로 바위가 무너진 바다로의 길
+수영하는 사람들에게 인기 있는 바닷길 한가운데쯤에는 쌍둥이섬이 있다
+수영하는 사람들에게 인기 있는 바닷길 한가운데쯤에는 쌍둥이섬이 있다
+화산만이 남은 대자연의 경이로움을 느끼게 하는 바닷길
+화산만이 남은 대자연의 경이로움을 느끼게 하는 바닷길
+점점 험난함이 더해져 가는 챔피언로드로의 길
+점점 험난함이 더해져 가는 챔피언로드로의 길
+강 위에 일직선으로 놓여진 경치가 아름다운 다리 길
+강 위에 일직선으로 놓여진 경치가 아름다운 다리 길
+숲길을 빠져나온 끝에는 바다를 내려다보는 등대가 있다
+숲길을 빠져나온 끝에는 바다를 내려다보는 등대가 있다
+이 앞의 시련을 예감하게 되는 기복이 심한 산길
+이 앞의 시련을 예감하게 되는 기복이 심한 산길
+벌레포켓몬이 많고 풍요로운 자연이 남아 있는 숲
+벌레포켓몬이 많고 풍요로운 자연이 남아 있는 숲
+이상한 힘을 간직한 별이 쏟아져 내리는 산
+이상한 힘을 간직한 별이 쏟아져 내리는 산
+포켓몬리그에 도전하는 트레이너들의 시련의 길
+포켓몬리그에 도전하는 트레이너들의 시련의 길
+넘버원을 노리는 트레이너의 운명이 기다리고 있는 장소
+넘버원을 노리는 트레이너의 운명이 기다리고 있는 장소
+Skills
+스킬
+Not enough PP...
+PP가 부족하다...
+This move can't be used right now.
+이 기술은 지금은 쓸 수 없다.
+{1}'s {2} {3}
+{1}'s {2} {3}
+{1} restored the party's HP!
+{1}(은)는 지닌 포켓몬의 HP를 치료했다!
+{1} restored the party's condition!
+{1}(은)는 지닌 포켓몬의 상태를 치료했다!
+Sketch from which Pokémon?
+어느 포켓몬에게서 스케치할까?
+Sketch which of {1}'s moves?
+{1}의 어떤 기술을 스케치할까?
+{1} can't be sketched.
+{1}(은)는 스케치할 수 없다.
+Sketch {1}?
+{1}(을)를 스케치할까?
+\se[]{1} learned {2}!\se[Pkmn move learnt]
+\se[]{1}(은)는 {2}(을)를 배웠다!\se[Pkmn move learnt]
+{1} caught a glimpse of this Egg's future...
+{1}(은)는 이 알의 미래의 편린을 엿보았다...
+{1} may learn {2} at level {3}.
+{1}(은)는 {2}(을)를 {3}레벨에 배우리라.
+{1}'s future is too vast to read.
+{1}의 미래를 읽기엔 너무나 방대하다.
+너울 정보 없음.
+너울 정보 없음.
+힘을 조절하여 {1}의<<n>>결정타를 피했다!
+힘을 조절하여 {1}의<<n>>결정타를 피했다!
+우리 편은 새하얀 안개로 둘러싸였다!
+우리 편은 새하얀 안개로 둘러싸였다!
+우리 편의 급소가 주술의 힘으로 숨겨졌다!
+우리 편의 급소가 주술의 힘으로 숨겨졌다!
+우리 편은 신비의부적으로 보호받고 있다!
+우리 편은 신비의부적으로 보호받고 있다!
+우리 편은 물리공격에 강해졌다!
+우리 편은 물리공격에 강해졌다!
+우리 편은 특수공격에 강해졌다!
+우리 편은 특수공격에 강해졌다!
+상대 편의 발밑에 압정이 깔렸다!
+상대 편의 발밑에 압정이 깔렸다!
+너울염주의 힘으로 시공간이 뒤틀어졌다!
+너울염주의 힘으로 시공간이 뒤틀어졌다!
+우리 편의 뒤에서 순풍이 불기 시작했다!
+우리 편의 뒤에서 순풍이 불기 시작했다!
+우리 편에 무지개가 떠올랐다!
+우리 편에 무지개가 떠올랐다!
+상대 편은 불바다로 둘러싸였다!
+상대 편은 불바다로 둘러싸였다!
+상대 편에 늪지대가 깔렸다!
+상대 편에 늪지대가 깔렸다!
+{1}에게 스러져간 동료들의 소망이 모여들었다!
+{1}에게 스러져간 동료들의 소망이 모여들었다!
+{1}에게 스러져간 동료의 소망이 닿았다!
+{1}에게 스러져간 동료의 소망이 닿았다!
+{1}'s {2} ran out of PP...
+{1}의 {2}(은)는 PP가 다 떨어졌다...
+{1}'s {2} had its PP reduced by #{reduce}!
+{1}의 {2}의 PP가 #{reduce}만큼 줄었다!
+낚싯바늘도 없이 낚시할 수는 없다!
+낚싯바늘도 없이 낚시할 수는 없다!
+이 채비는 이미 있습니다.
+이 채비는 이미 있습니다.
+어? 바늘 끝에 뭐가 걸려 있다.
+어? 바늘 끝에 뭐가 걸려 있다.
+바늘에 걸린 {1}(을)를 획득했다!
+바늘에 걸린 {1}(을)를 획득했다!
+{1}(은)는 갑자기 물 밖으로 끌려나와 혼란에 빠졌다!
+{1}(은)는 갑자기 물 밖으로 끌려나와 혼란에 빠졌다!
+You put the {1} in\<<n>>your Bags <icon=bagPocket{2}>\c<<[>>1<<]>>{3}\c<<[>>0<<]>> pocket.
+You put the {1} in\<<n>>your Bags <icon=bagPocket{2}>\c<<[>>1<<]>>{3}\c<<[>>0<<]>> pocket.
+You put the {1} i\<<n>>your Bag's <icon=bagPocket{2}>\c<<[>>1<<]>>{3}\c<<[>>0<<]>> pocket.
+You put the {1} i\<<n>>your Bag's <icon=bagPocket{2}>\c<<[>>1<<]>>{3}\c<<[>>0<<]>> pocket.
+쓰레기통에는 쓸만한 게 없다.
+쓰레기통에는 쓸만한 게 없다.
+쓰레기통을 뒤져보았지만 쓸만한 게 없었다...
+쓰레기통을 뒤져보았지만 쓸만한 게 없었다...
+쓰레기통에는 정체불명의 쓰레기만 있다...
+쓰레기통에는 정체불명의 쓰레기만 있다...
+드릴의 나선력이 {1}에게 힘을 싣는다!
+드릴의 나선력이 {1}에게 힘을 싣는다!
+{1}의 꿈이 {2}에게 흡수된다!
+{1}의 꿈이 {2}에게 흡수된다!
+{1}이(가) 위압을 발산하고 있다!
+{1}이(가) 위압을 발산하고 있다!
+{1}의 {2}!
+{1}의 {2}!
+거센 바람이 필드의 함정을 날려버렸다!
+거센 바람이 필드의 함정을 날려버렸다!
+{1}의 능력은 떨어지지 않는다!
+{1}의 능력은 떨어지지 않는다!
+{1}의 {2}가 능력 저하를 막는다!
+{1}의 {2}가 능력 저하를 막는다!
+<r>{1}
+<r>{1}      
+An Item as currency is not supported for this type of market, it'll not use money as the currency instead.
+An Item as currency is not supported for this type of market, it'll not use money as the currency instead.
+Selling is not allowed when using an Item as the currency for the store, please disable selling for this event.
+Selling is not allowed when using an Item as the currency for the store, please disable selling for this event.
+#{currency} was not found in the Items PBS and cannot be used as the currency.
+#{currency} was not found in the Items PBS and cannot be used as the currency.
+The specific currency for an item can only be another item, #{item.last[1]} is not allowed as the currency for #{item[0]}
+The specific currency for an item can only be another item, #{item.last[1]} is not allowed as the currency for #{item[0]}
+{1} survived the poisoning.\nThe poison faded away!
+{1}(은)는 독을 견뎌냈다.\n독이 말끔히 사라졌다!
+You put the {1} in\nyour Bag's <icon=bagPocket{2}>\c[1]{3}\c[0] pocket.
+{1}(을)를 가방의\n<icon=bagPocket{2}>\c<<[>>1<<]>>{3}\c<<[>>0<<]>> 포켓에 넣었다.
+{1} forgot how to use {2}.\nAnd...
+{1}(은)는 {2}(을)를 잊었다.\n그리고...

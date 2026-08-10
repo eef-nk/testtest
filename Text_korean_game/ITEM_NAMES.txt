@@ -1,0 +1,710 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ITEM_NAMES]
+가라르위시
+가라르위시
+테라버스
+테라버스
+Black Augurite
+검은휘석
+Peat Block
+피트블록
+Linking Cord
+연결의끈
+Adamant Crystal
+큰금강옥
+Lustrous Globe
+큰백옥
+Legend Plate
+레전드플레이트
+Blank Plate
+순백플레이트
+Hopo Berry
+호포열매
+Griseous Core
+큰백금옥
+Feather Ball
+페더볼
+Wing Ball
+윙볼
+Jet Ball
+제트볼
+Leaden Ball
+메가톤볼
+Gigaton Ball
+기가톤볼
+Origin Ball
+오리진볼
+Strange Ball
+스트레인지볼
+Auspicious Armor
+축복받은갑옷
+Malicious Armor
+저주받은갑옷
+Scroll of Darkness
+악의족자
+Scroll of Waters
+물의족자
+Leader's Crest
+대장의징표
+Booster Energy
+부스트에너지
+Ability Shield
+특성가드
+Clear Amulet
+클리어참
+Mirror Herb
+흉내허브
+Punching Glove
+펀치글러브
+Covert Cloak
+은밀망토
+Loaded Dice
+속임수주사위
+Gimmighoul Coin
+모으령의코인
+Tiny Bamboo Shoot
+작은죽순
+Big Bamboo Shoot
+큰죽순
+Rotom Phone
+스마트로토무
+Scarlet Book
+스칼렛북
+Violet Book
+바이올렛북
+Health Mochi
+체력떡
+Muscle Mochi
+근력떡
+Resist Mochi
+저항떡
+Genius Mochi
+지력떡
+Clever Mochi
+정신력떡
+Swift Mochi
+순발력떡
+Fresh-Start Mochi
+순백떡
+Fairy Feather
+요정의깃털
+Syrupy Apple
+꿀맛사과
+Unremarkable Teacup
+범작찻잔
+Masterpiece Teacup
+걸작찻잔
+Wellspring Mask
+우물의가면
+Hearthflame Mask
+화덕의가면
+Cornerstone Mask
+주춧돌의가면
+Teal Mask
+벽록의가면
+Metal Alloy
+복합금속
+Indigo Disk
+남청의디스크
+Mythical Pecha Berry
+환상복슝
+Synchro Machine
+싱크로머신
+Meteorite
+운석
+Briar's Book
+제로의비보
+TM001
+TM001
+TM002
+TM002
+TM003
+TM003
+TM004
+TM004
+TM005
+TM005
+TM006
+TM006
+TM007
+TM007
+TM008
+TM008
+TM009
+TM009
+TM010
+TM010
+TM011
+TM011
+TM012
+TM012
+TM013
+TM013
+TM014
+TM014
+TM015
+TM015
+TM016
+TM016
+TM017
+TM017
+TM018
+TM018
+TM019
+TM019
+TM020
+TM020
+TM021
+TM021
+TM022
+TM022
+TM023
+TM023
+TM024
+TM024
+TM025
+TM025
+TM026
+TM026
+TM027
+TM027
+TM028
+TM028
+TM029
+TM029
+TM030
+TM030
+TM031
+TM031
+TM032
+TM032
+TM033
+TM033
+TM034
+TM034
+TM035
+TM035
+TM036
+TM036
+TM037
+TM037
+TM038
+TM038
+TM039
+TM039
+TM040
+TM040
+TM041
+TM041
+TM042
+TM042
+TM043
+TM043
+TM044
+TM044
+TM045
+TM045
+TM046
+TM046
+TM047
+TM047
+TM048
+TM048
+TM049
+TM049
+TM050
+TM050
+TM051
+TM051
+TM052
+TM052
+TM053
+TM053
+TM054
+TM054
+TM055
+TM055
+TM056
+TM056
+TM057
+TM057
+TM058
+TM058
+TM059
+TM059
+TM060
+TM060
+TM061
+TM061
+TM062
+TM062
+TM063
+TM063
+TM064
+TM064
+TM065
+TM065
+TM066
+TM066
+TM067
+TM067
+TM068
+TM068
+TM069
+TM069
+TM070
+TM070
+TM071
+TM071
+TM072
+TM072
+TM073
+TM073
+TM074
+TM074
+TM075
+TM075
+TM076
+TM076
+TM077
+TM077
+TM078
+TM078
+TM079
+TM079
+TM080
+TM080
+TM081
+TM081
+TM082
+TM082
+TM083
+TM083
+TM084
+TM084
+TM085
+TM085
+TM086
+TM086
+TM087
+TM087
+TM088
+TM088
+TM089
+TM089
+TM090
+TM090
+TM091
+TM091
+TM092
+TM092
+TM093
+TM093
+TM094
+TM094
+TM095
+TM095
+TM096
+TM096
+TM097
+TM097
+TM098
+TM098
+TM099
+TM099
+TM101
+TM101
+TM102
+TM102
+TM103
+TM103
+TM104
+TM104
+TM105
+TM105
+TM106
+TM106
+TM107
+TM107
+TM108
+TM108
+TM109
+TM109
+TM110
+TM110
+TM111
+TM111
+TM112
+TM112
+TM113
+TM113
+TM114
+TM114
+TM115
+TM115
+TM116
+TM116
+TM117
+TM117
+TM118
+TM118
+TM119
+TM119
+TM120
+TM120
+TM121
+TM121
+TM122
+TM122
+TM123
+TM123
+TM124
+TM124
+TM125
+TM125
+TM126
+TM126
+TM127
+TM127
+TM128
+TM128
+TM129
+TM129
+TM130
+TM130
+TM131
+TM131
+TM132
+TM132
+TM133
+TM133
+TM134
+TM134
+TM135
+TM135
+TM136
+TM136
+TM137
+TM137
+TM138
+TM138
+TM139
+TM139
+TM140
+TM140
+TM141
+TM141
+TM142
+TM142
+TM143
+TM143
+TM144
+TM144
+TM145
+TM145
+TM146
+TM146
+TM147
+TM147
+TM148
+TM148
+TM149
+TM149
+TM150
+TM150
+TM151
+TM151
+TM152
+TM152
+TM153
+TM153
+TM154
+TM154
+TM155
+TM155
+TM156
+TM156
+TM157
+TM157
+TM158
+TM158
+TM159
+TM159
+TM160
+TM160
+TM161
+TM161
+TM162
+TM162
+TM163
+TM163
+TM164
+TM164
+TM165
+TM165
+TM166
+TM166
+TM167
+TM167
+TM168
+TM168
+TM169
+TM169
+TM170
+TM170
+TM172
+TM172
+TM173
+TM173
+TM174
+TM174
+TM175
+TM175
+TM176
+TM176
+TM177
+TM177
+TM178
+TM178
+TM179
+TM179
+TM180
+TM180
+TM181
+TM181
+TM182
+TM182
+TM183
+TM183
+TM184
+TM184
+TM185
+TM185
+TM186
+TM186
+TM187
+TM187
+TM188
+TM188
+TM189
+TM189
+TM190
+TM190
+TM191
+TM191
+TM192
+TM192
+TM193
+TM193
+TM194
+TM194
+TM195
+TM195
+TM196
+TM196
+TM197
+TM197
+TM198
+TM198
+TM199
+TM199
+TM200
+TM200
+TM201
+TM201
+TM202
+TM202
+TM203
+TM203
+TM204
+TM204
+TM205
+TM205
+TM206
+TM206
+TM207
+TM207
+TM208
+TM208
+TM209
+TM209
+TM210
+TM210
+TM211
+TM211
+TM212
+TM212
+TM213
+TM213
+TM214
+TM214
+TM215
+TM215
+TM216
+TM216
+TM217
+TM217
+TM218
+TM218
+TM219
+TM219
+TM220
+TM220
+TM221
+TM221
+TM222
+TM222
+TM223
+TM223
+TM224
+TM224
+TM225
+TM225
+TM226
+TM226
+TM227
+TM227
+TM228
+TM228
+TM229
+TM229
+Berry Pots
+나무열매플랜터
+Dynamax Band
+다이맥스밴드
+Wishing Star
+소원의덩어리
+Dynamax Candy
+다이맥스사탕
+Dynamax Candy XL
+다이맥스사탕XL
+Max Soup
+다이수프
+Mark Charm
+증표의부적
+Tera Orb
+테라스탈오브
+Normal Tera Shard
+테라피스 노말
+Fire Tera Shard
+테라피스 불꽃
+Water Tera Shard
+테라피스 물
+Electric Tera Shard
+테라피스 전기
+Grass Tera Shard
+테라피스 풀
+Ice Tera Shard
+테라피스 얼음
+Fighting Tera Shard
+테라피스 격투
+Poison Tera Shard
+테라피스 독
+Ground Tera Shard
+테라피스 땅
+Flying Tera Shard
+테라피스 비행
+Psychic Tera Shard
+테라피스 에스퍼
+Bug Tera Shard
+테라피스 벌레
+Rock Tera Shard
+테라피스 바위
+Ghost Tera Shard
+테라피스 고스트
+Dragon Tera Shard
+테라피스 드래곤
+Dark Tera Shard
+테라피스 악
+Steel Tera Shard
+테라피스 강철
+Fairy Tera Shard
+테라피스 페어리
+Stellar Tera Shard
+테라피스 스텔라
+Mystery Tera Jewel
+수수께끼테라주얼
+Master Tera Jewel
+마스터테라주얼
+Radiant Tera Jewel
+빛나는테라주얼
+Glimmering Charm
+반짝이는부적
+Z-Ring
+Z링
+Z-Power Ring
+Z파워링
+Z-Booster
+Z부스터
+Normalium Z
+노말Z
+Fightinium Z
+격투Z
+Flyinium Z
+비행Z
+Poisonium Z
+독Z
+Groundium Z
+땅Z
+Rockium Z
+바위Z
+Buginium Z
+벌레Z
+Ghostium Z
+고스트Z
+Steelium Z
+강철Z
+Firium Z
+불꽃Z
+Waterium Z
+물Z
+Grassium Z
+풀Z
+Electrium Z
+전기Z
+Psychium Z
+에스퍼Z
+Icium Z
+얼음Z
+Dragonium Z
+드래곤Z
+Darkinium Z
+악Z
+Fairium Z
+페어리Z
+Pikanium Z
+피카츄Z
+Pikashunium Z
+지우피카Z
+Aloraichium Z
+알로라이Z
+Eevium Z
+이브이Z
+Snorlium Z
+잠만보Z
+Mewnium Z
+뮤Z
+Decidium Z
+모크나이퍼Z
+Incinium Z
+어흥염Z
+Primarium Z
+누리레느Z
+Lycanium Z
+루가루암Z
+Mimikium Z
+따라큐Z
+Kommonium Z
+짜랑고우거Z
+Tapunium Z
+카푸Z
+Solganium Z
+솔가레오Z
+Lunalium Z
+루나아라Z
+Marshadium Z
+마샤도Z
+Ultranecrozium Z
+울트라네크로Z

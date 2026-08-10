@@ -1,0 +1,1304 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[SPECIES_CATEGORIES]
+Seed
+씨앗
+Lizard
+도롱뇽
+Flame
+화염
+Tiny Turtle
+꼬마거북
+Turtle
+거북
+Shellfish
+껍질
+Worm
+애벌레
+Cocoon
+번데기
+Butterfly
+나비
+Hairy Bug
+송충이
+Poison Bee
+독벌
+Tiny Bird
+아기새
+Bird
+새
+Mouse
+쥐
+Beak
+부리
+Snake
+뱀
+Cobra
+코브라
+Poison Pin
+독침
+Drill
+드릴
+Fairy
+요정
+Fox
+여우
+Balloon
+풍선
+Bat
+박쥐
+Weed
+잡초
+Flower
+꽃
+Mushroom
+버섯
+Insect
+곤충
+Poison Moth
+독나방
+Mole
+두더지
+Scratch Cat
+요괴고양이
+Classy Cat
+샴고양이
+Duck
+오리
+Pig Monkey
+돈숭이
+Puppy
+강아지
+Legendary
+전설
+Tadpole
+올챙이
+Psi
+초능력
+Superpower
+괴력
+Flycatcher
+파리잡이
+Jellyfish
+해파리
+Rock
+암석
+Megaton
+메가톤
+Fire Horse
+불의말
+Dopey
+얼간이
+Hermit Crab
+기생
+Magnet
+자석
+Wild Duck
+청둥오리
+Twin Bird
+쌍둥이새
+Triple Bird
+세쌍둥이새
+Sea Lion
+강치
+Sludge
+진흙
+Bivalve
+두조개
+Gas
+가스
+Shadow
+그림자
+Rock Snake
+돌뱀
+Hypnosis
+최면
+River Crab
+게
+Pincer
+집게
+Ball
+볼
+Egg
+알
+Coconut
+야자열매
+Lonely
+고독
+Bone Keeper
+뼈다귀
+Kicking
+킥
+Punching
+펀치
+Licking
+핥기
+Poison Gas
+독가스
+Spikes
+뿔
+Vine
+넝쿨
+Parent
+가족
+Dragon
+드래곤
+Goldfish
+금붕어
+Star Shape
+별
+Mysterious
+수수께끼
+Barrier
+배리어
+Mantis
+버마재비
+Human Shape
+인간형태
+Electric
+전기
+Spitfire
+불뿜기
+Stag Beetle
+뿔집게
+Wild Bull
+성난소
+Fish
+물고기
+Atrocious
+흉악
+Transport
+탈것
+Transform
+변신
+Evolution
+진화
+Bubble Jet
+거품뿜기
+Lightning
+번개
+Virtual
+가상
+Spiral
+소용돌이
+Fossil
+화석
+Sleeping
+졸음
+Freeze
+냉동
+Genetic
+유전
+New Species
+신종
+Leaf
+잎사귀
+Herb
+허브
+Fire Mouse
+불쥐
+Volcano
+화산
+Big Jaw
+큰턱
+Scout
+망보기
+Long Body
+긴몸통
+Owl
+부엉이
+Five Star
+별다섯
+String Spit
+실뿜기
+Long Leg
+롱다리
+Angler
+아귀
+Light
+라이트
+Tiny Mouse
+아기쥐
+Spike Ball
+바늘알
+Happiness
+행복
+Mystic
+정령
+Wool
+솜털
+Aqua Mouse
+물쥐
+Aqua Rabbit
+물토끼
+Imitation
+흉내
+Frog
+개구리
+Cottonweed
+솜풀
+Long Tail
+긴꼬리
+Sun
+태양
+Clear Wing
+얇은날개
+Water Fish
+수어
+Moonlight
+달빛
+Darkness
+어둠
+Royal
+임금
+Screech
+야명
+Symbol
+심볼
+Patient
+참기
+Long Neck
+긴목
+Bagworm
+도롱이벌레
+Land Snake
+땅뱀
+Fly Scorpion
+날전갈
+Iron Snake
+철뱀
+Mold
+발효
+Single Horn
+외뿔
+Sharp Claw
+갈고리손톱
+Little Bear
+아기곰
+Hibernator
+동면
+Lava
+용암
+Pig
+산돼지
+Swine
+멧돼지
+Coral
+산호
+Jet
+분사
+Delivery
+배달
+Kite
+연
+Armor Bird
+갑옷새
+Dark
+다크
+Long Nose
+긴코
+Armor
+갑옷
+Big Horn
+큰뿔
+Painter
+그림장이
+Scuffle
+싸움
+Handstand
+물구나무
+Kiss
+뽀뽀
+Live Coal
+불씨
+Milk Cow
+젖소
+Thunder
+우뢰
+Aurora
+오로라
+Rock Skin
+바위표면
+Hard Shell
+탄환
+Diving
+잠수
+Rainbow
+무지개색
+Time Travel
+시간이동
+Wood Gecko
+숲도마뱀
+Forest
+밀림
+Chick
+풋내기
+Young Fowl
+꼬마닭
+Blaze
+맹화
+Mud Fish
+늪물고기
+Bite
+물어뜯기
+Tiny Raccoon
+앙증너구리
+Rushing
+돌진
+Water Weed
+개구리밥
+Jolly
+명랑함
+Carefree
+행복하기
+Acorn
+도토리
+Wily
+꾀부리기
+Wicked
+부정하기
+Tiny Swallow
+아기제비
+Swallow
+제비
+Seagull
+괭이갈매기
+Water Bird
+물새
+Feeling
+느낌
+Emotion
+감정
+Embrace
+포용
+Pond Skater
+소금쟁이
+Eyeball
+안구
+Slacker
+게으름뱅이
+Wild Monkey
+성난원숭이
+Lazy
+나태함
+Trainee
+신참
+Ninja
+시노비
+Shed
+허물
+Whisper
+속삭임
+Big Voice
+큰목소리
+Loud Noise
+소음
+Guts
+근성
+Arm Thrust
+손바닥치기
+Polka Dot
+물방울
+Compass
+콤파스
+Kitten
+작은고양이
+Prim
+새침떼기
+Deceiver
+배반
+Iron Armor
+철갑옷
+Meditate
+명상
+Discharge
+방전
+Cheering
+응원
+Firefly
+반딧불
+Thorn
+가시
+Stomach
+밥통
+Poison Bag
+독봉지
+Savage
+사나움
+Brutal
+난폭
+Ball Whale
+둥근고래
+Float Whale
+뜸고래
+Numb
+둔감
+Eruption
+분화
+Coal
+석탄
+Bounce
+튀다
+Manipulate
+조작
+Spot Panda
+얼룩팬더
+Ant Pit
+개미지옥
+Vibration
+진동
+Cactus
+선인장
+Scarecrow
+허수아비
+Cotton Bird
+솜새
+Humming
+허밍
+Cat Ferret
+고양이족제비
+Fang Snake
+송곳뱀
+Meteorite
+별똥별
+Whiskers
+수염물고기
+Ruffian
+건달
+Rogue
+불량배
+Clay Doll
+토우
+Sea Lily
+바다나리
+Barnacle
+바위단지
+Old Shrimp
+고대새우
+Plate
+갑주
+Tender
+사랑
+Weather
+날씨
+Color Swap
+색변화
+Puppet
+인형
+Marionette
+봉제인형
+Requiem
+마중
+Beckon
+손짓
+Fruit
+후르츠
+Wind Chime
+풍경
+Disaster
+재난
+Bright
+명랑
+Snow Hat
+눈우산
+Face
+얼굴
+Clap
+손뼉
+Ball Roll
+공돌리기
+Ice Break
+얼음깨기
+Deep Sea
+깊은바다
+South Sea
+남해
+Longevity
+장수
+Rendezvous
+랑데부
+Rock Head
+돌머리
+Endurance
+인내
+Iron Ball
+철공
+Iron Claw
+철발톱
+Iron Leg
+무쇠다리
+Rock Peak
+바위산
+Iceberg
+빙산
+Iron
+쇠철
+Eon
+무한
+Sea Basin
+해저
+Continent
+대륙
+Sky High
+천공
+Wish
+희망사항
+DNA
+DNA
+Tiny Leaf
+어린잎
+Grove
+나무숲
+Chimp
+꼬마원숭이
+Playful
+개구쟁이
+Penguin
+펭귄
+Emperor
+황제
+Starling
+찌르레기
+Predator
+맹금
+Plump Mouse
+둥글쥐
+Beaver
+비버
+Cricket
+귀뚜라미
+Flash
+섬광
+Spark
+전광
+Gleam Eyes
+안광
+Bud
+꽃봉오리
+Bouquet
+부케
+Head Butt
+박치기
+Shield
+실드
+Moth
+나방
+Tiny Bee
+꼬마벌
+Beehive
+벌집
+EleSquirrel
+전기다람쥐
+Sea Weasel
+바다족제비
+Cherry
+버찌
+Blossom
+벚꽃
+Sea Slug
+갯민숭달팽이
+Blimp
+기구
+Rabbit
+토끼
+Magical
+매지컬
+Big Boss
+큰형님
+Catty
+내숭
+Tiger Cat
+얼룩고양이
+Bell
+방울
+Skunk
+스컹크
+Bronze
+청동
+Bronze Bell
+동탁
+Bonsai
+분재
+Mime
+따라하기
+Playhouse
+소꿉놀이
+Music Note
+음표
+Forbidden
+봉인
+Land Shark
+육지상어
+Cave
+동굴
+Mach
+마하
+Big Eater
+대식가
+Emanation
+파문
+Aura
+파동
+Hippo
+하마
+Heavyweight
+중량
+Scorpion
+전갈
+Ogre Scorpion
+요괴전갈
+Toxic Mouth
+독설
+Bug Catcher
+벌레잡이
+Wing Fish
+비어
+Neon
+네온
+Frost Tree
+얼음나무
+Magnet Area
+자기장
+Thunderbolt
+뇌전
+Blast
+폭염
+Jubilee
+축복
+Ogre Darner
+깨비잠자리
+Verdant
+심록
+Fresh Snow
+신설
+Fang Scorpion
+송곳니전갈
+Twin Tusk
+2개송곳니
+Blade
+검
+Gripper
+움켜쥠
+Snow Land
+설국
+Plasma
+플라스마
+Knowledge
+지식
+Willpower
+의지
+Temporal
+시간
+Spatial
+공간
+Lava Dome
+화구
+Colossal
+거대
+Renegade
+반골
+Lunar
+초승달
+Sea Drifter
+해양
+Seafaring
+회유
+Pitch-Black
+암흑
+Gratitude
+감사
+Alpha
+창조
+Victory
+승리
+Grass Snake
+풀뱀
+Regal
+로열
+Fire Pig
+불돼지
+Mega Fire Pig
+큰불돼지
+Sea Otter
+해달
+Discipline
+수행
+Formidable
+관록
+Lookout
+경계
+Loyal Dog
+충견
+Big-Hearted
+관대
+Devious
+성악
+Cruel
+냉혹
+Grass Monkey
+풀원숭이
+Thorn Monkey
+가시원숭이
+High Temp
+고온
+Ember
+불티
+Spray
+물뿌리기
+Geyser
+방수
+Dream Eater
+꿈먹기
+Drowsing
+꿈결
+Tiny Pigeon
+아기비둘기
+Wild Pigeon
+들비둘기
+Proud
+프라이드
+Electrified
+하전
+Mantle
+맨틀
+Ore
+광석
+Compressed
+고압
+Courting
+구애
+Subterrene
+땅밑
+Hearing
+히어링
+Muscular
+근골
+Judo
+유도
+Karate
+태권도
+Sewing
+재봉
+Leaf-Wrapped
+잎숨기
+Nurturing
+육아
+Centipede
+지네
+Curlipede
+눈썹지네
+Megapede
+메가지네
+Cotton Puff
+솜뭉치
+Windveiled
+바람숨기
+Bulb
+뿌리
+Flowering
+꽃장식
+Hostile
+흉포
+Desert Croc
+사막악어
+Intimidation
+위협
+Zen Charm
+달마
+Blazing
+염상
+Rock Inn
+돌집
+Stone Home
+바위집
+Shedding
+탈피
+Hoodlum
+악당
+Avianoid
+흡사새
+Spirit
+영혼
+Coffin
+관
+Prototurtle
+옛날거북
+First Bird
+최초새
+Trash Bag
+쓰레기봉투
+Trash Heap
+쓰레기장
+Tricky Fox
+나쁜여우
+Illusion Fox
+요괴여우
+Chinchilla
+친칠라
+Scarf
+스카프
+Fixation
+응시
+Astral Body
+천체
+Cell
+세포
+Mitosis
+분할
+Multiplying
+증폭
+White Bird
+백조
+Icy Snow
+빙설
+Snowstorm
+블리자드
+Season
+계절
+Sky Squirrel
+하늘다람쥐
+Clamping
+덥석물기
+Cavalry
+기병
+Floating
+부유
+Caring
+돌보기
+Attaching
+들러붙기
+EleSpider
+전기거미
+Thorn Seed
+가시열매
+Thorn Pod
+가시공
+Gear
+톱니바퀴
+EleFish
+전기물고기
+Cerebral
+브레인
+Candle
+양초
+Lamp
+램프
+Luring
+권유
+Tusk
+이빨
+Axe Jaw
+도끼턱
+Chill
+빙결
+Freezing
+동결
+Crystallizing
+결정
+Snail
+달팽이
+Shell Out
+탈껍질
+Trap
+트랩
+Martial Arts
+무술
+Automaton
+골렘
+Sharp Blade
+날붙이
+Sword Blade
+도인
+Bash Buffalo
+박치기소
+Eaglet
+새끼독수리
+Valiant
+용맹
+Diapered
+기저귀
+Bone Vulture
+뼈독수리
+Anteater
+개미핥기
+Iron Ant
+철개미
+Irate
+폭거
+Torch
+횃불
+Iron Will
+철심
+Cavern
+암굴
+Grassland
+초원
+Cyclone
+선풍
+Bolt Strike
+뇌격
+Vast White
+백양
+Deep Black
+흑음
+Abundance
+풍요
+Boundary
+경계
+Colt
+망아지
+Melody
+선율
+Paleozoic
+고생대
+Spiny Nut
+밤송이
+Spiny Armor
+가시갑옷
+Bubble Frog
+거품개구리
+Digging
+땅구멍파기
+Tiny Robin
+울새
+Scorching
+열화
+Scatterdust
+가루뿜기
+Scale
+인분
+Lion Cub
+어린사자
+Single Bloom
+한송이
+Garden
+가든
+Mount
+라이드
+Daunting
+무서운얼굴
+Poodle
+푸들
+Restraint
+자제
+Constraint
+억제
+Sword
+도검
+Royal Sword
+왕검
+Perfume
+향수
+Fragrance
+방향
+Cotton Candy
+솜사탕
+Meringue
+휩
+Revolving
+회전
+Overturning
+역전
+Two-Handed
+두손
+Collective
+집합
+Mock Kelp
+풀모방
+Water Gun
+물대포
+Howitzer
+런처
+Generator
+발전
+Royal Heir
+유군
+Despot
+폭군
+Tundra
+툰드라
+Intertwining
+연결
+Wrestling
+레슬링
+Antenna
+안테나
+Jewel
+보석
+Soft Tissue
+연체
+Key Ring
+열쇠꾸러미
+Stump
+그루터기
+Elder Tree
+고목
+Pumpkin
+호박
+Ice Chunk
+얼음덩이
+Sound Wave
+음파
+Life
+생명
+Destruction
+파괴
+Order
+질서
+Mischief
+장난
+Steam
+스팀
+Grass Quill
+풀깃
+Blade Quill
+칼날깃
+Arrow Quill
+화살깃
+Fire Cat
+불고양이
+Heel
+힐
+Pop Star
+아이돌
+Soloist
+솔리스트
+Woodpecker
+딱따구리
+Bugle Beak
+나팔입
+Cannon
+대포
+Loitering
+순회
+Stakeout
+잠복
+Larva
+유충
+Battery
+배터리
+Boxing
+권투
+Woolly Crab
+털게
+Dancing
+댄스
+Bee Fly
+재니등에
+Wolf
+늑대
+Small Fry
+잔물고기
+Brutal Star
+깨비사리
+Donkey
+당나귀
+Draft Horse
+만마
+Water Bubble
+수포
+Sickle Grass
+풀사마귀
+Bloom Sickle
+꽃사마귀
+Illuminating
+발광
+Toxic Lizard
+독도마뱀
+Flailing
+바둥바둥
+Strong Arm
+강한완력
+Posy Picker
+꽃따기
+Sage
+현자
+Teamwork
+연계
+Turn Tail
+주행
+Hard Scale
+장갑
+Sand Heap
+모래산
+Sand Castle
+모래성
+Sea Cucumber
+해삼
+Synthetic
+인공
+Meteor
+유성
+Blast Turtle
+폭발거북
+Roly-Poly
+동글동글
+Disguise
+탈
+Gnash Teeth
+이갈기
+Placid
+느긋누긋
+Sea Creeper
+해초조각
+Scaly
+비늘
+Land Spirit
+토속신
+Nebula
+성운
+Protostar
+원시성
+Sunne
+일륜
+Moone
+월륜
+Parasite
+기생
+Swollen
+팽창
+Lissome
+염미
+Glowing
+전기장식
+Launch
+쏴올리기
+Drawn Sword
+발도
+Junkivore
+악식성
+Prism
+프리즘
+Artificial
+인조
+Gloomdweller
+그림자살이
+Rampart
+돌담
+Fireworks
+불꽃놀이
+Thunderclap
+신뢰
+Hex Nut
+너트
+Beat
+비트
+Drummer
+드러머
+Striker
+스트라이커
+Water Lizard
+물도마뱀
+Secret Agent
+에이전트
+Cheeky
+볼가득
+Greedy
+욕심쟁이
+Raven
+까마귀
+Radome
+레이돔
+Seven Spot
+칠성
+Cotton Bloom
+솜장식
+Sheep
+양
+Snapping
+물고늘어지기
+Dog
+개
+Apple Core
+사과살이
+Apple Wing
+사과날개
+Apple Nectar
+사과즙
+Sand Snake
+모래뱀
+Gulp
+그대로삼키기
+Rush
+돌격
+Skewer
+꼬치
+Baby
+젖먹이
+Punk
+펑크
+Radiator
+발열
+Tantrum
+떼쟁이
+Jujitsu
+유술
+Black Tea
+홍차
+Calm
+차분
+Serene
+정숙
+Silent
+정적
+Bulk Up
+벌크업
+Blocking
+정지
+Viking
+바이킹
+Comedian
+코미디언
+Grudge
+원념
+Cream
+크림
+Formation
+진형
+Sea Urchin
+성게
+Frost Moth
+얼음나방
+Big Rock
+거석
+Two-Sided
+양면
+Copperderm
+동상
+Alloy
+합금
+Lingering
+원망
+Caretaker
+돌보미
+Stealth
+스텔스
+Warrior
+강자
+Gigantic
+거대
+Wushu
+권법
+Rogue Monkey
+나쁜원숭이
+Electron
+일렉트론
+Dragon Orb
+용옥
+Wild Horse
+사나운말
+Swift Horse
+빠른말
+King
+킹
+Unique Horn
+일각
+Strong Legs
+건각
+Malevolent
+사악
+Hexpert
+술사
+High King
+엠페러

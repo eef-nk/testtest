@@ -1,0 +1,30 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[QUEST_LOCATIONS]
+Lappet Town
+Lappet Town
+Viridian Forest
+Viridian Forest
+Route 3
+Route 3
+nil
+nil
+Dewford Town
+Dewford Town
+Milky Way
+Milky Way
+Viridian City
+Viridian City
+Rock Tunnel
+Rock Tunnel
+Celadon City Sewers
+Celadon City Sewers
+YouTube
+YouTube
+Somewhere prone to rain?
+Somewhere prone to rain?
+A volcano/cliff thing?
+A volcano/cliff thing?
+Good advice for life.
+Good advice for life.

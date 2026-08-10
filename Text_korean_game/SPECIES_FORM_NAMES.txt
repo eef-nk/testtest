@@ -1,0 +1,102 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[SPECIES_FORM_NAMES]
+Family of Four
+네 식구
+Green Plumage
+그린 페더
+Zero Form
+나이브폼
+Curly Form
+젖힌 모습
+Two-Segment Form
+두 마디폼
+Chest Form
+상자폼
+Counterfeit Form
+가짜배기의 모습
+Unremarkable Form
+범작의 모습
+Teal Mask
+벽록의 가면
+Hisuian
+히스이의 모습
+Paldean (Combat Breed)
+팔데아의 모습 (컴뱃종)
+Paldean (Blaze Breed)
+팔데아의 모습 (블레이즈종)
+Paldean (Aqua Breed)
+팔데아의 모습 (워터종)
+Paldean
+팔데아의 모습
+White-Striped
+백색근의 모습
+Bloodmoon Ursaluna
+붉은 달 다투곰
+Therian Form
+영물폼
+Three-Segment Form
+세 마디폼
+Hero Form
+히어로폼
+Family of Three
+세 식구
+Droopy Form
+늘어진 모습
+Stretchy Form
+뻗은 모습
+Blue Plumage
+블루 페더
+Yellow Plumage
+옐로 페더
+White Plumage
+화이트 페더
+Roaming Form
+도보폼
+Artisan Form
+알짜배기의 모습
+Masterpiece Form
+걸작의 모습
+Wellspring Mask
+우물의 가면
+Hearthflame Mask
+화덕의 가면
+Cornerstone Mask
+주춧돌의 가면
+Terastal Teal Mask
+테라스탈: 벽록의 가면
+Terastal Wellspring Mask
+테라스탈: 우물의 가면
+Terastal Hearthflame Mask
+테라스탈: 화덕의 가면
+Terastal Cornerstone Mask
+테라스탈: 주춧돌의 가면
+Terastal Form
+테라스탈폼
+Stellar Form
+스텔라폼
+Gigantamax
+거다이맥스
+Eternamax
+무한다이맥스
+Gigantamax Single Strike Style
+거다이맥스 일격의 태세
+Gigantamax Rapid Strike Style
+거다이맥스 연격의 태세
+Original Cap
+오리지널캡
+Hoenn Cap
+호연캡
+Sinnoh Cap
+신오캡
+Unova Cap
+하나캡
+Kalos Cap
+칼로스캡
+Alola Cap
+알로라캡
+Partner Cap
+너로정했다캡
+World Cap
+월드캡

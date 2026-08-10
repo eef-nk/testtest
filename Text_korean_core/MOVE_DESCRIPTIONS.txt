@@ -1,0 +1,1454 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[MOVE_DESCRIPTIONS]
+Using its tough and impressive horn, the user rams into the target with no letup.
+단단하고 훌륭한 뿔로 마음껏 상대를 꿰찔러서 공격한다.
+The user calls out its underlings to pummel the target. Critical hits land more easily.
+부하를 불러내어 상대를 향해서 공격시킨다. 급소에 맞기 쉽다.
+The user vibrates its wings to generate a damaging sound wave. It may also lower the target's Sp. Def stat.
+날개의 진동으로 음파를 일으켜서 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다.
+Although this move has great power, it only works the first turn the user is in battle.
+위력이 높은 기술이지만 배틀에 나가서 바로 쓰지 않으면 성공할 수 없다.
+Fires an exploding pollen puff at enemies, or a HP-restoring one at allies.
+상대에게는 폭발하는 경단을 사용하여 공격한다. 같은 편에게는 회복하는 경단을 준다.
+The user drains the target's blood. The user's HP is restored by half the damage taken by the target.
+피를 빨아서 상대를 공격한다. 준 데미지의 절반을 HP로 회복한다.
+The user makes a lunge at the target, attacking with full force. This lowers the target's Attack stat.
+전력으로 상대에게 덤벼들며 공격한다. 상대의 공격을 떨어뜨린다.
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.
+낫이나 발톱을 가위처럼 교차시키면서 상대를 베어 가른다.
+The user attacks with a sinister beam of light. It may also confuse the target.
+이상한 빛을 발사해서 공격한다. 상대를 혼란시킬 때가 있다.
+The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat.
+배후에서 엄습해서 공격한다. 상대의 특수공격을 떨어뜨린다.
+After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
+공격한 뒤 굉장한 스피드로 돌아와서 교대 포켓몬과 교체한다.
+The user crushes its foes by rolling over them. This attack may make the target flinch.
+둥글게 뭉친 몸을 회전하여 상대를 뭉개 버린다. 상대를 풀죽게 만들 때가 있다.
+The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.
+물어서 공격한다. 상대가 나무열매를 지니고 있을 때 먹어서 나무열매의 효과를 받을 수 있다.
+The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.
+바람에 날개 가루를 날려서 상대를 공격한다. 자신의 모든 능력이 올라갈 때가 있다.
+When the user knocks out a target with this move, the user's Attack stat rises drastically.
+이 기술을 사용하여 상대를 쓰러뜨리면 공격이 매우 크게 오른다.
+While resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced.
+저항해서 상대를 공격한다. 상대의 특수공격을 떨어뜨린다.
+The target is slashed with scythes or claws. Its power increases if it hits in succession.
+낫이나 발톱 등으로 상대를 베어 공격한다. 연속으로 맞히면 위력이 올라간다.
+Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.
+날카로운 침을 상대에게 발사해서 공격한다. 2-5회 동안 연속으로 쓴다.
+The foe is stabbed twice by a pair of stingers. It may also poison the target.
+2개의 침을 상대에게 꿰찔러 2회 연속으로 데미지를 준다. 독 상태로 만들 때가 있다.
+The target is infested and unable to flee for four to five turns.
+4-5턴 동안 상대에게 엉겨 붙어서 공격한다. 그동안 상대는 도망갈 수 없다.
+The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats.
+부하를 불러내어 자신의 몸을 뒤덮게 한다. 방어와 특수방어를 올릴 수 있다.
+The user calls out its underlings to heal it. The user regains up to half of its max HP.
+부하를 불러내어 상처를 회복한다. 최대 HP의 절반만큼 자신의 HP를 회복한다.
+The target is covered in a powder that explodes and damages it if it uses a Fire-type move.
+분진을 뒤집어쓴 상대가 불꽃 기술을 쓰면 폭발하여 데미지를 준다.
+The user performs a beautiful dance. It boosts the user's Sp. Atk, Sp. Def, and Speed stats.
+신비롭고 아름다운 춤을 경쾌하게 춘다. 자신의 특수공격과 특수방어와 스피드를 올린다.
+The user scatters irritating powder to draw attention to itself. Opponents aim only at the user.
+안절부절못하게 하는 가루를 자신에게 뿌려서 주의를 끈다. 상대의 공격은 모두 자신에게 향한다.
+The user ensnares the target with thin, gooey silk so it can't flee from battle.
+끈적끈적하고 가는 실을 칭칭 휘감아 상대를 배틀에서 도망칠 수 없게 한다.
+Weaves a sticky net around the opposing team, which lowers their Speed stats upon switching in.
+상대의 주위에 끈적끈적한 네트를 둘러 펼쳐 교체되어 나온 상대의 스피드를 떨어뜨린다.
+The foe is bound with silk blown from the user's mouth. This silk reduces the target's Speed.
+입에서 뿜어낸 실을 휘감아서 상대의 스피드를 크게 떨어뜨린다.
+The user stares at flashing lights to focus its mind, drastically raising its Sp. Atk stat.
+깜빡거리는 빛을 바라보고 자신의 정신을 통일하여 특수공격을 매우 크게 올린다.
+Unleashes a barrage of multi-arm attacks, skipping protections. The user's Defense stat falls.
+많은 팔로 방어와 판별 등을 무시하는 연속 공격이다. 자신의 방어가 떨어진다.
+The user turns the foe's power against it. It does more damage the higher the target's Attack stat.
+상대의 힘을 이용한다. 싸우고 있는 상대의 공격이 높을수록 데미지가 올라간다.
+The user transforms its wrath into a fire-like aura to attack. This may also make foes flinch.
+분노를 불꽃 같은 오라로 바꿔서 공격한다. 상대를 풀죽게 만들 때가 있다.
+The user swings both arms and hits the target. Ignores the target's stat changes.
+양팔을 돌려 상대에 부딪친다. 상대의 능력 변화에 상관없이 데미지를 준다.
+The user lets loose a pitch-black shock wave at its target. It may also lower the target's accuracy.
+암흑의 충격파를 날려서 상대를 공격한다. 명중률을 떨어뜨릴 때가 있다.
+The user crunches up the target with sharp fangs. It may also lower the target's Defense stat.
+날카로운 이빨로 상대를 깨물어 부숴서 공격한다. 상대의 방어를 떨어뜨릴 때가 있다.
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.
+몸에서 악의로 가득한 무서운 오라를 발한다. 상대를 풀죽게 만들 때가 있다.
+The user pretends to bow its head, but then it stabs the target with its disheveled hair. Never misses.
+고개를 숙이는 척하면서 흐트러진 머리카락으로 찌른다. 공격은 반드시 명중한다.
+This move prevents the user and the target from switching out until either of them faints.
+어느 한쪽이 기절할 때까지 교체할 수 없게 된다. 한쪽의 포켓몬이 없어지면 효과가 사라진다.
+The user attacks the target's throat. The target cannot use sound-based moves for two turns.
+이 기술에 맞은 상대는 지옥의 고통 때문에 2턴 동안 소리 기술을 낼 수 없다.
+Strikes with a fierce blow through mastery of the Dark style. Always results in a critical hit.
+악의 태세가 극에 달하여 강렬한 일격을 날린다. 반드시 급소에 맞는다.
+The user lashes out to vent its frustration. Power is doubled if its stats dropped this turn.
+상대에 대한 울분이 담긴 공격을 한다. 그 턴에 능력이 떨어져 있으면 기술의 위력이 2배가 된다.
+The user slashes the target the instant an opportunity arises. Critical hits land more easily.
+순간적으로 틈을 노려 상대를 베어 버린다. 급소에 맞기 쉽다.
+This move enables the user to attack first. It fails if the target is not readying an attack, however.
+상대보다 먼저 공격할 수 있다. 상대가 쓴 기술이 공격기술이 아니면 실패한다.
+The user slaps down the target's held item, preventing that item from being used in the battle.
+상대의 지닌 물건을 탁 쳐서 떨어뜨려 배틀이 끝날 때까지 사용할 수 없게 한다. 물건을 가진 상대에게는 데미지를 더 준다.
+If the target has already taken some damage in the same turn, this attack's power is doubled.
+그 턴에 상대가 이미 데미지를 입었다면 기술의 위력은 2배가 된다.
+The target is bitten with viciously sharp fangs. It may make the target flinch.
+날카롭고 뾰족한 이빨로 물어서 공격한다. 상대를 풀죽게 만들 때가 있다.
+The user swings its body around violently to inflict damage on everything in its vicinity.
+자신의 몸을 세차게 휘둘러서 상대에게 데미지를 준다.
+The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.
+슬금슬금 상대에게 다가가 방심한 틈을 타서 세게 때린다. 공격은 반드시 명중한다.
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.
+공격과 동시에 도구를 훔친다. 자신이 도구를 지니고 있을 경우에는 훔칠 수 없다.
+The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease.
+호되게 호통을 쳐서 상대의 특수공격을 떨어뜨린다.
+If the user moves after the target, this attack's power will be doubled.
+모아서 공격한다. 상대보다 뒤에 공격할 수 있으면 기술의 위력은 2배가 된다.
+An attack move that inflicts double damage if used on a target that is switching out of battle.
+상대 포켓몬이 교체될 때 기술을 쓰면 2배의 위력으로 공격할 수 있다.
+The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.
+같은 편 전원이 공격한다. 동료 포켓몬이 많을수록 기술의 공격 횟수가 증가한다.
+The user flings its held item at the target to attack. Its power and effects depend on the item.
+지니게 한 도구를 재빠르게 내던져서 공격한다. 도구에 따라 위력과 효과가 바뀐다.
+The user boasts of its strength. Power increases the more the user's stats are raised.
+자신의 강함을 뻐기고 공격한다. 자신의 능력이 올라가 있는 만큼 위력이 오른다.
+This attack's power increases the more the target has powered up with stat changes.
+능력 변화로 상대가 파워업한 만큼 기술의 위력이 올라간다.
+Opposing Pokémon are dragged into a world of total darkness that makes them sleep.
+암흑의 세계로 끌고 가서 떨어뜨려 상대를 잠듦 상태로 만든다.
+It prevents the target from using its held item. Its Trainer is also prevented from using items on it.
+지니게 한 도구를 쓸 수 없게 한다. 트레이너도 그 포켓몬에게는 도구를 쓸 수 없다.
+The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.
+우는 척을 하며 눈물을 흘린다. 난처하게 만들어 상대의 특수방어를 크게 떨어뜨린다.
+Flattery is used to confuse the target. However, it also raises the target's Sp. Atk stat.
+상대를 부추겨서 혼란시킨다. 동시에 상대의 특수공격도 올라가 버린다.
+The user sharpens its claws to boost its Attack stat and accuracy.
+손톱을 갈아 날카롭게 한다. 자신의 공격과 명중률을 올린다.
+The user faints when using this move. In return, it harshly lowers the target's Attack and Sp. Atk.
+자신은 기절하게 되지만 그 대신 상대의 공격과 특수공격을 크게 떨어뜨린다.
+The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.
+나쁜 일을 생각해서 머리를 활성화시킨다. 자신의 특수공격을 크게 올린다.
+The user protects itself from all attacks. Direct contact lowers the attacker's Defense.
+상대의 공격을 전혀 받지 않는다. 연속으로 쓰면 실패하기 쉽다. 접촉한 상대의 방어를 크게 떨어뜨린다.
+With a parting threat, the user lowers the target's Attack and Sp. Atk stats. Then it switches out.
+막말을 내뱉어 상대를 위협하여 공격과 특수공격을 떨어뜨린 후 교대 포켓몬과 교체한다.
+The user suppresses the target and makes its move go last.
+상대를 억눌러서 행동의 순서를 마지막으로 만든다.
+The user steals the effects of any healing or stat-changing move the foe attempts to use.
+상대가 사용하려고 한 회복 기술이나 능력 변화의 기술을 빼앗아 자신에게 쓴다.
+The user trades held items with the target faster than the eye can follow.
+눈에 보이지 않는 속도로 자신과 상대가 지닌 물건을 교환한다.
+The target is taunted into a rage that allows it to use only attack moves for three turns.
+상대를 화나게 한다. 3턴 동안 상대는 데미지를 주는 기술밖에 쓸 수 없게 된다.
+All stat changes affecting the target turn topsy-turvy and become the opposite of what they were.
+상대에게 걸려 있는 모든 능력 변화를 뒤집어서 반대로 만든다.
+The user torments and enrages the foe, making it incapable of using the same move twice in a row.
+상대에게 트집을 잡아서 똑같은 기술을 2회 연속으로 쓸 수 없게 한다.
+This is Eternatus's most powerful attack in its original form. The user can't move on the next turn.
+본래의 모습이 된 무한다이노 최대의 공격. 다음 턴은 움직일 수 없다.
+Converts life-force into power to attack. The lower the user's HP, the lower the move's power.
+생명력을 파워로 바꿔서 상대를 공격한다. 자신의 HP가 적을수록 기술의 위력이 떨어진다.
+The user blasts the target with power that distorts even time. The user must rest on the next turn.
+시간이 뒤틀릴 정도의 힘을 사용해서 상대를 공격한다. 다음 턴은 움직일 수 없다.
+Comets are summoned down from the sky. The attack's recoil harshly reduces the user's Sp. Atk stat.
+천공에서 운석을 상대에게 떨어뜨린다. 사용하면 반동으로 자신의 특수공격이 크게 떨어진다.
+The user rampages and attacks for two to three turns. It then becomes confused, however.
+2-3턴 동안 마구 난동 부려서 공격한다. 난동 부린 뒤에는 혼란에 빠진다.
+The user rubs its scales and makes a huge noise. Also lowers the user's Defense stat.
+전신의 비늘을 비벼서 큰 소리를 내 공격한다. 공격 후 자신의 방어가 떨어진다.
+If the target has already moved this turn, the effect of its Ability is negated.
+데미지를 준 상대가 이미 행동을 끝냈다면 상대의 특성을 없애버린다.
+The user tackles the foe while exhibiting overwhelming menace. It may also make the target flinch.
+굉장한 살기로 위압하면서 몸통박치기한다. 상대를 풀죽게 만들 때가 있다.
+The user unleashes a strong beam from its core.
+코어에서 빔을 발사해서 공격한다. 상대가 다이맥스 중이면 데미지가 2배가 된다.
+The user tears the target along with the space around it. Critical hits land more easily.
+주위의 공간과 더불어 상대를 찢어서 데미지를 준다. 급소에 맞기 쉽다.
+The user uses its body like a hammer to attack the target and inflict damage.
+몸을 해머처럼 써서 상대를 덮쳐 데미지를 준다.
+The target is attacked with a shock wave generated by the user's gaping mouth.
+큰 입으로 충격파를 일으켜서 상대를 공격한다.
+The user slashes the target with huge, sharp claws.
+날카롭고 뾰족한 거대한 발톱으로 상대를 베어 갈라서 공격한다.
+The user swings its tough tail wildly and attacks all foes. This also lowers their Attack stats.
+강인한 꼬리를 세차게 휘둘러서 상대를 공격한다. 상대의 공격을 떨어뜨린다.
+The user exhales a mighty gust that inflicts damage. It may also leave the target with paralysis.
+굉장한 숨결을 상대에게 내뿜어 공격한다. 마비 상태로 만들 때가 있다.
+The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.
+상대를 튕겨내서 교대할 포켓몬을 끌어낸다. 야생의 경우에는 배틀이 끝난다.
+The user attacks twice using Dreepy. If there are two targets, this move hits each one once.
+드라꼰으로 2번 공격한다. 상대가 2마리일 때는 각각 1번씩 공격한다.
+The user attacks its target by hitting it with brutal strikes. The target is hit twice in a row.
+몸의 단단한 부분으로 상대를 때려 공격한다. 2회 연속으로 데미지를 준다.
+The user whips up a vicious tornado to tear at the opposing team. It may also make targets flinch.
+회오리를 일으켜 상대를 끌어들여 공격한다. 상대를 풀죽게 만들 때가 있다.
+Attacks by shooting scales two to five times in a row. Boosts the user's Speed but lowers its Defense.
+비늘을 쏘아서 공격한다. 2-5회 동안 연속으로 쓴다. 스피드가 올라가지만 방어가 떨어진다.
+This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage.
+분노의 충격파를 상대에게 부딪쳐서 공격한다. 언제나 40의 데미지를 준다.
+The user raises all its stats by using some of its HP.
+자신의 HP를 조금 깎아서 모든 능력을 올린다.
+The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats.
+신비롭고 힘센 춤을 격렬하게 춘다. 자신의 공격과 스피드를 올린다.
+The user charges at its foe, surrounding itself with lightning. It may also leave the target paralyzed.
+방대한 전기를 몸에 둘러 상대에게 돌진해서 공격한다. 마비 상태로 만들 때가 있다.
+The user electrifies itself, then charges at the foe. It causes considerable damage to the user as well.
+전기를 한데 모아 돌진한다. 자신도 상당한 데미지를 입는다. 마비 상태로 만들 때가 있다.
+The user fires an electric blast like a cannon to inflict damage and cause paralysis.
+대포처럼 전기를 발사해서 공격한다. 상대를 마비 상태로 만든다.
+Morpeko attacks and raises its Speed with energy stored in its cheeks. Type changes with the user's form.
+볼주머니에 저장해둔 에너지로 공격하고 자신의 스피드를 올린다. 모르페코의 모습에 따라 타입이 바뀐다.
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.
+강한 번개를 상대에게 떨어뜨려 공격한다. 마비 상태로 만들 때가 있다.
+The user throws down a giant thunderbolt. It does more damage if influenced by an enormous flame.
+거대한 천둥을 내리친다. 거대한 불꽃의 영향을 받아 기술의 위력이 올라간다.
+The user attacks with electrically charged fists. Normal-type moves become Electric-type.
+전기를 두른 주먹으로 공격한다. 노말타입 기술을 전기타입으로 바꿔버린다.
+A strong electric blast is loosed at the target. It may also leave the target with paralysis.
+강한 전격을 상대에게 날려서 공격한다. 마비 상태로 만들 때가 있다.
+The user shrouds itself in electricity and smashes into its foe. It also damages the user a little.
+전기를 두르고 상대에게 부딪쳐 공격한다. 자신도 조금 데미지를 입는다.
+Stabs the target with an electrified beak. Power is doubled if the user attacks first.
+전기를 두른 부리로 찌른다. 상대보다 먼저 공격하면 기술의 위력은 2배가 된다.
+A flare of electricity is loosed to strike the area around the user. It may also cause paralysis.
+눈부신 전격으로 자신의 주위에 있는 포켓몬을 공격한다. 마비 상태로 만들 때가 있다.
+The user attacks all foes by twanging a guitar or bass guitar, causing a huge echo and strong vibration.
+기타나 베이스를 쳐서 큰 울림과 강한 진동을 상대에게 전달하여 공격한다.
+The user traps the target in a cage of sparking electricity for four to five turns.
+전기가 흐르는 우리 안에 4-5턴 동안 상대를 가두어 공격한다.
+A strong electric blast crashes down on the target. This may also make the target flinch.
+상대에게 부딪쳐 강력한 전기를 날려서 찌리리따끔따끔하게 만든다. 상대를 풀죽게 만들 때가 있다.
+The target is punched with an electrified fist. It may also leave the target with paralysis.
+전격을 담은 펀치로 상대를 공격한다. 마비 상태로 만들 때가 있다.
+The user attacks with electric voltage rising from the ground. Power is doubled on Electric Terrain.
+지면에서 올라오는 전격으로 공격한다. 상대가 일렉트릭필드 위에 있을 때 기술의 위력이 2배가 된다.
+The user attacks everything around it. The user's HP is restored by half the damage dealt.
+주위에 있는 모든 포켓몬에게 데미지를 준다. 준 데미지의 절반을 자신이 회복한다.
+The user throws an electrically charged tackle at the target. It may also leave the target with paralysis.
+전기를 둘러 상대에게 돌진하여 공격한다. 마비 상태로 만들 때가 있다.
+The user bites with electrified fangs. It may also make the target flinch or leave it with paralysis.
+전기를 모은 이빨로 문다. 상대를 풀죽게 하거나 마비 상태로 만들 때가 있다.
+The user strikes the target with a quick jolt of electricity. This attack cannot be evaded.
+전격을 재빠르게 상대에게 날린다. 공격은 반드시 명중한다.
+The user captures and attacks foes by using an electric net, which lowers their Speed stat.
+전기 네트로 상대를 붙잡아서 공격한다. 상대의 스피드를 떨어뜨린다.
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.
+전격의 다발을 상대에게 발사한다. 전기를 모아서 자신의 특수공격을 올릴 때가 있다.
+A jolt of electricity is hurled at the foe to inflict damage. It may also leave the target with paralysis.
+전기 자극을 상대에게 날려서 공격한다. 마비 상태로 만들 때가 있다.
+The user nuzzles its electrified cheeks against the target. This also leaves the target with paralysis.
+전기가 흐르는 볼을 비벼서 공격한다. 상대를 마비 상태로 만든다.
+The user hurls an electric orb at the foe. It does more damage the faster the user is.
+전기 덩어리를 상대에게 부딪쳐서 공격한다. 상대보다 스피드가 빠를수록 위력이 올라간다.
+The user boosts the power of the Electric move it uses next. It also raises the user's Sp. Def stat.
+다음 턴에 쓸 전기타입 기술의 위력을 올린다. 자신의 특수방어도 올라간다.
+The user's body generates an eerie impulse. Harshly lowers the target's Sp. Atk stat.
+몸에서 괴전파를 내어 상대에게 쏨으로써 특수공격을 크게 떨어뜨린다.
+The user electrifies the ground for five turns. Pokémon on the ground no longer fall asleep.
+5턴 동안 일렉트릭필드로 만든다. 땅에 있는 포켓몬은 잠들지 않는다. 전기타입의 위력이 올라간다.
+If the target uses a move after being electrified, that move becomes Electric-type.
+상대가 기술을 쓰기 전에 송전하면 그 턴에 상대가 사용하는 기술은 전기타입이 된다.
+The user disperses electrically charged particles. Normal-type moves become Electric-type.
+전기를 띤 입자를 확산시켜 노말타입 기술을 전기타입으로 바꿔버린다.
+The user levitates using electrically generated magnetism for five turns.
+전기로 만든 자력의 힘으로 허공에 뜬다. 5턴 동안 부유할 수 있다.
+Manipulates magnetic fields to raise the Defense and Sp. Def stats of allies with Plus or Minus Abilities.
+자기장 조작으로 인해 특성 플러스와 마이너스의 방어, 특수방어가 오른다.
+A weak electric charge is launched at the target. It causes paralysis if it hits.
+약한 전격을 날려서 상대를 마비 상태로 만든다.
+Fires a powerful beam of light drawn from the Eternal Flower. It also damages the user a lot.
+영원의 꽃의 파워를 빌려서 강력한 광선을 쏜다. 자신도 상당한 데미지를 입는다.
+The user unleashes a strong beam. The attack's recoil harshly lowers the user's Sp. Atk stat.
+강력한 빔을 발산한 후 자신의 특수공격이 크게 떨어진다.
+The user attacks everything around and faints upon using this move. Power increases on Misty Terrain.
+자신의 주위에 있는 모두를 공격하지만 사용하면 기절한다. 미스트필드일 때 위력이 올라간다.
+The user attacks by borrowing the power of the moon. This may also lower the target's Sp. Atk stat.
+달의 파워를 빌려서 상대를 공격한다. 상대의 특수공격을 떨어뜨릴 때가 있다.
+The user plays rough with the target and attacks it. This may also lower the target's Attack stat.
+상대에게 치근거리며 공격한다. 상대의 공격을 떨어뜨릴 때가 있다.
+The user attacks the target by emitting steam. This may also confuse the target.
+연기를 분출해서 상대를 공격한다. 혼란시킬 때가 있다.
+The user damages opposing Pokémon by emitting a powerful flash.
+강력한 빛을 내어 상대에게 데미지를 준다.
+The user attacks the target with immense force. This also lowers the target's Sp. Atk stat.
+맞으면 기가 꺾여버릴 것 같은 기세로 공격한다. 상대의 특수공격을 떨어뜨린다.
+The user steals the target's HP with a kiss. The user's HP is restored by over half of the damage dealt.
+키스로 상대로부터 HP를 흡수한다. 준 데미지의 반 이상 HP를 회복한다.
+Letting out a charming cry, the user does emotional damage to foes. This attack never misses.
+매혹적인 울음소리를 내어 상대에게 정신적 데미지를 준다. 공격은 반드시 명중한다.
+The user stirs up a fairy wind and strikes the target with it.
+요정의 바람을 일으켜 상대에게 몰아쳐서 공격한다.
+The user hits the target with the force of nature. It halves the target's HP.
+자연의 분노를 상대에게 부딪친다. 상대의 HP는 절반이 된다.
+The user raises the Sp. Def stat of an ally Pokémon by using a mysterious aroma.
+신비한 아로마 향으로 같은 편의 특수방어를 올린다.
+The user stares with its baby-doll eyes, which lowers the target's Attack stat. Always goes first.
+초롱초롱한 눈동자로 상대를 바라보며 공격을 떨어뜨린다. 반드시 선제공격할 수 있다.
+The user charmingly gazes at the foe, making it less wary. The target's Attack is harshly lowered.
+귀엽게 바라보고 방심을 유도하여 상대의 공격을 크게 떨어뜨린다.
+The user protects itself and its allies from status moves with a mysterious power.
+이상한 힘을 사용하여 같은 편을 공격하는 변화 기술을 막는다. 데미지 기술은 받는다.
+The user sharply raises the target's Attack and Sp. Atk stats by decorating the target.
+데코레이션을 해서 상대의 공격과 특수공격을 크게 올린다.
+By locking down the battlefield, the user keeps all Pokémon from fleeing during the next turn.
+록을 걸어 다음 턴의 모든 포켓몬을 도망가지 못하게 한다.
+The user restores the target's HP by up to half of its max HP. It restores more HP when the terrain is grass.
+최대 HP의 절반만큼 상대의 HP를 회복한다. 그래스필드일 때 효과가 올라간다.
+The user raises the Defense stats of all Grass-type Pokémon in battle with a mysterious power.
+이상한 힘을 사용하여 배틀에 나와 있는 모든 풀타입 포켓몬의 방어를 올린다.
+The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.
+1턴째에 에너지를 흡수하여 2턴째에 특수공격, 특수방어, 스피드를 크게 올린다.
+The user covers the ground with mist for five turns. Grounded Pokémon can't gain status conditions.
+5턴 동안 땅에 있으면 상태 이상이 되지 않고 드래곤타입 기술의 데미지도 절반이 된다.
+The user restores its own HP. The amount of HP regained varies with the weather.
+자신의 HP를 회복한다. 날씨에 따라 회복량이 변한다.
+The user kisses the target with a sweet, angelic cuteness that causes confusion.
+천사처럼 귀엽게 키스하여 상대를 혼란시킨다.
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.
+정신력을 높여 펀치를 날린다. 기술을 쓰기 전에 공격을 받으면 실패한다.
+The user attacks wildly with its thick leek. The user can't move on the next turn.
+굵은 줄기를 휘둘러서 공격한다. 단 자신도 비틀거리기 때문에 다음 턴은 움직일 수 없다.
+The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead.
+점프해서 무릎차기로 상대를 공격한다. 빗나가면 자신이 데미지를 입는다.
+The user fights the foe up close without guarding itself. It also cuts the user's Defense and Sp. Def.
+방어를 포기하고 상대 깊숙이 돌격한다. 자신의 방어와 특수방어가 떨어진다.
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.
+기합을 높여서 혼신의 힘을 방출한다. 상대의 특수방어를 떨어뜨릴 때가 있다.
+The user attacks the target with great power. However, it also lowers the user's Attack and Defense.
+엄청난 힘을 발휘하여 상대를 공격한다. 자신의 공격과 방어가 떨어진다.
+The user delivers a double chop with its forearms crossed. Critical hits land more easily.
+양손으로 당수를 상대에게 힘껏 쳐서 공격한다. 급소에 맞기 쉽다.
+The user punches the target with full, concentrated power. It confuses the target if it hits.
+혼신의 힘으로 펀치를 날려서 공격한다. 상대를 반드시 혼란시킨다.
+The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously.
+공중에서 상대에게 다이브한다. 이 기술은 격투타입임과 동시에 비행타입이기도 하다.
+The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however.
+강하고 무거운 주먹을 휘둘러 데미지를 준다. 자신의 스피드가 떨어진다.
+The user jumps up high, then strikes with a kick. If the kick misses, the user hurts itself.
+높이 점프해서 킥으로 상대를 공격한다. 빗나가면 자신이 데미지를 입는다.
+The user attacks by slicing with its long horns. The target's stat changes don't affect the damage.
+긴 뿔로 베어 공격한다. 상대의 능력 변화에 관계없이 데미지를 준다.
+Overwhelms the target with lightning-like movement, then kicks. Lowers the target's Defense stat.
+번개 같은 움직임으로 상대를 농락하며 킥을 날린다. 상대의 방어를 떨어뜨린다.
+The user cuts with its long horn. The odd power contained in it does physical damage to the foe.
+긴 뿔로 베어 공격한다. 뿔이 머금은 이상한 힘은 물리적인 데미지를 준다.
+The user attacks the target with an uppercut thrown skyward with force.
+하늘을 향하는 듯한 높은 업퍼로 상대를 밀어올려 공격한다.
+The user looses a blast of aura power from deep within its body. This move is certain to hit.
+몸속에서 파동의 힘을 끌어내 쏜다. 공격은 반드시 명중한다.
+The user attacks by slamming its body into the target. Power increases the higher the user's Defense is.
+몸을 부딪쳐서 공격한다. 방어가 높을수록 주는 데미지가 올라간다.
+The user grabs the target and recklessly dives for the ground. It also hurts the user slightly.
+땅에 자신과 함께 상대를 내던져 공격한다. 자신도 조금 데미지를 입는다.
+The user attacks with a swift chop. It can also break any barrier such as Light Screen and Reflect.
+수도로 기세 좋게 내려쳐서 상대를 공격한다. 빛의장막이나 리플렉터 등도 파괴할 수 있다.
+An energy-draining punch. The user's HP is restored by half the damage taken by the target.
+주먹으로 상대의 힘을 흡수한다. 입힌 데미지의 절반에 해당하는 HP를 회복할 수 있다.
+The user attacks last. In return, this throw move is guaranteed not to miss.
+상대보다 나중에 공격한다. 그 대신 자신의 공격은 반드시 명중한다.
+This attack inflicts big damage on a sleeping target. It also wakes the target up, however.
+잠듦 상태의 상대에게 큰 데미지를 준다. 대신 상대는 잠에서 깬다.
+The user attacks the target's legs swiftly, reducing the target's Speed stat.
+재빠른 움직임으로 상대의 다리를 노려 공격한다. 상대의 스피드를 떨어뜨린다.
+The user throws the target and drags out another Pokémon in its party. In the wild, the battle ends.
+상대를 내던져서 교대할 포켓몬을 끌어낸다. 야생의 경우에는 배틀이 끝난다.
+The target is attacked with a shock wave. It may also leave the target with paralysis.
+상대의 몸에 충격파를 부딪쳐 공격한다. 마비 상태로 만들 때가 있다.
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.
+상대에게 기술을 받으면 그 상대에게 주는 데미지가 2배가 된다.
+The user lashes out with a quick, spinning kick. It may also make the target flinch.
+몸을 재빨리 회전시키며 걷어차서 공격한다. 상대를 풀죽게 만들 때가 있다.
+The user strikes the target with a fierce blow. This attack always results in a critical hit.
+강렬한 일격을 상대에게 날린다. 공격은 반드시 급소에 맞는다.
+The target is attacked with a sharp chop. Critical hits land more easily.
+날카로운 당수로 상대를 때려서 공격한다. 급소에 맞기 쉽다.
+The user throws a punch at blinding speed. It is certain to strike first.
+눈에 보이지 않는 굉장한 속도로 펀치를 날린다. 반드시 선제공격을 할 수 있다.
+Striking opponents repeatedly makes the user's fists harder, raising the user's Attack stat.
+반복하여 때리면 점점 주먹이 단단해진다. 상대를 때리면 공격이 오른다.
+The user attacks with a punch that can shatter a rock. It may also lower the foe's Defense stat.
+펀치로 공격한다. 상대의 방어를 떨어뜨릴 때가 있다.
+The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.
+주먹을 흔들어 진공의 파도를 일으킨다. 반드시 선제공격을 할 수 있다.
+The target is quickly kicked twice in succession using both feet.
+2개의 다리로 상대를 걷어차서 공격한다. 2회 연속으로 데미지를 준다.
+The user looses a flurry of open-palmed arm thrusts that hit two to five times in a row.
+펼친 양손으로 상대를 번갈아 쳐서 공격한다. 2-5회 동안 연속으로 쓴다.
+A consecutive three-kick attack that becomes more powerful with each successive hit.
+3회 연속으로 킥을 날려 공격한다. 기술이 맞을 때마다 위력이 올라간다.
+A retaliation move that counters any physical attack, inflicting double the damage taken.
+상대로부터 받은 물리공격의 데미지를 2배로 만들어 같은 상대에게 돌려준다.
+The user risks all to attack the foe. The user faints but does damage equal to its HP.
+목숨을 걸고 상대를 공격한다. 자신은 기절하게 되지만 상대에게 HP만큼의 데미지를 준다.
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+발을 강하게 걸고 상대를 넘어뜨려 공격한다. 상대가 무거울수록 위력이 올라간다.
+An all-out attack that becomes more powerful the less HP the user has.
+힘을 쥐어짜서 공격한다. 자신의 HP가 적을수록 기술의 위력이 올라간다.
+The target is thrown using the power of gravity. It inflicts damage equal to the user's level.
+인력을 사용해 내던진다. 자신의 레벨과 똑같은 데미지를 상대에게 준다.
+The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.
+몸에 힘을 담아 근육을 두껍게 해서 자신의 공격과 방어를 올린다.
+The user properly coaches its ally Pokémon, boosting their Attack and Defense stats.
+적절한 지도를 통해서 같은 편 전원의 공격과 방어를 올린다.
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+상대의 공격을 전혀 받지 않는다. 연속으로 쓰면 실패하기 쉽다.
+Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves.
+뒤집어 세운 마룻바닥을 방패로 하여 자신과 같은 편으로 향하는 기술 데미지를 막는다. 변화 기술은 막을 수 없다.
+This move raises all the user's stats but prevents the user from switching out or fleeing.
+자신의 모든 능력이 올라가지만 교체하거나 도망칠 수 없게 된다.
+Locks the target in and prevents it from fleeing. Also lowers the target's Defense and Sp. Def each turn.
+상대를 도망칠 수 없게 한다. 굳히기에 당한 상대는 매 턴 방어와 특수방어가 떨어진다.
+The user protects itself and its allies from priority moves. If may fail if used in succession.
+자신과 같은 편을 상대의 선제공격으로부터 지킨다.
+With a fiery forehead, the user hurls itself at the foe. It lowers the user's Defense, Sp. Def, and Speed.
+작열하는 불꽃을 이마에서 발생시켜 이판사판으로 몸통박치기한다. 방어, 특수방어, 스피드가 떨어진다.
+The target is razed by a fiery explosion. The user must rest on the next turn, however.
+폭발하는 불꽃으로 상대를 태워서 공격한다. 다음 턴은 움직일 수 없다.
+The user attacks in an explosive fury. The lower the user's HP, the less powerful this attack becomes.
+분노를 폭발시켜 상대를 공격한다. 자신의 HP가 적을수록 기술의 위력이 떨어진다.
+The user attacks everything by causing its own head to explode. This also damages the user.
+자신의 머리를 폭발시켜 주위의 모든 것을 공격한다. 자신도 데미지를 받는다.
+The user sets a shell trap. If it is hit by a physical move, the trap explodes and hurt the attacker.
+껍질의 트랩을 설치한다. 상대가 물리 기술을 쓰면 폭발해서 데미지를 준다.
+The user attacks by engulfing the foe in a beautiful, yet intense, blue flame. It may also burn the foe.
+아름다우면서도 격렬한 푸른불꽃으로 상대를 둘러싸서 공격한다. 화상 상태로 만들 때가 있다.
+To inflict massive damage, the user burns itself out. The user will no longer be Fire type.
+전신의 불꽃을 모두 태워서 큰 데미지를 준다. 자신의 불꽃타입이 없어진다.
+The user attacks the target at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.
+풀 파워로 상대를 공격한다. 쓰면 반동으로 자신의 특수공격이 크게 떨어진다.
+The user cloaks itself in fire and charges at the foe. The user also takes damage and may burn the target.
+불꽃을 두르고 돌진한다. 자신도 상당한 데미지를 입는다. 화상 상태로 만들 때가 있다.
+Attacks by igniting a small stone and launching it as a fiery ball. May also burn the target.
+작은 돌을 태운 불꽃의 공으로 상대를 공격한다. 화상 상태로 만들 때가 있다.
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.
+큰 대자의 불꽃으로 상대를 불태운다. 화상 상태로 만들 때가 있다.
+The user brings down a giant flame. It does more damage if influenced by an enormous thunderbolt.
+거대한 불꽃을 내리친다. 거대한 천둥의 영향을 받아 기술의 위력이 올라간다.
+The user attacks by engulfing the target in an intense fire. It leaves the target with a burn.
+격렬한 불꽃으로 상대를 둘러싸 공격한다. 화상 상태로 만든다.
+The target becomes trapped within a maelstrom of fire that rages for four to five turns.
+세차게 타오르는 불꽃 속에 4-5턴 동안 상대를 가두어 공격한다.
+The target is razed with a mystical fire of great intensity. It may also leave the target with a burn.
+신비한 불꽃으로 상대를 태워서 공격한다. 화상 상태로 만들 때가 있다.
+An inferno of scarlet flames torches everything around the user. It may leave the foe with a burn.
+새빨간 불꽃으로 자신의 주위에 있는 포켓몬을 공격한다. 화상 상태로 만들 때가 있다.
+The user attacks by exhaling hot breath on the opposing team. It may also leave targets with a burn.
+뜨거운 숨결을 상대에게 내뿜어 공격한다. 화상 상태로 만들 때가 있다.
+The target is scorched with an intense blast of fire. It may also leave the target with a burn.
+세찬 불꽃을 상대에게 발사하여 공격한다. 화상 상태로 만들 때가 있다.
+The user launches a kick with a high critical-hit ratio. It may also leave the target with a burn.
+공격한 상대를 화상 상태로 만들 때가 있다. 급소에도 맞기 쉽다.
+Cloaked in flames, the user dances and flaps its wings. It may also raise the user's Sp. Atk stat.
+불꽃을 두른 날개를 쳐서 공격한다. 자신의 특수공격이 오를 때가 있다.
+The user strikes the target with a burning lash. This also lowers the target's Defense stat.
+불타는 채찍으로 상대를 친다. 공격을 받은 상대는 방어가 떨어진다.
+A column of fire hits opposing Pokémon. When used with its Grass equivalent, it makes a sea of fire.
+불꽃기둥으로 공격한다. 풀과 조합하면 위력이 올라가고 주위가 불바다가 된다.
+An inferno of scarlet flames torches everything around the user. It may leave targets with a burn.
+새빨간 불꽃으로 자신의 주위에 있는 포켓몬을 공격한다. 화상 상태로 만들 때가 있다.
+The target is punched with a fiery fist. It may leave the target with a burn.
+불꽃을 담은 펀치로 상대를 공격한다. 화상 상태로 만들 때가 있다.
+The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat.
+입에서 내뱉는 아주 뜨거운 불꽃으로 공격한다. 상대의 특수공격을 떨어뜨린다.
+The user attacks with energy from jealousy. This burns all foes that had their stats boosted this turn.
+질투의 에너지로 상대를 공격한다. 그 턴에 능력이 올라간 포켓몬을 화상 상태로 만든다.
+The user attacks the foe with a bursting flame. It also damages Pokémon next to the target.
+맞으면 튀는 불꽃으로 상대를 공격한다. 튕긴 불꽃은 옆의 상대에게도 쏟아진다.
+The user bites with flame-cloaked fangs. It may also make the target flinch or leave it burned.
+불꽃을 두른 이빨로 문다. 상대를 풀죽게 하거나 화상 상태로 만들 때가 있다.
+The user cloaks itself in fire and charges at the target. It may also leave the target with a burn.
+불꽃을 둘러 상대에게 돌진하여 공격한다. 화상 상태로 만들 때가 있다.
+The user attacks the foe with fire. The target's held Berry becomes burnt up and unusable.
+불꽃으로 상대를 공격한다. 상대가 나무열매 등을 지니고 있을 때 불태워서 쓸 수 없게 만든다.
+The user cloaks itself in flame and attacks. Building up more power, it raises the user's Speed stat.
+불꽃을 둘러 상대를 공격한다. 힘을 모아서 자신의 스피드를 올린다.
+The target is attacked with small flames. It may also leave the target with a burn.
+작은 불꽃을 상대에게 발사하여 공격한다. 화상 상태로 만들 때가 있다.
+The target becomes trapped within a fierce vortex of fire that rages for four to five turns.
+세차게 소용돌이치는 불꽃 속에 4-5턴 동안 상대를 가두어 공격한다.
+The user slams the foe with its flaming body. The heavier the user is, the greater the damage.
+불타는 몸으로 상대에게 부딪쳐서 공격한다. 자신이 상대보다 무거울수록 위력이 올라간다.
+The user intensifies the sun for five turns, powering up Fire-type moves.
+5턴 동안 햇살을 강하게 해서 불꽃타입 기술의 위력을 올린다. 물타입의 위력은 떨어진다.
+The user shoots a sinister, bluish-white flame at the target to inflict a burn.
+으스스하고 괴상한 불꽃을 쏘아 상대를 화상 상태로 만든다.
+A second-turn attack move where critical hits land more easily. It may also make the target flinch.
+2턴째에 상대를 공격한다. 가끔 풀죽게 만든다. 급소에도 맞기 쉽다.
+The user tucks in its wings and charges from a low altitude. The user also takes serious damage.
+날개를 접어 저공비행으로 돌격한다. 자신도 상당한 데미지를 입는다.
+The user soars upward and drops at high speeds. Its Defense and Sp. Def stats are lowered.
+넓은 하늘에서 급속으로 강하하여 상대를 공격한다. 자신의 방어와 특수방어가 떨어진다.
+The user wraps its foe in a fierce wind that flies up into the sky. It may also confuse the foe.
+강렬한 바람으로 상대를 둘러싸서 공격한다. 상대를 혼란시킬 때가 있다.
+A vortex of air is shot at the target to inflict damage. Critical hits land more easily.
+공기의 소용돌이를 발사하여 공격한다. 급소에 맞기 쉽다.
+The user heats up its beak before attacking. Making contact in this time results in a burn.
+먼저 부리를 가열시킨 다음 공격을 날린다. 가열 중에 만지면 화상을 입는다.
+The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.
+1턴째에 하늘을 날아 2턴째에 상대를 공격한다.
+The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.
+하늘 높이 뛰어올라 2턴째에 상대를 공격한다. 마비 상태로 만들 때가 있다.
+A corkscrewing attack with the sharp beak acting as a drill.
+회전하면서 뾰족한 부리를 상대에게 꿰찔러 공격한다.
+The user absorbs its target's HP. The user's HP is restored by over half of the damage dealt.
+조준한 상대로부터 HP를 흡수한다. 준 데미지의 반 이상 HP를 회복한다.
+The user attacks with a blade of air that slices even the sky. It may also make the target flinch.
+하늘까지 베어 가르는 공기의 칼날로 공격한다. 상대를 풀죽게 만들 때가 있다.
+The user attacks using a sound wave based on words it has learned. It may also confuse the target.
+매우 시끄럽고 수다스러운 음파로 상대를 공격한다. 상대를 혼란시킨다.
+The user confounds the foe with speed, then slashes. The attack lands without fail.
+재빠른 움직임으로 상대를 농락해 벤다. 공격은 반드시 명중한다.
+The user launches razor-like wind to slash the opposing team. Critical hits land more easily.
+날카로운 바람으로 상대를 베어 공격한다. 급소에 맞기 쉽다.
+The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.
+부리로 공격한다. 상대가 나무열매를 지니고 있을 때 먹어서 나무열매의 효과를 받을 수 있다.
+The user takes the foe into the sky, then drops it on the next turn. The foe cannot attack while airborne.
+1턴째에 상대를 하늘로 끌고 가서 2턴째에 떨어뜨려 공격한다. 끌려간 상대는 움직일 수 없다.
+The target is struck with large, imposing wings spread wide to inflict damage.
+크게 펼친 훌륭한 날개를 상대에게 부딪쳐서 공격한다.
+The user nimbly strikes the foe. This attack does more damage if the user is not holding an item.
+경쾌하게 상대를 공격한다. 자신이 도구를 지니고 있지 않을 때 큰 데미지를 준다.
+The user slams the target with its wings. The target is hit twice in a row.
+날개를 상대에게 부딪쳐서 공격한다. 2회 연속으로 데미지를 준다.
+A gust of wind is whipped up by wings and launched at the target to inflict damage.
+날개로 일으킨 격한 바람을 상대에게 부딪쳐서 공격한다.
+The target is jabbed with a sharply pointed beak or horn.
+날카롭고 뾰족한 부리나 뿔로 상대를 쪼아서 공격한다.
+A strong wind blows away the foe's obstacles such as Light Screen. It also lowers their evasion.
+강한 바람으로 상대의 리플렉터나 빛의장막 등을 제거한다. 회피율도 떨어뜨린다.
+The user covers the target's body with a mass of down that harshly lowers its Attack stat.
+깃털을 흩뿌려 상대의 몸에 휘감는다. 상대의 공격을 크게 떨어뜨린다.
+The user counters the target by mimicking the target's last move.
+상대가 사용한 기술을 흉내 내어 자신도 똑같은 기술을 쓴다.
+The user lands and rests its body. It restores the user's HP by up to half of its max HP.
+땅에 내려와 몸을 쉬게 한다. 최대 HP의 절반만큼 HP를 회복한다.
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for four turns.
+세차게 불어대는 바람의 소용돌이를 만들어 4턴 동안 같은 편 모두의 스피드를 올린다.
+The user attacks by sending a frightful amount of small ghosts at opposing Pokémon.
+수많은 작은 영체를 상대에게 부딪쳐서 공격한다.
+The user disappears, then strikes the foe on the second turn. It hits even if the foe protects itself.
+1턴째에 모습을 감춰 2턴째에 상대를 공격한다. 방어하고 있어도 공격은 맞는다.
+Attacks the target by controlling its item. The move fails if the target doesn't have an item.
+상대의 지닌 물건을 조종해서 공격한다. 상대가 도구를 지니고 있지 않으면 실패한다.
+The user emits a sinister ray. This move can be used on the target regardless of its Abilities.
+괴상한 광선을 쏘아 공격한다. 상대의 특성을 무시하고 공격할 수 있다.
+The user vanishes somewhere, then strikes on the next turn. Hits through protections.
+1턴째에 어디론가 사라져서 2턴째에 상대를 공격한다. 기술 방어를 무시하고 공격할 수 있다.
+The user hides in the target's shadow, steals the target's stat boosts, and then attacks.
+상대의 그림자에 숨어들어 상대의 능력이 올라가는 것을 뺏어 공격한다.
+The user beats the target with a bone containing a spirit. May lower the target's Defense stat.
+영혼이 머물고 있는 뼈로 상대를 세게 때려서 공격한다. 상대의 방어를 떨어뜨릴 때가 있다.
+The user hurls a shadowy blob at the target. It may also lower the target's Sp. Def stat.
+까만 그림자의 덩어리를 내던져서 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다.
+The user attacks while also stitching the target's shadow to the ground to prevent it fleeing.
+공격과 동시에 상대의 그림자를 꿰매 도망칠 수 없게 한다.
+The user slashes with a sharp claw made from shadows. Critical hits land more easily.
+그림자로 만든 날카로운 발톱으로 상대를 베어 가른다. 급소에 맞기 쉽다.
+This relentless attack does massive damage to a target affected by status problems.
+틈새로 스며드는 저주로 공격한다. 상태 이상인 상대에게 큰 데미지를 준다.
+The user blasts the target with a gust of repulsive wind. It may also raise all the user's stats at once.
+소름이 끼칠 만한 돌풍으로 상대를 공격한다. 자신의 모든 능력이 올라갈 때가 있다.
+The user throws a punch from the shadows. The punch lands without fail.
+그림자에 섞여 펀치를 날린다. 공격은 반드시 명중한다.
+The user extends its shadow and attacks the target from behind. This move always goes first.
+그림자를 늘려 상대의 배후에서 공격한다. 반드시 선제공격할 수 있다.
+The user attacks the target while shouting in a startling fashion. It may also make the target flinch.
+큰 소리 등으로 불시에 놀래켜서 공격한다. 상대를 풀죽게 만들 때가 있다.
+The target is licked with a long tongue, causing damage. It may also leave the target with paralysis.
+긴 혀로 상대를 핥아서 공격한다. 마비 상태로 만들 때가 있다.
+The user makes the foe see a frightening mirage. It inflicts damage matching the user's level.
+무시무시한 환상을 보게 해서 자신의 레벨과 똑같은 만큼의 데미지를 상대에게 준다.
+The target is exposed to a sinister ray that triggers confusion.
+이상한 빛을 상대에게 비춰 당황하게 한다. 상대를 혼란시킨다.
+A move that works differently for the Ghost type than for all the other types.
+기술을 쓰는 포켓몬이 고스트타입일 때와 그 이외의 타입일 때는 효과가 다르다.
+When this move is used, if the user faints, the foe that landed the knockout hit also faints.
+기술을 쓴 뒤 상대의 공격으로 기절했을 때 공격 상대도 기절하게 한다. 연속으로 쓰면 실패한다.
+If the user faints, the user's grudge fully depletes the PP of the foe's move that knocked it out.
+상대의 기술로 기절하면 원념을 담아 그 기술의 PP를 0으로 만든다.
+A sleeping target sees a nightmare that inflicts some damage every turn.
+잠듦 상태의 상대에게 악몽을 꾸게 하여 매 턴 조금씩 HP를 떨어뜨려 간다.
+The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.
+상대가 마지막으로 사용한 기술에 원한을 품어 그 기술의 PP를 4만큼 줄인다.
+The user takes the target trick-or-treating. This adds Ghost type to the target's type.
+상대를 핼러윈으로 초대한다. 상대 타입에 고스트타입이 추가된다.
+The user slams the target with an enormous tree. The user can't move on the next turn.
+큰 나무로 상대를 힘껏 쳐서 공격한다. 다음 턴은 움직일 수 없게 된다.
+A storm of sharp is whipped up. The attack's recoil harshly reduces the user's Sp. Atk stat.
+뾰족한 잎사귀로 상대에게 바람을 일으킨다. 사용하면 반동으로 자신의 특수공격이 크게 떨어진다.
+The user gathers light energy into a blade, attacking the target on the next turn.
+1턴째 빛을 가득하게 모으고 2턴째 그 힘을 검에 담아 공격한다.
+The user attacks by scattering petals for two to three turns. The user then becomes confused.
+2-3턴 동안 꽃을 흩뿌려서 상대를 공격한다. 흩뿌린 뒤에는 혼란에 빠진다.
+The user violently whirls its vines or tentacles to harshly lash the target.
+덩굴이나 촉수를 세차게 흔들어 상대를 힘껏 쳐서 공격한다.
+The user generates a shock wave from within its body. It may harshly lower the target's Sp. Def.
+몸속에서 충격파를 발생시킨다. 상대의 특수방어를 크게 떨어뜨릴 때가 있다.
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+1턴째에 빛을 가득 모아 2턴째에 빛의 다발을 발사하여 공격한다.
+The user slams its rugged body into the target to attack. The user also sustains serious damage.
+단단한 몸통을 상대에게 부딪쳐서 공격한다. 자신도 상당한 데미지를 입는다.
+The user draws power from nature and fires it at the target. It may also lower the target's Sp. Def.
+자연으로부터 모은 생명의 힘을 발사한다. 상대의 특수방어를 떨어뜨릴 때가 있다.
+The user handles a sharp leaf like a sword and attacks by slashing. It has a high critical-hit ratio.
+잎사귀를 칼처럼 이용해 상대를 베어 공격한다. 급소에 맞기 쉽다.
+The user stirs up a violent petal blizzard and attacks everything around it.
+세찬 꽃보라를 일으켜서 주위에 있는 포켓몬을 공격하여 데미지를 준다.
+Attacks with an acidic liquid created from tart apples. This also lowers the target's Sp. Def.
+새콤한 사과에서 만들어 낸 산성 액체로 공격한다. 상대의 특수방어를 떨어뜨린다.
+The user plays its drum, controlling roots to attack. This also lowers the target's Speed stat.
+드럼의 뿌리를 연주로 조종해서 공격하는 것으로 상대의 스피드를 떨어뜨린다.
+A column of grass hits the foes. When used with its water equivalent, it creates a vast swamp.
+풀기둥으로 공격한다. 물과 조합하면 위력이 올라가고 주변이 습지초원이 된다.
+The user inflicts damage by dropping an apple from high above. This also lowers the target's Defense.
+높은 곳에서 사과를 떨어뜨려서 데미지를 준다. 상대의 방어를 떨어뜨린다.
+The user slams a barrage of hard-shelled seeds down on the target from above.
+단단한 껍질을 가지고 있는 큰 씨앗을 힘껏 내던져 상대를 공격한다.
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+양분을 흡수하여 공격한다. 입힌 데미지의 절반에 해당하는 HP를 회복할 수 있다.
+The user drains the foe's energy with its horns. The user's HP is restored by half the damage inflicted.
+뿔을 꿰찔러서 상대의 양분을 흡수한다. 입힌 데미지의 절반에 해당하는 HP를 회복할 수 있다.
+Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain.
+지면에 미끄러지듯 상대를 공격한다. 그래스필드일 때 반드시 선제공격할 수 있다.
+The user lands an intense tropical kick on the target. This also lowers the target's Attack stat.
+남쪽 나라에서 유래된 뜨거운 킥을 상대에게 날린다. 상대의 공격을 떨어뜨린다.
+The user attacks its foe by encircling it in sharp leaves. This attack may also lower the foe's accuracy.
+날카로운 잎사귀로 상대를 둘러싸서 공격한다. 명중률을 떨어뜨릴 때가 있다.
+The user scatters curious leaves that chase the target. This attack will not miss.
+상대를 추적하는 이상한 잎사귀를 흩뿌린다. 공격은 반드시 명중한다.
+The user attacks by wildly swinging its thorny arms. It may also make the target flinch.
+바늘팔을 세차게 흔들어 공격한다. 상대를 풀죽게 만들 때가 있다.
+Sharp-edged leaves are launched to slash at the opposing team. Critical hits land more easily.
+잎사귀를 날려 상대를 베어 공격한다. 급소에 맞기 쉽다.
+The target is struck with slender, whiplike vines to inflict damage.
+채찍처럼 휘어지는 가늘고 긴 덩굴로 상대를 힘껏 쳐서 공격한다.
+The user attacks the target by poking it with a sharply pointed branch.
+날카롭고 뾰족한 가지로 상대를 찔러서 공격한다.
+The user attacks by pelting the target with leaves.
+잎을 상대에 맞춰 공격한다.
+The user snares the target in a snap trap for four to five turns.
+집게덫으로 붙잡은 뒤 4-5턴 동안 상대를 끼워서 공격한다.
+The user forcefully shoots seeds at the target. Two to five seeds are shot in rapid succession.
+씨앗을 기세 좋게 상대에게 발사하여 공격한다. 2-5회 동안 연속으로 쓴다.
+The user snares the target with grass and trips it. The heavier the target, the greater the damage.
+풀을 휘감아서 상대를 쓰러뜨린다. 상대가 무거울수록 위력이 올라간다.
+The user releases a soothing scent that heals all status problems affecting the user's party.
+기분 좋은 평온한 향기를 맡게 하여 같은 편 모두의 상태 이상을 회복한다.
+The user protects itself by wrapping its body in soft cotton, drastically raising its Defense stat.
+푹신푹신한 솜털로 자신의 몸을 둘러싸서 지킨다. 방어를 매우 크게 올린다.
+The user releases cotton-like spores that cling to the foe, harshly reducing its Speed stat.
+솜처럼 폭신폭신한 포자를 착 달라붙게 해서 상대의 스피드를 크게 떨어뜨린다.
+The user puts a forest curse on the target. The target is now Grass type as well.
+상대에게 숲의 저주를 건다. 저주에 걸린 상대는 타입에 풀타입이 추가된다.
+The user plays a pleasant melody that lulls the target into a deep sleep.
+기분 좋은 피리 소리를 들려주어 상대를 잠듦 상태로 만든다.
+The user turns the ground to grass for five turns. Grounded Pokémon restore a little HP every turn.
+5턴 동안 그래스필드로 만든다. 땅에 있으면 매 턴 회복한다. 풀타입의 위력이 올라간다.
+The user lays roots that restore its HP on every turn. Because it is rooted, it can't switch out.
+대지에 뿌리를 박아 매 턴마다 자신의 HP를 회복한다. 뿌리 박고 있으므로 교체할 수 없다.
+The user becomes one with the jungle, and restores HP and cures status conditions of itself and allies.
+정글과 하나가 되어 자신과 배틀에 나와 있는 같은 편의 HP와 모든 상태를 회복한다.
+A seed is planted on the target. It steals some HP from the target every turn.
+씨가 뿌려진 상대의 HP를 매 턴 조금씩 흡수하여 자신의 HP를 회복한다.
+The user scatters a big cloud of sleep-inducing dust around the target.
+잠이 오는 가루를 많이 흩뿌려서 상대를 잠듦 상태로 만든다.
+Protects the user from attacks. Also damages attackers that make contact with the user.
+상대의 공격을 막음과 동시에 접촉한 상대의 체력을 떨어뜨린다.
+The user scatters bursts of spores that induce sleep.
+최면 효과가 있는 포자를 훌훌 흩뿌려서 상대를 잠듦 상태로 만든다.
+The user restores its HP by the target's Attack stat amount. Then lowers the target's Attack stat.
+상대 공격력과 동일하게 자신의 HP를 회복한다. 그리고 상대의 공격을 떨어뜨린다.
+The user scatters a cloud of paralyzing powder. It may leave the target with paralysis.
+저리가루를 많이 흩뿌려서 상대를 마비 상태로 만든다.
+A seed that causes worry is planted on the foe. It prevents sleep by making its Ability Insomnia.
+마음을 괴롭히는 씨앗을 심는다. 상대를 잠잘 수 없게 해서 특성을 불면으로 만든다.
+The user attacks its foes by manifesting the power of the land in fearsome blades of stone.
+대지의 힘을 칼날로 바꿔 상대를 공격한다.
+The user sets off an earthquake that strikes every Pokémon around it.
+지진의 충격으로 자신의 주위에 있는 포켓몬을 공격한다.
+The user fiercely attacks the target using its entire body.
+온몸을 써서 상대에게 맹렬히 어택한다.
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+상대의 발밑에 대지의 힘을 방출한다. 상대의 특수방어를 떨어뜨릴 때가 있다.
+The user gathers the energy of the land and focuses that power on foes to damage them.
+대지의 힘을 모으고 그 힘을 상대에게 집중시켜서 데미지를 준다.
+This move also hits Pokémon that are in the air. Those Pokémon are knocked down to the ground.
+떠 있는 포켓몬도 맞힐 수 있다. 떠 있던 상대는 맞아서 땅에 떨어진다.
+The user attacks with a wave that crawls along the ground. Those it hits can't flee from battle.
+땅 위를 뻗어 나가는 파도로 공격한다. 파도에 휩쓸린 상대는 전투에서 도망칠 수 없게 된다.
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.
+1턴째에 파고들어 2턴째에 상대를 공격한다.
+The user crashes into its target while rotating its body like a drill. Critical hits land more easily.
+드릴처럼 몸을 회전시켜서 상대에게 몸통박치기한다. 급소에 맞기 쉽다.
+The user attacks driven by frustration. Power increases if the user's previous move failed.
+분함을 발판삼아 공격한다. 앞 턴에서 기술이 빗나갔다면 위력이 배가 된다.
+The user throws scorching sand at the target to attack. This may also burn the target.
+뜨겁게 달궈진 모래를 상대에게 부딪쳐서 공격한다. 화상 상태로 만들 때가 있다.
+The user clubs the target with a bone. It may also make the target flinch.
+손에 들고 있는 뼈로 상대를 세게 때려서 공격한다. 상대를 풀죽게 만들 때가 있다.
+The user launches a hard-packed mud ball to attack. It may also lower the target's accuracy.
+단단한 진흙구슬을 상대에게 발사하여 공격한다. 명중률을 떨어뜨릴 때가 있다.
+The user strikes everything around it by stomping on the ground. It reduces hit Pokémon's Speed.
+땅을 힘껏 밟아 자신의 주위에 있는 포켓몬을 공격한다. 상대의 스피드를 떨어뜨린다.
+The user attacks by hurling a blob of mud at the target. It also reduces the target's Speed.
+진흙 덩어리를 상대에게 내던져서 공격한다. 동시에 상대의 스피드를 떨어뜨린다.
+The user throws the bone it holds. The bone loops to hit the target twice, coming and going.
+손에 들고 있는 뼈를 상대에게 날려서 날아갈 때와 돌아올 때 2회 연속 데미지를 준다.
+The user traps the target inside a harshly raging sandstorm for four to five turns.
+세차게 불어대는 모래바람 속에 4-5턴 동안 상대를 가두어 공격한다.
+The user strikes the target with a hard bone two to five times in a row.
+단단한 뼈로 상대를 세게 때려서 공격한다. 2-5회 동안 연속으로 쓴다.
+The user hurls mud in the target's face to inflict damage and lower its accuracy.
+상대의 얼굴 등에 진흙을 내던져서 공격한다. 명중률을 떨어뜨린다.
+The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.
+땅이 갈라진 곳에 상대를 떨어뜨려 공격한다. 맞으면 일격에 기절한다.
+The user looses a ground-shaking quake affecting everyone around the user. Its power varies.
+땅을 흔들어서 자신의 주위에 있는 포켓몬을 공격한다. 기술의 위력이 여러모로 바뀐다.
+The user covers itself with mud. It weakens Electric-type moves while the user is in the battle.
+주위를 진흙투성이로 만든다. 5턴 동안 전기타입의 기술을 약하게 한다.
+The user tills the soil to encourage plant growth. This raises the Attack and Sp. Atk of Grass types.
+땅을 일구어 초목이 자라기 쉽게 한다. 풀타입의 공격과 특수공격이 오른다.
+Sand is hurled in the target's face, reducing its accuracy.
+상대의 얼굴에 모래를 뿌려서 명중률을 떨어뜨린다.
+The user regains up to half of its max HP. It restores more HP in a sandstorm.
+자신의 최대 HP 절반을 회복한다. 모래바람일 때는 많이 회복한다.
+The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.
+상대의 발밑에 압정을 뿌린다. 교체된 상대 포켓몬에게 데미지를 준다.
+On the second turn, the user hits the foe with electrically charged ice. It may also paralyze the foe.
+전기를 두른 얼음덩어리로 2턴째에 상대를 내리친다. 마비 상태로 만들 때가 있다.
+On the second turn, an ultracold, freezing wind surrounds the foe. This may leave it with a burn.
+모든 것을 얼려버리는 격렬한 냉기로 2턴째에 상대를 둘러싼다. 화상 상태로 만들 때가 있다.
+The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.
+눈보라를 두른 얼음의 창을 상대에게 던져서 공격한다.
+A howling blizzard is summoned to strike the opposing team. It may also freeze them solid.
+세찬 눈보라를 상대에게 내뿜어 공격한다. 얼음 상태로 만들 때가 있다.
+The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however.
+강하고 무거운 주먹을 휘둘러 데미지를 준다. 자신의 스피드가 떨어진다.
+The target is struck with an icy-cold beam of energy. It may also freeze the target solid.
+냉동빔을 상대에게 발사하여 공격한다. 얼음 상태로 만들 때가 있다.
+The user attacks by harshly dropping an icicle onto the foe. It may also make the target flinch.
+큰 고드름을 격렬하게 부딪쳐서 공격한다. 상대를 풀죽게 만들 때가 있다.
+The target is punched with an icy fist. It may also leave the target frozen.
+냉기를 담은 펀치로 상대를 공격한다. 얼음 상태로 만들 때가 있다.
+The user rapidly cools the target. This may freeze the target. Is super-effective on Water types.
+상대를 급격히 차갑게 하여 얼음 상태로 만들 때가 있다. 물타입 포켓몬에게도 효과가 굉장해진다.
+The target is hit with a rainbow-colored beam. This may also lower the target's Attack stat.
+무지개색의 빔을 상대에게 발사하여 공격한다. 공격을 떨어뜨릴 때가 있다.
+The user attacks by blowing freezing cold air at the foe. This attack reduces the targets' Speed stat.
+차가운 냉기를 상대에게 내뿜어 공격한다. 상대의 스피드를 떨어뜨린다.
+The user bites with cold-infused fangs. It may also make the target flinch or leave it frozen.
+냉기를 품은 이빨로 문다. 상대를 풀죽게 하거나 얼음 상태로 만들 때가 있다.
+The user blows a cold breath on the target. This attack always results in a critical hit.
+차가운 숨결을 상대에게 내뿜어 공격한다. 반드시 급소에 맞는다.
+The user attacks with a gust of chilled air. It also lowers the targets' Speed stat.
+차가운 냉기를 상대에게 내뿜어 공격한다. 상대의 스피드를 떨어뜨린다.
+The user flash freezes chunks of ice and hurls them at the target. This move always goes first.
+얼음덩어리를 순식간에 만들어 상대에게 빠르게 쏜다. 반드시 선제공격을 할 수 있다.
+The user attacks with a chilling gust of powdery snow. It may also freeze the targets.
+차가운 가랑눈을 상대에게 내뿜어 공격한다. 얼음 상태로 만들 때가 있다.
+The user continually rolls into the target over five turns. It becomes stronger each time it hits.
+5턴 동안 상대를 공격한다. 기술이 맞을 때마다 위력이 올라간다.
+The user launches sharp icicles at the target. It strikes two to five times in a row.
+날카로운 고드름을 상대에게 발사하여 공격한다. 2-5회 동안 연속으로 쓴다.
+A consecutive three-kick attack that becomes more powerful with each successful hit.
+3회 연속으로 킥을 날려 공격한다. 기술이 맞을 때마다 위력이 올라간다.
+The foe is attacked with a blast of absolute-zero cold. The target instantly faints if it hits.
+상대를 일격에 기절시킨다. 얼음타입 이외의 포켓몬이 사용하면 잘 맞지 않는다.
+This move reduces damage from attacks for five turns. This can be used only in a hailstorm.
+5턴 동안 물리와 특수 기술의 데미지를 약하게 한다. 싸라기눈일 때만 쓸 수 있다.
+The user summons a hail storm lasting five turns. It damages all Pokémon except the Ice type.
+5턴 동안 싸라기눈을 내리게 해 얼음타입이 아닌 포켓몬 모두에게 데미지를 준다.
+The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.
+흑안개를 뿜어 배틀에 참가 중인 포켓몬 전원의 능력 변화를 원래대로 돌린다.
+The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.
+하얀 안개로 몸을 덮는다. 5턴 동안 상대에 의해 능력이 떨어지지 않게 된다.
+The user explodes to inflict damage on those around it. The user faints upon using this move.
+큰 폭발로 자신의 주위에 있는 포켓몬을 공격한다. 쓰고 나서는 기절한다.
+The user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.
+폭발을 일으켜서 자신의 주위에 있는 포켓몬을 공격한다. 쓰고 나서 기절하게 된다.
+The user charges at the target using every bit of its power. The user must rest on the next turn.
+가진 힘을 모두 사용해서 상대에게 돌격한다. 다음 턴은 움직일 수 없다.
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.
+강한 광선을 상대에게 발사하여 공격한다. 다음 턴은 움직일 수 없다.
+The user attacks everything around it with the destructive power of a terrible, explosive sound.
+무시무시한 폭음의 파괴력으로 주위에 있는 포켓몬을 공격한다.
+This move can be used only after the user has used all the other moves it knows in the battle.
+배틀 중에 기억하고 있는 기술을 모두 사용하면 그때부터 쓸 수 있는 필살기이다.
+The user tucks in its head to raise its Defense in the first turn, then rams the foe on the next turn.
+1턴째에 머리를 움츠려 방어를 올린다. 2턴째에 상대를 공격한다.
+A reckless, life-risking tackle. It also damages the user by a fairly large amount, however.
+목숨을 걸고 상대에게 돌진하여 공격을 한다. 자신도 상당한 데미지를 입는다.
+The user charges its head into the foe, using its powerful guard hair. The user also takes damage.
+굉장한 아프로 머리로 상대에게 돌진하여 공격한다. 자신도 조금 데미지를 입는다.
+The target is attacked by a kick launched with muscle-packed power.
+굉장한 힘을 담은 킥으로 상대를 걷어차서 공격한다.
+Cloaking itself in high energy, the user slams into the target. This move's type depends on the held memory.
+높은 에너지를 둘러싸 상대에게 부딪쳐 공격한다. 메모리에 따라 타입이 바뀐다.
+The user fires a beam of light at its target. The type changes depending on the Drive the user holds.
+광탄을 상대에게 방출한다. 자신이 지니고 있는 카세트에 의해 타입이 바뀐다.
+A large egg is hurled at the target with maximum force to inflict damage.
+큰 알을 온 힘을 다해 상대에게 내던져서 공격한다.
+The user releases countless shots of light. Its type varies with the kind of Plate the user is holding.
+무수한 광탄을 상대에게 방출한다. 자신이 가지고 있는 플레이트에 따라 타입이 바뀐다.
+The user lets loose a horribly echoing shout with the power to inflict damage.
+시끄럽게 울리는 큰 진동을 상대에게 전달하여 공격한다.
+The user attacks the target by dancing very hard. The user's type determines the type of this move.
+전력으로 춤추며 공격한다. 이 기술의 타입은 자신의 타입과 같아진다.
+The user attacks the target by smashing into it with incredible force. It may also confuse the target.
+굉장한 기세로 상대에게 돌진하여 공격한다. 상대를 혼란시킬 때가 있다.
+A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.
+굉장한 기세로 상대에게 부딪쳐 공격한다. 자신도 조금 데미지를 입는다.
+The user attacks in an uproar for three turns. Over that time, no one can fall asleep.
+3턴 동안 소란 피워 공격한다. 그동안은 아무도 잠들지 않게 된다.
+The user drops onto the target with its full body weight. It may leave the target with paralysis.
+몸 전체로 상대를 덮쳐눌러 공격한다. 마비 상태로 만들 때가 있다.
+The user charges the target at blinding speed. This attack always goes before any other move.
+눈에 보이지 않는 굉장한 속도로 상대에게 돌진하여 공격한다. 반드시 선제공격을 할 수 있다.
+The user bites hard on the target with its sharp front fangs. It may also make the target flinch.
+날카로운 앞니로 강하게 물어서 공격한다. 상대를 풀죽게 만들 때가 있다.
+The target is slugged by a punch thrown with muscle-packed power.
+힘을 담은 펀치로 상대를 공격한다.
+A two-turn attack. Blades of wind hit the foe on the second turn. Critical hits land more easily.
+바람의 칼날을 만들어 2턴째에 상대를 공격한다. 급소에 맞기 쉽다.
+The target is slammed with a long tail, vines, etc., to inflict damage.
+긴 꼬리나 덩굴 등을 사용해 상대를 힘껏 쳐서 공격한다.
+The target is slugged with a punch thrown at maximum power. It can also be used to move heavy boulders.
+혼신의 힘으로 상대를 세게 때려서 공격한다.
+The user strikes with a simultaneous three-beam attack. May also paralyze, burn, or freeze the target.
+3개의 광선으로 공격한다. 마비, 화상 또는 얼음 상태 중 어느 하나로 만들 때가 있다.
+The user slashes the target with hard and sharp claws. It may also lower the target's Defense.
+단단하고 날카로운 손톱으로 베어 갈라서 공격한다. 상대의 방어를 떨어뜨릴 때가 있다.
+An ancient song appeals to the hearts of those listening. It may also induce sleep.
+옛 노래를 상대에게 들려주고 마음에 호소하여 공격한다. 잠듦 상태로 만들 때가 있다.
+Seeking an opening, the user strikes continually. The foe's stat changes don't affect the damage.
+틈을 보며 착실하게 공격한다. 상대의 능력 변화에 관계없이 데미지를 준다.
+The target is hit with rhythmically launched punches that may also leave it confused.
+리드미컬한 펀치를 날려 상대를 공격한다. 혼란시킬 때가 있다.
+An attack move that doubles its power if the user is poisoned, burned, or has paralysis.
+자신이 독, 마비, 화상 상태일 때 날리면 기술의 위력이 2배가 된다.
+The user sticks out its head and attacks by charging into the foe. It may also make the target flinch.
+머리를 내밀어 곧장 돌진하여 공격한다. 상대를 풀죽게 만들 때가 있다.
+Gets revenge for a fainted ally. If an ally fainted in the last turn, this attack's damage increases.
+쓰러진 같은 편의 원수를 갚는다. 앞 턴에서 같은 편이 쓰러졌다면 위력이 올라간다.
+The user attacks with a secret power. Its added effects vary depending on the user's environment.
+사용하는 장소에 따라 추가 효과가 변화하는 공격이다.
+The target is attacked with a slash of claws or blades. Critical hits land more easily.
+발톱이나 낫 등으로 상대를 베어 갈라서 공격한다. 급소에 맞기 쉽다.
+This attack inflicts double damage on a paralyzed foe. It also cures the target's paralysis, however.
+마비 상태의 상대에게는 위력이 2배가 되지만 대신 상대의 마비가 풀린다.
+The target is jabbed with a sharply pointed horn to inflict damage.
+날카롭고 뾰족한 뿔로 상대를 공격한다.
+The target is stomped with a big foot. It may also make the target flinch.
+큰 발로 상대를 짓밟아서 공격한다. 상대를 풀죽게 만들 때가 있다.
+The user endearingly approaches the target, then steals the target's held item.
+귀엽게 애교 부리며 상대에게 다가가 지니고 있는 도구를 뺏는다.
+A unique attack that varies in type and intensity depending on the Pokémon using it.
+기술을 쓴 포켓몬에 따라 기술의 타입이 바뀐다.
+The user attacks with a song. Others can join in the Round and make the attack do greater damage.
+노래로 상대를 공격한다. 함께 돌림노래를 하면 계속해서 쓸 수 있고 위력도 올라간다.
+Star-shaped rays are shot at the opposing team. This attack never misses.
+별 모양의 빛을 발사해서 상대를 공격한다. 공격은 반드시 명중한다.
+The target is gripped and squeezed from both sides to inflict damage.
+상대를 양쪽에서 집어서 데미지를 준다.
+The target is cut with a scythe or a claw. It can also be used to cut down thin trees.
+낫이나 발톱 등으로 상대를 베어 공격한다.
+A spin attack that raises the user's Speed and eliminates the effects of Bind, Spikes, etc.
+회전해서 상대를 공격한다. 조이기, 김밥말이, 씨뿌리기, 압정뿌리기 등도 날려버린다.
+An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch.
+자신이 잠들어 있을 때 소음을 내어 공격한다. 상대를 풀죽게 만들 때가 있다.
+Utilizes the power of the terrain to attack. This move's type and power vary with the terrain.
+필드의 힘을 빌려서 공격한다. 사용했을 때의 필드 상태에 따라서 기술 타입과 위력이 바뀐다.
+An attack move that varies in power and type depending on the weather.
+사용했을 때의 날씨에 따라서 기술 타입과 위력이 바뀐다.
+The user attacks the foe with an echoing voice. If this move is used every turn, it does greater damage.
+울리는 목소리로 상대를 공격한다. 매 턴 누군가 이 기술을 계속해서 쓰면 위력이 올라간다.
+An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.
+선제공격으로 상대를 풀죽게 한다. 배틀에 나가서 바로 쓰지 않으면 성공할 수 없다.
+A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.
+상대의 HP가 반드시 1만큼 남도록 조절하여 공격한다.
+The user holds back when it attacks, and the target is left with at least 1 HP.
+적당히 공격하여 상대의 HP를 반드시 1은 남긴다.
+Numerous coins are hurled at the target to inflict damage. Money is earned after battle.
+상대의 몸에 돈을 세게 던져서 공격한다. 배틀 후에 돈을 받을 수 있다.
+The target is physically pounded with a long tail or a foreleg, etc.
+긴 꼬리나 손 등을 사용하여 상대를 때려서 공격한다.
+The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first.
+눈에 보이지 않는 굉장한 속도로 상대에게 돌진한다. 반드시 선제공격할 수 있다.
+Hard, pointed, and sharp claws rake the target to inflict damage.
+단단하고 뾰족한 날카로운 손톱으로 상대를 할퀴어서 공격한다.
+A physical attack in which the user charges and slams into the target with its whole body.
+상대를 향해서 몸 전체를 부딪쳐가며 공격한다.
+The user slams the target with a long tail, vines, or tentacle. The target is hit twice in a row.
+꼬리 등을 써서 상대를 때려 공격한다. 2회 연속으로 데미지를 준다.
+An attack that hits a target using Protect or Detect. It also lifts the effects of those moves.
+방어나 판별 등을 하고 있는 상대에게 공격할 수 있다. 방어 효과를 해제시킨다.
+The user attacks by striking the target with its hard tail. It hits the Pokémon two to five times in a row.
+단단한 꼬리로 상대를 때려서 공격한다. 2-5회 동안 연속으로 쓴다.
+As long as this move is in use, the user's Attack rises each time the user is hit in battle.
+기술을 썼을 때 공격을 받으면 분노의 힘으로 공격이 올라간다.
+The target is hit with a flurry of punches that strike two to five times in a row.
+노도 같은 펀치로 상대를 세게 때려서 공격한다. 2-5회 동안 연속으로 쓴다.
+The target is raked with sharp claws or scythes for two to five times in quick succession.
+손톱이나 낫 등으로 상대를 할퀴어서 공격한다. 2-5회 동안 연속으로 쓴다.
+Round objects are hurled at the target to strike two to five times in a row.
+둥근 것을 상대에게 내던져서 공격한다. 2-5회 동안 연속으로 쓴다.
+Things such as long bodies or tentacles are used to bind and squeeze the foe for four to five turns.
+긴 몸이나 덩굴 등을 써서 4-5턴 동안 상대를 조여 공격한다.
+The target is slapped repeatedly, back and forth, two to five times in a row.
+연속 뺨치기로 상대를 때려서 공격한다. 2-5회 동안 연속으로 쓴다.
+The target is jabbed repeatedly with a horn or beak two to five times in a row.
+뿔이나 부리로 상대를 찔러서 공격한다. 2-5회 동안 연속으로 쓴다.
+A long body or vines are used to wrap and squeeze the target for four to five turns.
+긴 몸이나 덩굴 등을 사용해 4-5턴 동안 상대를 휘감아 공격한다.
+The foe is attacked with long, creeping tentacles or vines. It may also lower the target's Speed.
+촉수나 덩굴 등을 휘감아서 공격한다. 상대의 스피드를 떨어뜨릴 때가 있다.
+The user endures attacks for two turns, then strikes back to cause double the damage taken.
+2턴 동안 공격을 견뎌 입은 데미지를 2배로 만들어 상대에게 돌려준다.
+The target is crushed with great force. The attack is more powerful the more HP the target has left.
+굉장한 힘으로 상대를 묵사발로 만든다. 상대의 HP가 남아 있을수록 위력이 올라간다.
+An attack move that cuts down the target's HP to equal the user's HP.
+상대의 HP가 자신의 HP와 같아지도록 데미지를 준다.
+The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.
+바둥바둥 난동 부려서 공격한다. 자신의 HP가 적을수록 기술의 위력이 올라간다.
+A full-power attack that grows more powerful the less the user likes its Trainer.
+불만을 풀기 위해 전력으로 상대를 공격한다. 친밀하지 않을수록 위력이 올라간다.
+A vicious, tearing attack with big pincers. The target will faint instantly if this attack hits.
+큰 집게로 상대를 베어 갈라 공격한다. 맞으면 일격에 기절한다.
+The user stabs the foe with a horn that rotates like a drill. If it hits, the target faints instantly.
+회전하는 뿔을 상대에게 꿰찔러서 공격한다. 맞으면 일격에 기절한다.
+The user draws power to attack by using its held Berry. The Berry determines its type and power.
+나무열매에서 힘을 얻어 공격한다. 지니게 한 나무열매에 따라 기술의 타입과 위력이 바뀐다.
+The user attacks by giving the target a gift with a hidden trap. It restores HP sometimes, however.
+덫을 설치한 상자를 상대에게 건네어 공격한다. HP가 회복돼버릴 때도 있다.
+A full-power attack that grows more powerful the more the user likes its Trainer.
+트레이너를 위해 전력으로 상대를 공격한다. 친밀할수록 위력이 올라간다.
+The target is hit with a destructive shock wave that always inflicts 20 HP damage.
+충격파를 상대에 부딪쳐서 공격한다. 언제나 20의 데미지를 준다.
+The power stored using the move Stockpile is released all at once in an attack.
+비축된 힘을 상대에게 부딪쳐서 공격한다. 비축된 만큼 위력이 올라간다.
+The user chomps hard on the target with its sharp front fangs. It cuts the target's HP to half.
+날카로운 앞니로 강하게 물어서 공격한다. 상대의 HP는 절반이 된다.
+The fewer PP this move has, the greater its attack power.
+마지막수단의 남은 PP가 적으면 적을수록 기술의 위력이 올라간다.
+The user powerfully wrings the foe. The more HP the foe has, the greater this attack's power.
+강하게 조여 공격을 한다. 상대의 HP가 많이 남아 있을수록 위력이 올라간다.
+The user applies pressure to stress points, sharply boosting one of its stats.
+경혈을 눌러 몸을 활성화시킨다. 능력 중 하나를 크게 올린다.
+The user helps the target and makes it use its move right after the user.
+상대의 행동을 도와서 자신이 행동한 뒤에 바로 움직일 수 있도록 한다.
+The user hurriedly and randomly uses a move among those known by other Pokémon in the party.
+서둘러서 같은 편의 도움을 받아 같은 편 포켓몬이 기억하고 있는 기술 중 하나를 쓴다.
+If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.
+수컷은 암컷을 암컷은 수컷을 유혹하여 헤롱헤롱하게 만든다. 상대가 기술을 쓰기 어려워진다.
+The user switches places with a party Pokémon in waiting, passing along any stat changes.
+교대 포켓몬과 바뀐다. 능력 변화는 바뀐 포켓몬이 그대로 이어받는다.
+The user maximizes its Attack stat in exchange for HP equal to half its max HP.
+자신의 HP를 최대 HP의 절반만큼 감소시켜 자신의 공격을 최대로 올린다.
+The user passes its held item to the target when the target isn't holding an item.
+상대가 도구를 지니고 있지 않을 때 자신이 지니고 있는 도구를 상대에게 건넨다.
+The user blocks the target's way with arms spread wide to prevent escape.
+양팔을 벌려 막아서서 상대의 도주로를 가로막아 도망칠 수 없게 한다.
+The user's type is changed depending on its environment, such as at water's edge, in grass, or in a cave.
+물가나 풀밭, 동굴 등 있는 장소에 맞춰서 자신의 타입을 바꾼다.
+If it is the opposite gender of the user, the target is charmed into harshly lowering its Sp. Atk stat.
+수컷은 암컷을 암컷은 수컷을 유혹하여 상대의 특수공격을 크게 떨어뜨린다.
+The Pokémon congratulates you on your special day!
+포켓몬이 매우 행복한 당신을 축하해 준다.
+The user tells the target a secret. The target loses focus and its Sp. Atk stat is lowered.
+비밀 이야기를 해서 상대의 집중력을 잃게 하여 특수공격을 떨어뜨린다.
+The user changes its type to become the same type as one of its moves.
+자신의 타입을 배운 기술 중 가장 위에 있는 기술과 같은 타입으로 바꾼다.
+The user changes its type to make itself resistant to the type of the attack the opponent used last.
+상대가 마지막으로 쓴 기술에 저항할 수 있도록 자신의 타입을 변화시킨다.
+The user mimics the move used immediately before it. The move fails if no other move has been used yet.
+직전에 나온 기술을 흉내 내어 같은 기술을 쓴다. 기술이 나오지 않았으면 실패한다.
+With its mysterious power, the user swaps the effects on either side of the field.
+이상한 힘으로 서로의 필드 효과를 교체한다.
+The user curls up to conceal weak spots and raise its Defense stat.
+몸을 둥글게 웅크려서 자신의 방어를 올린다.
+For four turns, this move prevents the target from using the move it last used.
+상대의 움직임을 막아 바로 전에 쓴 기술을 4턴 동안 사용할 수 없게 만든다.
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.
+재빠른 움직임으로 분신을 만들어 상대를 혼란시켜 회피율을 올린다.
+The user compels the target to keep using only the move it last used for three turns.
+상대에게 앵콜시킨 기술을 3번 연속으로 쓰게 한다.
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.
+공격을 받아도 HP를 반드시 1만큼은 남긴다. 연속으로 쓰면 실패하기 쉽다.
+The user dances to compel the target to mimic it, making the target's Ability the same as the user's.
+이상한 리듬으로 춤춘다. 움직임을 흉내 내게 해서 자신과 상대의 특성을 똑같게 만든다.
+The user flashes a light that cuts the target's accuracy. It can also be used to illuminate caves.
+눈이 부신 빛으로 상대의 명중률을 떨어뜨린다.
+The user takes a deep breath and focuses so that critical hits land more easily.
+깊게 숨을 들이마셔 기합을 넣는다. 자신의 공격이 급소에 맞기 쉬워진다.
+The user draws attention to itself, making all targets take aim only at the user.
+자신에게 주목시켜 상대로부터의 공격을 모두 자신에게 향하게 한다.
+Enables the user to hit a Ghost type with any kind of move. It also enables the user to hit an evasive foe.
+고스트타입에 효과가 없는 기술이나 회피율이 높은 상대라 할지라도 공격이 맞게 된다.
+The user intimidates the target with the pattern on its belly to cause paralysis.
+배의 무늬로 겁을 주어 상대를 마비 상태로 만든다.
+The user growls in an endearing way, making the foe less wary. The foe's Attack stat is lowered.
+귀여운 울음소리를 들려주고 관심을 끌어 방심한 사이에 상대의 공격을 떨어뜨린다.
+The user's body grows all at once, raising the Atk and Sp. Atk stats.
+몸을 일시에 크게 성장시켜 공격과 특수공격을 올린다.
+Using Happy Hour doubles the amount of prize money received after battle.
+해피타임 기술을 쓰면 배틀 후에 받을 수 있는 돈이 배가 된다.
+The user stiffens all the muscles in its body to raise its Defense stat.
+전신에 힘을 담아 몸을 단단하게 해서 자신의 방어를 올린다.
+The user makes a soothing bell chime to heal the status problems of all the party Pokémon.
+기분 좋은 방울소리를 들려주어 같은 편 전원의 상태 이상을 회복한다.
+The user assists an ally by boosting the power of its attack.
+동료를 돕는다. 도움받은 포켓몬이 쓰는 기술의 위력은 여느 때보다 커진다.
+The user and an ally hold hands. This makes them very happy.
+같은 편 포켓몬끼리 손에 손을 잡는다. 굉장히 행복한 기분이 들게 된다.
+The user howls loudly to raise the spirit of itself and allies, boosting their Attack stats.
+큰 소리로 짖고 기합을 높여 자신의 공격을 올린다.
+The user focuses intensely. The attack on the next turn always results in a critical hit.
+정신을 집중해서 다음 공격을 반드시 급소에 맞춘다.
+The user gains an intimidating leer with sharp eyes. The target's Defense stat is reduced.
+날카로운 눈초리로 겁을 주어 상대의 방어를 떨어뜨린다.
+The user takes sure aim at the target. It ensures the next attack does not fail to hit the target.
+조준을 잘 맞춰 다음 공격이 반드시 상대에게 명중하도록 한다.
+With a scary face, the user tries to force a kiss on the target. If it suceeds, the target falls asleep.
+무서운 얼굴로 키스한다. 상대를 잠듦 상태로 만든다.
+The user chants an incantation toward the sky, preventing the foe from landing critical hits.
+하늘을 향해 기도를 올려 5턴 동안 상대의 공격을 급소에 맞지 않게 한다.
+The user tries to cut ahead of the foe to steal and use the foe's intended move with greater power.
+위력을 올려 상대가 쓰려고 하는 기술을 먼저 쓴다. 먼저 쓰지 않으면 실패한다.
+The user pins the target with a dark, arresting look. The target becomes unable to flee.
+빨려 들어갈 것 같은 까만 눈빛으로 가만히 응시하여 상대를 배틀에서 도망갈 수 없게 한다.
+The user waggles a finger and stimulates its brain into randomly using nearly any move.
+손가락을 흔들어 자신의 뇌를 자극해서 모든 기술 중 어느 하나를 날린다.
+The user restores its own HP by up to half of its maximum HP. May also be used in the field to heal HP.
+자신의 최대 HP 절반을 회복한다.
+The user copies the move last used by the foe. The move can be used until the user is switched out.
+상대가 마지막에 사용한 기술을 배틀을 하는 동안 자신의 기술로 만들 수 있다.
+The user senses the foe's movements with its mind to ensure its next attack does not miss the foe.
+상대의 움직임을 마음으로 읽고 다음 공격이 반드시 상대에게 명중되게 한다.
+The user compresses its body to make itself look smaller, which sharply raises its evasiveness.
+몸을 축소하여 작게 보임으로써 자신의 회피율을 크게 올린다.
+An attack that makes use of nature's power. Its effects vary depending on the user's environment.
+자연의 힘으로 공격한다. 사용하는 장소에 따라 나오는 기술이 변화한다.
+Letting out a noble roar, the user intimidates the target and lowers its Attack and Sp. Atk.
+우렁차게 부르짖어서 상대를 위협하여 상대의 공격과 특수공격을 떨어뜨린다.
+Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.
+고스트타입에 효과가 없는 기술이나 회피율이 높은 상대라 할지라도 공격이 맞게 된다.
+The user adds its HP to the target's HP, then equally shares the combined HP with the target.
+자신의 HP와 상대의 HP를 합친 것을 자신과 상대가 사이좋게 나눈다.
+Any Pokémon that hears this song faints in three turns, unless it switches out of battle.
+노래를 들은 포켓몬은 3턴이 지나면 기절한다. 교체되면 효과가 없어진다.
+The user and target become friends. The target loses its will to fight, lowering its Attack stat.
+상대와 친해져서 싸울 마음을 잃게 하여 상대의 공격을 떨어뜨린다.
+The user hypnotizes itself into copying any stat change made by the target.
+자신에게 암시를 걸어서 능력 변화 상태를 상대와 똑같은 상태로 만든다.
+Restoring its own cells, the user restores its own HP by half of its max HP.
+세포를 재생시켜 자신의 최대 HP의 절반만큼 HP를 회복한다.
+The user recycles a held item that has been used in battle so it can be used again.
+배틀 중에 사용하여 없어진 자신의 지닌 물건을 재생시켜 사용할 수 있게 한다.
+The user reflects the target's type, making it the same type as the target.
+상대의 타입을 반사해서 자신도 똑같은 타입이 된다.
+The user rests to cure itself of a poisoning, burn, or paralysis.
+몸을 쉬게 하여 자신이 입은 독, 마비, 화상의 상태 이상을 치료한다.
+The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends.
+상대를 도망가게 해서 교대할 포켓몬을 끌어낸다. 야생의 경우에는 배틀이 끝난다.
+The user creates a protective field that prevents status problems for five turns.
+5턴 동안 이상한 힘으로 보호받아 상태 이상이 되지 않는다.
+The user frightens the target with a scary face to harshly reduce its Speed stat.
+무서운 얼굴로 노려보고 겁주어 상대의 스피드를 크게 떨어뜨린다.
+An earsplitting screech harshly reduces the target's Defense stat.
+그만 귀를 막아버리고 싶은 싫은 소리를 내어 상대의 방어를 크게 떨어뜨린다.
+The user reduces its polygon count to make itself more jagged, raising the Attack stat.
+몸의 각을 늘려서 더욱 각지게 하여 자신의 공격을 올린다.
+The user breaks its shell, lowering its defenses but sharply raising attacking and Speed stats.
+껍질을 깨서 자신의 방어와 특수방어를 떨어뜨리지만 공격과 특수공격, 스피드를 크게 올린다.
+The user's mysterious psychic wave changes the target's Ability to Simple.
+수수께끼의 염력파를 상대에게 보낸다. 염력파를 받은 상대는 특성이 단순으로 바뀐다.
+A soothing lullaby is sung in a calming voice that puts the target into a deep slumber.
+기분 좋은 예쁜 노랫소리를 들려주고 상대를 잠듦 상태로 만든다.
+It enables the user to permanently learn the move last used by the foe. Once used, Sketch disappears.
+상대가 쓴 기술을 자신의 것으로 만든다. 한 번 사용하면 스케치는 사라진다.
+The user slacks off, restoring its own HP by up to half of its maximum HP.
+게으름 피우며 쉰다. 자신의 HP를 최대 HP의 절반만큼 회복한다.
+While it is asleep, the user randomly uses one of the moves it knows.
+자신이 배운 기술 중 하나를 무작위로 날린다. 자신이 잠들어 있을 때만 쓸 수 있다.
+The user releases an obscuring cloud of smoke or ink. It reduces the target's accuracy.
+연기나 먹물을 내뿜어 상대의 명중률을 떨어뜨린다.
+The user just flops and splashes around to no effect at all...
+공격도 하지 않고 팔딱팔딱 튈 뿐 아무 일도 일어나지 않는다...
+The user shines a spotlight on the target so that only it will be attacked during the turn.
+포켓몬에게 스포트라이트를 비춰 그 턴에서 그 포켓몬만 공격할 수 있게 한다.
+The user charges up power and raises both its Defense and Sp. Def. The move can be used three times.
+힘을 비축해서 자신의 방어와 특수방어를 올린다. 최대 3회까지 비축할 수 있다.
+The user eats its held Berry, then sharply raises its Defense stat.
+지니고 있는 나무열매를 먹고 방어를 크게 올린다.
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.
+자신의 HP를 조금 깎아서 분신을 만든다. 분신은 자신의 대타가 된다.
+The user generates odd sound waves from its body. It may confuse the target.
+특수한 음파를 몸에서 발산하여 상대를 혼란시킨다.
+The user enrages and confuses the target. However, it also sharply raises the target's Attack stat.
+상대를 화내게 해서 혼란시킨다. 분노로 상대의 공격은 크게 올라가 버린다.
+The power stored using the move Stockpile is absorbed by the user to heal its HP.
+비축된 힘을 꿀꺽해서 자신의 HP를 회복한다. 비축된 만큼 회복한다.
+A sweet scent that lowers the foe's evasiveness. It also lures wild Pokémon if used in grass, etc.
+향기로 상대의 회피율을 크게 떨어뜨린다.
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.
+싸움의 춤을 격렬하게 춰서 기세를 높인다. 자신의 공격을 크게 올린다.
+The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.
+꼬리를 좌우로 귀엽게 흔들어 방심을 유도한다. 상대의 방어를 떨어뜨린다.
+Gets teary eyed to make the target lose its will to fight. Lowers the target's Attack and Sp. Atk.
+눈물을 그렁그렁거려 상대의 전의를 상실하게 한다. 상대의 공격과 특수공격이 떨어진다.
+The user has teatime with all the Pokémon in the battle. Each Pokémon eats its held Berry.
+다과회를 열어서 배틀에 나와 있는 포켓몬이 각각 지니고 있는 나무열매를 먹는다.
+The user performs a wobbly dance that confuses the Pokémon around it.
+흔들흔들 댄스를 춰서 주위에 있는 포켓몬을 혼란 상태로 만든다.
+The user tickles the target into laughing, reducing its Attack and Defense stats.
+몸을 간질여 웃게 만들어서 상대의 공격과 방어를 떨어뜨린다.
+The user transforms into a copy of the target right down to having the same move set.
+상대 포켓몬으로 변신하여 상대와 완전히 똑같은 기술을 사용할 수 있다.
+The foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.
+상대를 날려버려서 교대할 포켓몬을 끌어낸다. 야생의 경우에는 배틀이 끝난다.
+One turn after this move is used, the target's HP is restored by half the user's maximum HP.
+다음 턴에 자신 또는 교체한 포켓몬의 HP를 최대 HP의 절반만큼 회복한다.
+The user is roused, and its Attack and Sp. Atk stats increase.
+스스로 분발해서 공격과 특수공격을 올린다.
+The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.
+큰 하품으로 졸음을 유도한다. 다음 턴에 상대를 잠듦 상태로 만든다.
+The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.
+상대를 향해 트림을 하여 데미지를 준다. 나무열매를 먹지 않으면 쓸 수 없다.
+The user shoots filthy garbage at the target to attack. It may also poison the target.
+더러운 쓰레기를 상대에게 부딪쳐서 공격한다. 독 상태로 만들 때가 있다.
+It swamps the area around the user with a giant sludge wave. It may also poison those hit.
+오물 파도로 자신의 주위에 있는 포켓몬을 공격한다. 독 상태로 만들 때가 있다.
+Inflicts physical or special damage, whichever will be more effective. May also poison the target.
+물리와 특수 중 더 많은 데미지를 줄 수 있는 능력으로 공격한다. 독 상태로 만들 때가 있다.
+Unsanitary sludge is hurled at the target. It may also poison the target.
+더러운 오물을 상대에게 내던져서 공격한다. 독 상태로 만들 때가 있다.
+The target is stabbed with a tentacle or arm seeped with poison. It may also poison the target.
+독에 물든 촉수나 팔로 상대를 꿰찌른다. 독 상태로 만들 때가 있다.
+A slashing attack with a poisonous blade that may also poison the foe. Critical hits land more easily.
+독 칼날로 상대를 베어 가른다. 독 상태로 만들 때가 있고 급소에도 맞기 쉽다.
+The user drenches the foe in a special poisonous liquid. Its power doubles if the target is poisoned.
+특수한 독액을 끼얹는다. 독 상태의 상대에게는 위력이 2배가 된다.
+The user attacks by throwing a clump of special mud. All status changes are returned to normal.
+특수한 진흙 덩어리를 상대에게 내던져서 공격한다. 능력 변화를 원래대로 돌린다.
+The user bites the target with toxic fangs. It may also leave the target badly poisoned.
+독이 있는 이빨로 상대를 물어서 공격한다. 맹독을 주입할 때가 있다.
+The user hits the target with its tail. It may also poison the target. Critical hits land more easily.
+꼬리로 때린다. 독 상태로 만들 때가 있고 급소에도 맞기 쉽다.
+The foe is attacked with a spray of harsh acid. It may also lower the target's Sp. Def stat.
+강한 산을 상대에게 끼얹어 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다.
+The user spits fluid that works to melt the target. This harshly reduces the target's Sp. Def stat.
+상대를 녹이는 액체를 토해내서 공격한다. 상대의 특수방어를 크게 떨어뜨린다.
+The target is attacked with a discharge of filthy gases. It may also poison the target.
+더러운 가스를 상대에게 내뿜어 공격한다. 독 상태로 만들 때가 있다.
+The user stabs the target with a poisonous stinger. This may also poison the target.
+독이 있는 침을 상대에게 꿰찔러서 공격한다. 독 상태로 만들 때가 있다.
+The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.
+세포의 변화로 액체가 되어 자신의 방어를 크게 올린다.
+Protects the user from attacks. Also poisons any attacker that makes contact with the user.
+상대의 공격을 막음과 동시에 접촉한 상대에게 독을 퍼뜨린다.
+The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy.
+똬리를 틀어서 집중한다. 자신의 공격과 방어와 명중률을 올린다.
+The user surrounds everything around it with highly acidic gas and melts away items they hold.
+주위에 있는 모든 것을 강력한 산성 가스로 뒤덮어서 지니고 있는 도구를 녹여버린다.
+The user hurls up its stomach acids on the foe. The fluid negates the effect of the target's Ability.
+상대의 몸에 위액을 내뱉는다. 달라붙은 위액은 상대의 특성 효과를 지운다.
+A cloud of poison gas is sprayed in the face of opposing Pokémon. It may poison those hit.
+독가스를 상대의 얼굴에 내뿜어 독 상태로 만든다.
+The user scatters a cloud of poisonous dust on the target. It may poison the target.
+독이 있는 가루를 많이 흩뿌려서 상대를 독 상태로 만든다.
+The user heals the target's status condition. If so, it also restores the user's own HP.
+상대의 상태 이상을 회복한다. 회복하면 자신은 HP를 회복할 수 있다.
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.
+상대를 맹독의 상태로 만든다. 턴이 진행될수록 독의 데미지가 증가한다.
+The user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle.
+상대의 발밑에 독압정을 뿌린다. 교체로 나온 상대 포켓몬에 독을 덮어씌운다.
+The user shoots poisonous threads to poison the target and lower the target's Speed stat.
+독이 섞인 실을 뿜어낸다. 상대를 독 상태로 만들고 스피드를 떨어뜨린다.
+Foes are drenched in an odd liquid that lowers the Attack, Sp. Atk, and Speed of poisoned Pokémon.
+특수한 독액을 끼얹는다. 독 상태인 상대는 공격, 특수공격, 스피드가 떨어진다.
+The user shoots powerful lasers using the power of a prism. The user can't move on the next turn.
+프리즘의 힘으로 강력한 광선을 발사한다. 다음 턴은 움직일 수 없다.
+The user attacks the target at full power. The attack's recoil harshly reduces the user's Sp. Atk stat.
+풀 파워로 상대를 공격한다. 쓰면 반동으로 자신의 특수공격이 크게 떨어진다.
+Two turns after this move is used, a hunk of psychic energy attacks the target.
+기술을 사용한 2턴 뒤에 상대에게 염동력의 덩어리를 보내어 공격한다.
+Using an odd shock wave, the user damages any Pokémon of the same type as the user.
+이상한 전파로 주위에 있는 자신과 같은 타입의 포켓몬에게 데미지를 준다.
+The user eats the dreams of a sleeping foe. It absorbs half the damage caused to heal the user's HP.
+잠자고 있는 상대의 꿈을 먹어 공격한다. 데미지의 절반을 HP로 회복한다.
+The user attacks with a pillar of light. This move the higher of the user's Attack or Sp. Atk stat.
+빛의 기둥으로 공격한다. 공격과 특수공격을 비교해서 높은 쪽으로 데미지를 준다.
+The user materializes an odd psychic wave to attack the target. This attack does physical damage.
+이상한 염력파를 실체화하여 상대를 공격한다. 물리적인 데미지를 준다.
+The user shoots its psychic power from its eyes to attack. This may also leave the target frozen.
+두 눈에서 사이코 파워를 발사해서 공격한다. 얼음 상태로 만들 때가 있다.
+The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat.
+강한 염동력을 상대에게 보내어 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다.
+The user bites the target using psychic capabilities. This can also destroy Light Screen and Reflect.
+사이코 파워로 물어서 상대를 공격한다. 빛의장막이나 리플렉터도 파괴할 수 있다.
+The user attacks with tremendous psychic power. This also removes 3 PP from the target's last move.
+강력한 사이코 파워로 공격한다. 상대가 마지막으로 사용한 기술의 PP를 3만큼 줄인다.
+The user attacks the target with psychic power. Powers up and hits all foes on Psychic Terrain.
+사이코 파워로 상대를 공격한다. 사이코필드일 때는 위력이 오르며 모든 상대에게 데미지를 준다.
+The user attacks with an odd, unseeable power. It may also make the target flinch.
+보이지 않는 이상한 힘을 보내어 공격한다. 상대를 풀죽게 만들 때가 있다.
+Using a hyperspace hole, the user appears right next to the target and strikes. Skips protections.
+다른차원홀로 갑자기 상대 바로 옆에 나타나 공격한다. 방어나 판별 등도 무시할 수 있다.
+The user focuses its willpower to its head and attacks the foe. It may also make the target flinch.
+사념의 힘을 이마에 모아서 공격한다. 상대를 풀죽게 만들 때가 있다.
+The user lets loose a damaging burst of light. It may also reduce the target's Sp. Def stat.
+눈부신 빛을 발산하여 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다.
+A mistlike flurry of down envelops and damages the target. It may also lower the target's Sp. Atk.
+안개의 깃털로 둘러싸 공격한다. 상대의 특수공격을 떨어뜨릴 때가 있다.
+The user tears at the target with blades formed by psychic power. Critical hits land more easily.
+실체화시킨 마음의 칼날로 상대를 베어 가른다. 급소에 맞기 쉽다.
+The target is attacked with a peculiar ray. It may also cause confusion.
+이상한 광선을 상대에게 발사하여 공격한다. 혼란시킬 때가 있다.
+The user unleashes a vicious blow after its cute act makes the foe less wary. It may also cause flinching.
+귀여운 모습으로 방심시켜서 강렬한 일격을 날린다. 상대를 풀죽게 만들 때가 있다.
+The target is hit by a weak telekinetic force. It may also leave the target confused.
+약한 염동력을 상대에게 보내어 공격한다. 상대를 혼란시킬 때가 있다.
+The user attacks with stored power. The more the user's stats are raised, the greater the damage.
+축적된 파워로 상대를 공격한다. 자신의 능력이 올라가 있는 만큼 위력이 오른다.
+A retaliation move that counters any special attack, inflicting double the damage taken.
+상대에게 받은 특수공격의 데미지를 2배로 만들어 그 상대에게 돌려준다.
+The target is attacked with an odd psychic wave. The attack varies in intensity.
+이상한 염력파를 상대에게 발사하여 공격한다. 사용할 때마다 데미지가 바뀐다.
+The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+힘을 빼고 몸을 가볍게 해서 고속으로 움직인다. 자신의 스피드를 크게 올린다.
+The user teleports using a strange power and switches its place with one of its allies.
+이상한 힘으로 순간이동하여 자신과 같은 편이 있는 장소를 바꾼다.
+The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.
+머리를 비워서 순간적으로 무언가를 잊어버림으로써 자신의 특수방어를 크게 올린다.
+The user throws up a sturdy wall that sharply raises its Defense stat.
+튼튼한 장막을 만들어 자신의 방어를 크게 올린다.
+The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.
+조용히 정신을 통일하고 마음을 가라앉혀서 자신의 특수공격과 특수방어를 올린다.
+The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.
+우주로부터 신비한 힘을 손에 넣음으로써 자신의 방어와 특수방어를 올린다.
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+5턴 동안 부유나 비행타입에 땅타입의 기술이 맞게 된다. 공중으로 나는 기술도 사용할 수 없다.
+The user employs its psychic power to average its Defense and Sp. Def stats with those of its target.
+초능력으로 자신과 상대의 방어와 특수방어를 더해서 반으로 나눈다.
+The user employs its psychic power to switch changes to its Defense and Sp. Def with the target.
+초능력으로 자신과 상대의 방어와 특수방어의 능력 변화를 교체한다.
+For five turns, the foe is prevented from using any moves, Abilities, or held items that recover HP.
+5턴 동안 기술이나 특성, 지니고 있는 도구에 의한 HP 회복을 할 수 없게 한다.
+The user emits a healing pulse which restores the target's HP by up to half of its max HP.
+치유파동을 날려서 최대 HP의 절반만큼 상대의 HP를 회복한다.
+The user faints. In return, the Pokémon taking its place will have its HP restored and status cured.
+자신은 기절하지만 교대하여 나오는 포켓몬의 상태 이상과 HP를 회복한다.
+The user employs its psychic power to switch stat changes with the target.
+초능력으로 자신과 상대에 걸려 있는 능력 변화를 교체한다.
+The user employs hypnotic suggestion to make the target fall into a deep sleep.
+졸음을 유도하는 암시를 걸어서 상대를 잠듦 상태로 만든다.
+If the foe knows any move also known by the user, the foe is prevented from using it.
+상대가 자신과 같은 기술을 기억하고 있으면 상대만 그 기술을 사용할 수 없게 한다.
+The user instructs the target to use the target's last move again.
+상대에게 지시하여 상대가 쓴 기술을 다시 한 번 쓰게 할 수 있다.
+The user distracts the target by bending a spoon. It lowers the target's accuracy.
+숟가락을 휘어서 주의를 끌어 상대의 명중률을 낮춘다.
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.
+5턴 동안 이상한 장막으로 상대로부터 받는 특수공격의 데미지를 약하게 한다.
+The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.
+자신은 기절하지만 교대하여 나오는 포켓몬의 모든 상태를 회복한다.
+A barrier reflects back to the target moves like Leech Seed and moves that damage status.
+상대가 상태 이상이 되는 기술이나 씨뿌리기 등을 썼을 때 되받아친다.
+The user scatters a cloud of magic powder that changes the target to Psychic type.
+마법가루를 날려서 상대를 에스퍼타입으로 바꾼다.
+The user creates a bizarre area in which Pokémon's held items lose their effects for five turns.
+이상한 공간을 만든다. 5턴 동안 모든 포켓몬의 도구의 효과가 사라진다.
+The user meditates to awaken the power deep within its body and raise its Attack stat.
+잠들어 있는 힘을 몸속에서 끌어내어 자신의 공격을 올린다.
+Enables the user to hit a Dark type with any type of move. It also enables the user to hit an evasive foe.
+악타입에 효과가 없는 기술이나 회피율이 높은 상대라 할지라도 공격이 맞게 된다.
+The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.
+초능력으로 자신과 상대의 공격과 특수공격을 더해서 반으로 나눈다.
+The user employs its psychic power to switch changes to its Attack and Sp. Atk with the target.
+초능력으로 자신과 상대의 공격과 특수공격의 능력 변화를 교체한다.
+The user employs its psychic power to switch its Attack with its Defense stat.
+초능력으로 자신의 공격과 방어의 힘을 교환한다.
+Protects grounded Pokémon from priority moves and powers up Psychic-type moves for five turns.
+5턴 동안 땅에 있으면 선제공격을 받지 않는다. 에스퍼타입의 위력이 올라간다.
+Using its psychic power of suggestion, the user transfers its status problems to the target.
+초능력으로 암시를 걸어서 자신에게 걸려 있는 상태 이상을 상대에게 옮긴다.
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.
+5턴 동안 이상한 장막으로 상대로부터 받는 물리공격의 데미지를 약하게 한다.
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.
+2턴 동안 계속 잠잔다. 자신의 HP와 상태 이상을 모두 회복한다.
+The user mimics the target completely, copying the target's natural Ability.
+상대의 역할을 하여 자신도 상대와 같은 특성으로 변화한다.
+The user employs its psychic power to exchange Abilities with the target.
+초능력으로 자신의 특성과 상대의 특성을 바꾼다.
+The user exchanges Speed stats with the target.
+상대의 스피드와 자신의 스피드를 교체한다.
+The user makes the target float with its psychic power. The target is easier to hit for three turns.
+초능력으로 상대를 띄운다. 3턴 동안 공격이 상대에게 맞기 쉬워진다.
+The user switches place with a party Pokémon. Also warps to the last Pokémon Center visited.
+야생 포켓몬과 배틀을 그만두고 도망간다.
+The user catches the target off guard and swaps its held item with its own.
+상대의 빈틈을 노려 자신과 상대가 지닌 물건을 교환한다.
+The user creates a bizarre area in which slower Pokémon get to move first for five turns.
+이상한 공간을 만든다. 5턴 동안 느린 포켓몬부터 행동할 수 있다.
+The user creates a bizarre area in which Pokémon's Defense and Sp. Def stats are swapped for 5 turns.
+이상한 공간을 만든다. 5턴 동안 모든 포켓몬의 방어와 특수방어가 바뀐다.
+The user attacks the foe with a hazardous, full-power headbutt. The user also takes terrible damage.
+목숨을 걸고 혼신의 힘으로 상대에게 박치기를 한다. 자신도 굉장한 데미지를 입는다.
+The user launches a huge boulder at the target to attack. It must rest on the next turn, however.
+거대한 바위를 상대에게 발사하여 공격한다. 다음 턴은 움직일 수 없게 된다.
+Gathers space power and boosts its Sp. Atk stat on the first turn, attacks on the next turn.
+1턴째에 우주의 힘을 모아서 특수공격을 올리고 2턴째에 상대를 공격한다.
+The user whips up a storm of diamonds to damage foes. This may also sharply raise the user's Defense stat.
+다이아 폭풍을 일으켜 데미지를 준다. 자신의 방어를 크게 올릴 때가 있다.
+The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio.
+뾰족한 바위를 상대에게 꿰찔러서 공격한다. 급소에 맞기 쉽다.
+The user attacks with a ray of light that sparkles as if it were made of gemstones.
+보석처럼 반짝이는 빛을 발사하여 상대를 공격한다.
+Large boulders are hurled at the foes to inflict damage. It may also make the targets flinch.
+큰 바위를 세차게 부딪쳐서 공격한다. 상대를 풀죽게 만들 때가 있다.
+The user attacks with a prehistoric power. It may also raise all the user's stats at once.
+원시의 힘으로 공격한다. 자신의 모든 능력이 오를 때가 있다.
+Boulders are hurled at the target. It also lowers the target's Speed by preventing its movement.
+암석을 내던져서 공격한다. 상대의 움직임을 봉인함으로써 스피드를 떨어뜨린다.
+The user picks up and throws a small rock at the target to attack.
+작은 바위를 들어올려 상대에게 내던져서 공격한다.
+The user throws a stone or projectile to attack. A flying Pokémon will fall to the ground when hit.
+돌이나 구슬을 던져서 날고 있는 상대를 공격한다. 맞은 상대는 땅에 떨어진다.
+The user smashes into the target at high speed. This move always goes first.
+재빠른 스피드로 상대에게 부딪쳐서 공격한다. 반드시 선제공격할 수 있다.
+The user hurls hard rocks at the target. Two to five rocks are launched in quick succession.
+단단한 암석을 상대에게 발사하여 공격한다. 2-5회 동안 연속으로 쓴다.
+The user polishes its body to reduce drag. It can sharply raise the Speed stat.
+자신의 몸을 갈아 공기의 저항을 적게 한다. 스피드를 크게 올릴 수 있다.
+Summons a five-turn sandstorm to hurt all combatants except the Rock, Ground, and Steel types.
+5턴 동안 모래바람으로 바위 땅, 강철타입 이외에 데미지를 준다. 바위타입의 특수방어가 올라간다.
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.
+상대의 주위에 무수한 바위를 띄워 교체해서 나온 상대 포켓몬에게 데미지를 준다.
+Pours sticky tar over the target, lowering its Speed and making it weaker to Fire-type moves.
+끈적끈적한 타르를 날려서 상대의 스피드를 떨어뜨린다. 상대는 불꽃이 약점이 된다.
+The user and its allies are protected from wide-ranging attacks for a turn. May fail if used in succession.
+같은 편 전원에게 향하는 공격을 1턴 동안 막는다.
+Two turns after this move is used, the user blasts the target with a concentrated bundle of light.
+기술을 사용한 2턴 뒤에 무수한 빛의 다발이 상대를 공격한다.
+The user fires a beam of steel that it collected from its entire body. This also damages the user.
+전신에서 끌어모은 강철을 빔으로 바꿔 세차게 발사한다. 자신도 데미지를 받는다.
+The user attacks while destroying the terrain. This move fails when the ground isn't a terrain.
+필드를 파괴하면서 공격한다. 필드가 어떤 상태로든 변해 있지 않은 경우 기술은 실패한다.
+The user becomes a gigantic shield and slams into the target.
+거대한 방패가 되어 부딪친다. 상대가 다이맥스 중이면 데미지가 2배가 된다.
+The user becomes a gigantic sword and cuts the target.
+거대한 검이 되어 베어버린다. 상대가 다이맥스 중이면 데미지가 2배가 된다.
+The target is slammed with a steel-hard tail. It may also lower the target's Defense stat.
+단단한 꼬리로 상대를 힘껏 쳐서 공격한다. 상대의 방어를 떨어뜨릴 때가 있다.
+The user slams into the target with the force of a meteor. Can't be stopped by the target's Ability.
+유성 같은 기세로 돌진한다. 상대의 특성을 무시하고 공격할 수 있다.
+The target is hit with a hard punch fired like a meteor. It may also raise the user's Attack.
+혜성과 같은 펀치를 날려서 상대를 공격한다. 자신의 공격이 올라갈 때가 있다.
+The user entangles the target with its anchor chain. The target becomes unable to flee.
+앵커를 상대에게 휘감아서 공격한다. 상대는 도망칠 수 없게 된다.
+The user gathers all its light energy and releases it at once. It may also lower the target's Sp. Def stat.
+몸의 빛을 한곳에 모아서 힘을 쏜다. 상대의 특수방어를 떨어뜨릴 때가 있다.
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+강철과 같은 단단한 머리로 공격한다. 상대를 풀죽게 만들 때가 있다.
+The user stabs the target with a sharp horn. This attack never misses.
+뾰족한 뿔로 상대를 꿰찔러서 공격한다. 공격은 반드시 명중한다.
+The target is hit with wings of steel. It may also raise the user's Defense stat.
+단단한 날개를 상대에게 부딪쳐서 공격한다. 자신의 방어가 올라갈 때가 있다.
+The user rotates, centering the hex nut in its chest, and then strikes twice. May cause flinching.
+가슴의 너트를 축으로 회전시켜 2번 연속 팔로 힘껏 친다. 상대를 풀죽게 만들 때가 있다.
+The user looses a flash of energy from its polished body. It may also lower the target's accuracy.
+갈고닦은 몸에서 섬광의 힘을 상대에게 쏜다. 명중률을 떨어뜨릴 때가 있다.
+The user launches steel bombs that stick to the target. This attack will not miss.
+상대에게 달라붙는 강철의 폭탄을 발사한다. 공격은 반드시 명중한다.
+The user attacks by throwing two steel gears at its target.
+강철의 기어를 상대에게 던져서 공격한다. 2회 연속으로 데미지를 준다.
+The target is raked with steel claws. It may also raise the user's Attack stat.
+강철의 발톱으로 상대를 베어 갈라 공격한다. 자신의 공격이 올라갈 때도 있다.
+The user strikes the target with tough punches as fast as bullets. This move always goes first.
+탄환처럼 빠르고 단단한 펀치를 상대에게 날린다. 반드시 선제공격을 할 수 있다.
+The user tackles the target with a high-speed spin. The slower the user, the greater the damage.
+몸을 고속으로 회전시켜 몸통박치기한다. 상대보다 스피드가 낮을수록 위력은 올라간다.
+The user slams into the foe with its heavy body. The heavier the user, the greater the damage.
+무거운 몸으로 상대에게 부딪쳐 공격한다. 자신이 상대보다 무거울수록 위력이 올라간다.
+The user retaliates with much greater power against the target that last inflicted damage on it.
+기술을 쓰기 전에 마지막으로 받은 기술의 데미지를 늘려서 기술을 쓴 상대에게 돌려준다.
+The user sheds part of its body to make itself lighter and sharply raise its Speed stat.
+몸의 쓸모없는 부분을 깎는다. 자신의 스피드를 크게 올리고 체중도 가벼워진다.
+The user engages its gears to raise the Attack and Sp. Atk of allies with the Plus or Minus Ability.
+기어를 넣는 것으로 특성 플러스와 마이너스의 공격과 특수공격이 올라간다.
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+피부를 쇠처럼 단단하게 함으로써 자신의 방어를 크게 올린다.
+Protects itself from damage. It also harshly lowers the Attack of attackers that make contact.
+상대의 공격을 막음과 동시에 방어 태세를 갖춘다. 접촉한 상대의 공격을 크게 떨어뜨린다.
+A horrible sound like scraping metal harshly reduces the target's Sp. Def stat.
+금속을 긁을 때 나는 듯한 싫은 소리를 들려준다. 상대의 특수방어를 크게 떨어뜨린다.
+The user rotates its gears, raising its Attack and sharply raising its Speed.
+톱니바퀴를 돌려서 자신의 공격을 올리는 것뿐만 아니라 스피드도 크게 올린다.
+The target is hit with a watery blast. The user must rest on the next turn, however.
+물의 대포를 상대에게 발사해서 공격한다. 다음 턴은 움직일 수 없다.
+The user spouts water to damage the foe. The lower the user's HP, the less powerful it becomes.
+바닷물을 내뿜어 공격한다. 자신의 HP가 적을수록 기술의 위력이 떨어진다.
+The target is blasted by a huge volume of water launched under great pressure.
+대량의 물을 세찬 기세로 상대에게 발사하여 공격한다.
+The user attacks opposing Pokémon with countless beams of light that glow a deep and brilliant blue.
+파랗게 빛나는 무수한 광선으로 상대를 공격한다.
+The user immerses the target in superheated steam. This may also leave the target with a burn.
+상대에게 굉장히 뜨거운 증기를 뿜는다. 상대는 화상을 입기도 한다.
+The target is hammered with a large pincer. Critical hits land more easily.
+큰 집게를 상대에게 내리쳐서 공격한다. 급소에 맞기 쉽다.
+The user attacks by swinging its tail as if it were a vicious wave in a raging storm.
+세차게 날뛰는 거친 파도와 같이 큰 꼬리를 흔들어서 상대를 공격한다.
+The user attacks by shooting muddy water at the opposing team. It may also lower the target's accuracy.
+탁해진 물을 상대에게 발사하여 공격한다. 명중률을 떨어뜨릴 때가 있다.
+The user bursts into song, emitting many bubbles. Any burnt Pokémon will be healed by these bubbles.
+노래 부르는 것으로 많은 벌룬을 방출한다. 기술에 맞으면 화상이 낫는다.
+It swamps the area around the user with a giant wave. It can also be used for crossing water.
+큰 파도로 자신의 주위에 있는 포켓몬을 공격한다.
+The user rends the target with its hard gills. Power doubles if the user moves first.
+단단한 아가미로 문다. 상대보다 먼저 공격하면 기술의 위력은 2배가 된다.
+The user slams into the target using a full-force blast of water. May lower the target's Defense.
+물의 힘으로 상대에게 부딪쳐서 공격한다. 상대의 방어를 떨어뜨릴 때가 있다.
+Diving on the first turn, the user rises and hits on the next turn. It can be used to dive in the ocean.
+1턴째에 잠수했다가 2턴째에 떠올라 공격한다.
+The user shoots boiling hot water at its target. It may also leave the target with a burn.
+뜨겁게 끓어오르는 물을 상대에게 발사해서 공격한다. 화상 상태로 만들 때가 있다.
+The user ignores any effects that redirect moves, allowing this move to hit the chosen target.
+상대의 기술을 끌어모으는 특성이나 기술의 영향을 무시하고 선택한 상대를 공격할 수 있다.
+A column of water strikes the target. When combined with its fire equivalent, it makes a rainbow.
+물기둥으로 공격한다. 불꽃과 조합하면 위력이 올라가고 하늘에 무지개가 걸린다.
+The user charges at the target and may make it flinch. It can also be used to climb a waterfall.
+굉장한 기세로 상대에게 돌진한다. 상대를 풀죽게 만들 때가 있다.
+The user cuts the foe with sharp shells. It may also lower the target's Defense stat.
+날카로운 조개껍질로 베어 공격한다. 상대의 방어를 떨어뜨릴 때가 있다.
+If the target's HP is down to about half, this attack will hit with double the power.
+상대가 HP의 절반 정도 상처를 입고 있으면 기술의 위력이 2배가 된다.
+A spray of bubbles is forcefully ejected at the target. It may also lower its Speed stat.
+거품을 기세 좋게 상대에게 발사하여 공격한다. 스피드를 떨어뜨릴 때가 있다.
+The user attacks by spraying ink in the foe's face or eyes. It may also lower the target's accuracy.
+상대의 얼굴 등에 먹물을 내뿜어 공격한다. 명중률을 떨어뜨릴 때가 있다.
+The user attacks the target with a pulsing blast of water. It may also confuse the target.
+물의 진동을 상대에게 가하여 공격한다. 상대를 혼란시킬 때가 있다.
+A spray of countless bubbles is jetted at the opposing team. It may also lower the targets' Speed stats.
+매우 많은 거품을 상대에게 내뿜어 공격한다. 상대의 스피드를 떨어뜨릴 때가 있다.
+The target is blasted with a forceful shot of water.
+물을 기세 좋게 상대에게 발사하여 공격한다.
+The target is clamped and squeezed by the user's very thick and sturdy shell for four to five turns.
+매우 튼튼하고 두꺼운 껍질에 4-5턴 동안 상대를 끼워서 공격한다.
+Traps foes in a violent swirling whirlpool for four to five turns.
+세차게 소용돌이치는 물속에 4-5턴 동안 상대를 가두어 공격한다.
+Hits three times in a row with mastery of the Water style. This attack always deals critical hits.
+물의 태세가 극에 달하여 물 흐르듯 3회의 연격을 날린다. 반드시 급소에 맞는다.
+The user hits the target with throwing stars 2-5 times in a row. This move always goes first.
+점액으로 만든 수리검을 2-5회 동안 연속으로 던진다. 반드시 선제공격할 수 있다.
+The user envelops itself in a veil made of water. It regains some HP on every turn.
+자신의 몸 주변을 물로 만든 베일로 덮는다. 매 턴 HP를 회복한다.
+The user scatters mysterious water around and restores the HP of itself and its allies.
+신비한 물을 흩뿌려서 자신과 배틀에 나와 있는 같은 편의 HP를 회복한다.
+The user summons a heavy rain that falls for five turns, powering up Water-type moves.
+5턴 동안 비를 내리게 하여 물타입 기술의 위력을 올린다. 불꽃타입의 위력은 떨어진다.
+The user shoots a torrent of water at the target and changes the target's type to Water.
+많은 물을 끼얹어서 상대를 물타입으로 바꾼다.
+The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle.
+주위를 물로 흠뻑 젖게 만든다. 5턴 동안 불꽃타입의 기술을 약하게 한다.
+The user withdraws its body into its hard shell, raising its Defense stat.
+껍질에 숨어 몸을 보호하여 자신의 방어를 올린다.

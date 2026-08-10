@@ -1,0 +1,160 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[REGION_LOCATION_NAMES]
+New Bark Town
+연두마을
+Cherrygrove City
+무궁시티
+Violet City
+도라지시티
+Azalea Town
+고동마을
+Goldenrod City
+금빛시티
+Ecruteak City
+인주시티
+Olivine City
+담청시티
+Cinawood City
+진청시티
+Mahogany Town
+황토마을
+Blackthorn City
+검은먹시티
+Route29
+29번도로
+Route30
+30번도로
+Route31
+31번도로
+Route32
+32번도로
+Route33
+33번도로
+Route34
+34번도로
+Route35
+35번도로
+Route36
+36번도로
+Route37
+37번도로
+Route38
+38번도로
+Route39
+39번도로
+Route40
+40번수로
+Route41
+41번수로
+Route42
+42번도로
+Route43
+43번도로
+Route44
+44번도로
+Route45
+45번도로
+Route46
+46번도로
+Route47
+47번도로
+Route48
+48번도로
+Route27
+27번도로
+Route28
+28번도로
+Ruins of Alph
+알프의유적
+Ilex Forest
+너도밤나무숲
+National Park
+자연공원
+Battle Tower
+배틀타워
+Lake of Rage
+분노의호수
+Safari Zone Gate
+사파리존게이트
+Mt. Silver
+은빛산
+Pallet Town
+태초마을
+Viridian City
+상록시티
+Pewter City
+회색시티
+Cerulean City
+블루시티
+Vermilion City
+갈색시티
+Celadon City
+무지개시티
+Saffron City
+노랑시티
+Lavender Town
+보라타운
+Fuchsia City
+연분홍시티
+Cinnabar Island
+홍련섬
+Route1
+1번도로
+Route2
+2번도로
+Route3
+3번도로
+Route4
+4번도로
+Route5
+5번도로
+Route6
+6번도로
+Route7
+7번도로
+Route8
+8번도로
+Route9
+9번도로
+Route10
+10번도로
+Route11
+11번도로
+Route12
+12번도로
+Route13
+13번도로
+Route14
+14번도로
+Route15
+15번도로
+Route16
+16번도로
+Route17
+17번도로
+Route18
+18번도로
+Route19
+19번수로
+Route20
+20번수로
+Route21
+21번수로
+Route22
+22번도로
+Route24
+24번도로
+Route25
+25번도로
+Route26
+26번도로
+Viridian Forest
+상록숲
+Mt. Moon
+달맞이산
+Victory Road
+챔피언로드
+Indigo Plateau
+석영고원

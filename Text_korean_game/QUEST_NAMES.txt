@@ -1,0 +1,26 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[QUEST_NAMES]
+Introductions
+Introductions
+Last-minute chores
+Last-minute chores
+A new beginning
+A new beginning
+All of my friends
+All of my friends
+The journey begins
+The journey begins
+Close encounters of the... first kind?
+Close encounters of the... first kind?
+These boots were made for walking
+These boots were made for walking
+Got any grapes?
+Got any grapes?
+Singing in the rain
+Singing in the rain
+When is this list going to end?
+When is this list going to end?
+The laaast melon
+The laaast melon

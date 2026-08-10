@@ -1,0 +1,24 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[QUEST_GIVERS]
+Little Boy
+Little Boy
+Grandma
+Grandma
+Unnamed
+Unnamed
+Barry
+Barry
+Professor Oak
+Professor Oak
+Musician
+Musician
+Duck
+Duck
+Some old dude
+Some old dude
+Me
+Me
+Some stupid dodo
+Some stupid dodo

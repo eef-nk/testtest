@@ -1,0 +1,134 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[TRAINER_TYPE_NAMES]
+Old Man
+할아버지
+Poké Dude
+큰형님
+Backpacker
+백팩커
+Poké Fan
+애호가클럽
+Preschooler
+보육원아
+Nursery Aide
+보육사
+School Kid
+학원 끝난 아이
+Rich Boy
+도련님
+Socialite
+마담
+Parasol Lady
+파라솔 아가씨
+Clerk
+회사원
+Janitor
+청소부
+Maid
+메이드
+Baker
+제빵사
+Waiter
+웨이터
+Waitress
+웨이트리스
+Doctor
+의사
+Nurse
+간호사
+Worker
+작업원
+Depot Agent
+역무원
+Pilot
+파일럿
+Police Man
+경찰관
+Hooligans
+배드팀
+Guitarist
+기타리스트
+Musician
+뮤지션
+Dancer
+댄서
+Artist
+예술가
+Harlequin
+어릿광대
+Cyclist
+사이클링
+Smasher
+테니스선수
+Striker
+축구선수
+Infielder
+야구선수
+Hoopster
+농구선수
+Linebacker
+미식축구선수
+Backers
+팬클럽
+Veteran
+베테랑 트레이너
+Rocket Admin
+로켓단 간부
+Team Galactic
+갤럭시단
+Galactic Boss
+갤럭시단 보스
+Team Plasma
+플라스마단
+Plasma Boss
+플라스마단 보스
+Shadow Triad
+다크트리니티
+Gym Leaders
+관장 콤비
+Tower Tycoon
+타워타이쿤
+Factory Head
+팩토리헤드
+Arcade Star
+룰렛여신
+Castle Valet
+캐슬버틀러
+Hall Matron
+스테이지마돈나
+Subway Boss
+서브웨이 마스터
+Boss Trainer
+보스 트레이너
+Mo-Cap Actor
+모션캡쳐 배우
+Masked Man
+가면쓴 남자
+Mecha Cop
+사이보그 경찰
+Magical Maid
+마법 메이드
+Magic Queen
+마법 여왕
+Invader
+침략자
+Haunted Kid
+귀신들린 꼬마
+Haunted Man
+귀신들린 남자
+Giantess
+거인녀
+Plush
+Plush
+Statue
+Statue
+Transporter
+Transporter
+Battleship
+Battleship
+UFO
+UFO
+Red Fog
+Red Fog

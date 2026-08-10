@@ -1,0 +1,1464 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ITEM_NAME_PLURALS]
+Repels
+벌레회피스프레이
+Super Repels
+실버스프레이
+Max Repels
+골드스프레이
+Black Flutes
+검정비드로
+White Flutes
+하양비드로
+Honey
+달콤한꿀
+Red Shards
+빨강조각
+Yellow Shards
+노랑조각
+Blue Shards
+파랑조각
+Green Shards
+초록조각
+Fire Stones
+불꽃의돌
+Thunder Stones
+천둥의돌
+Thunderstones
+천둥의돌
+Water Stones
+물의돌
+Leaf Stones
+리프의돌
+Moon Stones
+달의돌
+Sun Stones
+태양의돌
+Dusk Stones
+어둠의돌
+Dawn Stones
+각성의돌
+Shiny Stones
+빛의돌
+Ice Stones
+얼음의돌
+Sweet Apples
+달콤한사과
+Tart Apples
+새콤한사과
+Cracked Pots
+깨진포트
+Chipped Pots
+이빠진포트
+Galarica Cuffs
+가라두구팔찌
+Galarica Wreaths
+가라두구머리장식
+Red Apricorns
+빨간규토리
+Yellow Apricorns
+노랑규토리
+Ylw Apricorns
+노랑규토리
+Blue Apricorns
+파란규토리
+Blu Apricorns
+파란규토리
+Green Apricorns
+초록규토리
+Grn Apricorns
+초록규토리
+Pink Apricorns
+담홍규토리
+Pnk Apricorns
+담홍규토리
+White Apricorns
+하얀규토리
+Wht Apricorns
+하얀규토리
+Black Apricorns
+검은규토리
+Blk Apricorns
+검은규토리
+Helix Fossils
+조개화석
+Dome Fossils
+껍질화석
+Old Ambers
+비밀의호박
+Root Fossils
+뿌리화석
+Claw Fossils
+발톱화석
+Skull Fossils
+두개의화석
+Armor Fossils
+방패의화석
+Cover Fossils
+덮개화석
+Plume Fossils
+날개화석
+Jaw Fossils
+턱화석
+Sail Fossils
+지느러미화석
+Fossilized Birds
+화석새
+Fossilized Fish
+화석물고기
+Fossilized Drakes
+화석용
+Fossilized Dinos
+화석긴목
+Pretty Feathers
+고운깃털
+Pretty Wings
+고운날개
+Tiny Mushrooms
+작은버섯
+TinyMushrooms
+작은버섯
+Big Mushrooms
+큰버섯
+Balm Mushrooms
+향기버섯
+BalmMushrooms
+향기버섯
+Pearls
+진주
+Big Pearls
+큰진주
+Pearl Strings
+경단진주
+Stardusts
+별의모래
+Star Pieces
+별의조각
+Comet Shards
+혜성조각
+Nuggets
+금구슬
+Big Nuggets
+큰금구슬
+Heart Scales
+하트비늘
+Slowpoke Tails
+야돈의꼬리
+SlowpokeTails
+야돈의꼬리
+Rare Bones
+귀중한뼈
+Relic Coppers
+고대의동화
+Relic Silvers
+고대의은화
+Relic Golds
+고대의금화
+Relic Vases
+고대의항아리
+Relic Bands
+고대의팔찌
+Relic Statues
+고대의석상
+Relic Crowns
+고대의왕관
+Growth Mulch
+무럭무럭비료
+Damp Mulch
+축축이비료
+Stable Mulch
+오래오래비료
+Gooey Mulch
+끈적끈적비료
+Shoal Salts
+여울소금
+Shoal Shells
+여울조개껍질
+Odd Keystones
+쐐기돌
+Red Nectars
+다홍꿀
+Yellow Nectars
+진노랑꿀
+Pink Nectars
+연분홍꿀
+Purple Nectars
+보라꿀
+Air Balloons
+풍선
+Bright Powders
+반짝가루
+BrightPowders
+반짝가루
+Eviolites
+진화의휘석
+Float Stones
+가벼운돌
+Destiny Knots
+빨간실
+Rocky Helmets
+울퉁불퉁멧
+Assault Vests
+돌격조끼
+Safety Goggles
+방진고글
+Protective Pads
+방호패드
+Heavy-Duty Boots
+통굽부츠
+Utility Umbrellas
+만능우산
+Eject Buttons
+탈출버튼
+Eject Packs
+탈출팩
+Red Cards
+레드카드
+Shed Shells
+아름다운허물
+Smoke Balls
+연막탄
+Lucky Eggs
+행복의알
+Exp. Shares
+학습장치
+Amulet Coins
+부적금화
+Soothe Bells
+평온의방울
+Cleanse Tags
+순결의부적
+Choice Bands
+구애머리띠
+Choice Specs
+구애안경
+Choice Scarves
+구애스카프
+Heat Rocks
+뜨거운바위
+Damp Rocks
+축축한바위
+Smooth Rocks
+보송보송바위
+Icy Rocks
+차가운바위
+Terrain Extenders
+그라운드코트
+Light Clays
+빛의점토
+Grip Claws
+끈기갈고리손톱
+Binding Bands
+조임밴드
+Big Roots
+큰뿌리
+Black Sludges
+검은오물
+Leftovers
+먹다남은음식
+Shell Bells
+조개껍질방울
+Mental Herbs
+멘탈허브
+White Herbs
+하양허브
+Power Herbs
+파워풀허브
+Absorb Bulbs
+구근
+Cell Batteries
+충전지
+Luminous Moss
+빛이끼
+Snowballs
+눈덩이
+Weakness Policies
+약점보험
+Blunder Policies
+허탕보험
+Throat Sprays
+목스프레이
+Adrenaline Orbs
+주눅구슬
+Room Services
+룸서비스
+Electric Seeds
+일렉트릭시드
+Grassy Seeds
+그래스시드
+Misty Seeds
+미스트시드
+Psychic Seeds
+사이코시드
+Life Orbs
+생명의구슬
+Expert Belts
+달인의띠
+Metronomes
+메트로놈
+Muscle Bands
+힘의머리띠
+Wise Glasses
+박식안경
+Razor Claws
+예리한손톱
+Scope Lenses
+초점렌즈
+Wide Lenses
+광각렌즈
+Zoom Lenses
+포커스렌즈
+King's Rocks
+왕의징표석
+Razor Fangs
+예리한이빨
+Lagging Tails
+느림보꼬리
+Quick Claws
+선제공격손톱
+Focus Bands
+기합의머리띠
+Focus Sashes
+기합의띠
+Flame Orbs
+화염구슬
+Toxic Orbs
+맹독구슬
+Sticky Barbs
+끈적끈적바늘
+Iron Balls
+검은철구
+Ring Targets
+겨냥표적
+Macho Braces
+교정깁스
+Power Weights
+파워웨이트
+Power Bracers
+파워리스트
+Power Belts
+파워벨트
+Power Lenses
+파워렌즈
+Power Bands
+파워밴드
+Power Anklets
+파워앵클릿
+Lax Incenses
+무사태평향로
+Full Incenses
+만복향로
+Luck Incenses
+행운의향로
+Pure Incenses
+순결의향로
+Sea Incenses
+바닷물향로
+Wave Incenses
+잔물결향로
+Rose Incenses
+꽃향로
+Odd Incenses
+이상한향로
+Rock Incenses
+암석향로
+Charcoals
+목탄
+Mystic Waters
+신비의물방울
+Magnets
+자석
+Miracle Seeds
+기적의씨
+Never-Melt Ices
+녹지않는얼음
+NeverMeltIces
+녹지않는얼음
+Black Belts
+검은띠
+Poison Barbs
+독바늘
+Soft Sand
+부드러운모래
+Sharp Beaks
+예리한부리
+Twisted Spoons
+휘어진스푼
+TwistedSpoons
+휘어진스푼
+Silver Powders
+은빛가루
+SilverPowders
+SilverPowder
+Hard Stones
+딱딱한돌
+Spell Tags
+저주의부적
+Dragon Fangs
+용의이빨
+Black Glasses
+검은안경
+BlackGlasses
+BlackGlasses
+Metal Coats
+메탈코트
+Silk Scarves
+실크스카프
+Flame Plates
+불구슬플레이트
+Splash Plates
+물방울플레이트
+Zap Plates
+우레플레이트
+Meadow Plates
+초록플레이트
+Icicle Plates
+고드름플레이트
+Fist Plates
+주먹플레이트
+Toxic Plates
+맹독플레이트
+Earth Plates
+대지플레이트
+Sky Plates
+푸른하늘플레이트
+Mind Plates
+이상한플레이트
+Insect Plates
+비단벌레플레이트
+Stone Plates
+암석플레이트
+Spooky Plates
+원령플레이트
+Draco Plates
+용의플레이트
+Dread Plates
+공포플레이트
+Iron Plates
+강철플레이트
+Pixie Plates
+정령플레이트
+Fire Gems
+불꽃주얼
+Water Gems
+물주얼
+Electric Gems
+전기주얼
+Grass Gems
+풀주얼
+Ice Gems
+얼음주얼
+Fighting Gems
+격투주얼
+Poison Gems
+독주얼
+Ground Gems
+땅주얼
+Flying Gems
+비행주얼
+Psychic Gems
+에스퍼주얼
+Bug Gems
+벌레주얼
+Rock Gems
+바위주얼
+Ghost Gems
+고스트주얼
+Dragon Gems
+드래곤주얼
+Dark Gems
+악주얼
+Steel Gems
+강철주얼
+Fairy Gems
+페어리주얼
+Normal Gems
+노말주얼
+Light Balls
+전기구슬
+Lucky Punches
+럭키펀치
+Metal Powders
+메탈파우더
+Quick Powders
+스피드파우더
+Thick Clubs
+굵은뼈
+Leeks
+대파
+Sticks
+Stick
+Soul Dews
+마음의물방울
+Deep Sea Teeth
+심해의이빨
+DeepSeaTeeth
+심해의이빨
+Deep Sea Scales
+심해의비늘
+DeepSeaScales
+심해의비늘
+Adamant Orbs
+금강옥
+Lustrous Orbs
+백옥
+Griseous Orbs
+백금옥
+Rusted Swords
+녹슨검
+Rusted Shields
+녹슨방패
+Douse Drives
+아쿠아카세트
+Shock Drives
+번개카세트
+Burn Drives
+블레이즈카세트
+Chill Drives
+프리즈카세트
+Fire Memories
+파이어메모리
+Water Memories
+워터메모리
+Electric Memories
+일렉트릭메모리
+Grass Memories
+그래스메모리
+Ice Memories
+아이스메모리
+Fighting Memories
+파이팅메모리
+Poison Memories
+포이즌메모리
+Ground Memories
+그라운드메모리
+Flying Memories
+플라잉메모리
+Psychic Memories
+사이킥메모리
+Bug Memories
+버그메모리
+Rock Memories
+록메모리
+Ghost Memories
+고스트메모리
+Dragon Memories
+드래곤메모리
+Dark Memories
+다크메모리
+Steel Memories
+스틸메모리
+Fairy Memories
+페어리메모리
+Everstones
+변함없는돌
+Dragon Scales
+용의비늘
+Upgrades
+업그레이드
+Up-Grades
+업그레이드
+Dubious Discs
+괴상한패치
+Protectors
+프로텍터
+Electirizers
+에레키부스터
+Magmarizers
+마그마부스터
+Reaper Cloths
+영계의천
+Prism Scales
+고운비늘
+Oval Stones
+동글동글돌
+Whipped Dreams
+휘핑팝
+Sachets
+향기주머니
+Strawberry Sweets
+딸기사탕공예
+Love Sweets
+하트사탕공예
+Berry Sweets
+베리사탕공예
+Clover Sweets
+네잎사탕공예
+Flower Sweets
+꽃사탕공예
+Star Sweets
+스타사탕공예
+Ribbon Sweets
+리본사탕공예
+Venusaurites
+이상해꽃나이트
+Charizardite Xs
+리자몽나이트X
+Charizardite Ys
+리자몽나이트Y
+Blastoisinites
+거북왕나이트
+Beedrillites
+독침붕나이트
+Pidgeotites
+피죤투나이트
+Alakazites
+후딘나이트
+Slowbronites
+야도란나이트
+Gengarites
+팬텀나이트
+Kangaskhanites
+캥카나이트
+Pinsirites
+쁘사이저나이트
+Gyaradosites
+갸라도스나이트
+Aerodactylites
+프테라나이트
+Mewtwonite Xs
+뮤츠나이트X
+Mewtwonite Ys
+뮤츠나이트Y
+Ampharosites
+전룡나이트
+Steelixites
+강철톤나이트
+Scizorites
+핫삼나이트
+Heracronites
+헤라크로스나이트
+Houndoominites
+헬가나이트
+Tyranitarites
+마기라스나이트
+Sceptilites
+나무킹나이트
+Blazikenites
+번치코나이트
+Swampertites
+대짱이나이트
+Gardevoirites
+가디안나이트
+Sablenites
+깜까미나이트
+Mawilites
+입치트나이트
+Aggronites
+보스로라나이트
+Medichamites
+요가램나이트
+Manectites
+썬더볼트나이트
+Sharpedonites
+샤크니아나이트
+Cameruptites
+폭타나이트
+Altarianites
+파비코리나이트
+Banettites
+다크펫나이트
+Absolites
+앱솔나이트
+Glalitites
+얼음귀신나이트
+Salamencites
+보만다나이트
+Metagrossites
+메타그로스나이트
+Latiasites
+라티아스나이트
+Latiosites
+라티오스나이트
+Lopunnites
+이어롭나이트
+Garchompites
+한카리아스나이트
+Lucarionites
+루카리오나이트
+Abomasites
+눈설왕나이트
+Galladites
+엘레이드나이트
+Audinites
+다부니나이트
+Diancites
+디안시나이트
+Red Orbs
+주홍구슬
+Blue Orbs
+쪽빛구슬
+Potions
+상처약
+Super Potions
+좋은상처약
+Hyper Potions
+고급상처약
+Max Potions
+풀회복약
+Full Restores
+회복약
+Sacred Ashes
+성스러운분말
+Awakenings
+잠깨는약
+Antidotes
+해독제
+Burn Heals
+화상치료제
+Paralyze Heals
+마비치료제
+Parlyz Heals
+마비치료제
+Ice Heals
+얼음상태치료제
+Full Heals
+만병통치제
+Pewter Crunchies
+회색강정
+Rage Candy Bars
+분노의호두과자
+RageCandyBars
+분노의호두과자
+Lava Cookies
+용암전병
+Old Gateaux
+숲의양갱
+Casteliacones
+구름아이스
+Lumiose Galettes
+미르갈레트
+Shalour Sables
+사라사블레
+Big Malasadas
+큰 말라사다
+Revives
+기력의조각
+Max Revives
+기력의덩어리
+Berry Juices
+나무열매쥬스
+Sweet Hearts
+하트스위트
+Fresh Waters
+맛있는물
+Soda Pops
+미네랄사이다
+Lemonades
+후르츠밀크
+Moomoo Milks
+튼튼밀크
+Energy Powders
+힘의가루
+EnergyPowders
+힘의가루
+Energy Roots
+힘의뿌리
+Heal Powders
+만능가루
+Revival Herbs
+부활초
+Max Honeys
+다이꿀
+Ethers
+PP에이드
+Max Ethers
+PP회복
+Elixirs
+PP에이더
+Max Elixirs
+PP맥스
+PP Ups
+포인트업
+PP Maxes
+포인트맥스
+HP Ups
+맥스업
+Proteins
+타우린
+Irons
+사포닌
+Calciums
+리보플라빈
+Zincs
+키토산
+Carbos
+알칼로이드
+Health Feathers
+체력깃털
+Health Wings
+체력날개
+Muscle Feathers
+근력깃털
+Muscle Wings
+근력날개
+Resist Feathers
+저항력깃털
+Resist Wings
+저항력날개
+Genius Feathers
+지력깃털
+Genius Wings
+지력날개
+Clever Feathers
+정신력깃털
+Clever Wings
+정신력날개
+Swift Feathers
+순발력깃털
+Swift Wings
+순발력날개
+Lonely Mints
+외로움민트
+Adamant Mints
+고집민트
+Naughty Mints
+개구쟁이민트
+Brave Mints
+용감민트
+Bold Mints
+대담민트
+Impish Mints
+장난꾸러기민트
+Lax Mints
+촐랑민트
+Relaxed Mints
+무사태평민트
+Modest Mints
+조심민트
+Mild Mints
+의젓민트
+Rash Mints
+덜렁민트
+Quiet Mints
+냉정민트
+Calm Mints
+차분민트
+Gentle Mints
+얌전민트
+Careful Mints
+신중민트
+Sassy Mints
+건방민트
+Timid Mints
+겁쟁이민트
+Hasty Mints
+성급민트
+Jolly Mints
+명랑민트
+Naive Mints
+천진난만민트
+Serious Mints
+성실민트
+Ability Capsule
+특성캡슐
+Ability Patches
+특성패치
+Exp. Candy XSs
+경험치사탕XS
+Exp. Candy Ss
+경험치사탕S
+Exp. Candy Ms
+경험치사탕M
+Exp. Candy Ls
+경험치사탕L
+Exp. Candy XLs
+경험치사탕XL
+Rare Candies
+이상한사탕
+Master Balls
+마스터볼
+Ultra Balls
+하이퍼볼
+Great Balls
+슈퍼볼
+Poké Balls
+몬스터볼
+Safari Balls
+사파리볼
+Sport Balls
+컴퍼티션볼
+Net Balls
+네트볼
+Dive Balls
+다이브볼
+Nest Balls
+네스트볼
+Repeat Balls
+리피트볼
+Timer Balls
+타이머볼
+Luxury Balls
+럭셔리볼
+Premier Balls
+프리미어볼
+Dusk Balls
+다크볼
+Heal Balls
+힐볼
+Quick Balls
+퀵볼
+Cherish Balls
+프레셔스볼
+Fast Balls
+스피드볼
+Level Balls
+레벨볼
+Lure Balls
+루어볼
+Heavy Balls
+헤비볼
+Love Balls
+러브러브볼
+Friend Balls
+프렌드볼
+Moon Balls
+문볼
+Dream Balls
+드림볼
+Beast Balls
+울트라볼
+TM01s
+TM01
+TM02s
+TM02
+TM03s
+TM03
+TM04s
+TM04
+TM05s
+TM05
+TM06s
+TM06
+TM07s
+TM07
+TM08s
+TM08
+TM09s
+TM09
+TM10s
+TM10
+TM11s
+TM11
+TM12s
+TM12
+TM13s
+TM13
+TM14s
+TM14
+TM15s
+TM15
+TM16s
+TM16
+TM17s
+TM17
+TM18s
+TM18
+TM19s
+TM19
+TM20s
+TM20
+TM21s
+TM21
+TM22s
+TM22
+TM23s
+TM23
+TM24s
+TM24
+TM25s
+TM25
+TM26s
+TM26
+TM27s
+TM27
+TM28s
+TM28
+TM29s
+TM29
+TM30s
+TM30
+TM31s
+TM31
+TM32s
+TM32
+TM33s
+TM33
+TM34s
+TM34
+TM35s
+TM35
+TM36s
+TM36
+TM37s
+TM37
+TM38s
+TM38
+TM39s
+TM39
+TM40s
+TM40
+TM41s
+TM41
+TM42s
+TM42
+TM43s
+TM43
+TM44s
+TM44
+TM45s
+TM45
+TM46s
+TM46
+TM47s
+TM47
+TM48s
+TM48
+TM49s
+TM49
+TM50s
+TM50
+TM51s
+TM51
+TM52s
+TM52
+TM53s
+TM53
+TM54s
+TM54
+TM55s
+TM55
+TM56s
+TM56
+TM57s
+TM57
+TM58s
+TM58
+TM59s
+TM59
+TM60s
+TM60
+TM61s
+TM61
+TM62s
+TM62
+TM63s
+TM63
+TM64s
+TM64
+TM65s
+TM65
+TM66s
+TM66
+TM67s
+TM67
+TM68s
+TM68
+TM69s
+TM69
+TM70s
+TM70
+TM71s
+TM71
+TM72s
+TM72
+TM73s
+TM73
+TM74s
+TM74
+TM75s
+TM75
+TM76s
+TM76
+TM77s
+TM77
+TM78s
+TM78
+TM79s
+TM79
+TM80s
+TM80
+TM81s
+TM81
+TM82s
+TM82
+TM83s
+TM83
+TM84s
+TM84
+TM85s
+TM85
+TM86s
+TM86
+TM87s
+TM87
+TM88s
+TM88
+TM89s
+TM89
+TM90s
+TM90
+TM91s
+TM91
+TM92s
+TM92
+TM93s
+TM93
+TM94s
+TM94
+TM95s
+TM95
+TM96s
+TM96
+TM97s
+TM97
+TM98s
+TM98
+TM99s
+TM99
+TM100s
+TM100
+HM01s
+HM01
+HM02s
+HM02
+HM03s
+HM03
+HM04s
+HM04
+HM05s
+HM05
+HM06s
+HM06
+Cheri Berries
+버치열매
+Chesto Berries
+유루열매
+Pecha Berries
+복슝열매
+Rawst Berries
+복분열매
+Aspear Berries
+배리열매
+Leppa Berries
+과사열매
+Oran Berries
+오랭열매
+Persim Berries
+시몬열매
+Lum Berries
+리샘열매
+Sitrus Berries
+자뭉열매
+Figy Berries
+무화열매
+Wiki Berries
+위키열매
+Mago Berries
+마고열매
+Aguav Berries
+아바열매
+Iapapa Berries
+파야열매
+Razz Berries
+라즈열매
+Bluk Berries
+블리열매
+Nanab Berries
+나나열매
+Wepear Berries
+서배열매
+Pinap Berries
+파인열매
+Pomeg Berries
+유석열매
+Kelpsy Berries
+시마열매
+Qualot Berries
+파비열매
+Hondew Berries
+로매열매
+Grepa Berries
+또뽀열매
+Tamato Berries
+토망열매
+Cornn Berries
+수숙열매
+Magost Berries
+고스티열매
+Rabuta Berries
+라부탐열매
+Nomel Berries
+노멜열매
+Spelon Berries
+메호키열매
+Pamtre Berries
+자야열매
+Watmel Berries
+슈박열매
+Durin Berries
+두리열매
+Belue Berries
+루베열매
+Occa Berries
+오카열매
+Passho Berries
+꼬시개열매
+Wacan Berries
+초나열매
+Rindo Berries
+린드열매
+Yache Berries
+플카열매
+Chople Berries
+로플열매
+Kebia Berries
+으름열매
+Shuca Berries
+슈캐열매
+Coba Berries
+바코열매
+Payapa Berries
+야파열매
+Tanga Berries
+리체열매
+Charti Berries
+루미열매
+Kasib Berries
+수불열매
+Haban Berries
+하반열매
+Colbur Berries
+마코열매
+Babiri Berries
+바리비열매
+Roseli Berries
+로셀열매
+Chilan Berries
+카리열매
+Liechi Berries
+치리열매
+Ganlon Berries
+용아열매
+Salac Berries
+캄라열매
+Petaya Berries
+야타비열매
+Apicot Berries
+규살열매
+Lansat Berries
+랑사열매
+Starf Berries
+스타열매
+Enigma Berries
+의문열매
+Micle Berries
+미클열매
+Custap Berries
+애슈열매
+Jaboca Berries
+자보열매
+Rowap Berries
+애터열매
+Kee Berries
+악키열매
+Maranga Berries
+타라프열매
+Grass Mail
+잔디메일
+Flame Mail
+플레임메일
+Bubble Mail
+블루메일
+Bloom Mail
+블룸메일
+Tunnel Mail
+터널메일
+Steel Mail
+스틸메일
+Heart Mail
+러브러브메일
+Snow Mail
+블리자드메일
+Space Mail
+스페이스메일
+Air Mail
+에어메일
+Mosaic Mail
+모자이크메일
+Brick Mail
+벽돌메일
+X Attacks
+플러스파워
+X Attack 2s
+플러스파워 2
+X Attack 3s
+플러스파워 3
+X Attack 6s
+플러스파워 6
+X Defenses
+디펜드업
+X Defends
+디펜드업
+X Defense 2s
+디펜드업 2
+X Defend 2s
+디펜드업 2
+X Defense 3s
+디펜드업 3
+X Defend 3s
+디펜드업 3
+X Defense 6s
+디펜드업 6
+X Defend 6s
+디펜드업 6
+X Sp. Atks
+스페셜업
+X Specials
+스페셜업
+X Sp. Atk 2s
+스페셜업 2
+X Special 2s
+스페셜업 2
+X Sp. Atk 3s
+스페셜업 3
+X Special 3s
+스페셜업 3
+X Sp. Atk 6s
+스페셜업 6
+X Special 6s
+스페셜업 6
+X Sp. Defs
+스페셜가드
+X Sp. Def 2s
+스페셜가드 2
+X Sp. Def 3s
+스페셜가드 3
+X Sp. Def 6s
+스페셜가드 6
+X Speeds
+스피드업
+X Speed 2s
+스피드업 2
+X Speed 3s
+스피드업 3
+X Speed 6s
+스피드업 6
+X Accuracies
+잘-맞히기
+X Accuracy 2s
+잘-맞히기 2
+X Accuracy 3s
+잘-맞히기 3
+X Accuracy 6s
+잘-맞히기 6
+Max Mushrooms
+다이버섯
+Dire Hits
+크리티컬커터
+Dire Hit 2s
+크리티컬커터 2
+Dire Hit 3s
+크리티컬커터 3
+Guard Specs.
+이펙트가드
+Reset Urges
+Reset Urge
+Ability Urges
+Ability Urge
+Item Urges
+Item Urge
+Item Drops
+Item Drop
+Blue Flutes
+파랑비드로
+Yellow Flutes
+노랑비드로
+Red Flutes
+빨강비드로
+Poké Dolls
+삐삐인형
+Fluffy Tails
+에나비꼬리
+Poké Toys
+포켓풀
+Bicycles
+자전거
+Bikes
+자전거
+Old Rods
+낡은낚싯대
+Good Rods
+좋은낚싯대
+Super Rods
+대단한낚싯대
+Itemfinders
+다우징머신
+Dowsing Machines
+다우징머신
+Dowsing MCHNs
+다우징머신
+Poké Radars
+포켓트레
+Town Maps
+타운맵
+Escape Ropes
+동굴탈출로프
+Coin Cases
+코인케이스
+Poké Flutes
+포켓몬피리
+Soot Sacks
+재주머니
+Silph Scopes
+실프스코프
+Devon Scopes
+데봉스코프
+Squirt Bottles
+꼬부기물뿌리개
+SquirtBottles
+꼬부기물뿌리개
+Sprayducks
+고라파덕물뿌리개
+Wailmer Pails
+고래왕자물뿌리개
+Sprinklotads
+연꽃몬물뿌리개
+Gracideas
+그라시데아꽃
+Reveal Glasses
+비추는거울
+Prison Bottles
+굴레의항아리
+Rotom Catalogs
+로토무가탈로그
+Zygarde Cubes
+지가르데큐브
+DNA Splicers
+유전자쐐기
+N-Solarizers
+네크로플러스솔
+N-Lunarizers
+네크로플러스루나
+Reins of Unity
+유대의고삐
+Oval Charms
+둥근부적
+Shiny Charms
+빛나는부적
+Catching Charms
+흔들림없는부적
+Exp. Charms
+경험부적
+Mega Rings
+메가링
+Pokémon Box Links
+포켓몬 박스 링크
+Pokémon Boxes
+포켓몬 박스
+Aurora Tickets
+오로라티켓
+Old Sea Maps
+오래된해도

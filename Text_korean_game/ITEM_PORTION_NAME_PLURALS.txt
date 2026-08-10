@@ -1,0 +1,14 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ITEM_PORTION_NAME_PLURALS]
+sets of Auspicious Armor
+sets of Auspicious Armor
+sets of Malicious Armor
+sets of Malicious Armor
+capsules of Booster Energy
+capsules of Booster Energy
+hunks of Metal Alloy
+hunks of Metal Alloy
+servings of Max Soup
+servings of Max Soup

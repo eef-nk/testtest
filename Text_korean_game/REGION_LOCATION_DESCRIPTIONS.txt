@@ -1,0 +1,96 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[REGION_LOCATION_DESCRIPTIONS]
+Prof.Elm's Lab
+공박사 연구소
+Pokemon School
+트레이너스쿨
+Violet Gym
+도라지체육관
+Sprout Tower
+모다피의탑
+Slowpoke Well
+야돈의우물
+Azalea Gym
+고동체육관
+금빛백화점
+금빛백화점
+리니어기차역
+리니어기차역
+지하터널
+지하터널
+Goldenrod Gym
+금빛체육관
+라디오타워
+라디오타워
+금빛항구
+금빛항구
+Ecruteak Gym
+인주체육관
+전통무용수 공연장
+전통무용수 공연장
+불탄탑
+불탄탑
+방울탑
+방울탑
+Olivine Gym
+담청체육관
+선착장
+선착장
+빛남의 등대
+빛남의 등대
+Cinawood Gym
+진청체육관
+Mahogany Gym
+황토체육관
+Blackthorn Gym
+검은먹체육관
+얼음샛길
+얼음샛길
+Dark Cave
+어둠의동굴
+Union Cave
+연결동굴
+Whirl Islands
+소용돌이섬
+Mt. Mortar
+절구산
+Tohjo Falls
+동성폭포
+오박사 포켓몬 연구소
+오박사 포켓몬 연구소
+Viridian Gym
+상록체육관
+Pewter Gym
+회색체육관
+Cerulean Gym
+블루체육관
+Cerulean Cave
+블루시티동굴
+Vermilion Gym
+갈색체육관
+Vermilion Port
+갈색시티항구
+무지개백화점
+무지개백화점
+Celadon Gym
+무지개체육관
+실프주식회사
+실프주식회사
+Saffron Gym
+노랑체육관
+사파리존?
+사파리존?
+Fuchsia Gym
+연분홍체육관
+Cinnabar Gym
+홍련체육관
+디그다의굴
+디그다의굴
+돌산터널
+돌산터널
+관동발전소
+관동발전소
+쌍둥이섬
+쌍둥이섬

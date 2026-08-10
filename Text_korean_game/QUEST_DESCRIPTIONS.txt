@@ -1,0 +1,26 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[QUEST_DESCRIPTIONS]
+Some wild Pokémon stole a little boy's favourite toy. Find those troublemakers and help him get it back.
+Some wild Pokémon stole a little boy's favourite toy. Find those troublemakers and help him get it back.
+Isn't the alphabet longer than this?
+Isn't the alphabet longer than this?
+You crash landed on an alien planet. There are other humans here and they look hungry...
+You crash landed on an alien planet. There are other humans here and they look hungry...
+Barry told me that he saw something cool at Acuity Lake and that I should go see. I hope it's not another trick.
+Barry told me that he saw something cool at Acuity Lake and that I should go see. I hope it's not another trick.
+The Professor has entrusted me with an important delivery for the Viridian City Pokémon Mart. This is my first task
+The Professor has entrusted me with an important delivery for the Viridian City Pokémon Mart. This is my first task
+A sudden burst of light
+A sudden burst of light
+A musician was feeling down because he thinks no one likes his music. I should help him drum up some business.
+A musician was feeling down because he thinks no one likes his music. I should help him drum up some business.
+Let's try to revive old memes by listening to this funny song about a duck wanting grapes.
+Let's try to revive old memes by listening to this funny song about a duck wanting grapes.
+Whatever you want it to be.
+Whatever you want it to be.
+I'm losing my sanity.
+I'm losing my sanity.
+Tea and biscuits
+Tea and biscuits

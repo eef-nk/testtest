@@ -1,0 +1,418 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[POKEDEX_ENTRIES]
+The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing
+눈에 보이지 않는 벽을 만들어 낼 때 검은 구슬이 신비하게 빛난다. 떨어진 수염은 따뜻해서 겨울옷의 귀중한 재료가 된다.
+A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee.
+단단한 바위로 몸을 보호하고 투박한 도끼로 거목을 베어 넘긴다. 성질이 사납기 때문에 황무지에서 만난다면 도망치는 수밖에 없다.
+It is believed that the swampy terrain of its ancient home region that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.
+옛 고향에 펼쳐진 습지의 토양 덕분에 튼튼한 몸과 함께, 이탄을 자유롭게 다루는 새로운 재주를 익히게 된 것으로 추측된다.
+Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout other aquatic environments is Basculegion’s equal.
+물길을 거슬러 오르는 여정에서 뜻을 이루지 못하고 죽은 동료들의 혼을 두르고 있다. 하천에서는 대적할 자가 없다.
+Because of Sneasler’s virulent poison and daunting physical prowess, no other species could hope to best it on frozen highlands. Preferring solitude, this species does not form packs.
+다른 종을 압도하는 신체 능력과 맹독을 가지고 있어 한랭한 고지대에서는 맞수가 없다. 무리를 이루지 않고 고독함을 즐긴다.
+Its lancelike spikes and savage temperament have earned it the nickname "sea fiend." It slurps up poison to nourish itself.
+창과 같은 침과 흉포한 성질 때문에 "바다 도깨비"라는 이명이 있는 포켓몬. 독을 마셔서 자신의 양식으로 삼는다.
+When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
+바다를 건너 날아와 혹독한 겨울의 끝을 알린다. 자애로움이 히스이 땅에 새로운 생명을 싹틔우게 했다는 전승이 있다.
+The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
+몸에서 나오는 달콤한 향기로 주위를 매료시킨다. 햇빛에 닿으면 향기가 더욱 강해진다.
+Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.
+긴 털 아래 숨긴 덩굴을 능숙하게 다뤄서 단단한 꽃봉오리로 상대를 가격한다.
+This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.
+꽃이 떠 있는 것처럼 보이는 것은 망토 뒷면의 털이 빛을 반사해서 줄기를 보이지 않게 하기 때문이다.
+It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.
+따뜻한 바위 위에 드러누워서 네모난 비늘을 통해 흡수한 열로 불꽃 에너지를 만든다.
+The combination of Crocalor’s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon’s head.
+불꽃 에너지와 남아도는 생명력이 섞여서 머리 위에 알 모양의 불덩이가 생겨났다.
+The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirge’s head gained a soul.
+노랫소리에 따라 모습이 바뀌는 불새는 머리 위에 있던 불덩이에 영혼이 깃든 것이라고 한다.
+This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.
+옛날에 머나먼 땅에서 찾아와 정착했다. 날개에서 분비되는 젤은 물과 먼지를 튕겨 낸다.
+These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.
+열심히 얕은 여울을 달리며 하반신을 단련하고, 동료들끼리 발 기술의 화려함을 겨룬다.
+A single kick from a Quaquaval can send a truck rolling. This Pokémon uses its powerful legs to perform striking dances from far-off lands.
+발차기 한 번에 트럭을 굴려 버릴 정도로 강한 다릿심을 활용하여 이국적인 춤을 선보인다.
+It searches for food all day. It possesses a keen sense of smell but doesn’t use it for anything other than foraging.
+하루 종일 먹이를 찾는다. 뛰어난 후각을 가졌지만 먹이를 찾는 일 외에는 사용하지 않는다.
+It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
+온몸에서 달콤하고 요염한 향기를 풍겨서 암컷 포켓몬들을 정신 차리지 못하게 만든다.
+The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon’s natural enemy.
+몸을 감싸고 있는 실타래는 천적인 스라크의 낫을 튕겨 낼 정도의 탄력을 자랑한다.
+It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.
+나뭇가지나 천장에 실로 달라붙어 소리 없이 행동한다. 먹잇감에게 들키기 전에 쓰러뜨린다.
+It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.
+제3의 다리가 접혀 있다. 위기에 처하면 10m 이상을 점프하는 다릿심을 가지고 있다.
+When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.
+진심을 다하게 되면 접었던 다리로 일어나 결전 모드로 변하여 단시간에 적을 제압한다.
+It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.
+볼의 전기 주머니가 아직 발달하지 않았다. 앞발의 볼록살을 열심히 비벼야 겨우 전기가 만들어진다.
+When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.
+무리가 공격을 받으면 전격을 날리는 격투기로 먼저 싸움을 걸고 적을 쓰러뜨린다.
+This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.
+평소에는 느긋하지만 싸움이 시작되면 전광석화와도 같은 몸놀림으로 적을 때려눕힌다.
+Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.
+호흡이 척척 맞는 콤비네이션으로 집의 재료가 될 만한 것을 앞니로 잘라 내어 가지고 간다.
+They build huge nests with many rooms that are used for different purposes, such as eating and sleeping.
+잠을 자는 곳이나 먹이를 먹는 곳 등, 용도에 따라 나눈 여러 개의 방으로 구성된 커다란 집을 만든다.
+This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity.
+만지면 촉촉하고 매끈매끈하다. 숨결에 포함되어 있는 효모로 주위의 것들을 발효시킨다.
+The pleasant aroma that emanates from this Pokémon’s body helps wheat grow, so Dachsbun has been treasured by farming villages.
+몸에서 나는 좋은 향기가 밀의 성장을 돕기 때문에 농촌에서 소중히 여겨진다.
+It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.
+머리의 열매에서 오일을 나오게 해서 적으로부터 몸을 지킨다. 오일은 펄쩍 뛸 만큼 떫고 쓰다.
+Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.
+신선한 향기가 나는 맛있는 오일을 나눠 준다. 오래전부터 인간과 공존해 왔다.
+This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.
+온화하면서도 매우 자비롭다. 영양이 풍부한 맛있는 오일을 약해진 포켓몬에게 나눠 준다.
+These Pokémon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.
+마을에서 사는 것을 선호한다. 깃털 색에 따라 그룹을 만들고는 영역 다툼을 벌인다.
+It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.
+땅속의 암염층에서 태어났다. 귀한 소금을 나눠 주기 때문에 옛날에는 특히 더 귀하게 여겨졌다.
+This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body.
+분출한 소금을 먹이에게 끼얹어서 소금절이로 만들어 버린다. 체내의 수분을 빼앗는 것이다.
+Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.
+손끝을 문질러서 나온 소금을 다친 포켓몬에게 뿌리면 심한 상처도 금방 낫는다.
+Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.
+불탄 숯에 영혼이 깃들어서 포켓몬이 되었다. 타오르는 투지로 강한 상대에게도 싸움을 건다.
+Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.
+많은 무공을 세운 전사의 갑옷에 의해 진화한 모습. 충성심이 강한 포켓몬이다.
+The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.
+양팔의 불꽃 검은 뜻을 다 이루지 못한 채 쓰러진 검사의 원념에 의해 타오르고 있다.
+Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.
+꼬리를 흔들어서 전기를 발생시킨다. 위험을 감지하면 머리를 깜빡여서 동료에게 알린다.
+When this Pokémon expands and contracts its wobbly body, the belly-button dynamo in its stomach produces a huge amount of electricity.
+말랑말랑한 몸을 늘였다 줄였다 하면 배에 달린 배꼽 발전기가 큰 전력을 발생시킨다.
+When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.
+날개의 뼈는 바람을 받으면 전기를 만들어 낸다. 바다에 뛰어들어 먹이를 감전시켜서 잡는다.
+Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.
+목의 주머니를 부풀려서 전기를 증폭시킨다. 바람을 타고 하루에 700km를 비행할 수 있다.
+It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff’s face.
+상대에게 얕보이지 않기 위해 항상 얼굴을 찌푸리고 있지만 우는 아이는 그 모습을 보고 웃게 된다.
+This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.
+커다란 목 주머니에 에너지를 비축할 수 있다. 단숨에 이를 방출하여 적을 날려 버린다.
+Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.
+온화하지만 화가 나게 하면 독이 밴 날카로운 앞니로 물어서 상대를 마비시킨다.
+The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.
+먹이에 따라 색이 변하는 독성의 침을 손가락에 묻혀서 숲의 나무들에 무늬를 그린다.
+A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.
+성불하지 못한 영혼이 바람에 날리다가 마른 풀과 엉키면서 포켓몬이 되었다.
+It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.
+머리의 가지를 열어서 먹이를 삼킨다. 생기를 실컷 흡수한 다음 그대로 뱉어 버린다.
+Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.
+축축한 숲속에 산다. 떨어져 나온 몸의 하늘하늘한 부분은 쫄깃쫄깃하고 아주 맛있다.
+These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.
+깊은 숲속에 집단으로 살며 군체를 형성한다. 외부인이 접근하는 것을 극도로 싫어한다.
+Klawf hangs upside-down from cliffs, waiting for prey. But Klawf can’t remain in this position for long because its blood rushes to its head.
+거꾸로 매달린 채 절벽 위에서 먹이를 노리지만, 머리에 피가 몰리기 때문에 오랫동안은 버틸 수 없다고 한다.
+The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.
+태양 빛을 쬐면 쬘수록 체내의 매운 성분이 늘어나서 기술이 점점 더 매워진다.
+The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.
+레드 헤드가 매운 성분을 불꽃 에너지로 변환시켜 불같이 매운 화염방사를 사방에 흩뿌린다.
+This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.
+에스퍼 에너지를 섞어서 흙과 모래로 진흙구슬을 만든다. 진흙구슬을 목숨보다 소중히 여긴다.
+The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.
+구슬을 지탱하는 몸은 거의 움직이지 않기 때문에, 구슬 안에 본체가 있는 것으로 여겨지고 있다.
+Flittle’s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon’s belly.
+배의 하늘하늘한 부분에서 나오는 사이코 파워를 통해, 겨우 1cm지만 발끝이 지상에 떠 있다.
+It immobilizes opponents by bathing them in psychic power from its large eyes. Despite its appearance, it has a vicious temperament.
+커다란 눈동자에서 사이코 파워를 발산하여 상대를 움직일 수 없게 한다. 겉보기와 다르게 성질이 사납다.
+It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.
+손수 만든 해머를 휘둘러 몸을 지키려 하나 금속을 먹는 포켓몬에게 자주 빼앗기고 만다.
+This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.
+크고 튼튼한 해머를 만들기 위해 절각참 무리를 습격해서 금속을 모은다.
+This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight.
+지능이 높고 매우 호쾌하다. 해머로 바위를 날려서 하늘을 나는 아머까오를 노린다.
+This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.
+20m 떨어진 가비루사에게서 나는 냄새도 맡을 수 있어서 모래 속에 몸을 숨긴다.
+It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.
+겉보기와 다르게 성질이 사납다. 기다란 몸으로 먹잇감을 죄어서 굴 안으로 끌고 들어간다.
+It gathers things up in an apron made from shed feathers added to the Pokémon’s chest feathers, then drops those things from high places for fun.
+가슴의 깃털과 떨어진 깃털로 만든 주머니에 물건을 넣고는 높은 곳에서 떨어뜨리며 논다.
+It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.
+꼬리지느러미에 있는 물의 고리를 가지고 동료와 노는 것을 좋아한다. 초음파로 생명체의 기분을 감지한다.
+This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation.
+도움을 구하는 동료의 소리를 들으면 모습을 바꾼다. 그 순간은 누구에게도 보여 주지 않는다.
+It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.
+고철 처리장에 방치된 엔진에 정체불명의 독포켓몬이 들어가 탄생한 것으로 전해지고 있다.
+It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.
+독소와 바위 성분이 섞인 가스를 8개로 늘어난 실린더에서 폭발시켜 에너지를 만들어 낸다.
+Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.
+먼 옛날부터 인간을 등에 태우고 다녔다고 한다. 1만 년 전 벽화에도 그 모습이 그려져 있다.
+When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.
+적에게 공격을 받으면 털을 주먹처럼 사용하여 폭풍같은 기세로 펀치를 날린다.
+It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.
+동굴의 벽에서 영양분을 흡수한다. 독의 결정으로 만들어진 꽃잎을 몸에 두르고 있다.
+When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.
+위험을 감지하면 결정으로 된 꽃잎을 펼친 뒤 원뿔 모양의 몸에서 빔을 발사한다.
+It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.
+사람과의 접점 없이 숨을 거둔 들개포켓몬이 환생한 것으로 여겨지고 있다.
+Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master.
+평소에는 묘지에서 자고 있다. 수많은 개포켓몬 중에서도 가장 주인에게 충직하다.
+This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.
+배에 비축해 둔 에너지가 부리를 통해 새어 나오지 않게 하기 위해 목 아래쪽을 꼬아 놓은 듯 하다.
+This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.
+먼 옛날에 바다에서 올라와 육지에 살게 되었다. 고래왕자의 근연종이라고 한다.
+This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.
+빙설 지대를 떼 지어 다닌다. 강인한 근육과 두꺼운 피하지방으로 몸을 보호한다.
+When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.
+불필요한 살을 분리하면 정신이 예민해져 사이코 파워가 상승한다. 떨어진 살은 담백하고 맛있다.
+This Pokémon is a glutton, but it’s bad at getting food. It teams up with a Tatsugiri to catch prey.
+대식가지만 먹이를 잡는 것이 서툴다. 싸리용과 콤비를 이뤄 먹이를 사냥한다.
+This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.
+작은 몸집의 드래곤포켓몬. 어써러셔의 입안에 살며 외부의 적으로부터 몸을 지킨다.
+When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.
+분노의 볼티지가 임계점을 돌파하면서 육체라는 틀에 얽메이지 않는 파워를 손에 넣게 되었다.
+When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.
+적에게 공격을 받으면 몸에서 굵은 가시를 내지르며 반격한다. 몸이 끊어질 각오가 필요한 위험한 기술이다.
+Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig’s.
+머리와 꼬리 2개의 뇌파가 동기화하여 에스퍼 파워가 키링키의 10배로 강화되었다.
+This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.
+단단한 꼬리로 땅속 깊은 곳에 있는 암반을 뚫어서 보금자리를 만든다. 굴의 깊이는 무려 10km에 이른다.
+Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.
+큰 군세의 정점에 올라선 단 한 마리의 절각참만이 대도각참으로 진화할 수 있다.
+Sightings of this Pokémon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book.
+거대한 엄니와 튼튼한 비늘을 가졌으며, 성격은 매우 호전적이었다고 한다. 현대까지 살아남은 공룡이라는 것이 가장 유력한 설이나, 그 정체는 불명이다.
+There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.
+푸린을 닮아 매우 귀엽게 생겼으나 원시적인 모습과 흉포한 성질 때문에 10억 년 전의 푸린이라는 소문이 있다.
+It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon.
+공룡의 특징과 뽀록나의 특징을 두루 갖추었다는 소문의 기묘한 생물. 지능은 낮은 듯하며, 매우 흉포한 하드 펀처라고 한다.
+This Pokémon has characteristics similar to those of Flutter Mane, a creature mentioned in a certain book.
+기다란 털을 나부끼며 밤하늘을 하늘하늘 날아다닌다고 전해진다. 고대에 살던 익룡의 영혼에서 태어난 유령이라는 설도 있다.
+This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.
+각종 생태적 특징을 근거 삼은, 원시 시대의 불카모스라는 가설이 있으나 불카모스의 화석은 발견된 적 조차 없다.
+No records exist of this Pokémon being caught. Data is lacking, but the Pokémon’s traits match up with a creature shown in an expedition journal.
+1만 년을 산 레어코일의 모습이라고 주장하는 과학자도 있는 수수께끼의 생물. 공격적인 성질 때문에 목격자가 습격당하는 사례도 존재한다.
+This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.
+구 형태로 변하여 고속으로 회전해서 덮쳐 왔다는 목격 기록이 있다. 급습한 자리는 깊게 패이며 불탄 흔적이 남는다고 한다.
+Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization.
+구 형태의 장치에서 막대한 양의 얼음을 분사하며 설원을 이동한다고 한다. 딜리버드를 닮았지만 진짜 정체에 대해선 여러 설이 분분하다.
+It is very similar to a cyborg covered exclusively by a paranormal magazine. The cyborg was said to be the modified form of a certain athlete.
+자유자재로 움직이는 손바닥으로 빠르게 달리는 대형차를 날려 버렸다고 한다. 사이보그로 개조된 운동선수의 모습이라는 설도 있다.
+It resembles a certain Pokémon introduced in a paranormal magazine, described as the offspring of a Hydreigon that fell in love with a robot.
+고출력의 에너지를 발사하여 건축물을 파괴하고 다음 목표를 찾아 날아갔다고 전해진다. 삼삼드래의 흉포함과 기계의 냉혹함을 겸비한 듯 하다.
+This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity.
+상공에서 지상의 인류를 추적하다 공격을 가할 때가 있다고 전해진다. 불카모스와 닮았다는 점 외에는 데이터가 부족하다.
+It has some similarities to a Pokémon introduced in a dubious magazine as a Tyranitar from one billion years into the future.
+마기라스와 닮은 모습에도 불구하고 지능이 높고 성격이 냉철하여 불필요한 싸움을 선호하지 않는다고 한다.
+Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.
+등지느러미로 열을 흡수해서 얼음 에너지로 변환한다. 고온일수록 에너지가 많이 모인다.
+Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.
+주변의 공기를 얼려서 얼음 마스크로 얼굴을 보호하고 등지느러미를 얼음 검으로 바꾼다.
+This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.
+극저온의 냉기를 입에서 분사한다. 작열하는 마그마조차도 순식간에 얼려 버린다.
+This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.
+약 1500년 전의 보물 상자 안에서 태어났다. 보물을 훔치려 드는 괘씸한 자의 생기를 흡수한다.
+Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.
+몸은 1000개의 코인으로 이뤄져 있다고 한다. 붙임성이 좋아서 누구와도 금방 친해진다.
+The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.
+왕의 악행을 목간에 기록했다는 이유로 처벌을 받은 사람의 원한이 마른 잎을 두르고 포켓몬이 되었다.
+This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.
+먼 옛날, 검에 의해 이슬이 되어 사라진 자들의 증오가 눈을 두르고 포켓몬이 되었다.
+The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.
+옛날 의식에 사용되었던 그릇에 공포가 깃들게 되었고 이것이 흙과 돌을 둘러 포켓몬이 되었다.
+It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.
+여러 분쟁의 불씨가 된 곡옥에 모여든 질투가 불꽃을 두르고 포켓몬이 되었다.
+It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.
+깃털을 흩뿌리고 고속으로 날아다니며 먹잇감을 노린다. 보만다 이상의 흉포함을 지녀서 접촉하지 않는 게 상책이다.
+It has some similarities to a mad scientist’s invention covered in a paranormal magazine.
+가디안으로도 엘레이드로도 보이는 기묘한 모습의 포켓몬. 맞서는 자는 빛나는 칼날로 주저없이 베어버리는 잔혹함을 지녔다.
+This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.
+자신이 남다르게 강하다는 것을 자각하고 있다. 상대가 누구든 위험으로 느끼지 않는 듯한 태도를 보인다. 변덕스럽고 호기심이 강하다.
+Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.
+인간에게 익숙한 듯하지만, 인격조차도 꿰뚫어 볼 수 있는 관찰력과 통찰력으로 신중하게 상대를 고른다. 냉정하고 침착하다.
+This ferocious creature is shrouded in mystery. It's named after an aquatic monster mentioned in an old expedition journal.
+수수께끼에 둘러싸인 흉포한 생물. 오래된 탐험기에 기록된 물의 괴물의 이름을 따서 명명되었다.
+According to the few eyewitness accounts that exist, it used its shining blades to julienne large trees and boulders.
+얼마 없는 목격담에 의하면 눈부시게 빛나는 검으로 큰 나무와 바위를 채 썰듯 베었다고 한다.
+The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.
+머리를 내밀고 있는 외미르와 꼬리를 내밀고 있는 내미르가 사과 안에서 서로 도우며 지낸다.
+Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon.
+다도의 길을 통달하지 못한 채 죽은 다도가의 원통함이 말차에 깃들어서 포켓몬이 되었다고 한다.
+It pretends to be tea, trying to fool people into drinking it so it can drain their life-force. Its ruse is generally unsuccessful.
+차로 위장하여 실수로 마셔 버린 상대의 생기를 흡수하려 하나 금방 들통나 버린다.
+After all its muscles were stimulated by the toxic chain around its neck, Okidogi transformed and gained a powerful physique.
+목에 달린 독소로 된 사슬에 의해 온몸의 근육이 자극을 받아 듬직한 체격으로 변했다.
+The chain is made from toxins that enhance capabilities. It stimulated Munkidori's brain and caused the Pokémon's psychic powers to bloom.
+능력을 끌어올리는 독소로 된 사슬에 뇌가 자극을 받아 사이코 파워가 개화했다.
+Fezandipiti owes its beautiful looks and lovely voice to the toxic stimulants emanating from the chain wrapped around its body.
+몸을 휘감고 있는 사슬에서 나오는 독소에 자극을 받아 아름다운 모습과 소리를 손에 넣었다.
+This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.
+쓰고 있는 가면에 따라 타입이 변한다. 날렵한 움직임과 발차기 기술로 상대를 농락한다.
+It digs holes on mountains, searching for food. It’s so durable that being caught in a cave-in won’t faze it.
+산속에서 굴을 파며 먹이를 찾는다. 낙반에 휩쓸려도 아무렇지 않을 정도로 튼튼하다.
+Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.
+7마리의 미드라가 꿀엿으로 만든 사과 안에서 지낸다. 가운데에 있는 미드라가 사령탑이다.
+There are scant few reports of this creature being sighted. One short video shows it rampaging and spouting pillars of flame.
+목격 보고는 매우 드물다. 불기둥을 뿜어내며 날뛰는 모습이 담긴 짧은 영상이 존재한다.
+It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature.
+털에서 내뿜는 벼락으로 주변을 모조리 태워 버린다고 전해진다. 자세한 정보는 밝혀진 것이 없다.
+It was named after a mysterious object recorded in an old book. Its body seems to be metallic.
+몸은 금속질로 되어 있다고 한다. 이름은 오래된 책에 기록된 정체불명의 물체에서 유래됐다.
+There was supposedly an incident in which it launched shining blades to cut everything around it to pieces. Little else is known about it.
+빛나는 칼날을 발사하며 주위의 모든 것을 베어 버렸다고 하나 그 밖의 정보는 전무하여 정체불명이다.
+Terapagos protects itself using its power to transform energy into hard crystals. This Pokémon is the source of the Terastal phenomenon.
+에너지를 단단한 결정으로 바꾸는 능력으로 몸을 지킨다. 테라스탈의 근원이 되는 포켓몬이다.
+It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt's control, chained to its will.
+욕망과 능력을 끌어올리는 독소로 된 떡을 먹이고 먹은 상대를 사슬로 조종한다.
+They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat.
+짝을 이루어 영역을 지킨다. 털에 화성암의 성분이 섞여 있는 것은 화산 활동의 영향인 것으로 추측된다.
+Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them.
+활활 타는 불꽃을 이빨에 두르고 문다. 체구가 큼에도 불구하고 화려한 움직임으로 적을 농락하는 모습이 마치 춤추는 것 같다.
+An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh.
+몬스터볼을 닮은 수수께끼의 포켓몬. 흥분하면 배 속에 비축해 둔 전류를 방출하며 크게 웃는다.
+The tissue on the surface of its body is curiously similar in composition to an Apricorn. When irritated, this Pokémon lets loose an electric current equal to 20 lightning bolts.
+신기하게도 표면의 조직이 규토리의 성분과 매우 흡사하다. 화가 났을 때 방출하는 전류는 벼락이 20번 떨어진 것에 필적한다.
+This kind of Tauros, known as the Combat Breed, is distinguished by its thick, powerful muscles and its fierce disposition.
+두껍고도 강한 근육과 사나운 성질이 특징이다. 컴뱃종이라고 불린다.
+People call this kind of Tauros the Blaze Breed due to the hot air it snorts from its nostrils. Its three tails are intertwined.
+고온의 콧김을 불어대는 까닭에 블레이즈종이라는 이름이 붙었다. 세개의 꼬리를 한데 묶고 있다.
+It swims by jetting water from its horns. The most notable characteristic of the Aqua Breed is its high body fat, which allows it to float easily.
+뿔에서 물을 분출해서 헤엄친다. 지방이 많아서 물에 뜨기 쉬운 점이 워터종의 특징이다.
+Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center.
+히스이 중심에 우뚝 선 영산의 기운에 영향을 받은 모습으로 보인다. 갈 곳 없는 영혼을 자신의 불꽃으로 정화하여 저승으로 인도한다고 한다.
+After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.
+영역 다툼에서 밀려 육지에 살게 되면서 독성을 띠는 점막으로 몸을 보호하도록 변화했다.
+Fishers detest this troublesome Pokémon because it sprays poison from its spines, getting it everywhere. A different form of Qwilfish lives in other regions.
+먹이를 통해 독소를 섭취한다. 보라빛이 두드러지는 침은 맹독으로 가득하다는 증거다.
+Its sturdy, curved claws are ideal for traversing precipitous cliffs. From the tips of these claws drips a venom that infiltrates the nerves of any prey caught in Sneasel's grasp.
+단단한 갈고리손톱은 가파른 절벽을 오르기에 유리하다. 끄트머리에서 나오는 독액은 먹이를 잡을 때 신경에 침투한다.
+Radiant light caused Dialga to take on a form bearing a striking resemblance to the creator Pokémon. Dialga now wields such colossal strength that one must conclude this is its true form.
+밝은 빛이 폼체인지의 방아쇠가 되었다. 창조신과 흡사한 이 모습이야말로 진정한 모습임에 의심할 여지가 없을 정도로 강력한 힘을 발휘한다.
+It soars across the sky in a form that greatly resembles the creator of all things. Perhaps this imitation of appearance is Palkia's strategy for gaining Arceus's powers.
+하늘을 나는 모습은 만물의 창조주를 연상케한다. 창조주의 모습을 흉내 냄으로써 그 힘을 자신의 것으로 만들었다고 추측된다.
+Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.
+히스이에서 진화한 희귀한 모습. 비정한 성격과 칼 솜씨를 자랑한다. 성난 파도와 같은 연격은 천 겹의 파도와도 같다.
+They suspect that its well-developed legs are the result of a life spent on mountains covered in deep snow. The scent it exudes from its flower crown heartens those in proximity.
+눈 덮인 산에 살기 때문에 다릿심이 발달한 것으로 추측된다. 화관을 통해 주위에 있는 이를 고무시키는 향기를 내보낸다.
+Though it differs from other Basculin in several respects, including demeanor—this one is gentle—people have categorized it as a regional form given the vast array of shared qualities.
+혹한의 바다에서 무리를 이루어 먹이를 나눠 먹으며 지낸다. 때가 되면 태어났던 강으로 돌아간다.
+A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice.
+환영을 보여준다는 이유로 히스이로 쫓겨났지만 다른 포켓몬들의 텃세에 밀려 죽었다. 죽은 후 영혼은 히스이 땅에서 되살아났다. 원한은 곧 힘이 되어 머리에 피어오르고 상대의 모습으로 변하여 원한을 풀려 한다.
+With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.
+백발을 흐트러트린 모습은 마치 사신 같다. 자신의 몸이 찢어질 정도의 강한 원한을 이용해 함께 죽을 각오로 원수의 숨통을 노린다.
+Screaming a bloodcurdling battle cry, this huge and ferocious bird Pokémon goes out on the hunt. It blasts lakes with shock waves, then scoops up any prey that float to the water's surface.
+소름 끼치는 함성을 외쳐서 사냥하는 용맹하고 큰 새. 호수에 충격파를 발산해서 수면에 떠오른 먹이감을 잡는다.
+A creature given to melancholy. I suspect its metallic shell developed as a result of the mucus on its skin reacting with the iron in Hisui's water.
+음침한 성격을 가졌다. 히스이 땅에 흐르는 물에 함유된 철이 피부의 점액에 작용하여 금속 껍질로 변한 것으로 추측된다.
+Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy—it will fume and run riot if those dearest to it ever leave its side.
+금속 껍질의 강도를 자유롭게 조절할 수 있다. 고독한 것을 싫어하고 집요하여, 좋아하는 이가 자신에게서 떨어지려 하면 분노하여 날뛴다.
+The armor of ice covering its lower jaw puts steel to shame and can shatter rocks with ease. This Pokémon barrels along steep mountain paths, cleaving through the deep snow.
+아래턱을 감싸고 있는 얼음으로 된 장갑은 강철보다 단단하여 암석을 손쉽게 부숴뜨린다. 깊이 쌓인 눈을 가로지르며 험한 산길을 맹진한다.
+The air stored inside the rachises of Decidueye's feathers insulates the Pokémon against Hisui's extreme cold. This is firm proof that evolution can be influenced by environment.
+히스이의 극한의 추위에 견디기 위해 깃털의 심에 공기를 머금어 방한 기능을 갖췄다. 환경이 진화에 영향을 주는 것으로 판명된다.
+A different guise from its feminine humanoid form. From the clouds, it descends upon those who treat any form of life with disrespect and metes out wrathful, ruthless punishment.
+여인의 형상에서 변한 모습. 목숨을 함부로 여기는 자가 있으면 운해로부터 나타나서 자비 없는 분노의 벌을 내린다.
+This is a meticulous Pokémon that likes to keep things tidy. It shrouds itself in a floral aroma that soothes the Pokémon around it.
+깔끔한 것을 좋아하고 꼼꼼하다. 꽃향기 같은 향기를 풍기며 주위의 포켓몬들을 치유한다.
+This species’ differing colors and patterns are apparently the result of Tatsugiri changing itself to suit the preferences of the prey it lures in.
+몸의 색과 무늬가 다른 것은 유인하려는 먹이의 취향에 맞춰 변화한 결과라는 듯하다.
+Bird Pokémon are its main prey. This Pokémon knows it’s weak, so it hunts with a partner.
+새포켓몬이 주된 먹이다. 자신이 약한 것을 알기 때문에 동료와 콤비를 이뤄 사냥을 한다.
+Blue-feathered Squawkabilly view their green- feathered counterparts as rivals, since the latter make up the largest, most powerful groups.
+파란 깃털 그룹은 최대 세력인 녹색 깃털 그룹을 라이벌로 여기고 있다.
+The yellow Squawkabilly are especially fierce. They've even been known to drive other bird Pokémon out of town.
+노란 깃털의 시비꼬는 특히 더 사나워서, 다른 새포켓몬들을 마을에서 몰아낸 적도 있다.
+Though these Squawkabilly are the fewest in number, they have no trouble living in towns since they blend in with the white buildings.
+가장 수가 적은 색이지만 건물 색에 섞여들 수 있기 때문에 마을에서 살기 유리하다.
+This Pokémon was born from passion that seeped into a coin. It wanders, apparently seeking to return to the treasure chest it once inhabited.
+코인에 깃든 정념으로 인해 태어났다. 원래 있던 보물 상자로 돌아가기 위해 떠돌고 있다고 한다.
+It sprinkles some of its powdery body onto food and drains the life-force from those who so much as lick it.
+가루로 이뤄진 몸의 일부를 먹을 것에 뿌린 다음 이것을 핥은 상대의 생기를 빨아들인다.
+It lives inside a superb teacup that was crafted by a potter of great renown. Collectors positively adore this Pokémon.
+저명한 도공이 만든 훌륭한 찻잔에 깃들였다. 마니아들을 흥분하게 하는 포켓몬이다.
+This form excels in both attack and defense. It ceaselessly unleashes moves like a spring gushes water.
+콸콸 용솟음치는 물처럼 끊임없이 기술을 구사하는 공수 양면에서 뛰어난 모습.
+This form is the most aggressive, bombarding enemies with the intensity of flames blazing within a hearth.
+화덕 안에서 타오르는 불꽃처럼 격렬하게 상대를 몰아붙이는 가장 공격적인 모습.
+This form has excellent defenses, absorbing impacts solidly like the cornerstones that support houses.
+집을 지탱하는 주춧돌처럼 묵직하게 충격을 받아 내는 방어에 뛰어난 모습.
+The shell is made of crystallized Terastal energy. When struck by a move, this shell absorbs the move’s energy and transfers it to Terapagos.
+테라스탈의 등껍질로 상대의 기술을 받으면, 그 에너지를 흡수해서 자신의 것으로 만든다.
+In this form, Terapagos resembles the world as the ancients saw it, and its Terastal energy is abnormally amplified.
+테라스탈 에너지가 이상할 정도로 증폭된 모습. 고대인이 생각하던 세계를 닮았다.
+In battle, this Pokémon swings around two thick vines. If these vines slammed into a 10-story building, they could easily topple it.
+2개의 굵은 덩굴을 휘둘러서 싸운다. 10층 빌딩을 가볍게 넘어뜨릴 정도로 파워풀하다.
+This colossal, flame-winged figure of a Charizard was brought about by Gigantamax energy.
+거다이맥스의 파워에 의해 거대한 불꽃의 날개를 가진 거대한 리자몽의 모습이 만들어졌다.
+Water fired from this Pokémon's central main cannon has enough power to blast a hole into a mountain.
+중앙의 주포에서 쏘는 물대포는 산을 관통해서 구멍을 낼 정도의 파괴력이다.
+Crystallized Gigantamax energy makes up this Pokémon's blindingly bright and highly toxic scales.
+거다이맥스 파워가 결정이 되어 눈부시게 빛나는 맹독성의 인분을 갖게 되었다.
+Its Gigantamax power expanded, forming its supersized body and towering tail.
+팽창한 거다이맥스의 파워에 의해 몸이 부풀어서 꼬리가 하늘까지 닿게 되었다.
+Its body has grown incredibly long and the coin on its forehead has grown incredibly large all thanks to Gigantamax power.
+거다이맥스의 파워로 몸이 늘어나고 늘어나서 이마의 금화가 대형 금화가 되었다.
+The Gigantamax energy coursing through its arms makes its punches hit as hard as bomb blasts.
+거다이맥스의 파워가 팔에 넘쳐흘러 폭탄의 파괴력을 가진 펀치를 날린다.
+It lays traps, hoping to steal the lives of those it catches. If you stand in front of its mouth, you'll hear your loved ones' voices calling out to you.
+생명을 노리고 함정을 판다. 입 앞에 서면 소중한 사람이 부르는 소리가 들린다.
+The flow of Gigantamax energy has spurred this Pokémon's left pincer to grow to an enormous size. That claw can pulverize anything.
+거다이맥스의 파워에 의해 거대해진 왼쪽 집게는 무엇이든 산산이 부숴버린다.
+Over 5,000 people can ride on its shell at once. And it's a very comfortable ride, without the slightest shaking or swaying.
+등껍질에는 5000명 이상의 사람을 태울수 있다. 흔들림도 없고 편안하다.
+Gigantamax energy upped the fluffiness of the fur around Eevee's neck. The fur will envelop a foe, capturing its body and captivating its mind.
+거다이맥스의 파워로 더욱 복슬복슬해진 목 주변의 솜털로 상대를 감싸서 사로잡는다.
+Gigantamax energy has affected stray seeds and even pebbles that got stuck to Snorlax, making them grow to a huge size.
+거다이맥스의 파워로 먹다가 배에 흘린 씨앗이나 붙어 있던 돌멩이까지도 거대해졌다.
+Due to Gigantamax energy, this Pokémon's toxic gas has become much thicker, congealing into masses shaped like discarded toys.
+거다이맥스의 파워에 의해 진해진 독가스가 버려진 장난감의 형태로 굳었다.
+In a distant land, there are legends about a cyclopean giant. In fact, the giant was a Melmetal that was flooded with Gigantamax energy.
+아주 먼 어느 지방의 신화에 남아있는 외눈박이 거인은 멜메탈이 거다이맥스한 모습이었다고 전해진다.
+Gigantamax energy has caused Rillaboom's stump to grow into a drum set that resembles a forest.
+거다이맥스의 파워에 의해 그루터기가 성장하여 삼림과도 같은 드럼이 되었다.
+Gigantamax energy can sometimes cause the diameter of this Pokémon's fireball to exceed 300 feet.
+거다이맥스 파워로 인해 화염 볼의 직경은 100m 이상이 되기도 한다.
+Gigantamax Inteleon's Water Gun move fires at Mach 7. As the Pokémon takes aim, it uses the crest on its head to gauge wind and temperature.
+물대포의 속도는 마하7이다. 머리의 볏으로 바람과 기운을 감지하면서 조준을 맞춘다.
+Imbued with Gigantamax energy, its wings can whip up winds more forceful than any a hurricane could muster. The gusts blow everything away.
+거다이맥스의 파워로 날갯짓하면 허리케인을 능가하는 강풍이 모든 것을 날려버린다.
+Its brain has grown to a gargantuan size, as has the rest of its body. This Pokémon's intellect and psychic abilities are overpowering.
+뇌를 중심으로 거대화했다. 압도적인 지능과 방대한 사이코 에너지를 지니고 있다.
+It responded to Gigantamax energy by becoming bipedal. First it comes crashing down on foes, and then it finishes them off with its massive jaws.
+거다이맥스의 파워에 의해 뒷발로 일어서게 됐다. 상대를 짓누른 뒤 큰 턱으로 마무리한다.
+Its body is a colossal stove. With Gigantamax energy stoking the fire, this Pokémon's flame burns hotter than 3,600 degrees Fahrenheit.
+몸체는 거대한 화덕이다. 거다이맥스의 파워에 의해 2000도의 불꽃이 활활 타오른다.
+Under the influence of Gigantamax energy, it produces much more sweet nectar, and its shape has changed to resemble a giant apple.
+거다이맥스의 파워에 의해 당도가 높아진 결과 거대한 사과의 모습으로 변모했다.
+Due to Gigantamax energy, this Pokémon's nectar has thickened. The increased viscosity lets the nectar absorb more damage than before.
+거다이맥스의 파워에 의해 꿀의 점성이 더 높아져 데미지를 흡수한다.
+Sand swirls around its body with such speed and power that it could pulverize a skyscraper.
+몸 주위를 고속으로 회전하는 모래는 고층 빌딩도 산산조각낼 정도의 파괴력이다.
+Out of control after its own poison penetrated its brain, it tears across the land in a rampage, contaminating the earth with toxic sweat.
+독이 뇌까지 퍼져 폭주하게 되었다. 날뛸 때마다 독으로 된 땀이 사방으로 퍼져 대지를 오염시킨다.
+The heat that comes off a Gigantamax Centiskorch may destabilize air currents. Sometimes it can even cause storms.
+거다이맥스한 다태우지네의 방사열이 기류를 어지럽혀 폭풍이 일어날 때가 있다.
+Beams like lightning shoot down from its tentacles. It's known to some as the Raging Goddess.
+촉수에서 번개 같은 빔을 쏟아낸다. 사나운 여신이라고 불린다.
+Gigantamax energy has caused more hair to sprout all over its body. With the added strength, it can jump over the world's tallest building.
+거다이맥스에 의해 전신의 털의 양이 많아졌다. 세계에서 가장 높은 빌딩을 점프로 넘는다.
+It launches swarms of missiles, each made of cream and loaded with 100,000 kilocalories. Get hit by one of these, and your head will swim.
+1발에 10만kcal의 크림 미사일을 난사한다. 맞으면 머리가 어질어질하다.
+After this Pokémon has Gigantamaxed, its massive nose can utterly demolish large structures with a single smashing blow.
+거다이맥스한 거대한 코는 거대한 건축물도 일격에 부숴버린다.
+It's grown to resemble a skyscraper. Parts of its towering body glow due to a profusion of energy.
+마천루처럼 거대해졌다. 넘쳐나는 에너지에 몸의 일부가 발광하고 있다.
+Infinite amounts of energy pour from this Pokémon's enlarged core, warping the surrounding space-time.
+거대해진 코어에서 무한한 파워가 방출되기 때문에 주위 시공을 일그러뜨린다.
+The energy released by this Pokémon's fists forms shock waves that can blow away Dynamax Pokémon in just one hit.
+주먹에서 발산되는 에너지가 충격파가 되어 다이맥스한 포켓몬을 일격에 날려버린다.
+As it waits for the right moment to unleash its Gigantamax power, this Pokémon maintains a perfect one-legged stance. It won't even twitch.
+외발로 선 채로 꿈쩍하지 않고 거다이맥스 파워를 폭발시킬 때를 가만히 기다리고 있다.
+The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across lots of different regions together.
+피카츄가 쓰고 있는 모자에는 파트너와 함께 여러 지방을 여행한 추억이 담겨 있다.
+The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Hoenn region together.
+피카츄가 쓰고 있는 모자에는 파트너와 함께 호연지방을 여행한 추억이 담겨 있다.
+The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Sinnoh region together.
+피카츄가 쓰고 있는 모자에는 파트너와 함께 신오지방을 여행한 추억이 담겨 있다.
+The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Unova region together.
+피카츄가 쓰고 있는 모자에는 파트너와 함께 하나지방을 여행한 추억이 담겨 있다.
+The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Kalos region together.
+피카츄가 쓰고 있는 모자에는 파트너와 함께 칼로스지방을 여행한 추억이 담겨 있다.
+The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the Alola region together.
+피카츄가 쓰고 있는 모자에는 파트너와 함께 알로라지방을 여행한 추억이 담겨 있다.
+The cap this Pikachu wears is filled with memories of this Pokémon traveling together with its partner, whom it met in a fateful encounter.
+피카츄가 쓰고 있는 모자에는 운명적으로 만난 파트너와 함께 여행한 추억이 담겨 있다.
+The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the world together.
+피카츄가 쓰고 있는 모자에는 파트너와 함께 세계를 여행한 추억이 담겨 있다.

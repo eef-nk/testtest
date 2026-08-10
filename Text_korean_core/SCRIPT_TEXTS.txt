@@ -1,0 +1,6602 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[SCRIPT_TEXTS]
+Items
+도구
+Medicine
+회복
+Poké Balls
+몬스터볼
+TMs & HMs
+기술머신
+Berries
+나무열매
+Mail
+메일
+Battle Items
+배틀도구
+Key Items
+중요한물건
+National Pokédex
+전국도감
+zero
+0
+one
+1
+two
+2
+three
+3
+four
+4
+five
+5
+six
+6
+seven
+7
+eight
+8
+nine
+9
+ten
+10
+eleven
+11
+twelve
+12
+thirteen
+13
+fourteen
+14
+fifteen
+15
+sixteen
+16
+seventeen
+17
+eighteen
+18
+nineteen
+19
+twenty
+20
+The default core messages file "messages_core.dat" was not found.
+The default core messages file "messages_core.dat" was not found.
+The default game messages file "messages_game.dat" was not found.
+The default game messages file "messages_game.dat" was not found.
+Replace all text files in folder '{1}'?
+Replace all text files in folder '{1}'?
+Extracting text, please wait.
+Extracting text, please wait.
+All core text was extracted to files in the folder "{1}".
+All core text was extracted to files in the folder "{1}".
+All game text was extracted to files in the folder "{1}".
+All game text was extracted to files in the folder "{1}".
+To localize this text, translate every second line in those files.
+To localize this text, translate every second line in those files.
+After translating, choose "Compile Translated Text" in the Debug menu.
+After translating, choose "Compile Translated Text" in the Debug menu.
+Compiling text, please wait.
+Compiling text, please wait.
+Text files in the folder "Text_{1}" were successfully compiled into file "Data/messages_{2}.dat".
+Text files in the folder "Text_{1}" were successfully compiled into file "Data/messages_{2}.dat".
+You may need to close the game to see any changes to messages.
+You may need to close the game to see any changes to messages.
+Can't find or open '{1}'.
+Can't find or open '{1}'.
+Invalid section name {1}
+Invalid section name {1}
+Section {1} can't be an ordered list (section was recognized as an ordered list because its first line is a number).
+Section {1} can't be an ordered list (section was recognized as an ordered list because its first line is a number).
+Section {1}'s line count is not divisible by 3 (section was recognized as an ordered list because its first line is a number).
+Section {1}'s line count is not divisible by 3 (section was recognized as an ordered list because its first line is a number).
+Section {1} has an odd number of entries (section was recognized as a hash because its first line is not a number).
+Section {1} has an odd number of entries (section was recognized as a hash because its first line is not a number).
+Expected a number in section {1}, got {2} instead
+Expected a number in section {1}, got {2} instead
+Bad line syntax (expected syntax like XXX=YYY)<<n>>{1}
+Bad line syntax (expected syntax like XXX=YYY)<<n>>{1}
+The method is slated to be removed in Essentials {1}.
+The method is slated to be removed in Essentials {1}.
+Use "{1}" instead.
+Use "{1}" instead.
+Converting save file
+Converting save file
+Successfully applied {1} save file conversion(s)
+Successfully applied {1} save file conversion(s)
+No starting position was set in the map editor.
+No starting position was set in the map editor.
+Map {1} was not found.
+Map {1} was not found.
+The map was not found. The game cannot continue.
+The map was not found. The game cannot continue.
+The map is corrupt. The game cannot continue.
+The map is corrupt. The game cannot continue.
+Your name?
+당신의 이름은?
+Enter {1}'s name.
+{1}의 이름을 입력하세요.
+<ac>{1:02d}:{2:02d}
+<ac>{1:02d}:{2:02d}
+Frame width is 0
+Frame width is 0
+Frame height is 0
+Frame height is 0
+Bitmap's width ({1}) is not a multiple of frame width ({2}) [Bitmap={3}]
+Bitmap's width ({1}) is not a multiple of frame width ({2}) [Bitmap={3}]
+Bitmap's height ({1}) is not a multiple of frame height ({2}) [Bitmap={3}]
+Bitmap's height ({1}) is not a multiple of frame height ({2}) [Bitmap={3}]
+Bitmap's width ({1}) is not a multiple of frame count ({2}) [Bitmap={3}]
+Bitmap's width ({1}) is not a multiple of frame count ({2}) [Bitmap={3}]
+Invalid quoted field (in: {1})
+Invalid quoted field (in: {1})
+Field {1} is not a positive integer
+Field {1} is not a positive integer
+${1}
+${1}
+Money:<<n>><ar>{1}</ar>
+금액:<<n>><ar>{1}</ar>
+Coins:<<n>><ar>{1}</ar>
+코인:<<n>><ar>{1}</ar>
+Battle Points:<<n>><ar>{1}</ar>
+BP:<<n>><ar>{1}</ar>
+Yes
+예
+No
+아니오
+Medium
+중간
+Erratic
+불규칙
+Fluctuating
+변동
+Parabolic
+중간 느림
+Fast
+빠름
+Slow
+느림
+Always Male
+수컷100%
+Always Female
+암컷100%
+Genderless
+무성
+Female One Eighth
+암컷1/8
+Female 25 Percent
+암컷1/4
+Female 50 Percent
+암수1/2
+Female 75 Percent
+수컷1/4
+Female Seven Eighths
+수컷1/8
+Undiscovered
+미발견
+Monster
+괴수
+Water 1
+수중 1
+Bug
+벌레
+Flying
+비행
+Field
+육상
+Fairy
+요정
+Grass
+식물
+Humanlike
+인간형
+Water 3
+수중 3
+Mineral
+광물
+Amorphous
+부정형
+Water 2
+수중2
+Ditto
+메타몽
+Dragon
+드래곤
+Head
+머리만 있는 포켓몬
+Serpentine
+몸이 길쭉한 포켓몬
+Finned
+지느러미가 있는 포켓몬
+Head and arms
+머리와 팔만 있는 포켓몬
+Head and base
+머리와 바닥이 있는 포켓몬
+Bipedal with tail
+두다리와 꼬리가 있는 포켓몬
+Head and legs
+머리와 다리만 있는 포켓몬
+Quadruped
+다리가 넷인 포켓몬
+Winged
+날개가 둘인 포켓몬
+Multiped
+몸이 여러갈래인 포켓몬
+Multi Body
+여러 몸이 합쳐진 포켓몬
+Bipedal
+두 다리에 꼬리가 없는 포켓몬
+Multi Winged
+날개가 여러쌍인 포켓몬
+Insectoid
+곤충형 포켓몬
+Red
+빨강
+Blue
+파랑
+Yellow
+노랑
+Green
+초록
+Black
+검정
+Brown
+갈색
+Purple
+보라
+Gray
+회색ㅌ
+White
+하양
+Pink
+분홍
+None
+없음
+Grassland
+초원
+Forest
+숲
+Water's Edge
+물가
+Sea
+바다
+Cave
+동굴
+Mountain
+산
+Rough Terrain
+험지
+Urban
+도시
+Rare
+희귀
+HP
+HP
+Attack
+공격
+Atk
+공격
+Defense
+방어
+Def
+방어
+Special Attack
+특수공격
+SpAtk
+특공
+Special Defense
+특수방어
+SpDef
+특방
+Speed
+스피드
+Spd
+스피드
+accuracy
+명중률
+Acc
+명중
+evasiveness
+회피율
+Eva
+회피
+Hardy
+노력하는
+Lonely
+외로운
+Brave
+용감한
+Adamant
+고집스런
+Naughty
+개구쟁이인
+Bold
+대담한
+Docile
+온순한
+Relaxed
+무사태평한
+Impish
+장난꾸러기인
+Lax
+촐랑거리는
+Timid
+겁쟁이인
+Hasty
+성급한
+Serious
+성실한
+Jolly
+명랑한
+Naive
+천진난만한
+Modest
+조심스러운
+Mild
+의젓한
+Quiet
+냉정한
+Bashful
+수줍어하는
+Rash
+덜렁거리는
+Calm
+차분한
+Gentle
+얌전한
+Sassy
+건방진
+Careful
+신중한
+Quirky
+변덕스러운
+Sleep
+잠듦
+Poison
+독
+Burn
+화상
+Paralysis
+마비
+Frozen
+얼음
+Tall grass
+큰 풀
+Moving water
+유수
+Still water
+정수
+Puddle
+웅덩이
+Underwater
+지하수
+Rock
+바위
+Sand
+모래
+Forest grass
+숲의 풀
+Snow
+눈밭
+Ice
+얼음
+Volcano
+화산
+Graveyard
+묘지
+Sky
+창공
+Space
+우주
+Ultra Space
+울트라스페이스
+Sun
+쾌청
+Rain
+비
+Sandstorm
+모래바람
+Hail
+싸라기눈
+Harsh Sun
+큰가뭄
+Heavy Rain
+폭우
+Strong Winds
+난기류
+Shadow Sky
+어두운하늘
+Electric
+일렉트릭
+Grassy
+그래스
+Misty
+미스트
+Psychic
+사이코
+User
+자신
+Near Ally
+인접한 아군
+User or Near Ally
+자신 또는 인접한 아군
+All Allies
+모든 아군
+User and Allies
+자신과 아군
+Near Foe
+인접한 상대
+Random Near Foe
+임의의 인접한 상대
+All Near Foes
+모든 인접한 상대
+Foe
+상대
+All Foes
+모든 상대
+Near Other
+인접한 대상
+All Near Others
+모든 인접한 대상
+Other
+대상
+All Battlers
+전투 중인 모두
+User Side
+우리 편
+Foe Side
+상대 편
+Both Sides
+양쪽 편
+Can't use in field
+필드에서 사용 불가
+Can't use in battle
+배틀에서 사용 불가
+ID of this item (used as a symbol like :XXX).
+ID of this item (used as a symbol like :XXX).
+Name of this item as displayed by the game.
+Name of this item as displayed by the game.
+Plural name of this item as displayed by the game.
+Plural name of this item as displayed by the game.
+Name of a portion of this item as displayed by the game.
+Name of a portion of this item as displayed by the game.
+Name of 2 or more portions of this item as displayed by the game.
+Name of 2 or more portions of this item as displayed by the game.
+Pocket in the Bag where this item is stored.
+Pocket in the Bag where this item is stored.
+Purchase price of this item.
+Purchase price of this item.
+Sell price of this item. If blank, is half the purchase price.
+Sell price of this item. If blank, is half the purchase price.
+Purchase price of this item in Battle Points (BP).
+Purchase price of this item in Battle Points (BP).
+How this item can be used outside of battle.
+How this item can be used outside of battle.
+How this item can be used within a battle.
+How this item can be used within a battle.
+Words/phrases that can be used to group certain kinds of items.
+Words/phrases that can be used to group certain kinds of items.
+Whether this item is consumed after use.
+Whether this item is consumed after use.
+Whether the Bag shows how many of this item are in there.
+Whether the Bag shows how many of this item are in there.
+Move taught by this HM, TM or TR.
+Move taught by this HM, TM or TR.
+Description of this item.
+Description of this item.
+The ID of the Pokémon.
+The ID of the Pokémon.
+Name of the Pokémon.
+Name of the Pokémon.
+Name of this form of the Pokémon.
+Name of this form of the Pokémon.
+The Pokémon's type(s).
+The Pokémon's type(s).
+Base stats of the Pokémon.
+Base stats of the Pokémon.
+Proportion of males to females for this species.
+Proportion of males to females for this species.
+Pokémon's growth rate.
+Pokémon's growth rate.
+Base experience earned when this species is defeated.
+Base experience earned when this species is defeated.
+Effort Value points earned when this species is defeated.
+Effort Value points earned when this species is defeated.
+Catch rate of this species (0-255).
+Catch rate of this species (0-255).
+Base happiness of this species (0-255).
+Base happiness of this species (0-255).
+Abilities which the Pokémon can have (max. 2).
+Abilities which the Pokémon can have (max. 2).
+Secret abilities which the Pokémon can have.
+Secret abilities which the Pokémon can have.
+Moves which the Pokémon learns while levelling up.
+Moves which the Pokémon learns while levelling up.
+Moves which the Pokémon can be taught by TM/HM/Move Tutor.
+Moves which the Pokémon can be taught by TM/HM/Move Tutor.
+Moves which the Pokémon can learn via breeding.
+Moves which the Pokémon can learn via breeding.
+Egg groups that the Pokémon belongs to for breeding purposes.
+Egg groups that the Pokémon belongs to for breeding purposes.
+Number of steps until an egg of this species hatches.
+Number of steps until an egg of this species hatches.
+Item needed to be held by a parent to produce an egg of this species.
+Item needed to be held by a parent to produce an egg of this species.
+All possible species that an egg can be when breeding for an egg of this species (if blank, the egg can only be this species).
+All possible species that an egg can be when breeding for an egg of this species (if blank, the egg can only be this species).
+Height of the Pokémon in 0.1 metres (e.g. 42 = 4.2m).
+Height of the Pokémon in 0.1 metres (e.g. 42 = 4.2m).
+Weight of the Pokémon in 0.1 kilograms (e.g. 42 = 4.2kg).
+Weight of the Pokémon in 0.1 kilograms (e.g. 42 = 4.2kg).
+Pokémon's body color.
+Pokémon's body color.
+Body shape of this species.
+Body shape of this species.
+The habitat of this species.
+The habitat of this species.
+Kind of Pokémon species.
+Kind of Pokémon species.
+Description of the Pokémon as displayed in the Pokédex.
+Description of the Pokémon as displayed in the Pokédex.
+The number of the generation the Pokémon debuted in.
+The number of the generation the Pokémon debuted in.
+Words/phrases that distinguish this species from others.
+Words/phrases that distinguish this species from others.
+Item(s) commonly held by wild Pokémon of this species.
+Item(s) commonly held by wild Pokémon of this species.
+Item(s) uncommonly held by wild Pokémon of this species.
+Item(s) uncommonly held by wild Pokémon of this species.
+Item(s) rarely held by wild Pokémon of this species.
+Item(s) rarely held by wild Pokémon of this species.
+Evolution paths of this species.
+Evolution paths of this species.
+Undefined species {1}.
+Undefined species {1}.
+ID of this Trainer Type (used as a symbol like :XXX).
+ID of this Trainer Type (used as a symbol like :XXX).
+Name of this Trainer Type as displayed by the game.
+Name of this Trainer Type as displayed by the game.
+Gender of this Trainer Type.
+Gender of this Trainer Type.
+Player earns this much money times the highest level among the trainer's Pokémon.
+Player earns this much money times the highest level among the trainer's Pokémon.
+Skill level of this Trainer Type.
+Skill level of this Trainer Type.
+Words/phrases that can be used to make trainers of this type behave differently to others.
+Words/phrases that can be used to make trainers of this type behave differently to others.
+BGM played before battles against trainers of this type.
+BGM played before battles against trainers of this type.
+BGM played in battles against trainers of this type.
+BGM played in battles against trainers of this type.
+BGM played when player wins battles against trainers of this type.
+BGM played when player wins battles against trainers of this type.
+The amount of money that the player starts the game with.
+The amount of money that the player starts the game with.
+Items that are already in the player's PC at the start of the game.
+Items that are already in the player's PC at the start of the game.
+Map ID and X/Y coordinates of where the player goes after a loss if no Pokémon Center was visited.
+Map ID and X/Y coordinates of where the player goes after a loss if no Pokémon Center was visited.
+Name of the Pokémon Storage creator (the storage option is named "XXX's PC").
+Name of the Pokémon Storage creator (the storage option is named "XXX's PC").
+Default BGM for wild Pokémon battles.
+Default BGM for wild Pokémon battles.
+Default BGM for Trainer battles.
+Default BGM for Trainer battles.
+Default BGM played after winning a wild Pokémon battle.
+Default BGM played after winning a wild Pokémon battle.
+Default BGM played after winning a Trainer battle.
+Default BGM played after winning a Trainer battle.
+Default ME played after catching a Pokémon.
+Default ME played after catching a Pokémon.
+BGM played while surfing.
+BGM played while surfing.
+BGM played while on a bicycle.
+BGM played while on a bicycle.
+Bill
+이수재
+ID number of this player.
+ID number of this player.
+Trainer type of this player.
+Trainer type of this player.
+Charset used while the player is still or walking.
+Charset used while the player is still or walking.
+Charset used while the player is running. Uses WalkCharset if undefined.
+Charset used while the player is running. Uses WalkCharset if undefined.
+Charset used while the player is cycling. Uses RunCharset if undefined.
+Charset used while the player is cycling. Uses RunCharset if undefined.
+Charset used while the player is surfing. Uses CycleCharset if undefined.
+Charset used while the player is surfing. Uses CycleCharset if undefined.
+Charset used while the player is diving. Uses SurfCharset if undefined.
+Charset used while the player is diving. Uses SurfCharset if undefined.
+Charset used while the player is fishing. Uses WalkCharset if undefined.
+Charset used while the player is fishing. Uses WalkCharset if undefined.
+Charset used while the player is fishing while surfing. Uses FishCharset if undefined.
+Charset used while the player is fishing while surfing. Uses FishCharset if undefined.
+ID number of this map.
+ID number of this map.
+The name of the map, as seen by the player. Can be different to the map's name as seen in RMXP.
+The name of the map, as seen by the player. Can be different to the map's name as seen in RMXP.
+If true, this map is an outdoor map and will be tinted according to time of day.
+If true, this map is an outdoor map and will be tinted according to time of day.
+If true, the game will display the map's name upon entry.
+If true, the game will display the map's name upon entry.
+If true, the bicycle can be used on this map.
+If true, the bicycle can be used on this map.
+If true, the bicycle will be mounted automatically on this map and cannot be dismounted.
+If true, the bicycle will be mounted automatically on this map and cannot be dismounted.
+Map ID of this Pokémon Center's town, and X and Y coordinates of its entrance within that town.
+Map ID of this Pokémon Center's town, and X and Y coordinates of its entrance within that town.
+Weather conditions in effect for this map.
+Weather conditions in effect for this map.
+Identifies the point on the regional map for this map.
+Identifies the point on the regional map for this map.
+Specifies the underwater layer of this map. Use only if this map has deep water.
+Specifies the underwater layer of this map. Use only if this map has deep water.
+If true, this map is dark and a circle of light appears around the player. Flash can be used to expand the circle.
+If true, this map is dark and a circle of light appears around the player. Flash can be used to expand the circle.
+If true, this map is part of the Safari Zone (both indoor and outdoor). Not to be used in the reception desk.
+If true, this map is part of the Safari Zone (both indoor and outdoor). Not to be used in the reception desk.
+If true, when the player goes near this map's edge, the game doesn't center the player as usual.
+If true, when the player goes near this map's edge, the game doesn't center the player as usual.
+If true, reflections of events and the player will not ripple horizontally.
+If true, reflections of events and the player will not ripple horizontally.
+If true, this map has a randomly generated layout. See the wiki for more information.
+If true, this map has a randomly generated layout. See the wiki for more information.
+PNG files named 'XXX_bg', 'XXX_base0', 'XXX_base1', 'XXX_message' in Battlebacks folder, where XXX is this property's value.
+PNG files named 'XXX_bg', 'XXX_base0', 'XXX_base1', 'XXX_message' in Battlebacks folder, where XXX is this property's value.
+Default BGM for wild Pokémon battles on this map.
+Default BGM for wild Pokémon battles on this map.
+Default BGM for trainer battles on this map.
+Default BGM for trainer battles on this map.
+Default BGM played after winning a wild Pokémon battle on this map.
+Default BGM played after winning a wild Pokémon battle on this map.
+Default BGM played after winning a Trainer battle on this map.
+Default BGM played after winning a Trainer battle on this map.
+Default ME played after catching a wild Pokémon on this map.
+Default ME played after catching a wild Pokémon on this map.
+The width of the map in Town Map squares, and a string indicating which squares are part of this map.
+The width of the map in Town Map squares, and a string indicating which squares are part of this map.
+The default battle environment for battles on this map.
+The default battle environment for battles on this map.
+Words/phrases that distinguish this map from others.
+Words/phrases that distinguish this map from others.
+Party 1 has no Pokémon.
+Party 1 has no Pokémon.
+Party 2 has no Pokémon.
+Party 2 has no Pokémon.
+The opposing {1}
+상대의 {1}
+The wild {1}
+야생의 {1}
+The ally {1}
+아군의 {1}
+The sunlight turned harsh!
+햇살이 강해졌다!
+It started to rain!
+비가 내리기 시작했다!
+A sandstorm brewed!
+모래바람이 불기 시작했다!
+It started to hail!
+싸라기눈이 내리기 시작했다!
+The sunlight turned extremely harsh!
+햇살이 아주 강해졌다!
+A heavy rain began to fall!
+세찬 비가 내리기 시작했다!
+Mysterious strong winds are protecting Flying-type Pokémon!
+수수께끼의 난기류가 비행포켓몬을 지킨다!
+A shadow sky appeared!
+어두운 오라가 하늘을 뒤덮었다!
+{1}'s {2} activated!
+{1}의 {2} 발동!
+An electric current runs across the battlefield!
+발밑에 전기가 떠돌기 시작했다!
+Grass grew to cover the battlefield!
+발밑에 풀이 무성해졌다!
+Mist swirled about the battlefield!
+발밑이 안개로 자욱해졌다!
+The battlefield got weird!
+발밑에서 이상한 느낌이 든다!
+Can't have battles larger than 2v2 where both sides have multiple trainers
+Can't have battles larger than 2v2 where both sides have multiple trainers
+Error: def pbGetOwnerIndexFromBattlerIndex gives invalid owner index ({1} for battle type {2}v{3}, trainers {4}v{5})
+Error: def pbGetOwnerIndexFromBattlerIndex gives invalid owner index ({1} for battle type {2}v{3}, trainers {4}v{5})
+Player-side trainer {1} has no battler position for their Pokémon to go (trying {2}v{3} battle)
+Player-side trainer {1} has no battler position for their Pokémon to go (trying {2}v{3} battle)
+Opposing trainer {1} has no battler position for their Pokémon to go (trying {2}v{3} battle)
+Opposing trainer {1} has no battler position for their Pokémon to go (trying {2}v{3} battle)
+Player-side trainer {1} has no able Pokémon
+Player-side trainer {1} has no able Pokémon
+Opposing trainer {1} has no able Pokémon
+Opposing trainer {1} has no able Pokémon
+Couldn't lower either side's size any further, battle isn't possible
+Couldn't lower either side's size any further, battle isn't possible
+Battler index {1} already exists
+Battler index {1} already exists
+Oh! A wild {1} appeared!
+앗! 야생의 {1}(이)가 튀어나왔다!
+Oh! A wild {1} and {2} appeared!
+앗! 야생의 {1}, {2}(이)가 튀어나왔다!
+Oh! A wild {1}, {2} and {3} appeared!
+앗! 야생의 {1}, {2}, {3}(이)가 튀어나왔다!
+You are challenged by {1}!
+{1}(이)가 승부를 걸어왔다!
+You are challenged by {1} and {2}!
+{1}&{2}(이)가 승부를 걸어왔다!
+You are challenged by {1}, {2} and {3}!
+{1}, {2}, {3}(이)가 승부를 걸어왔다!
+{1} sent out {2}!
+{1}(은)는 {2}(을)를 내보냈다!
+{1} sent out {2} and {3}!
+{1}(은)는 {2}(과)와 {3}(을)를 내보냈다!
+{1} sent out {2}, {3} and {4}!
+{1}(은)는 {2}, {3}, {4}(을)를 내보냈다!
+Go! {1}!
+가랏! {1}!
+Go! {1} and {2}!
+가랏! {1}! {2}!
+Go! {1}, {2} and {3}!
+가랏! {1}, {2}, {3}!
+The sunlight is strong.
+햇살이 강하다.
+It is raining.
+비가 내리고 있다.
+A sandstorm is raging.
+모래바람이 불고 있다.
+Hail is falling.
+싸라기눈이 내리고 있다.
+The sunlight is extremely harsh.
+햇살이 아주 강하다.
+It is raining heavily.
+비가 퍼붓듯 내리고 있다.
+The wind is strong.
+난기류가 세차게 분다.
+The sky is shadowy.
+하늘이 어둡다.
+Grass is covering the battlefield!
+풀이 발밑을 덮고 있다!
+Mist swirls about the battlefield!
+안개가 발밑에서 요동친다!
+The battlefield is weird!
+이상한 기운이 발밑에 감돈다!
+You got ${1} for winning!
+상금으로 ${1} 만큼 받았다!
+You picked up ${1}!
+${1} 만큼 돈을 주웠다!
+You gave ${1} to the winner...
+상금으로 ${1} 만큼 줬다...
+You panicked and dropped ${1}...
+당황해서 ${1} 만큼 잃어버렸다...
+You defeated {1}!
+{1}(과)와의 승부에서 이겼다!
+You defeated {1} and {2}!
+{1}&{2}(과)와의 승부에서 이겼다!
+You defeated {1}, {2} and {3}!
+{1}, {2}, {3}(과)와의 승부에서 이겼다!
+You have no more Pokémon that can fight!
+더 이상 싸울 수 있는 포켓몬이 없다!
+You lost against {1}!
+{1}(과)와의 승부에서 졌다!
+You lost against {1} and {2}!
+{1}&{2}(과)와의 승부에서 졌다!
+You lost against {1}, {2} and {3}!
+{1}, {2}, {3}(과)와의 승부에서 졌다!
+You blacked out!
+눈앞이 깜깜해졌다!
+Your other Pokémon also gained Exp. Points!
+다른 포켓몬들도 경험치를 얻었다!
+{1} got a boosted {2} Exp. Points!
+{1}(은)는 많은 양의 {2} 경험치를 얻었다!
+{1} got {2} Exp. Points!
+{1}(은)는 {2} 경험치를 얻었다!
+{1}'s new level is less than its current level, which shouldn't happen.
+{1}'s new level is less than its current level, which shouldn't happen.
+{1} grew to Lv. {2}!
+{1}(은)는 레벨 {2}로 올랐다!
+{1} learned {2}!
+{1}(은)는 {2}(을)를 배웠다!
+{1} wants to learn {2}, but it already knows {3} moves.
+{1}(은)는 {2}(을)를 배우고 싶지만, 이미 {3}개의 기술을 알고 있다.
+Should {1} forget a move to learn {2}?
+다른 기술을 잊게 하겠습니까?
+1, 2, and... ... ... Ta-da!
+1, 2, ... ... ... 짠!
+{1} forgot how to use {2}. And...
+{1}(은)는 {2}(을)를 깨끗이 잊었다! 그리고...
+Give up on learning {1}?
+{1}(을)를 배우지 않겠습니까?
+{1} did not learn {2}.
+{1}(은)는 {2}(을)를 배우지 않았다.
+There's no PP left for this move!
+기술의 PP가 남아있지 않습니다!
+{1} has to use {2}!
+{1}(은)는 {2} 밖에 쓸 수 없다!
+{1} has no moves left!
+{1}(은)는 쓸 수 있는 기술이 없다!
+An Egg can't battle!
+알은 싸울 수 없습니다!
+You can't switch {1}'s Pokémon with one of yours!
+{1}의 포켓몬을 당신의 포켓몬으로 교체할 수는 없습니다!
+{1} has no energy left to battle!
+{1}(은)는 싸우기 위한 기력이 남아있지 않습니다!
+{1} is already in battle!
+{1}(은)는 이미 싸우고 있습니다!
+{1} can't be switched out!
+{1}(을)를 돌아오게 할 수 없습니다!
+{1}'s {2} prevents switching!
+{1}의 {2} 때문에 교체할 수 없습니다!
+{1} has already been selected.
+{1}(은)는 이미 선택했습니다.
+{1} is about to send out {2}. Will you switch your Pokémon?
+{1}(이)가 {2}(을)를 내보내려 하고 있다. 포켓몬을 교체하시겠습니까?
+Use next Pokémon?
+다음 포켓몬을 꺼내겠습니까?
+Good job, {1}! Come back!
+잘했어, {1}! 돌아와!
+OK, {1}! Come back!
+좋아, {1}! 돌아와!
+{1}, that's enough! Come back!
+{1}, 그 정도면 됐어! 돌아와!
+{1}, come back!
+{1}, 돌아와!
+{1}, switch out! Come back!
+{1}, 교체한다! 돌아와!
+{1} withdrew {2}!
+{1}(은)는 {2}(을)를 볼로 불러들였다!
+You're in charge, {1}!
+너로 정했다, {1}!
+Go for it, {1}!
+널 믿어, {1}!
+Just a little more! Hang in there, {1}!
+앞으로 조금이야! 힘내, {1}!
+Your opponent's weak! Get 'em, {1}!
+상대가 약해져 있어! 기회다, {1}!
+Oh!<<n>>A Shadow Pokémon!
+앗! <<n>>그림자 포켓몬이다!
+The healing wish came true for {1}!
+치유소원이 {1}에게 전해졌다!
+{1} became cloaked in mystical moonlight!
+{1}(은)는 신비한 달빛에 둘러싸였다!
+Pointed stones dug into {1}!
+뾰족한 바위가 {1}(을)를 찔렀다!
+{1} is hurt by the spikes!
+{1}(은)는 압정뿌리기의 데미지를 입었다!
+{1} absorbed the poison spikes!
+{1}(은)는 독압정을 흡수했다!
+{1} was badly poisoned by the poison spikes!
+{1}(은)는 독압정에 찔려 맹독에 걸렸다!
+{1} was poisoned by the poison spikes!
+{1}(은)는 독압정에 찔러 독에 걸렸다!
+{1} was caught in a sticky web!
+{1}(은)는 끈적끈적네트에 걸렸다!
+It won't have any effect.
+써도 효과가 없다.
+Embargo's effect prevents the item's use on {1}!
+금제의 효과가 {1}에게 도구를 쓸 수 없게 한다!
+Tried to consume item that wasn't in the Bag somehow.
+Tried to consume item that wasn't in the Bag somehow.
+Couldn't return unused item to Bag somehow.
+Couldn't return unused item to Bag somehow.
+{1} used an {2}.
+{1}(은)는 {2}(을)를 사용했다.
+{1} used a {2}.
+{1}(은)는 {2}(을)를 사용했다.
+But it had no effect!
+그러나 효과가 없었다!
+But it's not where this item can be used!
+그러나 이 도구를 쓸 때가 아니다!
+Treat as a win
+Treat as a win
+Treat as a loss
+Treat as a loss
+Treat as a draw
+Treat as a draw
+Treat as running away/forfeit
+Treat as running away/forfeit
+Treat as a capture
+Treat as a capture
+Cancel
+취소
+Choose the outcome of this battle.
+Choose the outcome of this battle.
+You got away safely!
+성공적으로 도망쳤다!
+No! There's no running from a Trainer battle!
+안돼! 트레이너와의 승부 중에 등을 돌릴 순 없어!
+Would you like to forfeit the match and quit now?
+승부를 포기하고 항복하시겠습니까?
+{1} forfeited the match!
+{1}(은)는 승부에서 항복했다!
+You can't escape!
+도망칠 수 없다!
+{1} fled using its {2}!
+{1}(은)는 {2}(을)를 써서 도망쳤다!
+{1} prevents escape with {2}!
+{1}의 {2} 때문에 도망칠 수 없다!
+You couldn't get away!
+도망칠 수 없었다!
+{1} called {2}!
+{1}(은)는 {2}(을)를 불렀다!
+{1}!
+{1}!
+{1} came to its senses from the Trainer's call!
+트레이너의 부름에 {1}(이)가 정신을 차렸다!
+But nothing happened!
+그러나 아무 일도 일어나지 않았다!
+Mega Ring
+메가링
+{1}'s fervent wish has reached {2}!
+{1}의 강한 기도가 {2}에게 닿았다!
+{1}'s {2} is reacting to {3}'s {4}!
+{1}의 {2}가 {3}의 {4}에 반응하고 있다!
+Mega {1}
+메가{1}
+{1} has Mega Evolved into {2}!
+{1}(은)는 {2}(으)로 메가진화했다!
+{1}'s Primal Reversion!<<n>>It reverted to its primal form!
+{1}의 원시회귀!<<n>>원시의 모습으로 돌아갔다!
+Items can't be used here.
+이 곳에선 도구를 쓸 수 없다.
+Sky Drop won't let {1} go!
+프리폴이 {1}(을)를 놔주지 않는다!
+The sunlight faded.
+햇살이 원래대로 돌아왔다.
+The rain stopped.
+비가 그쳤다.
+The sandstorm subsided.
+모래바람이 가라앉았다.
+The hail stopped.
+싸라기눈이 그쳤다.
+The shadow sky faded.
+어두운 하늘이 밝아졌다.
+Rain continues to fall.
+비가 계속 내리고 있다.
+The sandstorm is raging.
+모래바람이 불고 있다.
+The hail is crashing down.
+싸라기눈이 계속 내리고 있다.
+The shadow sky continues.
+어두운 하늘이 계속되고 있다.
+{1} is buffeted by the sandstorm!
+{1}(은)는 모래바람에 데미지를 입었다!
+{1} is buffeted by the hail!
+{1}(은)는 싸라기눈에 데미지를 입었다!
+{1} is hurt by the shadow sky!
+{1} (은)는 어두운하늘에 데미지를 입었다!
+{1} took the {2} attack!
+{1}(이)가 {2} 공격을 받았다!
+{1}'s wish came true!
+{1}의 희망사항이 이루어졌다!
+{1} is hurt by the sea of fire!
+{1}(은)는 불바다에 데미지를 입었다!
+{1}'s HP was restored.
+{1}의 HP가 회복됐다.
+Aqua Ring restored {1}'s HP!
+{1}의 HP가 아쿠아링으로 회복했다!
+{1} absorbed nutrients with its roots!
+{1}(은)는 뿌리로부터 영양을 흡수했다!
+{1}'s health is sapped by Leech Seed!
+뿌려진 씨가 {1}의 체력을 빼앗는다!
+{1}'s {2} restored its HP.
+{1}의 {2}(으)로 HP가 회복됐다.
+{1} is locked in a nightmare!
+{1}(은)는 악몽을 꾸고 있다!
+{1} is afflicted by the curse!
+{1}(은)는 저주받고 있다!
+{1} was freed from {2}!
+{1}(은)는 {2}(으)로부터 풀려났다!
+{1} is hurt by {2}!
+{1}(은)는 {2}에 의해 다쳤다!
+{1}'s taunt wore off!
+{1}의 도발의 효과가 풀렸다!
+{1}'s encore ended!
+{1}의 앙코르가 끝났다!
+{1} is no longer disabled!
+{1}의 사슬묶기가 풀렸다!
+{1}'s electromagnetism wore off!
+{1}의 전자부유가 사라졌다!
+{1} was freed from the telekinesis!
+{1}(은)는 텔레키네시스로부터 풀려났다!
+{1}'s Heal Block wore off!
+{1}의 회복봉인이 사라졌다!
+{1} can use items again!
+{1}(은)는 다시 도구를 쓸 수 있게 됐다!
+{1}'s perish count fell to {2}!
+{1}의 멸망의 카운트가 {2} 남았다!
+{1}'s Reflect wore off!
+{1}의 리플렉터가 없어졌다!
+{1}'s Light Screen wore off!
+{1}의 빛의장막이 없어졌다!
+{1} is no longer protected by Safeguard!
+{1}(을)를 보호하던 신비의부적이 사라졌다!
+{1} is no longer protected by mist!
+{1}(을)를 보호하던 흰안개가 사라졌다!
+{1}'s Tailwind petered out!
+{1}의 순풍이 멈췄다!
+{1}'s Lucky Chant wore off!
+{1}의 주술이 사라졌다!
+The rainbow on {1}'s side disappeared!
+{1}의 편에 있던 무지개가 사라졌다!
+The sea of fire around {1} disappeared!
+{1}(을)를 둘러싼 불바다가 사라졌다!
+The swamp around {1} disappeared!
+{1}(을)를 둘러싼 늪지대가 사라졌다!
+{1}'s Aurora Veil wore off!
+{1}의 오로라베일이 없어졌다!
+The twisted dimensions returned to normal!
+뒤틀어진 시공이 원래대로 돌아왔다!
+Gravity returned to normal!
+중력이 원래대로 돌아왔다!
+The effects of Water Sport have faded.
+물놀이의 효과가 떨어졌다.
+The effects of Mud Sport have faded.
+흙놀이의 효과가 떨어졌다.
+Wonder Room wore off, and Defense and Sp. Def stats returned to normal!
+원더룸이 사라져서 방어와 특방이 원래대로 돌아왔다!
+Magic Room wore off, and held items' effects returned to normal!
+매직룸이 사라져서 지닌물건의 효과가 원래대로 돌아왔다!
+The electric current disappeared from the battlefield!
+발밑에 전기가 사라졌다!
+The grass disappeared from the battlefield!
+발밑에 풀이 사라졌다!
+The mist disappeared from the battlefield!
+발밑에 안개가 사라졌다!
+The weirdness disappeared from the battlefield!
+발밑에 이상한 기운이 사라졌다!
+An electric current is running across the battlefield.
+발밑에 전기가 떠돈다.
+Grass is covering the battlefield.
+발밑에 풀이 덮여 있다.
+Mist is swirling about the battlefield.
+발밑에 안개가 감돈다.
+The battlefield is weird.
+발밑에 이상한 기운이 돈다.
+{1} came to its senses!
+{1} came to its senses!
+{1} is in Hyper Mode!
+{1} is in Hyper Mode!
+{1} calmed down.
+{1}(은)는 진정했다.
+{1} is making an uproar!
+{1}(은)는 소란피우고 있다!
+{1} finally got its act together!
+{1}의 슬로스타트가 끝났다!
+{1} moved across!
+{1}(은)는 옆으로 이동했다!
+{1} moved to the center!
+{1}(은)는 가운데로 이동했다!
+{1} shook itself awake so you wouldn't worry!
+{1}(은)는 걱정을 끼치지 않으려고 혼자서 잠을 깼다!
+{1} managed to expel the poison so you wouldn't worry!
+{1}(은)는 걱정을 끼치지 않으려고 어떻게든 독을 억제했다!
+{1} healed its burn with its sheer determination so you wouldn't worry!
+{1}(은)는 걱정을 끼치지 않으려고 자기 의지로 화상을 치료했다!
+{1} gathered all its energy to break through its paralysis so you wouldn't worry!
+{1}(은)는 걱정을 끼치지 않으려고 스스로 몸저림을 풀어냈다!
+{1} melted the ice with its fiery determination so you wouldn't worry!
+{1}(은)는 걱정을 끼치지 않으려는 열망으로 얼음 상태를 녹였다!
+The Hyper Mode attack hurts {1}!
+The Hyper Mode attack hurts {1}!
+the opposing {1}
+상대 {1}
+the wild {1}
+야생 {1}
+the ally {1}
+아군 {1}
+the opposing team
+상대편
+The opposing team
+상대편
+your team
+우리편
+Your team
+우리편
+{1} is unaffected!
+{1}에겐 효과가 없다!
+{1} is unaffected because of its {2}!
+{1}에겐 {2} 때문에 효과가 없다!
+{1} protected itself with the {2}!
+{1}의 {2}(으)로 보호받고 있다!
+An egg can't be an active Pokémon.
+An egg can't be an active Pokémon.
+HP less than 0
+HP 0 미만
+HP greater than total HP
+HP가 총 HP를 초과
+{1} sucked up the liquid ooze!
+{1}(은)는 해감액을 흡수했다!
+{1} had its energy drained!
+{1}(으)로부터 에너지를 흡수했다!
+{1} fainted!
+{1}(은)는 쓰러졌다!
+{1} transformed!
+{1}의 모습이 변했다!
+{1} triggered!
+{1} 발동!
+{1} deactivated!
+{1} 해제!
+{1} activated!
+{1} 발동!
+{1} formed a school!
+{1}(은)는 무리를 형성했다!
+{1} stopped schooling!
+{1}의 무리가 뿔뿔이 흩어졌다!
+You sense the presence of many!
+많은 기척이 느껴진다!
+{1} transformed into its Complete Forme!
+{1}(은)는 퍼펙트폼으로 변했다!
+{1} transformed into {2}!
+{1}(은)는 {2}(으)로 변신했다!
+{1} is already asleep!
+{1}(은)는 이미 잠들어 있다.
+{1} is already poisoned!
+{1}(은)는 이미 독에 걸렸다.
+{1} already has a burn!
+{1}(은)는 이미 화상에 걸렸다.
+{1} is already paralyzed!
+{1}(은)는 이미 마비됐다.
+{1} is already frozen solid!
+{1}(은)는 이미 얼음 상태다.
+It doesn't affect {1}...
+{1}에게는 효과가 없는 것 같다...
+{1} surrounds itself with electrified terrain!
+{1}(은)는 일렉트릭필드 때문에 잠들지 않는다!
+{1} surrounds itself with misty terrain!
+{1}(은)는 미스트필드에 감싸여 나쁜 상태가 되지 않는다!
+But the uproar kept {1} awake!
+그러나 소란스러워서 {1}은 잠들 수 없다!
+{1} stays awake!
+{1}(은)는 잠들지 않는다!
+{1} cannot be poisoned!
+{1}(은)는 독에 걸리지 않는다!
+{1} cannot be burned!
+{1}(은)는 화상에 걸리지 않는다!
+{1} cannot be paralyzed!
+{1}(은)는 마비되지 않는다!
+{1} cannot be frozen solid!
+{1}(은)는 얼음 상태가 되지 않는다!
+{1} stays awake because of {2}'s {3}!
+{1}(은)는 {2}의 {3} 때문에 잠들지 않는다!
+{1} cannot be poisoned because of {2}'s {3}!
+{1}(은)는 {2}의 {3} 때문에 독에 걸리지 않는다!
+{1} cannot be burned because of {2}'s {3}!
+{1}(은)는 {2}의 {3} 때문에 화상에 걸리지 않는다!
+{1} cannot be paralyzed because of {2}'s {3}!
+{1}(은)는 {2}의 {3} 때문에 마비되지 않는다!
+{1} cannot be frozen solid because of {2}'s {3}!
+{1}(은)는 {2}의 {3} 때문에 얼음 상태가 되지 않는다!
+{1} stays awake because of its {2}!
+{1}의 {2} 때문에 잠들지 않는다!
+{1}'s {2} prevents poisoning!
+{1}의 {2} 때문에 중독되지 않는다!
+{1}'s {2} prevents burns!
+{1}의 {2} 때문에 화상에 걸리지 않는다!
+{1}'s {2} prevents paralysis!
+{1}의 {2} 때문에 마비되지 않는다!
+{1}'s {2} prevents freezing!
+{1}의 {2} 때문에 얼음상태가 되지 않는다!
+{1}'s team is protected by Safeguard!
+{1} 편은 신비의부적에 보호받고 있다!
+{1} fell asleep!
+{1}(은)는 잠들었다!
+{1} was badly poisoned!
+{1}의 몸에 맹독이 퍼졌다!
+{1} was poisoned!
+{1}의 몸에 독이 퍼졌다!
+{1} was burned!
+{1}(은)는 화상에 걸렸다!
+{1} is paralyzed! It may be unable to move!
+{1}(은)는 마비되어 기술이 나오기 어려워졌다!
+{1} was frozen solid!
+{1}(은)는 꽁꽁 얼어붙었다!
+{1} is fast asleep.
+{1}(은)는 쿨쿨 잠들어 있다.
+{1} was hurt by poison!
+{1}(은)는 독에 의한 데미지를 입었다!
+{1} was hurt by its burn!
+{1}(은)는 화상에 의한 데미지를 입었다!
+{1} is paralyzed! It can't move!
+{1}(은)는 몸이 저려서 움직일 수 없다!
+{1} is frozen solid!
+{1}(은)는 얼어버려서 움직일 수 없다!
+{1} woke up!
+{1}(은)는 잠에서 깨어났다!
+{1} was cured of its poisoning.
+{1}의 독이 말끔히 해독되었다.
+{1}'s burn was healed.
+{1}의 화상이 치료됐다.
+{1} was cured of paralysis.
+{1}의 몸저림이 풀렸다.
+{1} thawed out!
+{1}의 얼음이 녹았다!
+{1} is already confused.
+{1}(은)는 이미 혼란 상태다.
+But it failed!
+하지만 실패했다!
+{1} doesn't become confused!
+{1}(은)는 혼란스럽게 되지 않는다!
+{1}'s {2} prevents confusion!
+{1}의 {2}(이)가 혼란을 막는다!
+{1} became confused!
+{1}(은)는 혼란에 빠졌다!
+{1}'s {2} prevents romance!
+{1}의 {2}(이)가 헤롱헤롱을 막았다!
+{1} fell in love!
+{1}(은)는 헤롱헤롱해졌다!
+{1} fell in love from the {2}!
+{1}(은)는 {2}에게 헤롱헤롱하다!
+{1}'s {2} won't go any higher!
+{1}의 {2}(은)는 더 이상 올라가지 않는다!
+{1}'s {2} rose!
+{1}의 {2}(이)가 올랐다!
+{1}'s {2} rose sharply!
+{1}의 {2}(이)가 크게 올랐다!
+{1}'s {2} rose drastically!
+{1}의 {2}(이)가 매우 크게 올랐다!
+{1}'s {2} raised its {3}!
+{1}의 {2}(이)가 {3}(을)를 올렸다!
+{1}'s {2} sharply raised its {3}!
+{1}의 {2}(이)가 {3}(을)를 크게 올렸다!
+{1}'s {2} drastically raised its {3}!
+{1}의 {2}(이)가 {3}(을)를 매우 크게 올렸다!
+{1}'s {2} raised {3}'s {4}!
+{1}의 {2}(이)가 {3}의 {4}(을)를 올렸다!
+{1}'s {2} sharply raised {3}'s {4}!
+{1}의 {2}(이)가 {3}의 {4}(을)를 크게 올렸다!
+{1}'s {2} drastically raised {3}'s {4}!
+{1}의 {2}(이)가 {3}의 {4}(을)를 매우 크게 올렸다!
+{1} is protected by its substitute!
+대타출동이 {1}(을)를 지킨다!
+{1} is protected by Mist!
+흰안개가 {1}(을)를 지킨다!
+{1}'s {2} won't go any lower!
+{1}의 {2}(은)는 더 이상 떨어지지 않는다!
+{1}'s {2} fell!
+{1}의 {2}(이)가 떨어졌다!
+{1}'s {2} harshly fell!
+{1}의 {2}(이)가 크게 떨어졌다!
+{1}'s {2} severely fell!
+{1}의 {2}(이)가 매우 크게 떨어졌다!
+{1}'s {2} lowered its {3}!
+{1}의 {2}(이)가 {3}(을)를 떨어트렸다!
+{1}'s {2} harshly lowered its {3}!
+{1}의 {2}(이)가 {3}(을)를 크게 떨어트렸다!
+{1}'s {2} severely lowered its {3}!
+{1}의 {2}(이)가 {3}(을)를 매우 크게 떨어트렸다!
+{1}'s {2} lowered {3}'s {4}!
+{1}의 {2}(이)가 {3}의 {4}(을)를 떨어트렸다!
+{1}'s {2} harshly lowered {3}'s {4}!
+{1}의 {2}(이)가 {3}의 {4}(을)를 크게 떨어트렸다!
+{1}'s {2} severely lowered {3}'s {4}!
+{1}의 {2}(이)가 {3}의 {4}(을)를 매우 크게 떨어트렸다!
+{1}'s substitute protected it from {2}'s {3}!
+{1}의 대타출동이 {2}의 {3}(을)를 막았다!
+{1}'s {2} cannot be lowered!
+{1}의 {2}(은)는 떨어지지 않는다!
+{1}'s {2} prevents {3} loss!
+{1}의 {2} 때문에 {3}(이)가 떨어지지 않는다!
+{1} is protected from {2}'s {3} by Mist!
+흰안개가 {2}의 {3}(으)로부터 {1}(을)를 지킨다!
+{1}'s {2} prevented {3}'s {4} from working!
+{1}의 {2} 때문에 {3}의 {4}(이)가 먹히지 않는다!
+{1} is protected from {2}'s {3} by {4}'s {5}!
+{4}의 {5}(이)가 {2}의 {3}(으)로부터 {1}을 지킨다!
+The effects of the neutralizing gas wore off!
+화학변화가스의 효과가 없어졌다!
+{1} traced {2}'s {3}!
+{1}(이)가 {2}의 {3}(을)를 트레이스했다!
+{1}'s {2} made {3} ineffective!
+{1}의 {2} 때문에 {3}(은)는 효과가 없다!
+{1}'s {2} wore off!
+{1}의 {2}(이)가 없어졌다!
+{1} shared its {2} with {3}!
+{1}(이)가 지니고 있던 {2}(을)를 {3}에게 건넸다!
+{1}'s {2} let it share its {3} with {4}!
+{1}의 {2}(으)로 인해 {3}(을)를 {4}에게 건넸다!
+{1} restored its health using its {2}!
+{1}(은)는 {2}를 써서 체력을 회복했다!
+{1} fled from battle!
+{1}(은)는 도망쳤다!
+{1} became confused due to fatigue!
+{1}(은)는 몹시 지쳐서 혼란에 빠졌다!
+{1} used {2}!
+{1}의<<n>>{2}!
+But there was no PP left for the move!
+그러나 기술을 사용할 PP가 남아있지 않다!
+{1} changed to Blade Forme!
+블레이드폼 체인지!
+{1} changed to Shield Forme!
+실드폼 체인지!
+{1} cannot use {2}!
+{1}(은)는 {2}(을)를 쓸 수 없다!
+{1} snatched {2}'s move!
+{1}(은)는 {2}의 기술을 가로챘다!
+{1} melted the ice!
+{1}(은)는 얼음을 녹였다!
+When the flame touched the powder on the Pokémon, it exploded!
+포켓몬 주위에 떠다니는 분진에 불꽃이 닿자 폭발했다!
+{1} is hurt by Powder!
+{1}(은)는 분진에 다쳤다!
+The Fire-type attack fizzled out in the heavy rain!
+불꽃타입 공격이 폭우 속에서 꺼지고 말았다!
+The Water-type attack evaporated in the harsh sunlight!
+물타입 공격이 큰가뭄 속에서 증발하고 말았다!
+{1}'s type changed to {2}!
+{1}의 타입이 {2}(으)로 변했다!
+But there was no target...
+그러나 목표가 없었다...
+Hit 1 time!
+1번 맞았다!
+Hit {1} times!
+{1}번 맞았다!
+{1} bounced the {2} back!
+{1}(은)는 {2}(을)를 되받아쳤다!
+{1} used the move instructed by {2}!
+{1}(은)는 {2}에게 지시받은대로 기술을 썼다!
+{1} kept the dance going with {2}!
+{1}(은)는 {2}(으)로 춤을 계속 춘다!
+The {1} strengthened {2}'s power!
+{1}(이)가 {2}의 위력을 강하게 한다!
+The {1} weakened the damage to {2}!
+{2}(이)가 받을 피해를 {1}(이)가 약하게 했다!
+{1} took the attack!
+{1}(이)가 공격을 끌어당겼다!
+{1} took the attack with its {2}!
+{1}의 {2}(으)로 공격을 끌어당겼다!
+{1}'s {2} is disabled!
+{1}의 {2}(은)는 사슬묶기 당했다!
+{1} can't use {2} because of Heal Block!
+회복봉인 때문에 {1}의 {2}(은)는 쓸 수 없다!
+{1} can't use {2} because of gravity!
+중력 때문에 {1}의 {2}(은)는 쓸 수 없다!
+{1} can't use {2} because of Throat Chop!
+지옥찌르기 때문에 {1}의 {2}(은)는 쓸 수 없다!
+The {1} only allows the use of {2}!
+{1} 때문에 {2}만 쓸 수 있다!
+{1} can only use {2}!
+{1}(은)는 {2}만 쓸 수 있다!
+{1} can't use {2} after the taunt!
+{1}(은)는 도발당해서 {2}(을)를 쓸 수 없다!
+{1} can't use the same move twice in a row due to the torment!
+{1}(은)는 트집을 잡혀서 같은 기술을 연속으로 쓸 수 없다!
+{1} can't use its sealed {2}!
+{1}(은)는 봉인당한 {2}(을)를 쓸 수 없다!
+The effects of the {1} prevent status moves from being used!
+{1}의 효과 때문에 변화 기술을 사용할 수 없다!
+{1} ignored orders and kept sleeping!
+{1}(은)는 명령을 무시하고 계속 자고 있다!
+{1} ignored orders!
+{1}(은)는 명령을 무시했다!
+{1} began to nap!
+{1}(은)는 낮잠을 자기 시작했다!
+{1} won't obey! It hurt itself in its confusion!
+{1}(은)는 명령을 듣지 않는다! 영문도 모르고 자신을 공격했다!
+{1} won't obey!
+{1}(은)는 명령을 듣지 않는다!
+{1} turned away!
+{1}(은)는 등을 돌렸다!
+{1} is loafing around!
+{1}(은)는 게으름피우고 있다.
+{1} pretended not to notice!
+{1}(은)는 못 들은 척 했다!
+{1} must recharge!
+{1}(은)는 반동 때문에 움직일 수 없다!
+{1} appears incapable of using its power!
+{1}(은)는 힘을 제대로 쓸 수 없는 것 같다!
+{1} flinched and couldn't move!
+{1}(은)는 풀이 죽어 기술을 쓸 수 없다!
+{1} snapped out of its confusion.
+{1}(은)는 혼란이 풀렸다.
+{1} is confused!
+{1}(은)는 혼란에 빠졌다!
+It hurt itself in its confusion!
+영문도 모르고 자신을 공격했다!
+{1} is in love with {2}!
+{1}(은)는 {2}에게 헤롱헤롱해 있다!
+{1} is immobilized by love!
+{1}(은)는 헤롱헤롱해서 기술을 쓸 수 없다!
+{1} surrounds itself with psychic terrain!
+{1}(은)는 사이코필드에 보호받고 있다!
+Crafty Shield protected {1}!
+트릭가드가 {1}(을)를 막았다!
+Wide Guard protected {1}!
+와이드가드가 {1}(을)를 막았다!
+Quick Guard protected {1}!
+패스트가드가 {1}(을)를 막았다!
+{1} protected itself!
+{1}(은)는 공격으로부터 몸을 지켰다!
+{1} was hurt!
+{1}(은)는 가시에 찔렸다!
+{1} was blocked by the kicked-up mat!
+세운 마룻바닥이 {1}(을)를 막았다!
+{1} avoided the attack!
+{1}(은)는 공격을 피했다!
+{1} avoided the attack with {2}!
+{1}(은)는 {2}(으)로 공격을 피했다!
+{1}'s {2} makes Ground moves miss!
+{1}의 {2} 때문에 땅타입 기술이 맞지 않는다!
+{1} makes Ground moves miss with Magnet Rise!
+{1}의 전자부유로 떠 있어 땅타입 기술이 맞지 않는다!
+{1} makes Ground moves miss with Telekinesis!
+{1}는 텔레키네시스로 떠 있어 땅타입 기술에 맞지 않는다!
+It doesn't affect {1} because of its {2}.
+{1}의 {2} 때문에 효과가 없다.
+{1} avoided the move in time with your shout!
+{1}(은)는 구호에 맞춰 기술을 피했다!
+{1}'s attack missed!
+{1}의 공격이 빗나갔다!
+{1}'s rage is building!
+{1}의 분노의 볼티지가 쌓여간다!
+{1}'s {2} lost all of its PP due to the grudge!
+{1}의 {2}의 PP가 원념으로 모조리 사라졌다!
+{1} took its attacker down with it!
+{1}(은)는 상대를 길동무로 삼았다!
+{1} became fully charged due to its bond with its Trainer!
+{1}(으)로부터 유대의 힘이 넘쳐난다!
+{1} became Ash-Greninja!
+{1}(은)는 지우개굴닌자로 변했다!
+{1} is unaffected because of {2}'s {3}!
+{2}의 {3} 때문에 {1}(은)는 효과가 없다!
+It's super effective on {1}!
+{1}에게 효과가 굉장했다!
+It's super effective!
+효과가 굉장했다!
+It's not very effective on {1}...
+{1}에게 효과는 별로인 듯 하다.
+It's not very effective...
+효과는 별로인 듯 하다.
+The substitute took damage for {1}!
+대타출동이 {1} 대신 데미지를 받았다!
+{1} landed a critical hit on {2}, wishing to be praised!
+{1}(은)는 칭찬받기 위해 {2}의 급소에 맞혔다!
+{1} landed a critical hit, wishing to be praised!
+{1}(은)는 칭찬받기 위해 급소에 맞혔다!
+A critical hit on {1}!
+{1}의 급소에 맞았다!
+A critical hit!
+급소에 맞았다!
+{1}'s substitute faded!
+{1}의 대타출동은 사라졌다...
+Its disguise served it as a decoy!
+탈이 대타가 되었다!
+{1}'s disguise served it as a decoy!
+{1}의 탈이 대타가 되었다!
+{1}'s disguise was busted!
+{1}의 정체가 드러났다!
+{1} endured the hit!
+{1}(은)는 공격을 버텼다!
+{1} hung on with Sturdy!
+{1}(은)는 옹골참으로 공격을 버텼다!
+{1} hung on using its Focus Sash!
+{1}(은)는 기합의띠로 버텼다!
+{1} hung on using its Focus Band!
+{1}(은)는 기합의머리띠로 버텼다!
+{1} toughed it out so you wouldn't feel sad!
+{1}(은)는 트레이너를 슬프게 하지 않으려고 견뎌냈다!
+Struggle
+발버둥
+{1} is damaged by recoil!
+{1}(은)는 반동으로 데미지를 입었다!
+{1}'s stats won't go any higher!
+{1}의 능력치는 더 이상 올라가지 않는다!
+{1}'s stats won't go any lower!
+{1}의 능력치는 더 이상 내려가지 않는다!
+{1} became fully charged due to its Power Herb!
+{1}(은)는 파워풀허브로 힘이 넘쳐흐른다!
+{1} began charging up!
+{1}(은)는 힘을 모으기 시작했다!
+{1}'s HP is full!
+{1}의 HP는 이미 가득하다!
+{1} protected {2}!
+{1}(은)는 {2}을 보호했다!
+The extremely harsh sunlight was not lessened at all!
+강한 햇살의 기세는 멈추지 않는다!
+There is no relief from this heavy rain!
+세찬 비의 기세는 멈추지 않는다!
+The mysterious air current blows on regardless!
+수수께끼의 난기류는 멈추지 않는다!
+The two moves have become one! It's a combined move!
+두 개의 기술이 하나가 되었다! 콤비네이션 기술이다!
+{1} is waiting for {2}'s move...
+{1}(은)는 {2}의 기술을 기다리고 있다...
+A sea of fire enveloped {1}!
+{1}에 불바다가 펼쳐졌다!
+A rainbow appeared in the sky on {1}'s side!
+{1} 편 하늘에 무지개가 나타났다!
+A swamp enveloped {1}!
+{1}에 늪지대가 펼쳐졌다!
+Congratulations from {1}!
+{1}에게 축하받았다!
+Congratulations, {1}!
+축하해, {1}!
+Coins were scattered everywhere!
+동전이 여기저기에 흩뿌려졌다!
+Everyone is caught up in the happy atmosphere!
+모두가 행복한 기분에 휩싸였다!
+{1} hasn't eaten any held berry, so it can't possibly belch!
+{1}는 열매를 먹지 않아서 도저히 트림을 쓸 수 없다!
+{1} is about to be attacked by its {2}!
+{1}(은)는 지니고 있던 {2}에 공격받았다!
+{1} is tightening its focus!
+{1}(은)는 집중력을 높이고 있다!
+{1} lost its focus and couldn't move!
+{1}(은)는 집중이 풀려서 움직일 수 없다!
+{1} kept going and crashed!
+{1}(은)는 의욕이 넘쳐서 땅에 부딪쳤다!
+The electricity disappeared from the battlefield.
+발밑에 전기가 사라졌다.
+The grass disappeared from the battlefield.
+발밑에 풀이 사라졌다.
+The mist disappeared from the battlefield.
+발밑에 안개가 사라졌다.
+The weirdness disappeared from the battlefield.
+발밑에 이상한 기운이 사라졌다.
+Spikes were scattered all around {1}'s feet!
+{1}의 발밑에 압정이 흩뿌려졌다!
+Poison spikes were scattered all around {1}'s feet!
+{1}의 발밑에 독압정이 흩뿌려졌다!
+Pointed stones float in the air around {1}!
+{1} 주변에 뾰족한 바위가 떠 다닌다!
+A sticky web has been laid out beneath {1}'s feet!
+{1}의 발 아래에 끈적끈적네트가 걸렸다!
+{1} swapped the battle effects affecting each side of the field!
+{1}(이)가 서로의 필드 효과를 맞바꾸었다!
+{1} already has a substitute!
+{1}(은)는 이미 대타출동이 나와 있다!
+But it does not have enough HP left to make a substitute!
+그러나 대타출동에 필요한 HP가 남아있지 않다!
+{1} put in a substitute!
+{1}(은)는 대타출동을 불러냈다!
+{1} got free of {2}'s {3}!
+{1}(은)는 {2}의 {3}로부터 풀려났다!
+{1} shed Leech Seed!
+{1}(은)는 뿌려진 씨로부터 벗어났다!
+{1} blew away stealth rocks!
+{1}(은)는 스텔스록을 날려버렸다!
+{1} blew away spikes!
+{1}(은)는 압정을 날려버렸다!
+{1} blew away poison spikes!
+{1}(은)는 독압정을 날려버렸다!
+{1} blew away sticky webs!
+{1}(은)는 끈적끈적네트를 날려버렸다!
+{1} chose Doom Desire as its destiny!
+{1}(은)는 파멸의소원을 미래에 맡겼다!
+{1} foresaw an attack!
+{1}는 공격을 예지했다!
+{1} and {2} switched places!
+{1}(과)와 {2}(은)는 자리를 바꾸었다!
+{1} started heating up its beak!
+{1}(은)는 부리를 달구기 시작했다!
+{1} cut its own HP and minimized its {2}!
+{1}(은)는 체력을 깎고 자신의 {2}(을)를 최소로 하였다!
+{1} cut its own HP and maximized its {2}!
+{1}(은)는 체력을 깎고 자신의 {2}(을)를 풀파워로 만들었다!
+{1} began charging power!
+{1}(은)는 충전하기 시작했다!
+{1} became nimble!
+{1}(은)는 100kg 더 가벼워졌다!
+{1} is getting pumped!
+{1}(은)는 의욕이 넘친다!
+{1}'s stats can't be changed further!
+{1}의 능력치는 더 이상 바뀌지 않는다!
+{1} can no longer escape because it used {2}!
+{1}(은)는 {2}(을)를 썼기 때문에 도망칠 수 없다!
+{1} became weaker to fire!
+{1}(은)는 불꽃에 약해졌다!
+{1}'s Mist faded!
+{1}의 흰안개가 사라졌다!
+{1} is no longer protected by Safeguard!!
+{1}(은)는 더 이상 신비의부적에 보호받지 않는다!!
+{1}'s stats can't be raised further!
+{1}의 능력치는 더 이상 오르지 않는다!
+{1} switched all changes to its Attack and Sp. Atk with the target!
+{1}(은)는 공격과 특공의 능력 변화를 상대와 맞바꾸었다!
+{1} switched all changes to its Defense and Sp. Def with the target!
+{1}(은)는 방어와 특방의 능력 변화를 상대와 맞바꾸었다!
+{1} switched stat changes with the target!
+{1}(은)는 모든 능력 변화를 상대와 맞바꾸었다!
+{1} copied {2}'s stat changes!
+{1}(은)는 {2}의 능력 변화를 복사했다!
+{1} stole the target's boosted stats!
+{1}(은)는 상대의 능력 상승을 훔쳤다!
+{1}'s stats were reversed!
+{1}의 능력 변화가 반전되었다!
+{1}'s stat changes were removed!
+{1}의 능력 변화가 초기화됐다!
+All stat changes were eliminated!
+모든 포켓몬의 능력 변화가 초기화됐다!
+{1} became shrouded in mist!
+{1}(은)는 흰안개에 둘러싸였다!
+{1} switched its Attack and Defense!
+{1}(은)는 자신의 공격과 방어를 맞바꾸었다!
+{1} switched Speed with its target!
+{1}(은)는 스피드 능력치를 맞바꾸었다!
+{1} shared its power with the target!
+{1}(은)는 상대와 자신의 파워를 서로 나눠가졌다!
+{1} shared its guard with the target!
+{1}(은)는 상대와 자신의 수비를 서로 나눠가졌다!
+The battlers shared their pain!
+서로의 아픔을 나눠가졌다!
+The Tailwind blew from behind {1}!
+{1}의 뒤에서 순풍이 불어온다!
+Wonder Room wore off, and the Defense and Sp. Def stats returned to normal!
+원더룸이 사라지면서 방어와 특방이 원래대로 돌아왔다!
+It created a bizarre area in which the Defense and Sp. Def stats are swapped!
+방어와 특방이 뒤바뀐 이상한 공간이 만들어졌다!
+But {1} can't use the move!
+그러나 {1}(은)는 이 기술을 쓸 수 없다!
+{1} made {2} drowsy!
+{1}(은)는 {2}의 졸음을 유도했다!
+{1} woke up.
+{1}(은)는 잠을 깼다.
+{1} was thawed out.
+{1}(은)는 얼음이 녹았다.
+{1} healed its burn!
+{1}(은)는 화상이 치유됐다!
+{1} cured its poisoning!
+{1}의 독이 사라졌다!
+{1} cured its paralysis!
+{1}의 몸저림이 풀렸다!
+{1} was woken from sleep.
+{1}(은)는 잠에서 깨어났다.
+A soothing aroma wafted through the area!
+기분좋은 향기가 주위에 퍼졌다!
+A bell chimed!
+방울이 울려퍼졌다!
+{1} became cloaked in a mystical veil!
+{1}(은)는 신비한 베일에 둘러싸였다!
+{1}'s type changed to match {2}'s!
+{1}(은)는 {2}의 타입을 복사하였다!
+{1} transformed into the {2} type!
+{1}(은)는 {2} 타입으로 변화했다!
+{1} burned itself out!
+{1}(은)는 다 타버렸다!
+{1} acquired {2}!
+{1}(은)는 {2}(을)를 획득했다!
+{1} copied {2}'s {3}!
+{1}(은)는 {2}의 {3}(을)를 복사했다!
+{1} swapped Abilities with its target!
+{1}(은)는 상대와 특성을 서로 바꾸었다!
+{1} swapped its {2} Ability with its target's {3} Ability!
+{1}(은)는 자신의 {2} 특성과 상대의 {3} 특성을 서로 바꾸었다!
+{1}'s Ability was suppressed!
+{1}의 특성이 억제되었다!
+{1} levitated with electromagnetism!
+{1}(은)는 전자력으로 떠올랐다!
+{1} was hurled into the air!
+{1}(은)는 공중으로 떠올랐다!
+{1} fell straight down!
+{1}(은)는 공중에서 떨어졌다!
+Gravity intensified!
+중력이 강해졌다!
+{1} couldn't stay airborne because of gravity!
+{1}(은)는 중력 때문에 공중에 떠 있을 수 없다!
+But it failed to affect {1}!
+그러나 {1}에게는 아무 효과가 없다!
+But it failed to affect {1} because of its {2}!
+그러나 {1}에게는 {2} 때문에 아무 효과가 없다!
+It's a one-hit KO!
+일격필살!
+The bursting flame hit {1} and {2}!
+튀긴 불티가 {1}(과)와 {2}에게 맞았다!
+The bursting flame hit {1}!
+튀긴 불티가 {1}에게 맞았다!
+Magnitude {1}!
+매그니튜드 {1}!
+{1} concentrated intensely!
+{1}(은)는 정신을 집중했다!
+The Lucky Chant shielded {1} from critical hits!
+주술의 힘으로 {1}의 급소가 숨겨졌다!
+{1} braced itself!
+{1}(은)는 공격을 버텼다!
+Electricity's power was weakened!
+전기의 위력이 약해졌다!
+Fire's power was weakened!
+불꽃의 위력이 약해졌다!
+{1} raised {2}'s Defense!
+{1}(으)로 {2}의 물리방어가 강해졌다!
+{1} raised {2}'s Special Defense!
+{1}(으)로 {2}의 특수방어가 강해졌다!
+{1} made {2} stronger against physical and special moves!
+{1}(으)로 물리와 특수 기술에 대해 {2}(이)가 강해졌다!
+{1} intends to flip up a mat and block incoming attacks!
+{1}(은)는 마룻바닥을 세워 공격을 막으려 한다!
+But {1} can't use it the way it is now!
+하지만 {1}(은)는 지금은 그렇게 쓸 수 없다!
+{1} took aim at {2}!
+{1}(은)는 {2}(을)를 목표로 하였다!
+{1} was identified!
+{1}의 정체를 꿰뚫어보았다!
+{1}'s moves have been electrified!
+{1}의 기술이 전기화했다!
+A deluge of ions showers the battlefield!
+전기를 띤 입자가 필드에 뿌려졌다!
+{1} whipped up a whirlwind!
+{1}(이)가 회오리바람을 휘감았다!
+{1} took in sunlight!
+{1}(은)는 햇빛을 흡수했다!
+{1} became cloaked in a freezing light!
+{1}(은)는 얼어붙는 빛을 두르기 시작했다!
+{1} became cloaked in freezing air!
+{1}(은)는 얼어붙는 공기를 두르기 시작했다!
+{1} became cloaked in a harsh light!
+{1}(은)는 세찬 빛에 둘러싸이기 시작했다!
+{1} is absorbing power!
+{1}(은)는 에너지를 흡수하고 있다!
+{1} tucked in its head!
+{1}(은)는 머리를 움츠렸다!
+{1} is overflowing with space power!
+{1}(은)는 우주의 기운이 넘쳐흐른다!
+{1} burrowed its way under the ground!
+{1}(은)는 땅 속으로 파고들었다!
+{1} hid underwater!
+{1}(은)는 물 속으로 숨었다!
+{1} flew up high!
+{1}(은)는 하늘높이 날아올랐다!
+{1} sprang up!
+{1}(은)는 뛰어올랐다!
+{1} took {2} into the sky!
+{1}(은)는 {2}(을)를 붙잡고 하늘로 끌고 갔다!
+{1} was freed from the Sky Drop!
+{1}(은)는 프리폴로부터 풀려났다!
+{1} vanished instantly!
+{1}(은)는 순식간에 사라졌다!
+{1} caused an uproar!
+{1}(은)는 소란피기 시작했다!
+{1} unleashed energy!
+{1}의 참기가 풀렸다!
+{1} is storing energy!
+{1}(은)는 참고 있다!
+{1} slept and became healthy!
+{1}(은)는 잠에 들어 건강해졌다!
+{1} wasn't affected!
+{1}에게는 효과가 없었다!
+{1} surrounded itself with a veil of water!
+{1}(은)는 물의 고리를 머금었다!
+{1} planted its roots!
+{1}(은)는 뿌리를 뻗었다!
+{1} began having a nightmare!
+{1}(은)는 악몽을 꾸기 시작했다!
+{1} evaded the attack!
+{1}(은)는 공격을 피했다!
+{1} was seeded!
+{1}(은)는 씨앗이 심겨졌다!
+{1} cannot use {2} because of {3}'s {4}!
+{3}의 {4} 때문에 {1}(은)는 {2}(을)를 쓸 수 없다!
+All Pokémon that hear the song will faint in three turns!
+멸망의노래를 들은 포켓몬은 모두 3턴 뒤에 쓰러진다!
+{1} is hoping to take its attacker down with it!
+{1}(은)는 상대를 길동무로 삼으려 하고 있다!
+{1} wants its target to bear a grudge!
+{1}(은)는 상대에게 원념을 품으려 하고 있다!
+{1} stole {2}'s {3}!
+{1}(은)는 {2}의 {3}(을)를 훔쳤다!
+{1} received {2} from {3}!
+{1}(은)는 {3}(으)로부터 {2}를 받았다!
+{1} switched items with its opponent!
+{1}(은)는 상대와 도구를 교체했다!
+{1} obtained {2}.
+{1}(은)는 {2}(을)를 획득했다.
+{1} found an {2}!
+{1}(은)는 {2}(을)를 주워왔다!
+{1} found a {2}!
+{1}(은)는 {2}(을)를 주워왔다!
+{1} dropped its {2}!
+{1}(은)는 {2}(을)를 떨어트렸다!
+{1}'s {2} was incinerated!
+{1}의 {2}(이)가 불태워졌다!
+{1} corroded {2}'s {3}!
+{1}(은)는 {2}의 {3}(을)를 부식시켰다!
+{1} can't use items anymore!
+{1}(은)는 더 이상 도구를 쓸 수 없다!
+The area returned to normal!
+공간이 원래대로 돌아왔다!
+It created a bizarre area in which Pokémon's held items lose their effects!
+포켓몬이 지닌 도구의 효과가 사라지는 이상한 공간이 만들어졌다!
+{1} can't use that move because it doesn't have a Berry!
+{1}(은)는 열매를 가지고 있지 않아서 이 기술을 쓸 수 없다!
+{1} ate its {2}!
+{1}(은)는 지니고 있던 {2}(을)를 먹었다!
+It's teatime! Everyone dug in to their Berries!
+다과회다! 모두 가져온 열매를 먹자!
+{1} stole and ate its target's {2}!
+{1}(은)는 상대의 {2}(을)를 빼앗아 먹었다!
+{1} flung its {2}!
+{1}(은)는 지니고 있던 {2}(을)를 내던졌다!
+{1} became the center of attention!
+{1}(은)는 관심의 대상이 되었다!
+{1} cut its own HP and laid a curse on {2}!
+{1}(은)는 자신의 체력을 깎아 {2}에게 저주를 걸었다!
+{1} is covered in powder!
+{1}(은)는 분진에 뒤덮였다!
+{1} is ready to help {2}!
+{1}(은)는 {2}의 도움이 되려 하고 있다!
+{1} can't stockpile any more!
+{1}(은)는 더 이상 비축할 수 없다!
+{1} stockpiled {2}!
+{1}(은)는 {2}번 비축했다!
+But it failed to spit up a thing!
+그러나 토해낼 게 없어서 실패했다!
+{1}'s stockpiled effect wore off!
+{1}의 비축하기 효과가 없어졌다!
+But it failed to swallow a thing!
+그러나 삼킬 게 없어서 실패했다!
+The mirror move failed!
+따라하기가 실패했다!
+{1} turned into {2}!
+{1}(은)는 {2}(이)가 되었다!
+{1} shrouded itself with Magic Coat!
+{1}(은)는 매직코트로 둘러싸였다!
+{1} waits for a target to make a move!
+{1}(은)는 상대가 기술을 쓰길 기다리고 있다!
+{1} went back to {2}!
+{1}(은)는 {2}에게로 돌아갔다!
+{1} anchors itself!
+{1}(은)는 제자리에 딱 달라붙어 있다!
+{1} anchors itself with {2}!
+{1}(은)는 {2}(으)로 제자리에 딱 달라붙어 있다!
+{1} anchored itself with its roots!
+{1}(은)는 자기 뿌리로 딱 달라붙어 있다!
+{1} was dragged out!
+{1}(은)는 전투에 끌려나왔다!
+{1} was trapped in the vortex!
+{1}(은)는 소용돌이에 갇혔다!
+{1} was squeezed by {2}!
+{1}(은)는 {2}에게 휘감겼다!
+{1} clamped {2}!
+{1}(은)는 {2}에게 끼워졌다!
+{1} was trapped in the fiery vortex!
+{1}(은)는 불꽃의 소용돌이에 갇혔다!
+{1} has been afflicted with an infestation by {2}!
+{1}(은)는 {2}의 엉겨붙기에 엉겨붙었다!
+{1} became trapped by Magma Storm!
+{1}(은)는 마그마스톰에 갇혔다!
+{1} became trapped by Sand Tomb!
+{1}(은)는 모래지옥에 갇혔다!
+{1} became trapped in the vortex!
+{1}(은)는 소용돌이에 갇혔다!
+{1} was wrapped by {2}!
+{1}(은)는 {2}에게 김밥말이당했다!
+{1} can no longer escape!
+{1}(은)는 더 이상 도망칠 수 없다!
+{1} can no longer escape because of {2}!
+{2} 때문에 {1}(은)는 도망칠 수 없다!
+Neither Pokémon can run away!
+양쪽 포켓몬 모두 도망칠 수 없다!
+No one will be able to run away during the next turn!
+누구라도 다음 턴까지 도망치는 건 불가능하다!
+{1} set a shell trap!
+{1}(은)는 셸트랩을 설치했다!
+{1}'s shell trap didn't work!
+{1}의 셸트랩은 작동하지 않았다!
+{1} took the kind offer!
+{1}(은)는 당신먼저의 제안을 받아들였다!
+{1}'s move was postponed!
+{1}의 기술이 미루어졌다!
+{1} reverted the dimensions!
+{1}(은)는 시공을 원래대로 돌렸다!
+{1} twisted the dimensions!
+{1}(은)는 시공을 뒤틀었다!
+It reduced the PP of {1}'s {2} by {3}!
+{1}의 {2}의 PP를 {3} 깎았다!
+{1}'s {2} was disabled!
+{1}의 {2}(은)는 사슬묶기당했다!
+{1} was subjected to torment!
+{1}(은)는 트집잡혔다!
+{1} received an encore!
+{1}(은)는 앙코르를 받았다!
+But it failed because of {1}'s {2}!
+하지만 {1}의 {2} 때문에 실패했다!
+{1} fell for the taunt!
+{1}(은)는 도발에 걸렸다!
+{1} was prevented from healing!
+{1}(은)는 회복봉인 당했다!
+The effects of {1} prevent {2} from using certain moves!
+{1}의 효과가 {2}(이)가 특정 기술을 쓰지 못하게 한다!
+{1} sealed any moves its target shares with it!
+{1}(은)는 아무도 자기가 아는 기술을 쓰지 못하도록 봉인했다!
+What will<<n>>{1} do?
+{1}(은)는<<n>>무엇을 할까?
+Fight
+싸운다
+Bag
+가방
+Pokémon
+포켓몬
+Call
+부르기
+Run
+도망친다
+Choose a Pokémon.
+포켓몬을 선택하십시오.
+Send which Pokémon to Boxes?
+어떤 포켓몬을 박스로 보냅니까?
+Switch In
+데려온다
+Send to Boxes
+박스로 보낸다
+Summary
+상태를 본다
+Do what with {1}?
+{1}(으)로 무엇을 합니까?
+Use
+사용
+{1} is selected.
+{1} 선택됨.
+Use on which Pokémon?
+어느 포켓몬에게 사용합니까?
+Restore which move?
+어느 기술을 회복합니까?
+Max. HP<r>+{1}<<n>>Attack<r>+{2}<<n>>Defense<r>+{3}<<n>>Sp. Atk<r>+{4}<<n>>Sp. Def<r>+{5}<<n>>Speed<r>+{6}
+HP<r>+{1}<<n>>공격<r>+{2}<<n>>방어<r>+{3}<<n>>특공<r>+{4}<<n>>특방<r>+{5}<<n>>스피드<r>+{6}
+Max. HP<r>{1}<<n>>Attack<r>{2}<<n>>Defense<r>{3}<<n>>Sp. Atk<r>{4}<<n>>Sp. Def<r>{5}<<n>>Speed<r>{6}
+HP<r>{1}<<n>>공격<r>{2}<<n>>방어<r>{3}<<n>>특공<r>{4}<<n>>특방<r>{5}<<n>>스피드<r>{6}
+Graphics/UI/Battle/cursor_command
+Graphics/UI/Battle/cursor_command
+Graphics/UI/Battle/cursor_fight
+Graphics/UI/Battle/cursor_fight
+Graphics/UI/types
+Graphics/UI/types
+Graphics/UI/Battle/cursor_mega
+Graphics/UI/Battle/cursor_mega
+Graphics/UI/Battle/cursor_shift
+Graphics/UI/Battle/cursor_shift
+PP: ---<br>TYPE/{1}
+PP: ---<br>TYPE/{1}
+PP: {1: 2d}/{2: 2d}<br>TYPE/{3:s}
+PP: {1: 2d}/{2: 2d}<br>TYPE/{3:s}
+PP: {1}/{2}
+PP: {1}/{2}
+Graphics/UI/Battle/databox_normal
+Graphics/UI/Battle/databox_normal
+Graphics/UI/Battle/databox_normal_foe
+Graphics/UI/Battle/databox_normal_foe
+Graphics/UI/Battle/databox_thin
+Graphics/UI/Battle/databox_thin
+Graphics/UI/Battle/databox_thin_foe
+Graphics/UI/Battle/databox_thin_foe
+Graphics/UI/Battle/overlay_lv
+Graphics/UI/Battle/overlay_lv
+♂
+♂
+♀
+♀
+Graphics/UI/Battle/icon_statuses
+Graphics/UI/Battle/icon_statuses
+{1}'s
+{1}의
+Can't catch any more...
+더는 잡을 수 없다...
+Would you like to give a nickname to {1}?
+{1}에게 닉네임을 붙이겠습니까?
+{1}'s nickname?
+{1}의 닉네임은?
+Add to your party
+지닌 포켓몬에 넣는다
+Send to a Box
+박스로 보낸다
+See {1}'s summary
+{1}의 상태를 본다
+Check party
+지닌 포켓몬을 확인한다
+Where do you want to send {1} to?
+{1}(을)를 어디로 보내겠습니까?
+Choose a Pokémon in your party to send to your Boxes.
+지닌 포켓몬 중에서 박스로 보낼 포켓몬을 선택하세요.
+{1} has been sent to Box "{2}".
+{1}(을)를 박스 "{2}"(으)로 보냈습니다.
+{1} has been added to your party.
+{1}(을)를 지닌 포켓몬에 넣었습니다.
+{1} has been sent to Box "{2}"!
+{1}(을)를 박스 "{2}"(으)로 보냈습니다!
+{1}'s data was added to the Pokédex.
+{1}의 데이터가 포켓몬도감에 등록됩니다.
+{1} threw an {2}!
+{1}(은)는 {2}(을)를 던졌다!
+{1} threw a {2}!
+{1}(은)는 {2}(을)를 던졌다!
+The Trainer blocked your Poké Ball! Don't be a thief!
+남의 것에 손 대면 도둑!
+Oh no! The Pokémon broke free!
+이런! 포켓몬이 볼에서 튀어나왔다!
+Aww! It appeared to be caught!
+아아! 잡은 줄 알았는데!
+Aargh! Almost had it!
+아쉽다! 조금만 더하면 잡을 수 있었는데!
+Gah! It was so close, too!
+아깝다! 조금만 더하면 됐는데!
+Gotcha! {1} was caught!
+신난다! {1}(을)를 잡았다!
+But {1} couldn't sleep!
+그러나 {1}(은)는 잠들 수 없다!
+{1}'s team was disqualified!
+{1}의 팀은 실격패했다!
+{1}'s {2} poisoned {3}!
+{1}의 {2} 때문에 {3}(은)는 독에 걸렸다!
+{1}'s {2} burned {3}!
+{1}의 {2} 때문에 {3}(은)는 화상에 걸렸다!
+{1}'s {2} paralyzed {3}! It may be unable to move!
+{1}의 {2} 때문에 {3}(은)는 마비에 걸렸다!
+{1}'s {2} cured its poisoning!
+{1}의 {2} 덕분에 독이 나았다!
+{1}'s {2} woke it up!
+{1}의 {2} 덕분에 잠이 깼다!
+{1}'s {2} cured its paralysis!
+{1}의 {2} 덕분에 마비가 풀렸다!
+{1}'s {2} defrosted it!
+{1}의 {2} 덕분에 얼음이 녹았다!
+{1} got over its infatuation.
+{1}(은)는 헤롱헤롱이 풀렸다.
+{1}'s {2} cured its infatuation status!
+{1}의 {2} 덕분에 헤롱헤롱이 풀렸다!
+{1}'s Taunt wore off!
+{1}의 도발 효과가 사라졌다!
+{1}'s {2} made its taunt wear off!
+{1}의 {2} 덕분에 도발 효과가 사라졌다!
+{1}'s {2} snapped it out of its confusion!
+{1}의 {2} 덕분에 혼란에서 벗어났다!
+{1}'s {2} healed its burn!
+{1}의 {2} 덕분에 화상이 나았다!
+{1}'s stats cannot be lowered!
+{1}의 능력치는 떨어트릴 수 없다!
+{1}'s {2} prevents stat loss!
+{1}의 {2} 때문에 능력치가 떨어지지 않는다!
+{1}'s {2} prevents {3}'s stat loss!
+{1}의 {2} 때문에 {3}의 능력치가 떨어지지 않는다!
+{1} made {2} move faster!
+{1} 때문에 {2}의 행동이 빨라졌다!
+The power of {1}'s Fire-type moves rose!
+{1}의 불꽃 기술 위력이 올랐다!
+The power of {1}'s Fire-type moves rose because of its {2}!
+{1}의 불꽃 기술의 위력이 {2} 때문에 올랐다!
+{1}'s {2} blocks {3}!
+{1}의 {2}에 {3}(이)가 막혔다!
+{1} avoids attacks by its ally Pokémon!
+{1}(은)는 아군 포켓몬의 공격을 피했다!
+{1} avoids attacks by its ally Pokémon with {2}!
+{1}(은)는 {2}(으)로 아군 포켓몬의 공격을 피했다!
+{1} avoided damage with {2}!
+{1}의 {2} 때문에 데미지가 없다!
+{1} was caught in the aftermath!
+{1}(은)는 유폭에 휘말렸다!
+{1} maxed its {2}!
+{1}의 {2}이 끝까지 차올랐다!
+{1}'s {2} maxed its {3}!
+{1}의 {2} 때문에 {3}이 끝까지 차올랐다!
+{1}'s {2} was disabled by {3}'s {4}!
+{3}의 {4}로 인해 {1}의 {2}(이)가 사슬묶기 당했다!
+{1}'s {2} made {3} fall in love!
+{1}의 {2} 때문에 {3}(은)는 헤롱헤롱해졌다!
+{1}'s {2} made {3} fall asleep!
+{1}의 {2} 때문에 {3}(은)는 잠들어버렸다!
+{1}'s illusion wore off!
+{1}의 일루전이 풀렸다!
+{1} is hurt!
+{1}(은)는 데미지를 입었다!
+{1} is hurt by {2}'s {3}!
+{2}의 {3} 때문에 {1}(은)는 데미지를 입었다!
+{1}'s Ability became {2}!
+{1}의 특성이 {2}(이)가 됐다!
+{1}'s Ability became {2} because of {3}!
+{1}의 특성이 {3} 때문에 {2}(이)가 됐다!
+Both Pokémon will faint in three turns!
+양쪽 포켓몬은 3턴 뒤에 쓰러진다!
+Both Pokémon will faint in three turns because of {1}'s {2}!
+{1}의 {2} 때문에 양쪽 포켓몬은 3턴 뒤에 쓰러진다!
+{1} swapped Abilities with {2}!
+{1}(은)는 {2}(과)와 특성을 맞바꾸었다!
+{1} swapped its {2} Ability with {3}'s {4} Ability!
+{1}(은)는 자신의 {2} 특성을 {3}의 {4} 특성과 맞바꾸었다!
+{1}'s item cannot be stolen!
+{1}의 도구는 빼앗을 수 없다!
+{1} stole {2}'s {3} with {4}!
+{1}(은)는 {2}(으)로 {2}의 {3}(을)를 훔쳤다!
+{1}'s type changed to {2} because of its {3}!
+{1}의 타입은 {3} 때문에 {2}(으)로 바뀌었다!
+{1} pickpocketed {2}'s {3}!
+{1}(은)는 {2}의 {3}(을)를 슬쩍했다!
+{1} was hurt by the sunlight!
+{1}(은)는 강한 햇살에 피해를 입었다!
+{1}'s {2} woke its partner up!
+{1}의 {2}(으)로 동료를 깨웠다!
+{1}'s {2} cured its partner's poison!
+{1}의 {2}(으)로 동료의 독을 낫게 했다!
+{1}'s {2} healed its partner's burn!
+{1}의 {2}(으)로 동료의 화상을 치유했다!
+{1}'s {2} cured its partner's paralysis!
+{1}의 {2}(으)로 동료의 몸저림을 풀었다!
+{1}'s {2} defrosted its partner!
+{1}의 {2}(으)로 동료의 얼음을 녹였다!
+{1}'s {2} cured its poison!
+{1}의 {2}(이)가 스스로 독을 치유했다!
+{1} is tormented!
+{1}(은)는 고통받고 있다!
+{1} is tormented by {2}'s {3}!
+{2}의 {3} 때문에 {1}(은)는 고통받고 있다!
+{1} retrieved the thrown {2}!
+{1}(은)는 던져진 {2}(을)를 물어왔다!
+{1} harvested one {2}!
+{1}(은)는 {2}(을)를 수확했다!
+{1} found one {2}!
+{1}(은)는 어디선가 {2}(을)를 주워왔다!
+{1} has {2}!
+{1}의 {2}!
+The effects of the weather disappeared.
+날씨의 영향이 없어졌다.
+{1} shuddered with anticipation!
+{1}(은)는 위험예지로 몸을 떨었다!
+{1} has two Abilities!
+{1}(은)는 두 가지 특성을 겸비한다!
+{1} is too nervous to eat Berries!
+{1}(은)는 긴장해서 나무열매를 먹을 수 없다!
+{1} reversed all other Pokémon's auras!
+{1}(은)는 다른 포켓몬의 오라를 역전시켰다!
+{1} is drowsing!
+{1}(은)는 비몽사몽하다!
+{1}'s stat changes were removed by {2}'s {3}!
+{1}의 능력 변화가 {2}의 {3} 때문에 사라졌다!
+{1} is radiating a dark aura!
+{1}(은)는 다크 오라를 내뿜고 있다!
+{1} is radiating a fairy aura!
+{1}(은)는 페어리오라를 내뿜고 있다!
+{1} was alerted to {2}!
+{1}(은)는 {2}(을)를 간파했다!
+{1}'s Forewarn alerted it to {2}!
+{1}의 예지몽 때문에 {2}(을)를 간파했다!
+{1} frisked {2} and found its {3}!
+{1}(은)는 {2}의 {3}(을)를 통찰했다!
+{1} frisked the foe and found one {2}!
+{1}(은)는 적의 {2}(을)를 통찰했다!
+{1} breaks the mold!
+{1}의 기술에 특성은 소용없다!
+Neutralizing gas filled the area!
+화학변화가스가 공간을 가득 메웠다!
+{1}'s {2} cured {3}'s poisoning!
+{1}의 {2}(으)로 {3}의 독이 나았다!
+{1} is exerting its pressure!
+{1}(은)는 프레셔를 내뿜고 있다!
+{1} can't get it going!
+{1}(은)는 컨디션이 좋아지지 않는다!
+{1} can't get it going because of its {2}!
+{1}(은)는 {2} 때문에 컨디션이 좋아지지 않는다!
+{1} is radiating a bursting aura!
+{1}(은)는 세차게 튀는 오라를 발산하고 있다!
+{1} is radiating a blazing aura!
+{1}(은)는 활활 타오르는 오라를 발산하고 있다!
+{1}'s {2} was taken over!
+{1}의 {2} 특성을 이어받았다!
+{1} changed back to its regular type!
+{1}(은)는 자신의 원래 타입으로 돌아왔다!
+For {1}, the {2} was too bitter!
+{1}에게 {2}(은)는 너무 쓰다!
+For {1}, the {2} was too spicy!
+{1}에게 {2}(은)는 너무 맵다!
+For {1}, the {2} was too sour!
+{1}에게 {2}(은)는 너무 시다!
+{1} got pumped from the {2}!
+{2}(으)로 {1}(은)는 의욕이 넘친다!
+{1} used its {2} to get pumped!
+{2}를 사용하여 {1}(은)는 의욕이 넘친다!
+For {1}, the {2} was too sweet!
+{1}에게 {2}(은)는 너무 달다!
+{1} boosted the accuracy of its next move!
+{1}의 다음 기술이 더 잘 맞게 되었다!
+{1} boosted the accuracy of its next move using its {2}!
+{2}(으)로 인해 {1}의 다음 기술이 더 잘 맞게 되었다!
+{1} restored a little HP using its {2}!
+{1}(은)는 {2}(으)로 조금 회복했다.
+For {1}, the {2} was too dry!
+{1}에게 {2}(은)는 너무 떫다!
+{1} is switched out by the {2}!
+{1}(은)는 {2}(으)로 돌아간다!
+{1} cured its infatuation status using its {2}!
+{1}(은)는 {2}을 써서 헤롱헤롱 상태를 해제했다!
+{1}'s torment wore off!
+{1}의 트집 효과가 끝났다!
+{1}'s {2} let it move first!
+{1}의 {2} 때문에 행동이 빨라졌다!
+The {1} was used up...
+{1}(은)는 역할을 다하고 사라졌다...
+{1}'s {2} popped!
+{1}의 {2}이 터졌다!
+{1} consumed its {2} and hurt {3}!
+{1}(은)는 {2}(을)를 소비하여 {3}에게 데미지를 입혔다!
+{1} was hurt by the {2}!
+{1}(은)는 {2}에 데미지를 입었다!
+{1}'s {2} was transferred to {3}!
+{1}의 {2}(은)는 {3}에게 달라붙었다!
+{1} is switched out with the {2}!
+{1}(은)는 {2}(으)로 돌아간다!
+{1} held up its {2} against {3}!
+{1}(은)는 품속의 {2}(을)를 {3}에게 꺼내들었다!
+{1} lost some of its HP!
+{1}(은)는 HP를 조금 잃었다!
+{1} restored its {2}'s PP.
+{1}(은)는 {2}의 PP를 회복했다.
+{1}'s {2} restored its {3}'s PP!
+{1}의 {2}(으)로 {3}의 PP를 회복했다!
+{1}'s status returned to normal!
+{1}의 능력 변화가 원래대로 돌아왔다!
+{1} returned its status to normal using its {2}!
+{1}의 능력 변화가 {2}(으)로 원래대로 돌아왔다!
+{1} is hurt by its {2}!
+{1}(은)는 {2} 때문에 데미지를 입었다!
+{1} was burned by the {2}!
+{1}(은)는 {2}의 열기 때문에 화상을 입었다!
+{1} was badly poisoned by the {2}!
+{1}(은)는 {2}에서 배어나온 맹독에 중독됐다!
+{1} floats in the air with its {2}!
+{1}(은)는 {2} 때문에 공중에 떠 있다!
+Graphics/UI/Battle/databox_safari
+Graphics/UI/Battle/databox_safari
+Safari Balls
+사파리볼
+Left: {1}
+남은 수: {1}
+What will<<n>>{1} throw?
+{1}(은)는<<n>>무엇을 던질까?
+Ball
+사파리볼
+Bait
+먹이
+Wild {1} appeared!
+야생의 {1}(이)가 나타났다!
+The boxes are full! You can't catch any more Pokémon!
+박스가 가득 찼습니다! 더 이상 포켓몬을 잡을 수 없습니다!
+{1} threw some bait at the {2}!
+{1}(은)는 {2}에게 먹이를 조금 던졌다!
+{1} threw a rock at the {2}!
+{1} (은)는 (2)에게 돌을 던졌다!
+PA: You have no Safari Balls left! Game over!
+관리자: 사파리볼을 다 썼네요! 게임 끝!
+{1} fled!
+{1}(은)는 도망쳤다!
+{1} is eating!
+{1}(은)는 먹고 있다!
+{1} is angry!
+{1} (은)는 화를 낸다!
+{1} is watching carefully!
+{1}(은)는 상황을 살피고 있다!
+Sport Balls: {1}
+콤페볼: {1}
+You already caught a {1}.
+이미 {1}(을)를 잡았습니다.
+Stock Pokémon:<<n>>{1} Lv.{2} Max HP: {3}<<n>>This Pokémon:<<n>>{4} Lv.{5} Max HP: {6}
+아까의 포켓몬:<<n>>{1} Lv.{2} Max HP: {3}<<n>>이번의 포켓몬:<<n>>{4} Lv.{5} Max HP: {6}
+Switch Pokémon?
+포켓몬을 바꿀까요?
+Caught {1}!
+{1}(을)를 잡았다!
+{1} is eager for more!
+{1} is eager for more!
+{1} began growling deeply!
+{1} began growling deeply!
+A glint appears in {1}'s eyes!
+A glint appears in {1}'s eyes!
+{1} is getting into position!
+{1} is getting into position!
+{1} tied the opponent {2} in a referee's decision!
+{1} tied the opponent {2} in a referee's decision!
+{1} defeated the opponent {2} in a referee's decision!
+{1} defeated the opponent {2} in a referee's decision!
+{1} lost to the opponent {2} in a referee's decision!
+{1} lost to the opponent {2} in a referee's decision!
+VS
+VS
+Mind
+Mind
+Skill
+Skill
+Body
+Body
+Judgment
+Judgment
+REFEREE: {1} VS {2}!<<n>>Commence battling!
+REFEREE: {1} VS {2}!<<n>>Commence battling!
+REFEREE: That's it! We will now go to judging to determine the winner!
+REFEREE: That's it! We will now go to judging to determine the winner!
+REFEREE: Judging category 1, Mind!<<n>>The Pokémon showing the most guts!
+REFEREE: Judging category 1, Mind!<<n>>The Pokémon showing the most guts!
+REFEREE: Judging category 2, Skill!<<n>>The Pokémon using moves the best!
+REFEREE: Judging category 2, Skill!<<n>>The Pokémon using moves the best!
+REFEREE: Judging category 3, Body!<<n>>The Pokémon with the most vitality!
+REFEREE: Judging category 3, Body!<<n>>The Pokémon with the most vitality!
+REFEREE: Judgment: {1} to {2}!<<n>>We have a draw!
+REFEREE: Judgment: {1} to {2}!<<n>>We have a draw!
+REFEREE: Judgment: {1} to {2}!<<n>>The winner is {3}'s {4}!
+REFEREE: Judgment: {1} to {2}!<<n>>The winner is {3}'s {4}!
+REFEREE: Judgment: {1} to {2}!<<n>>The winner is {3}!
+REFEREE: Judgment: {1} to {2}!<<n>>The winner is {3}!
+The game has detected that the battery is low. You should save soon to avoid losing your progress.
+게임이 배터리 부족을 감지하였습니다. 진행 상황을 잃지 않으려면 저장하여야 합니다.
+{1} survived the poisoning.\<<n>>The poison faded away!
+{1}(은)는 독을 견뎌냈다.\<<n>>독이 말끔히 사라졌다!
+{1} fainted...
+{1}(은)는 독을 버티지 못하고 기절했다...
+You found \c[1]{1}\c[0]!
+\c[1]{1}\c[0](을)를 발견했다!
+You found {1} \c[1]{2} {3}\c[0]!
+\c[1]{2} {3}\c[0](을)를 {1}개 발견했다!
+You found \c[1]{1} {2}\c[0]!
+\c[1]{1} {2}\c[0](을)를 발견했다!
+You found {1} \c[1]{2}\c[0]!
+\c[1]{2}\c[0](을)를 {1}개 발견했다!
+You found an \c[1]{1}\c[0]!
+\c[1]{1}\c[0](을)를 발견했다!
+You found a \c[1]{1}\c[0]!
+\c[1]{1}\c[0](을)를 발견했다!
+You put the {1} in\<<n>>your Bag's <icon=bagPocket{2}>\c<<[>>1<<]>>{3}\c<<[>>0<<]>> pocket.
+{1}(을)를 가방의<<n>><icon=bagPocket{2}>\c<<[>>1<<]>>{3}\c<<[>>0<<]>> 포켓에 넣었다.
+But your Bag is full...
+그러나 가방이 가득 찼다...
+You obtained \c[1]{1}\c[0]!
+\c[1]{1}\c[0](을)를 받았다!
+You obtained {1} \c[1]{2} {3}\c[0]!
+\c[1]{2} {3}\c[0](을)를 {1}개 받았다!
+You obtained \c[1]{1} {2}\c[0]!
+\c[1]{1} {2}\c[0](을)를 받았다!
+You obtained {1} \c[1]{2}\c[0]!
+\c[1]{2}\c[0](을)를 {1}개 받았다!
+You obtained an \c[1]{1}\c[0]!
+\c[1]{1}\c[0](을)를 받았다!
+You obtained a \c[1]{1}\c[0]!
+\c[1]{1}\c[0](을)를 받았다!
+Sunday
+일요일
+Monday
+월요일
+Tuesday
+화요일
+Wednesday
+수요일
+Thursday
+목요일
+Friday
+금요일
+Saturday
+토요일
+January
+1월
+February
+2월
+March
+3월
+April
+4월
+May
+5월
+June
+6월
+July
+7월
+August
+8월
+September
+9월
+October
+10월
+November
+11월
+December
+12월
+Jan.
+1월
+Feb.
+2월
+Mar.
+3월
+Apr.
+4월
+Jun.
+6월
+Jul.
+7월
+Aug.
+8월
+Sep.
+9월
+Oct.
+10월
+Nov.
+11월
+Dec.
+12월
+Spring
+봄
+Summer
+여름
+Autumn
+가을
+Winter
+겨울
+Sorry, a new Badge is required.
+유감이지만 새 뱃지가 필요합니다.
+This tree looks like it can be cut down.
+이 나무는 자를 수 있을 것 같다.
+This tree looks like it can be cut down!<<n>>Would you like to cut it?
+이 나무는 자를 수 있을 것 같다!<<n>>풀베기를 사용할까?
+You can't use that here.
+여기서는 쓸 수 없다.
+It can't be used when you have someone with you.
+누군가와 함께 있을 때는 쓸 수 없다.
+Want to escape from here and return to {1}?
+여기서 탈출해서 {1}(으)로 돌아갈까?
+The sea is deep here. A Pokémon may be able to go underwater.
+깊은 바다다. 포켓몬은 해저로 갈 수 있지 않을까?
+The sea is deep here. Would you like to use Dive?
+깊은 바다다. 다이빙을 사용할까?
+Light is filtering down from above. A Pokémon may be able to surface here.
+위에서 빛이 흐릿하게 들어온다. 포켓몬은 여기서 수면으로 갈 수 있지 않을까?
+Light is filtering down from above. Would you like to use Dive?
+위에서 빛이 흐릿하게 들어온다. 다이빙을 사용할까?
+Flash is already being used.
+플래시는 이미 사용하고 있다.
+Nope. Nothing...
+아무것도 없네...
+A Pokémon could be in this tree. Maybe a Pokémon could shake it.
+나무에 포켓몬이 있을 것 같다. 아마 포켓몬이라면 흔들 수 있을지도?
+A Pokémon could be in this tree. Would you like to use Headbutt?
+나무에 포켓몬이 있을 것 같다. 박치기를 사용할까?
+It's a rugged rock, but a Pokémon may be able to smash it.
+금이 간 바위지만, 포켓몬이라면 부술 수 있을지도?
+This rock seems breakable with a hidden move.<<n>>Would you like to use Rock Smash?
+이 바위는 비전머신으로 부술 수 있어보인다.<<n>>바위깨기를 사용할까?
+Strength made it possible to move boulders around.
+괴력을 써서 바위를 움직일 수 있게 됐다.
+It's a big boulder, but a Pokémon may be able to push it aside.
+커다란 바위지만, 포켓몬은 밀 수 있을 것 같다.
+It's a big boulder, but you may be able to push it aside with a hidden move.
+커다란 바위지만, 비전머신을 쓰면 밀 수 있을 것 같다.
+Would you like to use Strength?
+괴력을 쓸까?
+Strength made it possible to move boulders around!
+괴력을 써서 커다란 바위를 움직일 수 있게 됐다!
+Strength is already being used.
+괴력은 이미 사용하고 있다.
+The water is a deep blue color... Would you like to use Surf on it?
+수면은 조용히 흔들리고 있다... 파도타기를 사용할까?
+You're already surfing.
+이미 파도타기를 사용하고 있다.
+Let's enjoy cycling!
+지금은 계속 자전거나 타자!
+No surfing here!
+여기선 파도타기를 쓸 수 없다!
+The sweet scent faded for some reason...
+달콤한향기가 무슨 이유에선지 사라졌다...
+There appears to be nothing here...
+여기선 아무것도 나타나지 않는다...
+Want to return to the healing spot used last in {1}?
+{1}에서의 마지막 회복 지점으로 돌아갈까?
+A wall of water is crashing down with a mighty roar.
+물의 벽이 사납게 울부짖으며 새하얀 물보라를 일으키고 있다.
+It's a large waterfall. Would you like to use Waterfall?
+큰 폭포다! 폭포오르기를 사용할까?
+Not even a nibble...
+잡히지 않네...
+Oh! A bite!
+입질이 왔다!
+The Pokémon got away...
+포켓몬은 떠나갔다...
+Landed a Pokémon!
+포켓몬을 낚았다!
+An {1} was planted here.
+{1}(이)가 여기 심어져 있다.
+A {1} was planted here.
+{1}(이)가 여기 심어져 있다.
+The {1} has sprouted.
+{1}에 싹이 났다.
+The {1} plant is growing bigger.
+{1}의 줄기가 크게 자랐다.
+This {1} plant is in bloom!
+{1}의 줄기에 꽃이 피었다!
+This {1} plant is in fabulous bloom!
+{1}의 줄기에 몹시 화려한 꽃이 피었다!
+This {1} plant is blooming very beautifully!
+{1}의 줄기에 아름다운 꽃이 피었다!
+This {1} plant is blooming prettily!
+{1}의 줄기에 예쁜 꽃이 피었다!
+This {1} plant is blooming cutely!
+{1}의 줄기에 앙증맞은 꽃이 피었다!
+Want to sprinkle some water with the {1}?
+{1}에 물을 좀 줄까?
+{1} watered the plant.
+{1}(은)는 식물에 물을 줬다.
+There! All happy!
+무럭무럭 자라렴!
+The plant seemed to be delighted.
+물을 주니 기뻐보인다!
+{1} has been laid down.
+{1}(이)가 뿌려져 있다.
+It's soft, earthy soil.
+부드러운 흙이다.
+Fertilize
+비료를 뿌린다
+Plant Berry
+열매를 심는다
+Exit
+그만둔다
+The {1} was scattered on the soil.
+{1}(을)를 흙에 골고루 뿌렸다.
+That won't fertilize the soil!
+그건 비료가 아니다!
+It's soft, loamy soil. Want to plant a berry?
+부드럽고 비옥한 흙이다. 나무열매를 심을까?
+Want to plant a Berry?
+나무열매를 심을까?
+The {1} was planted in the soft, earthy soil.
+{1}(을)를 부드러운 흙에 심었다.
+{1} planted an {2} in the soft loamy soil.
+{1}(은)는 {2}(을)를 부드럽고 비옥한 흙에 심었다.
+{1} planted a {2} in the soft loamy soil.
+{1}(은)는 {2}(을)를 부드럽고 비옥한 흙에 심었다.
+There are {1} \c<<[>>1<<]>>{2}\c<<[>>0<<]>>!<<n>>Want to pick them?
+\c<<[>>1<<]>>{2}\c<<[>>0<<]>>(이)가 {1}개 열렸다!<<n>>수확할까?
+There is 1 \c<<[>>1<<]>>{1}\c<<[>>0<<]>>!<<n>>Want to pick it?
+\c<<[>>1<<]>>{1}\c<<[>>0<<]>>(이)가 1개 열렸다!<<n>>수확할까?
+Too bad...<<n>>The Bag is full...
+이런...<<n>>가방이 가득 찼다...
+You picked the {1} \c[1]{2}\c[0].
+\c[1]{2}\c[0](을)를 {1}개 수확했다.
+You picked the \c[1]{1}\c[0].
+\c[1]{1}\c[0](을)를 1개 수확했다.
+The soil returned to its soft and earthy state.
+부드러운 흙으로 되돌아갔다.
+The soil returned to its soft and loamy state.
+부드럽고 비옥한 흙으로 되돌아갔다.
+Egg
+알
+Day-Care Couple
+키우미집부부
+{1} (♂, Lv.{2})
+{1} (♂, Lv.{2})
+{1} (♀, Lv.{2})
+{1} (♀, Lv.{2})
+{1} (Lv.{2})
+{1} (Lv.{2})
+No Pokémon at index {1} in party.
+No Pokémon at index {1} in party.
+No room to deposit a Pokémon.
+No room to deposit a Pokémon.
+No Pokémon found in slot {1}.
+No Pokémon found in slot {1}.
+No room in party for Pokémon.
+No room in party for Pokémon.
+No Pokémon found in Day Care to choose from.
+No Pokémon found in Day Care to choose from.
+CANCEL
+취소
+Couldn't generate the egg.
+Couldn't generate the egg.
+No room in party for egg.
+No room in party for egg.
+Couldn't find 2 deposited Pokémon.
+Couldn't find 2 deposited Pokémon.
+Couldn't place all events and the player in rooms.
+Couldn't place all events and the player in rooms.
+After the unfortunate defeat, you scurry back to a Pokémon Center.
+불운히 패배한 후, 포켓몬센터로 서둘러 돌아갔다.
+You scurry back to a Pokémon Center, protecting your exhausted Pokémon from any further harm...
+지친 포켓몬들을 다치지 않게 보호하면서 어떻게든 포켓몬센터로 서둘러 돌아갔다...
+Can't find the map 'Map{1:03d}' in the Data folder. The game will resume at the player's position.
+데이터 폴더에서 'Map{1:03d}' 맵을 찾을 수 없습니다. 플레이어 위치에서 게임을 다시 시작합니다.
+After the unfortunate defeat, you scurry back home.
+불운히 패배한 후, 집으로 서둘러 돌아갔다.
+You scurry back home, protecting your exhausted Pokémon from any further harm...
+지친 포켓몬들을 다치지 않게 보호하면서 어떻게든 집으로 서둘러 돌아갔다...
+Battle rule "{1}" does not exist.
+Battle rule "{1}" does not exist.
+Argument {1} expected a variable after it but didn't have one.
+Argument {1} expected a variable after it but didn't have one.
+SKIPPING BATTLE...
+SKIPPING BATTLE...
+AFTER WINNING...
+AFTER WINNING...
+Species {1} was given but not a level.
+Species {1} was given but not a level.
+Expected a level (1..{1}) but {2} is not a number or not a valid level.
+Expected a level (1..{1}) but {2} is not a number or not a valid level.
+Species {1} does not exist.
+Species {1} does not exist.
+Trainer type {1} was given but not a trainer name.
+Trainer type {1} was given but not a trainer name.
+Trainer for data '{1}' is not defined.
+Trainer for data '{1}' is not defined.
+Expected a trainer version number (0 or higher) but {1} is not a number or not a valid value.
+Expected a trainer version number (0 or higher) but {1} is not a number or not a valid value.
+Trainer for data '{1}, {2}, {3}' is not defined.
+Trainer for data '{1}, {2}, {3}' is not defined.
+Expected a trainer name but '{1}' is not a valid name.
+Expected a trainer name but '{1}' is not a valid name.
+Trainer for data '{1}, {2}' is not defined.
+Trainer for data '{1}, {2}' is not defined.
+Trainer type {1} does not exist.
+Trainer type {1} does not exist.
+Encounter type {1} does not exist
+Encounter type {1} does not exist
+{1}'s level remained unchanged.
+{1}의 레벨은 변하지 않은 채로 남았다.
+{1} dropped to Lv. {2}!
+{1}(은)는 Lv. {2}(으)로 떨어졌다!
+{1}'s Exp. Points remained unchanged.
+{1}의 경험치는 변하지 않은 채로 남았다.
+{1} lost {2} Exp. Points!
+{1}(은)는 {2} 경험치를 잃었다!
+{1} gained {2} Exp. Points!
+{1}(은)는 {2} 경험치를 얻었다!
+{1}'s HP was restored by {2} points.
+{1}의 HP가 {2} 만큼 회복됐다.
+{1}'s {2} increased.
+{1}의 {2}(이)가 올랐다.
+It might affect {1}'s stats. Are you sure you want to use it?
+이것은 {1}의 능력치에 영향을 줄 것입니다. 정말로 쓰겠습니까?
+{1}'s stats may have changed due to the effects of the {2}!
+{1}의 능력치는 {2}의 효과대로 바뀌었다!
+Can't use that here.
+여기서는 쓸 수 없다.
+You can't dismount your Bike here.
+여기서는 자전거에서 내릴 수 없다.
+Eggs can't be taught any moves.
+알은 아무 기술도 배울 수 없다.
+Shadow Pokémon can't be taught any moves.
+Shadow Pokémon can't be taught any moves.
+{1} already knows {2}.
+{1}(은)는 {2}(을)를 이미 알고 있다.
+1, 2, and...\wt[16] ...\wt[16] ...\wt[16] Ta-da!
+1, 2, ...\wt[16] ...\wt[16] ...\wt[16] 짠!
+{1} forgot how to use {2}.\<<n>>And...
+{1}(은)는 {2}(을)를 잊었다.\<<n>>그리고...
+There is no Pokémon.
+포켓몬이 없다.
+ABLE
+가능
+NOT ABLE
+불가
+How many {1} do you want to use?
+{1}(을)를 얼마나 많이 쓸까?
+You used your last {1}.
+마지막 {1}(을)를 사용했다.
+{1} can't learn {2}.
+{1}(은)는 {2}(을)를 배울 수 없다.
+You booted up the {1}.
+{1}(을)를 켰다.
+Do you want to teach {1} to {2}?
+{2}에게 {1}(을)를 배우게 할까?
+You used an {1}.
+{1}(을)를 사용했다.
+You used a {1}.
+{1}(을)를 사용했다.
+Eggs can't hold items.
+알은 도구를 지닐 수 없다.
+{1}'s mail must be removed before giving it an item.
+{1}에게 도구를 주려면 지닌 메일을 제거해야 한다.
+{1} is already holding an {2}.
+{1}(은)는 이미 {2}를 지니고 있다.
+{1} is already holding a {2}.
+{1}(은)는 이미 {2}를 지니고 있다.
+Would you like to switch the two items?
+두 도구를 서로 바꿀까?
+Couldn't re-store deleted item in Bag somehow
+Couldn't re-store deleted item in Bag somehow
+The Bag is full. The Pokémon's item could not be removed.
+가방이 꽉 찼다. 포켓몬의 도구를 제거할 수 없다.
+Took the {1} from {2} and gave it the {3}.
+{2}에게서 {1}(을)를 가져오고 {3}(을)를 주었다.
+{1} is now holding the {2}.
+{1}(은)는 이제 {2}(을)를 지니고 있다.
+{1} isn't holding anything.
+{1}(은)는 아무것도 지니고 있지 않다.
+Save the removed mail in your PC?
+제거한 메일을 PC에 저장할까?
+The mail was saved in your PC.
+PC에 메일을 저장했다.
+Your PC's Mailbox is full.
+PC의 메일함이 꽉 찼다.
+If the mail is removed, its message will be lost. OK?
+메일이 제거되면 내용도 사라진다. 괜찮을까?
+Received the {1} from {2}.
+{2}에게서 {1}(을)를 가져왔다.
+Walk
+걷기
+Turn on
+켜기
+Turn off
+끄기
+Do you want to teach {1} to a Pokémon?
+포켓몬에게 {1}(을)를 가르칠까?
+But a repellent's effect still lingers from earlier.
+그러나 전에 뿌린 스프레이의 효과가 아직 남아있다.
+The repellent's effect wore off!
+스프레이의 효과가 끝났다!
+The repellent's effect wore off! Would you like to use another one?
+스프레이의 효과가 끝났다! 하나 더 쓸까?
+Now you're more likely to encounter high-level Pokémon!
+높은 레벨의 포켓몬을 만나기 쉬워졌다!
+The likelihood of encountering Pokémon decreased!
+포켓몬을 만나기 어려워졌다!
+Now you're more likely to encounter low-level Pokémon!
+낮은 레벨의 포켓몬을 만나기 쉬워졌다!
+The likelihood of encountering Pokémon increased!
+포켓몬을 만나기 쉬워졌다!
+Using item...
+아이템 사용 중...
+... \wt[10]... \wt[10]... \wt[10]... \wt[10]Nope! There's no response.
+... \wt[10]... \wt[10]... \wt[10]... \wt[10]반응이 없다.
+The {1}'s indicating something right underfoot!
+발밑의 뭔가에 {1}의 센서가 반응한다!
+Huh? The {1}'s responding!
+{1}의 센서가 반응한다!
+There's an item buried around here!
+이 근처에 도구가 묻혀 있다!
+Coins: {1}
+코인: {1}
+The Exp Share was turned off.
+학습장치가 꺼졌다.
+The Exp Share was turned on.
+학습장치가 켜졌다.
+{1} became healthy.
+{1}(은)는 건강해졌다.
+PP was restored.
+PP가 회복됐다.
+Boost PP of which move?
+어떤 기술의 PP를 늘릴까?
+{1}'s PP increased.
+{1}의 PP가 늘어났다.
+{1} adores you! Its base HP fell!
+{1}(과)와 좀 더 친해졌다! HP의 기초포인트가 떨어졌다!
+{1} became more friendly. Its base HP can't go lower.
+{1}(과)와 좀 더 친해졌다! HP의 기초포인트는 더 떨어지지 않는다.
+{1} became more friendly. However, its base HP fell!
+{1}((과)와 이미 충분히 친하다. HP의 기초포인트가 떨어졌다!
+{1} adores you! Its base Attack fell!
+{1}(과)와 좀 더 친해졌다! 공격력의 기초포인트가 떨어졌다!
+{1} became more friendly. Its base Attack can't go lower.
+{1}(과)와 좀 더 친해졌다! 공격력의 기초포인트는 더 떨어지지 않는다.
+{1} became more friendly. However, its base Attack fell!
+{1}((과)와 이미 충분히 친하다. 공격력의 기초포인트가 떨어졌다!
+{1} adores you! Its base Defense fell!
+{1}(과)와 좀 더 친해졌다! 방어력의 기초포인트가 떨어졌다!
+{1} became more friendly. Its base Defense can't go lower.
+{1}(과)와 좀 더 친해졌다! 방어력의 기초포인트는 더 떨어지지 않는다.
+{1} became more friendly. However, its base Defense fell!
+{1}((과)와 이미 충분히 친하다. 방어력의 기초포인트가 떨어졌다!
+{1} adores you! Its base Special Attack fell!
+{1}(과)와 좀 더 친해졌다! 특수공격력의 기초포인트가 떨어졌다!
+{1} became more friendly. Its base Special Attack can't go lower.
+{1}(과)와 좀 더 친해졌다! 특수공격력의 기초포인트는 더 떨어지지 않는다.
+{1} became more friendly. However, its base Special Attack fell!
+{1}((과)와 이미 충분히 친하다. 특수공격력의 기초포인트가 떨어졌다!
+{1} adores you! Its base Special Defense fell!
+{1}(과)와 좀 더 친해졌다! 특수방어력의 기초포인트가 떨어졌다!
+{1} became more friendly. Its base Special Defense can't go lower.
+{1}(과)와 좀 더 친해졌다! 특수방어력의 기초포인트는 더 떨어지지 않는다.
+{1} became more friendly. However, its base Special Defense fell!
+{1}((과)와 이미 충분히 친하다. 특수방어력의 기초포인트가 떨어졌다!
+{1} adores you! Its base Speed fell!
+{1}(과)와 좀 더 친해졌다! 스피드의 기초포인트가 떨어졌다!
+{1} became more friendly. Its base Speed can't go lower.
+{1}(과)와 좀 더 친해졌다! 스피드의 기초포인트는 더 떨어지지 않는다.
+{1} became more friendly. However, its base Speed fell!
+{1}((과)와 이미 충분히 친하다. 스피드의 기초포인트가 떨어졌다!
+Do you want to change {1}'s Ability?
+{1}의 특성을 바꿀까?
+{1}'s Ability changed! Its Ability is now {2}!
+{1}의 특성이 바뀌었다! 이제부터 {2} 특성이다!
+It had no effect.
+써도 효과가 없었다.
+This can't be used on the fainted Pokémon.
+기절한 포켓몬에게는 쓸 수 없다.
+{1} changed Forme!
+{1}(은)는 폼체인지했다!
+{1} changed form!
+{1}(은)는 모습을 바꾸었다!
+Light bulb
+전구
+Microwave oven
+전자레인지
+Washing machine
+세탁기
+Refrigerator
+냉장고
+Electric fan
+선풍기
+Lawn mower
+잔디깎기
+Which appliance would you like to order?
+어떤 가전제품을 주문할까?
+What will you do with {1}?
+{1}에게 무엇을 할까?
+Change form
+모습을 바꾼다
+Change Ability
+특성을 바꾼다
+Fuse with which Pokémon?
+어떤 포켓몬과 합칠까?
+It cannot be fused with itself.
+자기자신과는 합칠 수 없다.
+It cannot be fused with an Egg.
+알과는 합칠 수 없다.
+It cannot be fused with that fainted Pokémon.
+기절한 포켓몬과는 합칠 수 없다.
+It cannot be fused with that Pokémon.
+그 포켓몬과는 합칠 수 없다.
+You have no room to separate the Pokémon.
+포켓몬을 분리하기엔 자리가 없다.
+Oak's words echoed... There's a time and place for everything! But not now.
+때와 장소에 따라 도구를 가리자. 도구를 도로 집어넣었다.
+There is no room left in the PC!
+PC에 남는 자리가 없다!
+You can't throw a Poké Ball!
+몬스터볼을 던질 수 없다!
+It's impossible to aim without being focused!
+집중할 대상이 없어서 조준은 불가능하다!
+It's no good! It's impossible to aim at a Pokémon that's not in sight!
+안되겠어! 보이지 않는 포켓몬을 조준할 수는 없다!
+It's no good! It's impossible to aim when there are two Pokémon!
+안되겠어! 포켓몬이 2마리일 땐 조준할 수 없다!
+It's no good! It's impossible to aim when there is more than one Pokémon!
+안되겠어! 포켓몬이 너무 많아서 조준할 수 없다!
+All Pokémon were roused by the tune!
+모든 포켓몬들이 연주를 듣고 깨어났다!
+{1} recovered from fainting!
+{1}(은)는 기력을 되찾았다!
+\me[Register phone]Registered {1} in the Pokégear!
+\me[Register phone]{1}의 전화번호를 포켓기어에 등록했다!
+There is no phone signal here...
+신호가 나갔다...
+The Trainer is close by.<<n>>Talk to the Trainer in person!
+그 트레이너는 가까이 있다.<<n>>직접 만나서 대화하자!
+The Trainer is out of range.
+그 트레이너에게 연락이 닿지 않는다.
+{1}'s messages not defined.<<n>>Couldn't call common event {2}.
+{1}의 메시지가 정의되지 않음.<<n>>공통 이벤트 {2} 호출 불가능.
+Couldn't find phone contact given: {1}.
+Couldn't find phone contact given: {1}.
+......\wt[5] ......
+......\wt[5] ......
+Click!\wt<<[>>10<<]>><<n>>......\wt<<[>>5<<]>> ......
+딸깍!\wt<<[>>10<<]>><<n>>뚜...\wt<<[>>5<<]>> ......
+Let me register you.
+전화번호 등록해줘.
+Can't use that while on a bicycle.
+자전거를 탄 채로 쓸 수 없다.
+The battery has run dry!<<n>>For it to recharge, you need to walk another {1} steps.
+배터리가 다 됐다!<<n>>충전까지 앞으로 {1} 걸음 남았다.
+The grassy patch remained quiet...
+풀밭은 고요한 그대로다...
+Pokémon already has mail
+포켓몬은 이미 메일을 가지고 있다.
+Please enter a message (max. 250 characters).
+메시지를 입력해주세요 (최대 250자).
+Stop giving the Pokémon Mail?
+포켓몬에게 메일을 주지 말까?
+Invalid pocket: {1}
+Invalid pocket: {1}
+The level number ({1}) is invalid.
+The level number ({1}) is invalid.
+Attempted to set {1} as Pokémon status
+Attempted to set {1} as Pokémon status
+Invalid value {1} given
+Invalid value {1} given
+Unknown happiness-changing method: {1}
+Unknown happiness-changing method: {1}
+Unknown heart gauge-changing method: {1}
+Unknown heart gauge-changing method: {1}
+{1} can now be purified!
+{1}(은)는 이제 정화할 수 있다!
+Rotom is trying to forget its last move, but there isn't another move to replace it with.
+로토무는 마지막 기술을 잊으려 하지만, 대신할 다른 기술이 없다.
+{1} forgot {2}...
+{1}(은)는 {2}(을)를 잊었다...
+{1} opened the door to its heart!
+{1} opened the door to its heart!
+{1} regained the move {2}!
+{1} regained the move {2}!
+{1} regained {2} Exp. Points!
+{1} regained {2} Exp. Points!
+You have no Pokémon that can be purified.
+You have no Pokémon that can be purified.
+There's a Pokémon that may open the door to its heart!
+There's a Pokémon that may open the door to its heart!
+This item can't be used on that Pokémon.
+This item can't be used on that Pokémon.
+{1}'s emotions rose to a fever pitch!<<n>>It entered Hyper Mode!
+{1}'s emotions rose to a fever pitch!<<n>>It entered Hyper Mode!
+{1} turned friendly.
+{1} turned friendly.
+{1} adores you!<<n>>The door to its heart opened a little.
+{1} adores you!<<n>>The door to its heart opened a little.
+{1} turned friendly.<<n>>The door to its heart opened a little.
+{1} turned friendly.<<n>>The door to its heart opened a little.
+{1} came to its senses from the {2}.
+{1} came to its senses from the {2}.
+{1} came to its senses from the {2}!
+{1} came to its senses from the {2}!
+Each Pokémon's HP was halved!
+Each Pokémon's HP was halved!
+It broke all barriers!
+It broke all barriers!
+Box {1}
+박스 {1}
+City
+도시
+Desert
+사막
+Savanna
+사바나
+Crag
+돌밭
+Beach
+해변
+Seafloor
+해저
+River
+강
+Poké Center
+포켓몬센터
+Machine
+기계
+Checks
+체크
+Simple
+심플
+Backyard
+뒷마당
+Nostalgic 1
+추억 1
+Torchic
+아차모
+Trio 1
+트리오 1
+PikaPika 1
+피카피카 1
+Legend 1
+전설 1
+Team Galactic 1
+갤럭시단 1
+Distortion
+깨어진세계
+Contest
+콘테스트
+Nostalgic 2
+추억 2
+Croagunk
+삐딱구리
+Trio 2
+트리오 2
+PikaPika 2
+피카피카 2
+Legend 2
+전설 2
+Team Galactic 2
+갤럭시단 2
+Heart
+하트
+Soul
+소울
+Big Brother
+큰형님
+Pokéathlon
+포케슬론
+Trio 3
+트리오 3
+Spiky Pika
+삐죽귀피카
+Kimono Girl
+전통무용수
+Revival
+부활
+The player is not on a map, so the region could not be determined.
+플레이어가 맵에 없어서 지역을 결정할 수 없었다.
+The current map has no region set. Please set the MapPosition metadata setting for this map.
+The current map has no region set. Please set the MapPosition metadata setting for this map.
+{1} {2}
+{1} {2}
+Please enter the first Pokémon.
+첫번째 포켓몬을 입력해주세요.
+Add another Pokémon?
+다른 포켓몬을 추가하겠습니?
+Set the level for {1} (max. {2}).
+Set the level for {1} (max. {2}).
+This trainer must have at least 1 Pokémon!
+This trainer must have at least 1 Pokémon!
+The Trainer's data was added to the list of battles and in PBS/trainers.txt.
+The Trainer's data was added to the list of battles and in PBS/trainers.txt.
+Add new trainer type {1}?
+Add new trainer type {1}?
+Add new trainer variant {1} (of {2}) for {3} {4}?
+Add new trainer variant {1} (of {2}) for {3} {4}?
+Can't find trainer ({1}, {2}, ID {3})
+Can't find trainer ({1}, {2}, ID {3})
+Add new trainer ({1}, {2})?
+Add new trainer ({1}, {2})?
+Add new trainer ({1}, {2}, ID {3})?
+Add new trainer ({1}, {2}, ID {3})?
+The player trainer was not defined, so the pause menu can't be displayed.
+The player trainer was not defined, so the pause menu can't be displayed.
+Please see the documentation to learn how to set up the trainer player.
+Please see the documentation to learn how to set up the trainer player.
+Pokédex
+포켓몬도감
+Pokégear
+포켓기어
+Town Map
+타운맵
+Save
+리포트
+Options
+설정
+Debug
+디버그
+Quit Game
+게임을 종료한다
+Are you sure you want to quit the game?
+정말로 게임을 종료하시겠습니까?
+Graphics/UI/Pokedex/bg_menu
+Graphics/UI/Pokedex/bg_menu
+SEEN
+만난 수
+OBTAINED
+잡은 수
+Graphics/UI/Pokedex/icon_types
+Graphics/UI/Pokedex/icon_types
+Graphics/UI/Pokedex/icon_hw
+Graphics/UI/Pokedex/icon_hw
+Graphics/UI/Pokedex/icon_searchslider
+Graphics/UI/Pokedex/icon_searchslider
+Search results
+검색 결과
+Seen:
+만난 수:
+Owned:
+잡은 수:
+Search Mode
+검색 모드
+Order
+번호
+Name
+이름
+Type
+타입
+Height
+키
+Weight
+몸무게
+Color
+색상
+Shape
+모양
+Reset
+리셋
+Start
+시작
+OK
+OK
+Numerical
+번호순
+A to Z
+A to Z
+Heaviest
+무거운 순
+Lightest
+가벼운 순
+Tallest
+키큰 순
+Smallest
+작은 순
+A
+A
+B
+B
+C
+C
+D
+D
+E
+E
+F
+F
+G
+G
+H
+H
+I
+I
+J
+J
+K
+K
+L
+L
+M
+M
+N
+N
+O
+O
+P
+P
+Q
+Q
+R
+R
+S
+S
+T
+T
+U
+U
+V
+V
+W
+W
+X
+X
+Y
+Y
+Z
+Z
+No matching Pokémon were found.
+조건에 맞는 포켓몬을 찾을 수 없습니다.
+One Form
+기본 모습
+Male
+수컷
+Female
+암컷
+Graphics/UI/Pokedex/bg_info
+Graphics/UI/Pokedex/bg_info
+Graphics/UI/Pokedex/overlay_info
+Graphics/UI/Pokedex/overlay_info
+{1}{2} {3}
+{1}{2} {3}
+Number Battled
+배틀한 수
+{1} Pokémon
+{1} 포켓몬
+{1:d}'{2:02d}"
+{1:d}'{2:02d}"
+{1:4.1f} lbs.
+{1:4.1f} lbs.
+{1:.1f} m
+{1:.1f} m
+{1:.1f} kg
+{1:.1f} kg
+????? Pokémon
+????? 포켓몬
+???'??"
+???'??"
+????.? lbs.
+????.? lbs.
+????.? m
+????.? m
+????.? kg
+????.? kg
+Graphics/UI/Pokedex/bg_area
+Graphics/UI/Pokedex/bg_area
+Area unknown
+서식지 불명
+{1}'s area
+{1}의 서식지
+Graphics/UI/Pokedex/bg_forms
+Graphics/UI/Pokedex/bg_forms
+CONFIRM
+확인
+Graphics/UI/Party/overlay_hp_back
+Graphics/UI/Party/overlay_hp_back
+Graphics/UI/Party/overlay_hp_back_faint
+Graphics/UI/Party/overlay_hp_back_faint
+Graphics/UI/Party/overlay_hp_back_swap
+Graphics/UI/Party/overlay_hp_back_swap
+Graphics/UI/statuses
+Graphics/UI/statuses
+Graphics/UI/Party/overlay_lv
+Graphics/UI/Party/overlay_lv
+<<[>>Special<<]>>: To Boxes
+<<[>>특수<<]>>: 박스로
+Give to which Pokémon?
+어느 포켓몬에게 줄까?
+This Pokémon is holding an item. It can't hold mail.
+이 포켓몬은 도구를 지니고 있어서 메일을 지닐 수 없다.
+Eggs can't hold mail.
+알은 메일을 지닐 수 없다.
+Mail was transferred from the Mailbox.
+메일은 메일함으로 전송됐다.
+{1} (PP: ---)
+{1} (PP: ---)
+{1} (PP: {2}/{3})
+{1} (PP: {2}/{3})
+INELIGIBLE
+부적격
+NOT ENTERED
+입장 불가
+BANNED
+금지됨
+FIRST
+첫번째
+SECOND
+두번째
+THIRD
+세번째
+FOURTH
+네번째
+FIFTH
+다섯번째
+SIXTH
+여섯번째
+SEVENTH
+일곱번째
+EIGHTH
+여덟번째
+NINTH
+아홉번째
+TENTH
+열번째
+ELEVENTH
+열한번째
+TWELFTH
+열두번째
+Choose Pokémon and confirm.
+포켓몬을 선택하고 승인하세요.
+Entry
+참가한다
+No Entry
+참가하지 않는다
+No more than {1} Pokémon may enter.
+{1}마리보다 더 많이 참가할 수 없습니다.
+Choose Pokémon or cancel.
+포켓몬을 선택하거나 취소하세요.
+This Pokémon can't be chosen.
+이 포켓몬은 선택할 수 없습니다.
+Move to where?
+어디로 이동할까?
+Not enough HP...
+HP가 부족하다...
+{1} can't use {2} on itself!
+{1}(은)는 스스로에게 {2}(을)를 쓸 수 없다!
+{1} can't be used on an Egg!
+{1}(은)는 알에게 쓸 수 없다!
+{1} can't be used on that Pokémon.
+{1}(은)는 그 포켓몬에게 쓸 수 없다.
+Switch
+교체
+Do what with the mail?
+메일로 무엇을 할까?
+Read
+읽는다
+Take
+가져온다
+Item
+지닌도구
+Do what with an item?
+지닌도구로 무엇을 할까?
+Give
+준다
+Move
+이동
+Move {1} to where?
+{1}(을)를 어디로 이동할까?
+{1} was given the {2} to hold.
+{1}에게 {2}(을)를 맡겼다.
+INFO
+포켓몬 정보
+TRAINER MEMO
+트레이너 메모
+SKILLS
+스킬
+MOVES
+기술
+RIBBONS
+리본
+Dex No.
+도감 번호
+Species
+종류
+OT
+어버이
+ID No.
+ID No.
+RENTAL
+RENTAL
+Heart Gauge
+하트게이지
+The door to its heart is open! Undo the final lock!
+The door to its heart is open! Undo the final lock!
+The door to its heart is almost fully open.
+The door to its heart is almost fully open.
+The door to its heart is nearly open.
+The door to its heart is nearly open.
+The door to its heart is opening wider.
+The door to its heart is opening wider.
+The door to its heart is opening up.
+The door to its heart is opening up.
+The door to its heart is tightly shut.
+The door to its heart is tightly shut.
+Exp. Points
+경험치
+To Next Lv.
+다음 레벨까지
+{1} {2}, {3}
+{3}년 {1} {2}일
+A mysterious Pokémon Egg received from {1}.
+{1}에게서 받은 이상한 포켓몬 알이다.
+A mysterious Pokémon Egg.
+이상한 포켓몬 알이다.
+"The Egg Watch"
+"알의 상태"
+It looks like this Egg will take a long time to hatch.
+이 알은 부화하려면 오랜 시간이 걸릴 것 같다.
+What will hatch from this? It doesn't seem close to hatching.
+무엇이 태어날까? 부화하기까진 아직 시간이 걸릴 것 같다.
+It appears to move occasionally. It may be close to hatching.
+이따금씩 움직이고 있다. 조금만 더 있으면 부화할지 모른다.
+Sounds can be heard coming from inside! It will hatch soon!
+안에서 소리가 들려온다! 곧 부화할 것 같아!
+{1} nature.
+{1} 성격.
+Faraway place
+머나먼 장소
+Met at Lv. {1}.
+에서 Lv. {1}일 때 만났다.
+Egg received.
+에서 받은 알이
+Traded at Lv. {1}.
+에서 Lv. {1}일 때 교환받았다.
+Had a fateful encounter at Lv. {1}.
+에서 Lv. {1}일 때 운명적인 만남을 가졌다.
+Egg hatched.
+에서 부화했다.
+Loves to eat.
+먹는 것을 제일 좋아함.
+Takes plenty of siestas.
+낮잠을 잘 잠.
+Nods off a lot.
+말뚝잠이 많음.
+Scatters things often.
+물건을 잘 어지름.
+Likes to relax.
+유유자적을 좋아함.
+Proud of its power.
+힘자랑이 특기임.
+Likes to thrash about.
+날뛰기를 좋아함.
+A little quick tempered.
+약간 화를 잘 내는 성미임.
+Likes to fight.
+싸움을 좋아함.
+Quick tempered.
+혈기가 왕성함.
+Sturdy body.
+몸이 튼튼함.
+Capable of taking hits.
+맷집이 강함.
+Highly persistent.
+끈질김.
+Good endurance.
+인내심이 강함.
+Good perseverance.
+잘 참음.
+Highly curious.
+호기심이 강함.
+Mischievous.
+장난을 좋아함.
+Thoroughly cunning.
+빈틈이 없음.
+Often lost in thought.
+걱정거리가 많음.
+Very finicky.
+매우 꼼꼼함.
+Strong willed.
+기가 세다.
+Somewhat vain.
+조금 겉치레를 좋아함.
+Strongly defiant.
+오기를 잘 부린다.
+Hates to lose.
+지기 싫어함.
+Somewhat stubborn.
+조금 고집통이임.
+Likes to run.
+달리기를 좋아함.
+Alert to sounds.
+주위 소리에 민감함.
+Impetuous and silly.
+까불거리곤 함.
+Somewhat of a clown.
+약간 우쭐쟁이임.
+Quick to flee.
+도망에는 선수임.
+Sp. Atk
+특공
+Sp. Def
+특방
+Ability
+특성
+PP
+PP
+CATEGORY
+분류
+POWER
+위력
+ACCURACY
+명중
+No. of Ribbons:
+리본 번호
+Mark {1}
+마크 {1}
+Give item
+도구를 맡긴다
+Take item
+도구를 가져온다
+View Pokédex
+도감을 본다
+Mark
+마크
+HM moves can't be forgotten now.
+지금은 비전머신을 잊을 수 없다.
+You must choose a move!
+기술을 선택해야 한다!
+CLOSE BAG
+닫기
+Graphics/UI/Bag/icon_register
+Graphics/UI/Bag/icon_register
+x{1: 3d}
+x{1: 3d}
+Close bag.
+가방을 닫는다.
+Toss
+버린다
+Deselect
+해제
+Register
+등록
+The {1} can't be held.
+{1}(은)는 지니게 할 수 없다.
+Toss out how many {1}?
+{1}(을)를 얼만큼 버릴까?
+Is it OK to throw away {1} {2}?
+{2} {1}개를 정말로 버릴까?
+Threw away {1} {2}.
+{2}(을)를 {1}개 버렸다.
+Change quantity
+수량 변경
+Make Mystery Gift
+이상한소포로 만들기
+Choose new quantity of {1} (max. {2}).
+Choose new quantity of {1} (max. {2}).
+How many do you want to withdraw?
+얼만큼 꺼낼까?
+Withdrew {1} {2}.
+{2}(을)를 {1}개 꺼냈다.
+There's no more room in the Bag.
+가방에 더 이상 자리가 없다.
+How many do you want to deposit?
+얼만큼 보관할까?
+Deposited {1} {2}.
+{2}(을)를 {1}개 보관했다.
+There's no room to store items.
+도구를 보관할 자리가 없다.
+That's too important to toss out!
+그건 중요한 도구라 버릴 수 없다!
+Map
+타운맵
+Phone
+전화
+Jukebox
+주크박스
+The map data cannot be found.
+맵 데이터를 찾을 수 없습니다.
+Set the name for this point.
+이 지점의 이름을 정하시오.
+ACTION: Fly
+ACTION: 공중날기
+ACTION: Cancel Fly
+ACTION: 공중날기 취소
+Save changes?
+변경사항을 저장하시겠습니까?
+Exit from the map?
+타운맵에서 나갈까?
+Would you like to use Fly to go to {1}?
+{1}(으)로 공중날기를 사용할까?
+Registered
+등록됨
+Waiting for a rematch
+재대결 대기중
+There are no phone numbers stored.
+저장된 전화번호가 없습니다.
+Delete
+삭제
+Sort Contacts
+연락처 정렬
+Are you sure you want to delete {1} from your phone?
+연락처에서 {1}의 번호를 정말로 삭제할까?
+{1} was deleted from your phone contacts.
+{1}의 번호가 연락처에서 삭제되었다.
+How do you want to sort the contacts?
+연락처를 어떻게 정렬할까?
+By name
+이름 순
+By Trainer type
+트레이너 타입 순
+Special contacts first
+즐겨찾기 우선
+Graphics/UI/jukebox_bg
+Graphics/UI/jukebox_bg
+Play: Pokémon March
+재생: 포켓몬 마치
+Play: Pokémon Lullaby
+재생: 포켓몬 자장가
+Play: Oak
+재생: 오박사 라디오
+Play: Custom...
+재생: 커스텀...
+Stop
+재생 중지
+Graphics/UI/Trainer Card/card_f
+Graphics/UI/Trainer Card/card_f
+Graphics/UI/Trainer Card/card
+Graphics/UI/Trainer Card/card
+{1}h {2}m
+{1}시 {2}분
+{1}m
+{1}분
+Money
+소지금
+Time
+플레이 시간
+Started
+시작일
+Badges:
+뱃지:
+Pokédex:
+도감:
+Time:
+플레이 시간
+Player character {1}'s walking charset was not found (filename: "{2}").
+플레이어 캐릭터 {1}의 walking charset 을 찾을 수 없습니다(파일명: "{2}").
+The save file is corrupt. A backup will be loaded.
+오염된 세이브파일입니다. 백업이 로드됩니다.
+The save file is corrupt, or is incompatible with this game.
+세이브파일이 오염되었거나 본 게임과 호환되지 않습니다.
+Do you want to delete the save file and start anew?
+세이브파일을 지우고 새로 시작할까요?
+Delete all saved data?
+모든 세이브 데이터를 삭제할까요?
+Once data has been deleted, there is no way to recover it.
+한번 데이터를 삭제하면 되돌릴 방법은 없습니다.
+Delete the saved data anyway?
+그래도 세이브 데이터를 삭제하시겠습니까?
+Deleting all data. Don't turn off the power.
+모든 데이터 삭제 중. 전원을 끄지 마십시오.
+No save file was found.
+세이브파일을 찾을 수 없습니다.
+The saved data was deleted.
+세이브파일이 삭제되었습니다.
+All saved data could not be deleted.
+모든 세이브파일을 지울 수 없었습니다.
+Continue
+모험을 계속한다
+Mystery Gift
+이상한소포
+New Game
+새 모험을 시작한다
+Language
+언어
+The script is taking too long. The game will restart.
+스크립트가 너무 오래 걸립니다. 게임을 재기동합니다.
+The game was saved.
+게임이 저장되었습니다.
+The previous save file has been backed up.
+이전 세이브 파일이 백업되었습니다.
+Save failed.
+세이브 실패.
+Player
+플레이어
+Badges
+뱃지 수
+Would you like to save the game?
+여기까지의 모험을 기록하시겠습니까?
+WARNING!
+경고!
+There is a different game file that is already saved.
+이미 저장된 또다른 게임 파일이 존재합니다.
+If you save now, the other file's adventure, including items and Pokémon, will be entirely lost.
+만약 지금 리포트를 작성하게 되면, 아이템과 포켓몬을 포함한, 다른 파일의 모든 모험 기록이 전부 파기됩니다.
+Are you sure you want to save now and overwrite the other save file?
+정말로 리포트를 작성하고 다른 세이브파일을 덮어쓰겠습니까?
+{1} saved the game.
+{1}(은)는 리포트를 꼼꼼히 기록했다!
+Close
+닫기
+Type {1}/{2}
+타입 {1}/{2}
+Close the screen.
+창을 닫습니다.
+Music Volume
+BGM 음량
+Adjust the volume of the background music.
+BGM의 음량을 조절합니다.
+SE Volume
+SE 음량
+Adjust the volume of sound effects.
+SE(sound effects)의 음량을 조절합니다.
+Text Speed
+텍스트 속도
+Mid
+중간
+Inst
+즉시
+Choose the speed at which text appears.
+텍스트가 표시되는 속도를 선택합니다.
+Battle Effects
+배틀 이펙트
+On
+On
+Off
+Off
+Choose whether you wish to see move animations in battle.
+기술 애니메이션의 표시 여부를 선택합니다.
+Battle Style
+배틀 스타일
+Set
+토너먼트 방식
+Choose whether you can switch Pokémon when an opponent's Pokémon faints.
+포켓몬을 쓰러트렸을 때 교체 여부를 선택합니다.
+Default Movement
+기본 이동
+Walking
+걷기
+Running
+달리기
+Choose your movement speed. Hold Back while moving to move at the other speed.
+이동 방식을 선택합니다. Back 버튼(X키)을 누른 채로 이동하여 반대쪽 방식으로 이동할 수 있습니다.
+Manual
+수동
+Automatic
+자동
+Choose whether caught Pokémon are sent to your Boxes when your party is full.
+지닌포켓몬이 가득할 때 잡은 포켓몬을 박스로 보낼지 여부를 선택합니다.
+Give Nicknames
+닉네임
+Don't give
+주지 않는다
+Choose whether you can give a nickname to a Pokémon when you obtain it.
+획득한 포켓몬에게 닉네임을 줄지 여부를 선택합니다.
+Speech Frame
+대화 프레임
+Choose the appearance of dialogue boxes.
+대화창 박스의 외형을 선택합니다.
+Menu Frame
+메뉴 프레임
+Choose the appearance of menu boxes.
+메뉴 박스의 외형을 변경합니다.
+Text Entry
+텍스트 입력
+Cursor
+커서
+Keyboard
+키보드
+Choose how you want to enter text.
+텍스트 입력 방식을 선택합니다.
+Screen Size
+화면 크기
+XL
+XL
+Full
+풀스크린
+Choose the size of the game window.
+게임 윈도우 크기를 선택합니다.
+>99
+>99
+x{1}
+x{1}
+An item in the Bag can be registered to this key for instant use.
+가방의 도구를 이 키에 등록하여 즉시 사용할 수 있습니다.
+Back
+뒤로
+{1} ({2}/{3})
+{1} ({2}/{3})
+Mark your Pokémon.
+포켓몬을 마킹하시오.
+Party: {1}
+지닌포켓몬: {1}
+Graphics/UI/Storage/overlay_lv
+Graphics/UI/Storage/overlay_lv
+No ability
+특성 없음
+No item
+도구 없음
+You're holding a Pokémon!
+포켓몬을 쥐고 있습니다!
+Continue Box operations?
+박스 조작을 계속하시겠습니까?
+Exit from the Box?
+박스로부터 나가겠습니까?
+Shift
+바꾼다
+Place
+놓는다
+Store
+넣는다
+Withdraw
+데려간다
+Release
+놓아준다
+Which one will you take?
+누구를 데려가겠습니까?
+Can't withdraw from party...
+지닌포켓몬에서 데려갈 순 없습니다...
+Your party's full!
+지닌포켓몬이 가득합니다!
+Can't deposit from box...
+박스에서 맡길 순 없습니다...
+That's your last Pokémon!
+그건 마지막 포켓몬입니다!
+Please remove the Mail.
+메일을 제거해주세요.
+{1} refuses to go into storage!
+{1}(은)는 박스로 들어가길 거부합니다!
+Deposit in which Box?
+어느 박스에 맡깁니까?
+The Box is full.
+박스가 꽉 찼습니다.
+Position {1},{2} is not empty...
+Position {1},{2}에 뭔가 있습니다...
+Position {1},{2} is empty...
+Position {1},{2}(이)가 비어있습니다...
+You can't release an Egg.
+알은 놓아줄 수 없습니다.
+Please remove the mail.
+메일을 제거해주십시오.
+{1} refuses to leave you!
+{1}(은)는 당신에게서 떠나길 거부합니다!
+Release this Pokémon?
+이 포켓몬을 놓아주시겠습니까?
+{1} was released.
+{1}(을)를 놓아주었다.
+Bye-bye, {1}!
+바이바이, {1}!
+Take the {1}?
+{1}(을)를 가져옵니까?
+Took the {1}.
+{1}(을)를 가져왔습니다.
+Can't store the {1}.
+{1}(을)를 보관할 수 없습니다.
+{1} is now being held.
+{1}(을)를 지니게 했습니다.
+Jump
+점프
+Wallpaper
+벽지
+What do you want to do?
+무엇을 하시겠습니까?
+Jump to which Box?
+어느 박스로 점프합니까?
+Pick the wallpaper.
+벽지를 골라주세요.
+Box name?
+박스 이름?
+Select
+선택
+x{1: 2d}
+x{1: 2d}
+Close storage.
+보관함을 닫는다.
+Withdraw<<n>>Item
+도구<<n>>꺼내기
+Toss<<n>>Item
+도구<<n>>버리기
+x{1:03d}
+x{1:03d}
+Withdraw Item
+도구 꺼내기
+Deposit Item
+도구 보관하기
+Toss Item
+도구 버리기
+Take out items from the PC.
+PC에서 도구를 꺼냅니다.
+Store items in the PC.
+PC에 도구를 보관합니다.
+Throw away items stored in the PC.
+PC에 저장된 도구를 버립니다.
+Go back to the previous menu.
+이전 메뉴로 돌아갑니다.
+There are no items.
+도구가 없습니다.
+There's no Mail here.
+메일이 없습니다.
+What do you want to do with {1}'s Mail?
+{1}의 메일을 어떻게 하시겠습니까?
+Move to Bag
+가방으로 옮기기
+The message will be lost. Is that OK?
+내용이 소실됩니다. 괜찮습니까?
+The Mail was returned to the Bag with its message erased.
+메일의 내용이 지워지고 가방에 회수되었습니다.
+The Bag is full.
+가방이 가득합니다.
+{1} booted up the PC.
+{1}(은)는 PC의 전원을 켰다.
+Item Storage
+도구 보관함
+Mailbox
+메일함
+Turn Off
+PC 종료
+Which PC should be accessed?
+어느 PC에 접속하시겠습니까?
+{1}'s PC
+{1}의 PC
+Someone's PC
+누군가의 PC
+The Pokémon Storage System was opened.
+포켓몬 박스 시스템을 불러왔습니다.
+Organize Boxes
+박스를 정리한다
+Withdraw Pokémon
+포켓몬을 데리고 간다
+Deposit Pokémon
+포켓몬을 맡긴다
+See ya!
+그럼 안녕!
+Organize the Pokémon in Boxes and in your party.
+지닌포켓몬과 박스의 포켓몬을 정리합니다.
+Move Pokémon stored in Boxes to your party.
+박스의 포켓몬을 지닌포켓몬에 넣습니다.
+Store Pokémon in your party in Boxes.
+지닌포켓몬을 박스에 맡깁니다.
+Return to the previous menu.
+이전 메뉴로 돌아갑니다.
+Your party is full!
+지닌포켓몬이 가득합니다!
+Can't deposit the last Pokémon!
+마지막 포켓몬을 맡길 수는 없습니다!
+Accessed {1}'s PC.
+{1}의 PC에 접속했습니다.
+Log off
+로그아웃
+$ {1}
+{1} 원
+Quit shopping.
+쇼핑을 그만둔다.
+In Bag:<r>{1}
+소지 중:<r>{1}
+Money:<<n>><r>{1}
+소지금:<<n>><r>{1}
+x{1}<r>$ {2}
+x{1}<r>{2} 원
+You don't have enough money.
+손님, 죄송하지만 돈이 부족하시군요.
+So you want the {1}?<<n>>It'll be ${2}. All right?
+{1} 말씀이십니까?<<n>>그건 {2}원입니다. 계산할까요?
+So how many {1}?
+{1}(을)를 얼마나 드릴까요?
+So you want {1} {2}?<<n>>They'll be ${3}. All right?
+{2}(을)를 {1}개요?<<n>>다 해서 {3}원입니다. 계산할까요?
+So you want {1} {2}?<<n>>It'll be ${3}. All right?
+{2}(은)는 {1}개에<<n>>{3}원입니다. 계산할까요?
+Here you are! Thank you!
+여기 있습니다! 감사합니다!
+And have {1} {2} on the house!
+서비스로 {2}(을)를 {1}개 드립니다!
+And have 1 {1} on the house!
+서비스로 {1}(을)를 1개 드립니다!
+Failed to delete stored items
+Failed to delete stored items
+You have no room in your Bag.
+가방에 자리가 없다.
+Oh, no. I can't buy {1}.
+어, {1}(은)는 매입하기 어렵습니다.
+How many {1} would you like to sell?
+{1}(을)를 몇 개 매각하시겠습니까?
+I can pay ${1}.<<n>>Would that be OK?
+그거라면 {1}원에 매입하겠습니다.<<n>>괜찮습니까?
+You turned over the {1} and got ${2}.
+{1}(을)를 {2}원에 매각했다.
+I'm here to buy
+사러 왔다
+I'm here to sell
+팔러 왔다
+No, thanks
+아무것도 아니다
+Welcome! How may I help you?
+어서 오세요! 어떻게 도와드릴까요?
+Do come again!
+또 오세요!
+Is there anything else I can do for you?
+그 외에 뭔가 더 필요하신 게 있나요?
+{1} BP
+{1} BP
+Battle Points:<<n>><r>{1}
+배틀포인트:<<n>><r>{1}
+x{1}<r>{2} BP
+x{1}<r>{2} BP
+You don't have enough BP.
+BP가 부족합니다.
+You would like the {1}?<<n>>That will be {2} BP.
+{1} 말씀이십니까?<<n>>{2} BP 입니다.
+How many {1} would you like?
+{1}(이)가 얼마나 필요하십니까?
+You would like {1} {2}?<<n>>They'll be {3} BP.
+{2} {1}개 말씀이십니까?<<n>>총 {3} BP 입니다.
+So you want {1} {2}?<<n>>It'll be {3} BP.
+{2} {1}개 말씀이십니까?<<n>> {3} BP 입니다.
+I'm sorry, you don't have enough BP.
+죄송합니다. BP가 부족합니다.
+Welcome to the Exchange Service Corner!
+경품 코너에 어서오세요!
+We can exchange your BP for fabulous items.
+여기서 BP로 근사한 아이템과 교환하실 수 있습니다.
+Thank you for visiting.
+방문해주셔서 감사합니다.
+Please visit us again when you have saved up more BP.
+BP를 모아서 또 방문해주십시오.
+Teach which move?
+어떤 기술을 가르칠까?
+Teach {1}?
+{1}(을)를 가르칠까?
+Give up trying to teach a new move to {1}?
+{1}에게 새로운 기술을 가르치는 걸 그만둘까?
+Your {1} in the Purify Chamber is ready for purification!
+Your {1} in the Purify Chamber is ready for purification!
+Can't place an egg there.
+Can't place an egg there.
+Only a Shadow Pokémon can go there.
+Only a Shadow Pokémon can go there.
+Can't place a Shadow Pokémon there.
+Can't place a Shadow Pokémon there.
+This {1} is ready to open its heart. However, there must be at least one regular Pokémon in the set to perform a purification ceremony.
+This {1} is ready to open its heart. However, there must be at least one regular Pokémon in the set to perform a purification ceremony.
+MOVE
+MOVE
+SUMMARY
+SUMMARY
+WITHDRAW
+WITHDRAW
+EXCHANGE
+EXCHANGE
+PLACE
+PLACE
+ROTATE
+ROTATE
+REPLACE
+REPLACE
+What shall I do with this {1}?
+What shall I do with this {1}?
+All boxes are full.
+All boxes are full.
+That Pokémon can't be placed there.
+That Pokémon can't be placed there.
+Continue editing sets?
+Continue editing sets?
+There is a Pokémon that is ready to open its heart!
+There is a Pokémon that is ready to open its heart!
+There is another Pokémon that is ready to open its heart!
+There is another Pokémon that is ready to open its heart!
+Would you like to switch sets?
+Would you like to switch sets?
+Continue viewing holograms?
+Continue viewing holograms?
+EDIT
+EDIT
+SWITCH
+SWITCH
+{1} Lv.{2} {3}
+{1}  Lv.{2}  {3}
+FLOW
+FLOW
+TEMPO
+TEMPO
+Purify Chamber
+Purify Chamber
+Accessed the Purify Chamber.
+Accessed the Purify Chamber.
+<<[>>Custom<<]>>
+<<[>>커스텀<<]>>
+Choose a phrase to be where the gift Pokémon was obtained from.
+배포 포켓몬을 획득한 장소를 선택하세요.
+Stop editing this gift?
+이 소포를 수정하는 걸 그만두겠습니까?
+Enter a phrase.
+문장을 입력하세요.
+Choose a quantity of {1}.
+{1}의 수량을 선택하세요.
+Choose a unique ID for this gift.
+이 소포의 유니크 ID를 선택하세요.
+That ID is already used by a Mystery Gift.
+그 ID는 이미 이상한소포에서 사용했습니다.
+Enter a name for the gift.
+소포의 이름을 입력하세요.
+Couldn't edit the gift.
+이 소포를 수정할 수 없습니다.
+The gift was saved to MysteryGiftMaster.txt.
+The gift was saved to MysteryGiftMaster.txt.
+Couldn't save the gift to MysteryGiftMaster.txt.
+Couldn't save the gift to MysteryGiftMaster.txt.
+Didn't create a gift.
+Didn't create a gift.
+There are no Mystery Gifts defined.
+There are no Mystery Gifts defined.
+Searching for online gifts...\wtnp[0]
+Searching for online gifts...\wtnp[0]
+No online Mystery Gifts found.\wtnp[20]
+No online Mystery Gifts found.\wtnp[20]
+Online Mystery Gifts found.\wtnp[20]
+Online Mystery Gifts found.\wtnp[20]
+Manage Mystery Gifts (X=online).
+Manage Mystery Gifts (X=online).
+The gifts were saved to MysteryGift.txt.
+The gifts were saved to MysteryGift.txt.
+Upload MysteryGift.txt to the Internet.
+Upload MysteryGift.txt to the Internet.
+Couldn't save the gifts to MysteryGift.txt.
+Couldn't save the gifts to MysteryGift.txt.
+Toggle on/offline
+온라인/오프라인 전환
+Edit
+수정하기
+Receive
+수령하기
+There is no save file loaded. Cannot receive any gifts.
+세이브파일이 로드되지 않았습니다. 소포를 수령할 수 없습니다.
+Are you sure you want to delete this gift?
+이 소포를 정말로 삭제하시겠습니까?
+{1} {2}: {3} ({4})
+{1} {2}: {3} ({4})
+Export selected to file
+Export selected to file
+Searching for a gift.<<n>>Please wait...
+Searching for a gift.<<n>>Please wait...
+No new gifts are available.
+새 소포를 찾을 수 없습니다.
+Choose the gift you want to receive.
+수령할 소포를 선택하여 주십시오.
+The gift has been received!
+소포를 수령하였습니다!
+Please pick up your gift from the deliveryman in any Poké Mart.
+프렌들리숍의 배달원으로부터 소포를 수령해주세요!
+Couldn't find an unclaimed Mystery Gift with ID {1}.
+Couldn't find an unclaimed Mystery Gift with ID {1}.
+{1} received {2}!
+{1}(은)는 {2}(을)를 받았다!
+Enter text using the keyboard. Press<<n>>Enter to confirm, or Esc to cancel.
+키보드를 사용하여 텍스트를 입력하세요.<<n>>Enter로 결정, Esc로 취소합니다.
+Enter text using the keyboard.<<n>>Press Enter to confirm.
+키보드를 사용하여 텍스트를 입력하세요.<<n>>Enter로 결정합니다.
+UPPER
+UPPER
+lower
+lower
+accents
+accents
+other
+other
+Graphics/UI/Naming/overlay_controls
+Graphics/UI/Naming/overlay_controls
+Graphics/UI/Naming/icon_mode
+Graphics/UI/Naming/icon_mode
+Graphics/UI/Controls help/help_f1
+Graphics/UI/Controls help/help_f1
+Graphics/UI/Controls help/help_f8
+Graphics/UI/Controls help/help_f8
+Opens the Key Bindings window, where you can choose which keyboard keys to use for each control.
+키 바인딩 창을 엽니다. 각각의 버튼에 대해 키를 지정할 수 있습니다.
+Take a screenshot. It is put in the same folder as the save file.
+스크린샷을 만듭니다. 세이브파일과 같은 폴더에 저장됩니다.
+Graphics/UI/Controls help/help_arrows
+Graphics/UI/Controls help/help_arrows
+Use the Arrow keys to move the main character.<<n>>You can also use the Arrow keys to select entries and navigate menus.
+Use the Arrow keys to move the main character.<<n>><<n>>You can also use the Arrow keys to select entries and navigate menus.
+Graphics/UI/Controls help/help_usekey
+Graphics/UI/Controls help/help_usekey
+Graphics/UI/Controls help/help_backkey
+Graphics/UI/Controls help/help_backkey
+Used to confirm a choice, interact with people and things, and move through text. (Default: C)
+Used to confirm a choice, interact with people and things, and move through text. (Default: C)
+Used to exit, cancel a choice, and cancel a mode. While moving around, hold to move at a different speed. (Default: X)
+Used to exit, cancel a choice, and cancel a mode. While moving around, hold to move at a different speed. (Default: X)
+Graphics/UI/Controls help/help_actionkey
+Graphics/UI/Controls help/help_actionkey
+Graphics/UI/Controls help/help_specialkey
+Graphics/UI/Controls help/help_specialkey
+Used to open the Pause Menu. Also has various functions depending on context. (Default: Z)
+Used to open the Pause Menu. Also has various functions depending on context. (Default: Z)
+Press to open the Ready Menu, where registered items and available field moves can be used. (Default: D)
+Press to open the Ready Menu, where registered items and available field moves can be used. (Default: D)
+{1} hatched from the Egg!
+알에서 {1}(이)가 부화했다!
+Would you like to nickname the newly hatched {1}?
+새로 태어난 {1}에게 닉네임을 붙이겠습니까?
+Huh?
+어라?
+...
+...
+... .... .....
+... .... .....
+What?
+앗!
+{1} is evolving!
+{1}(이)가 진화하려 한다!
+Huh? {1} stopped evolving!
+어라? {1}의 진화가 멈췄다!
+Congratulations! Your {1} evolved into {2}!
+축하합니다! {1}(은)는 {2}(으)로 진화했다!
+{1:s}<<n>>ID: {2:05d} OT: {3:s}
+{1:s}<<n>>ID: {2:05d} 어버이: {3:s}
+For {1}'s {2},<<n>>{3} sends {4}.
+{1}(이)가 {2}(을)를 보내는 대신,<<n>>{3}(은)는 {4}(을)를 줍니다.
+{1} bids farewell to {2}.
+석별의 정을 아쉬워하며, {1}(은)는 {2}(을)를 배웅합니다.
+Take good care of {1}.
+{1}(을)를 귀여워해 줘!
+Name<r>{1}
+이름<r>{1}
+ID No.<r>{1}
+ID No.<r>{1}
+Time<r>{1}h {2}m
+플레이 타임<r>{1}시간 {2}분
+Time<r>{1}m
+플레이 타임<r>{1}분
+Pokédex<r>{1}/{2}
+도감 완성도<r>{1}/{2}
+League champion!<<n>>Congratulations!
+리그의 새로운 챔피언!<<n>>축하합니다!
+No. ???
+No. ???
+No. {1:03d}
+No. {1:03d}
+Lv. {1}
+Lv. {1}
+ID No. {1}
+ID No. {1}
+Hall of Fame No.
+명예의전당 No.
+Welcome to the Hall of Fame!
+명예의전당 입성을 환영합니다!
+Hall of Fame
+명예의전당
+Accessed the Hall of Fame.
+명예의전당에 접속했습니다.
+"{1}" v.{2} by:
+"{1}" v.{2} by:
+"Pokémon Essentials" was created by:
+"Pokémon Essentials" was created by:
+Inspired by work by Flameguru
+Inspired by work by Flameguru
+With contributions from:
+With contributions from:
+and everyone else who helped out
+and everyone else who helped out
+"mkxp-z" by:
+"mkxp-z" by:
+Based on "mkxp" by Ancurio et al.
+Based on "mkxp" by Ancurio et al.
+"RPG Maker XP" by:
+"RPG Maker XP" by:
+Pokémon is owned by:
+Pokémon is owned by:
+Affiliated with Game Freak
+Affiliated with Game Freak
+This is a non-profit fan-made game.
+본 게임은 팬에 의해 제작된 비영리 작품입니다.
+No copyright infringements intended.
+어떠한 저작권도 침해할 의도가 없습니다.
+Please support the official games!
+정식 발매 작품을 응원해주시기 바랍니다.
+HP: {1}
+HP: {1}
+{1}: {2}
+{1}: {2}
+DEFEND
+방어
+PRECISE ATTACK
+정밀한 일격
+FIERCE ATTACK
+강렬한 일격
+SPECIAL ATTACK
+특수 공격
+Choose a command.
+커맨드를 선택하세요.
+You study each other's movements...
+당신은 서로의 동작을 연구했다...
+Your attack was not blocked!
+Your attack was not blocked!
+Your attack was evaded!
+Your attack was evaded!
+You pierce through the opponent's defenses!
+You pierce through the opponent's defenses!
+You fail to block the opponent's attack!
+You fail to block the opponent's attack!
+You cross blades with the opponent!
+You cross blades with the opponent!
+You hit each other!
+You hit each other!
+You evade the opponent's attack!
+You evade the opponent's attack!
+The opponent pierces through your defenses!
+The opponent pierces through your defenses!
+Your special attacks collide!
+Your special attacks collide!
+{1} x{2}
+{1} x{2}
+Choose {1} cards to use for this duel.
+Choose {1} cards to use for this duel.
+{1} cards have been chosen.
+{1} cards have been chosen.
+Check opponent's cards.
+Check opponent's cards.
+Choose a card, or check opponent with Z.
+Choose a card, or check opponent with Z.
+Choose a card.
+Choose a card.
+Place the card.
+Place the card.
+{1}-{2}
+{1}-{2}
+Minimum level must be 0 through 9.
+Minimum level must be 0 through 9.
+Maximum level must be 0 through 9.
+Maximum level must be 0 through 9.
+Maximum level shouldn't be less than the minimum level.
+Maximum level shouldn't be less than the minimum level.
+You don't have enough cards.
+You don't have enough cards.
+Opponent has an illegal card, "{1}".
+Opponent has an illegal card, "{1}".
+Choosing the starting player...
+Choosing the starting player...
+{1} will go first.
+{1} will go first.
+{1} is making a move...
+{1} is making a move...
+{1} can't move somehow...
+{1} can't move somehow...
+The game is a draw.
+The game is a draw.
+Kept all cards of your color.
+Kept all cards of your color.
+{1} won against {2}.
+{1} won against {2}.
+Got opponent's {1} card.
+Got opponent's {1} card.
+Got all opponent's cards.
+Got all opponent's cards.
+{1} lost against {2}.
+{1} lost against {2}.
+Opponent won your {1} card.
+Opponent won your {1} card.
+Opponent won all your cards.
+Opponent won all your cards.
+{1} - ${2}
+{1} - ${2}
+There are no cards that you can buy.
+There are no cards that you can buy.
+Money:<<n>>{1}
+Money:<<n>>{1}
+The {1} card? Certainly. How many would you like?
+The {1} card? Certainly. How many would you like?
+{1}, and you want {2}. That will be ${3}. OK?
+{1}, and you want {2}. That will be ${3}. OK?
+You have no room for more cards.
+You have no room for more cards.
+You have no cards.
+You have no cards.
+The {1} card? Oh, no. I can't buy that.
+The {1} card? Oh, no. I can't buy that.
+The {1} card? How many would you like to sell?
+The {1} card? How many would you like to sell?
+I can pay ${1}. Would that be OK?
+I can pay ${1}. Would that be OK?
+Turned over the {1} card and received ${2}.
+Turned over the {1} card and received ${2}.
+Graphics/UI/Slot Machine/images
+Graphics/UI/Slot Machine/images
+Graphics/UI/Slot Machine/win
+Graphics/UI/Slot Machine/win
+Graphics/UI/Slot Machine/bonus
+Graphics/UI/Slot Machine/bonus
+Graphics/UI/Slot Machine/lose
+Graphics/UI/Slot Machine/lose
+Graphics/UI/Slot Machine/insert
+Graphics/UI/Slot Machine/insert
+You've got {1} Coins.
+코인 {1}개 획득!
+You've run out of Coins.<<n>>Game over!
+코인이 바닥났다.<<n>>게임 오버!
+Graphics/UI/Slot Machine/stop
+Graphics/UI/Slot Machine/stop
+Graphics/UI/Slot Machine/press
+Graphics/UI/Slot Machine/press
+It's a Slot Machine.
+슬롯머신이다.
+You don't have any Coins to play!
+이런! 슬롯 돌릴 코인이 없다!
+Your Coin Case is full!
+코인케이스가 가득 찼다!
+Your coins
+당신의 코인
+Prize coins
+획득 코인
+Level {1}
+레벨 {1}
+You've gathered {1} Coins. You cannot gather any more.
+{1} 코인 획득! 더 이상 획득할 수 없다...
+Play Voltorb Flip Lv. {1}?
+찌리리공 뒤집기 Lv. {1}, 플레이하시겠습니까?
+Voltorb Flip bg
+Voltorb Flip bg
+memo
+memo
+Oh no! You get 0 Coins!
+아쉽군요! 코인 0개!
+Dropped to Game Lv. {1}!
+Lv. {1}(으)로 내려갔습니다!
+Game clear!
+게임 클리어!
+You've found all of the hidden x2 and x3 cards.
+숨겨진 x2 카드와 x3 카드를 전부 뒤집었습니다!
+This means you've found all the Coins in this game, so the game is now over.
+이번 게임의 모든 코인을 찾았으니 게임 종료입니다!
+{1} received {2} Coins!
+{1}(은)는 {2} 코인을 받았다!
+Advanced to Game Lv. {1}!
+Lv. {1}(으)로 올라갔습니다!
+Congratulations!
+축하합니다!
+You can receive even more Coins in the next game!
+다음 게임부터 코인을 더 받으실 수 있습니다!
+If you quit now, you will recieve {1} Coin(s). Will you quit?
+지금 그만두면 {1} 코인을 받게 됩니다. 그만두시겠습니까?
+{1} received {2} Coin(s)!
+{1}(은)는 {2} 코인을 받았다!
+You can't play unless you have a Coin Case.
+코인케이스가 없어서 플레이할 수 없다.
+Something pinged in the wall!<<n>>{1} confirmed!
+Something pinged in the wall!<<n>>{1} confirmed!
+The wall collapsed!
+The wall collapsed!
+Everything was dug up!
+Everything was dug up!
+Are you sure you want to give up?
+Are you sure you want to give up?
+One {1} was obtained.
+One {1} was obtained.
+One {1} was found, but you have no room for it.
+One {1} was found, but you have no room for it.
+PA: Ding-dong!
+PA: Ding-dong!
+PA: Your safari game is over!
+PA: Your safari game is over!
+Announcer: You're out of Safari Balls! Game over!
+Announcer: You're out of Safari Balls! Game over!
+Balls: {1}
+Balls: {1}
+Steps: {1}/{2}<<n>>Balls: {3}
+Steps: {1}/{2}<<n>>Balls: {3}
+Quit
+Quit
+Would you like to leave the Safari Game right now?
+Would you like to leave the Safari Game right now?
+Bug Catcher Ed
+Bug Catcher Ed
+Bug Catcher Benny
+Bug Catcher Benny
+Bug Catcher Josh
+Bug Catcher Josh
+Camper Barry
+Camper Barry
+Cool Trainer Nick
+Cool Trainer Nick
+Lass Abby
+Lass Abby
+Picnicker Cindy
+Picnicker Cindy
+Youngster Samuel
+Youngster Samuel
+There are no Bug Contest/Land encounters for any Bug Contest maps.
+There are no Bug Contest/Land encounters for any Bug Contest maps.
+No encounters for map {1} somehow, so can't judge contest.
+No encounters for map {1} somehow, so can't judge contest.
+Too few bug-catching contestants
+Too few bug-catching contestants
+ANNOUNCER: BEEEEEP!
+ANNOUNCER: BEEEEEP!
+Time's up!
+Time's up!
+ANNOUNCER: The Bug-Catching Contest is over!
+ANNOUNCER:  The Bug-Catching Contest is over!
+Caught: {1}<<n>>Level: {2}<<n>>Balls: {3}
+Caught: {1}<<n>>Level: {2}<<n>>Balls: {3}
+Caught: None<<n>>Balls: {1}
+Caught: None<<n>>Balls: {1}
+Quit Contest
+Quit Contest
+Would you like to end the Contest now?
+Would you like to end the Contest now?
+Number of rounds is 0 or less.
+Number of rounds is 0 or less.
+Choose a battle.
+Choose a battle.
+RENTAL POKéMON
+RENTAL POKéMON
+POKéMON SWAP
+POKéMON SWAP
+Select Pokémon to swap.
+Select Pokémon to swap.
+{1} - {2} Pokémon
+{1} - {2} Pokémon
+Choose the first Pokémon.
+Choose the first Pokémon.
+Choose the second Pokémon.
+Choose the second Pokémon.
+Choose the third Pokémon.
+Choose the third Pokémon.
+PKMN FOR SWAP
+PKMN FOR SWAP
+Select Pokémon to accept.
+Select Pokémon to accept.
+DESELECT
+DESELECT
+RENT
+RENT
+OTHERS
+OTHERS
+Are these three Pokémon OK?
+Are these three Pokémon OK?
+SWAP
+SWAP
+RECHOOSE
+RECHOOSE
+Accept this Pokémon?
+Accept this Pokémon?
+Quit swapping?
+Quit swapping?
+{1} Pokémon are needed.
+{1} Pokémon are needed.
+{1} is not allowed.
+{1} is not allowed.
+This team is not allowed.
+This team is not allowed.
+Standard Cup
+Standard Cup
+Double Cup
+Double Cup
+Fancy Cup
+Fancy Cup
+Little Cup
+Little Cup
+Light Cup
+Light Cup
+No identical nicknames.
+No identical nicknames.
+Pokémon must be the same species.
+Pokémon must be the same species.
+Pokémon can't be the same species.
+Pokémon can't be the same species.
+The combined levels exceed {1}.
+The combined levels exceed {1}.
+No identical hold items.
+No identical hold items.
+Preparing to generate teams
+Preparing to generate teams
+Generating teams ({1} of {2})
+Generating teams ({1} of {2})
+Simulating battles ({1} of {2})
+Simulating battles ({1} of {2})
+Writing results
+Writing results
+Generate Pokémon teams for this challenge?
+Generate Pokémon teams for this challenge?
+YES
+YES
+NO
+NO
+YES, USE EXISTING
+YES, USE EXISTING
+YES, USE NEW
+YES, USE NEW
+Choose a challenge.
+Choose a challenge.
+This challenge will use the Pokémon list from {1}.
+This challenge will use the Pokémon list from {1}.
+This may take a long time. Are you sure?
+This may take a long time. Are you sure?
+Team generation complete.
+Team generation complete.
+Here I come!
+Here I come!
+Yes, I won!
+Yes, I won!
+Man, I lost!
+Man, I lost!
+Value {1} not defined by a constant in {2}
+Value {1} not defined by a constant in {2}
+LEARNED
+알고 있음
+Teach which Pokémon?
+어느 포켓몬에게 가르칠까?
+There's no more room for Pokémon!
+더 이상 포켓몬을 위한 공간이 없습니다!
+The Pokémon Boxes are full and can't accept any more!
+모든 포켓몬 박스가 가득 차서 더 이상 수용할 수 없습니다!
+{1} obtained {2}!
+{1}(은)는 {2}(을)를 얻었다!
+{1} received a Pokémon from {2}.
+{1}(은)는 {2}에게서 포켓몬을 받았다.
+{1} received a Pokémon.
+{1}(은)는 포켓몬을 받았다.
+The Pokémon's data was added to the Pokédex.
+포켓몬의 데이터가 도감에 등록되었습니다.
+A different file named '{1}' already exists. Overwrite it?
+다른 파일 '{1}' 가 감지되었습니다. 덮어쓸까요?
+Couldn't find class {1} in module GameData.
+Couldn't find class {1} in module GameData.
+This property can't be edited here at this time.
+This property can't be edited here at this time.
+This property cannot be edited.
+This property cannot be edited.
+Set the value for {1}.
+Set the value for {1}.
+Set the value for {1} (0-{2}).
+Set the value for {1} (0-{2}).
+Enable the setting {1}?
+Enable the setting {1}?
+True
+True
+False
+False
+Choose a value for {1}.
+Choose a value for {1}.
+<<[>>ADD VALUE<<]>>
+<<[>>ADD VALUE<<]>>
+Enter the new value.
+Enter the new value.
+Do what with this value?
+Do what with this value?
+Keep changes?
+Keep changes?
+Type {1} : {2}
+Type {1} : {2}
+Set the type(s) for this species.
+Set the type(s) for this species.
+Apply changes?
+Apply changes?
+Individual values for the Pokémon's {1} stat (0-{2}).
+Individual values for the Pokémon's {1} stat (0-{2}).
+Effort values for the Pokémon's {1} stat (0-{2}).
+Effort values for the Pokémon's {1} stat (0-{2}).
+Total EVs ({1}) are greater than allowed ({2}). Please reduce them.
+Total EVs ({1}) are greater than allowed ({2}). Please reduce them.
+Width
+Width
+The width of this map in Region Map squares.
+The width of this map in Region Map squares.
+Valid Squares
+Valid Squares
+A series of 1s and 0s marking which squares are part of this map (1=part, 0=not part).
+A series of 1s and 0s marking which squares are part of this map (1=part, 0=not part).
+Click a point on the map.
+Click a point on the map.
+Choose the direction to face in.
+Choose the direction to face in.
+Down
+Down
+Left
+Left
+Right
+Right
+Up
+Up
+No region maps are defined.
+No region maps are defined.
+Choose a region map.
+Choose a region map.
+Choose a weather effect.
+Choose a weather effect.
+Set the probability of the weather.
+Set the probability of the weather.
+Choose a pocket for this item.
+Choose a pocket for this item.
+No Pocket
+No Pocket
+Base {1}
+Base {1}
+Base {1} stat of the Pokémon.
+Base {1} stat of the Pokémon.
+{1} EVs
+{1} EVs
+Number of {1} Effort Value points gained from the Pokémon.
+Number of {1} Effort Value points gained from the Pokémon.
+Change value
+Change value
+<<[>>ADD MOVE<<]>>
+<<[>>ADD MOVE<<]>>
+Choose a level.
+Choose a level.
+Do what with this move?
+Do what with this move?
+Change level
+Change level
+Change move
+Change move
+Choose a new level.
+Choose a new level.
+Enter a value.
+Enter a value.
+Choose a parameter.
+Choose a parameter.
+<<[>>ADD EVOLUTION<<]>>
+<<[>>ADD EVOLUTION<<]>>
+{1}: {2}, {3}
+{1}: {2}, {3}
+Choose an evolved form, method and parameter.
+Choose an evolved form, method and parameter.
+Choose an evolution method.
+Choose an evolution method.
+Do what with this evolution?
+Do what with this evolution?
+Change species
+Change species
+Change method
+Change method
+Change parameter
+Change parameter
+This evolution method doesn't use a parameter.
+This evolution method doesn't use a parameter.
+Probability
+Probability
+Relative probability of choosing this slot.
+Relative probability of choosing this slot.
+A Pokémon species/form.
+A Pokémon species/form.
+Minimum level
+Minimum level
+Minimum level of this species (1-{1}).
+Minimum level of this species (1-{1}).
+Maximum level
+Maximum level
+Maximum level of this species (1-{1}).
+Maximum level of this species (1-{1}).
+Reset the setting {1}?
+Reset the setting {1}?
+There are no files.
+There are no files.
+<<[>>GLOBAL METADATA<<]>>
+<<[>>GLOBAL METADATA<<]>>
+Player {1}
+Player {1}
+<<[>>ADD NEW PLAYER<<]>>
+<<[>>ADD NEW PLAYER<<]>>
+<<[>>GLOBAL<<]>>
+<<[>>GLOBAL<<]>>
+<<[>>NEW SPECIES<<]>>
+<<[>>NEW SPECIES<<]>>
+<<[>>NEW ITEM<<]>>
+<<[>>NEW ITEM<<]>>
+<<[>>NEW TRAINER TYPE<<]>>
+<<[>>NEW TRAINER TYPE<<]>>
+<<[>>NEW TRAINER BATTLE<<]>>
+<<[>>NEW TRAINER BATTLE<<]>>
+{1} {2} ({3}) x{4}
+{1} {2} ({3}) x{4}
+{1} {2} x{3}
+{1} {2} x{3}
+Edit wild encounters
+Edit wild encounters
+<<[>>Add new encounter set<<]>>
+<<[>>Add new encounter set<<]>>
+Choose a map
+Choose a map
+version number
+version number
+A set of encounters for map {1} version {2} already exists.
+A set of encounters for map {1} version {2} already exists.
+Copy
+Copy
+Copy to which map?
+Copy to which map?
+Delete the encounter set for map {1} version {2}?
+Delete the encounter set for map {1} version {2}?
+Edit map's encounters
+Edit map's encounters
+Map ID={1} ({2})
+Map ID={1} ({2})
+Map ID={1}
+Map ID={1}
+Version={1}
+Version={1}
+{1} (x{2})
+{1} (x{2})
+<<[>>Add new encounter type<<]>>
+<<[>>Add new encounter type<<]>>
+Choose a new map
+Choose a new map
+There are no unused encounter types to add.
+There are no unused encounter types to add.
+Choose an encounter type to copy to.
+Choose an encounter type to copy to.
+There are no unused encounter types to copy to.
+There are no unused encounter types to copy to.
+Delete the encounter type {1}?
+Delete the encounter type {1}?
+Edit encounter slots
+Edit encounter slots
+Step chance={1}%
+Step chance={1}%
+Encounter type={1}
+Encounter type={1}
+<<[>>Add new slot<<]>>
+<<[>>Add new slot<<]>>
+Step chance
+Step chance
+Delete this encounter slot?
+Delete this encounter slot?
+Trainer Types
+Trainer Types
+The Trainer type was deleted.
+The Trainer type was deleted.
+Please enter the trainer type's name.
+Please enter the trainer type's name.
+Failed to create the trainer type. Choose a different name.
+Failed to create the trainer type. Choose a different name.
+Is the Trainer male, female or unknown?
+Is the Trainer male, female or unknown?
+Unknown
+Unknown
+Set the money per level won for defeating the Trainer.
+Set the money per level won for defeating the Trainer.
+The trainer type {1} was created (ID: {2}).
+The trainer type {1} was created (ID: {2}).
+Put the Trainer's graphic ({1}.png) in Graphics/Trainers, or it will be blank.
+Put the Trainer's graphic ({1}.png) in Graphics/Trainers, or it will be blank.
+Trainer Type
+Trainer Type
+Name of the trainer type for this Trainer.
+Name of the trainer type for this Trainer.
+Trainer Name
+Trainer Name
+Name of the Trainer.
+Name of the Trainer.
+Version
+Version
+Number used to distinguish Trainers with the same name and trainer type.
+Number used to distinguish Trainers with the same name and trainer type.
+Lose Text
+Lose Text
+Message shown in battle when the Trainer is defeated.
+Message shown in battle when the Trainer is defeated.
+Pokémon {1}
+Pokémon {1}
+A Pokémon owned by the Trainer.
+A Pokémon owned by the Trainer.
+Item {1}
+Item {1}
+An item used by the Trainer during battle.
+An item used by the Trainer during battle.
+Trainer Battles
+Trainer Battles
+The Trainer battle was deleted.
+The Trainer battle was deleted.
+Can't save. No trainer type was chosen.
+Can't save. No trainer type was chosen.
+Can't save. No name was entered.
+Can't save. No name was entered.
+Can't save. The Pokémon list is empty.
+Can't save. The Pokémon list is empty.
+First, define the new trainer's type.
+First, define the new trainer's type.
+Use existing type
+Use existing type
+Create new type
+Create new type
+TRAINER TYPE
+TRAINER TYPE
+Now enter the trainer's name.
+Now enter the trainer's name.
+There is no room to create a trainer of that type and name.
+There is no room to create a trainer of that type and name.
+The Trainer battle was added.
+The Trainer battle was added.
+Species of the Pokémon.
+Species of the Pokémon.
+Level
+Level
+Level of the Pokémon (1-{1}).
+Level of the Pokémon (1-{1}).
+Nickname of the Pokémon.
+Nickname of the Pokémon.
+Form
+Form
+Form of the Pokémon.
+Form of the Pokémon.
+Gender
+Gender
+Gender of the Pokémon.
+Gender of the Pokémon.
+Shiny
+Shiny
+If set to true, the Pokémon is a different-colored Pokémon.
+If set to true, the Pokémon is a different-colored Pokémon.
+SuperShiny
+SuperShiny
+Whether the Pokémon is super shiny (shiny with a special shininess animation).
+Whether the Pokémon is super shiny (shiny with a special shininess animation).
+Shadow
+Shadow
+If set to true, the Pokémon is a Shadow Pokémon.
+If set to true, the Pokémon is a Shadow Pokémon.
+Move {1}
+Move {1}
+A move known by the Pokémon. Leave all moves blank (use Z key to delete) for a wild moveset.
+A move known by the Pokémon. Leave all moves blank (use Z key to delete) for a wild moveset.
+Ability of the Pokémon. Overrides the ability index.
+Ability of the Pokémon. Overrides the ability index.
+Ability index
+Ability index
+Ability index. 0=first ability, 1=second ability, 2+=hidden ability.
+Ability index. 0=first ability, 1=second ability, 2+=hidden ability.
+Held item
+Held item
+Item held by the Pokémon.
+Item held by the Pokémon.
+Nature
+Nature
+Nature of the Pokémon.
+Nature of the Pokémon.
+IVs
+IVs
+Individual values for each of the Pokémon's stats.
+Individual values for each of the Pokémon's stats.
+EVs
+EVs
+Effort values for each of the Pokémon's stats.
+Effort values for each of the Pokémon's stats.
+Happiness
+Happiness
+Happiness of the Pokémon (0-255).
+Happiness of the Pokémon (0-255).
+Poké Ball
+Poké Ball
+The kind of Poké Ball the Pokémon is kept in.
+The kind of Poké Ball the Pokémon is kept in.
+SET METADATA
+SET METADATA
+Global Metadata
+Global Metadata
+Metadata for player character {1} was not found.
+Metadata for player character {1} was not found.
+The item was deleted.
+The item was deleted.
+Please enter the item's name.
+Please enter the item's name.
+Failed to create the item. Choose a different name.
+Failed to create the item. Choose a different name.
+Purchase price
+Purchase price
+Description
+Description
+The item {1} was created (ID: {2}).
+The item {1} was created (ID: {2}).
+Put the item's graphic ({1}.png) in Graphics/Items, or it will be blank.
+Put the item's graphic ({1}.png) in Graphics/Items, or it will be blank.
+Pokémon species
+Pokémon species
+The species was deleted.
+The species was deleted.
+Data saved.
+Data saved.
+Can't add a new species.
+Can't add a new species.
+Z+Up/Down: Rearrange entries<<n>>Z+Right: Insert new entry<<n>>Z+Left: Delete entry<<n>>D: Clear entry
+Z+Up/Down: Rearrange entries<<n>>Z+Right: Insert new entry<<n>>Z+Left: Delete entry<<n>>D: Clear entry
+Do what with this entry?
+Do what with this entry?
+Clear
+Clear
+Insert entry
+Insert entry
+Delete entry
+Delete entry
+Regional Dexes Editor
+Regional Dexes Editor
+Z+Up/Down: Rearrange Dexes
+Z+Up/Down: Rearrange Dexes
+<<[>>ADD DEX<<]>>
+<<[>>ADD DEX<<]>>
+Dex {1} (size {2})
+Dex {1} (size {2})
+Fill in this new Dex?
+Fill in this new Dex?
+Leave blank
+Leave blank
+National Dex
+National Dex
+Nat. Dex grouped families
+Nat. Dex grouped families
+Do what with this Dex?
+Do what with this Dex?
+No animations exist.
+No animations exist.
+Animations Organiser
+Animations Organiser
+Z+Up/Down: Swap<<n>>Z+Left: Delete<<n>>Z+Right: Insert
+Z+Up/Down: Swap<<n>>Z+Left: Delete<<n>>Z+Right: Insert
+Tileset Editor<<n>>A/S: SCROLL<<n>>Z: MENU
+Tileset Editor<<n>>A/S: SCROLL<<n>>Z: MENU
+Terrain Tag:
+Terrain Tag:
+Go to bottom
+Go to bottom
+Go to top
+Go to top
+Change tileset
+Change tileset
+To ensure that the changes remain, close and reopen RPG Maker XP.
+To ensure that the changes remain, close and reopen RPG Maker XP.
+Exit from the editor?
+Exit from the editor?
+Set the terrain tag.
+Set the terrain tag.
+D: Help
+D: Help
+A: Add map to canvas
+A: Add map to canvas
+DEL: Delete map from canvas
+DEL: Delete map from canvas
+S: Go to another map
+S: Go to another map
+Click to select a map
+Click to select a map
+Double-click: Edit map's metadata
+Double-click: Edit map's metadata
+Drag map to move it
+Drag map to move it
+Arrow keys/drag canvas: Move around canvas
+Arrow keys/drag canvas: Move around canvas
+D: Help [{1:03d}: {2:s}]
+D: Help [{1:03d}: {2:s}]
+Add Map
+Add Map
+Go to Map
+Go to Map
+Some metrics have been edited. Save changes?
+Some metrics have been edited. Save changes?
+Set Ally Position
+Set Ally Position
+Set Enemy Position
+Set Enemy Position
+Set Shadow Size
+Set Shadow Size
+Set Shadow Position
+Set Shadow Position
+Auto-Position Sprites
+Auto-Position Sprites
+{1} (form {2})
+{1} (form {2})
+Name: {1}
+Name: {1}
+Frame:
+Frame:
+Total Frames: {1}
+Total Frames: {1}
+Number of frames:
+Number of frames:
+Define Smooth Curve
+Define Smooth Curve
+Define Freehand Path
+Define Freehand Path
+Enter a filename.
+Enter a filename.
+Couldn't save the animation to {1}.
+Couldn't save the animation to {1}.
+Animation was saved to {1} in the game folder.
+Animation was saved to {1} in the game folder.
+It's a text file, so it can be transferred to others easily.
+It's a text file, so it can be transferred to others easily.
+The animation is invalid or could not be loaded.
+The animation is invalid or could not be loaded.
+The animation file {1} was not found. The animation will load anyway.
+The animation file {1} was not found. The animation will load anyway.
+Will convert animations now.
+Will convert animations now.
+{1} animations converted to new format.
+{1} animations converted to new format.
+Hue:
+Hue:
+Frames:
+Frames:
+New Name:
+New Name:
+Enter: Load/rename an animation<<n>>Esc: Cancel
+Enter: Load/rename an animation<<n>>Esc: Cancel
+Total Animations:
+Total Animations:
+Resize Animation List
+Resize Animation List
+Load Animation
+Load Animation
+Rename
+Rename
+Are you sure you want to delete this animation?
+Are you sure you want to delete this animation?
+Old Number: {1}
+Old Number: {1}
+New Number:
+New Number:
+Red Offset:
+Red Offset:
+Green Offset:
+Green Offset:
+Blue Offset:
+Blue Offset:
+Gray Tone:
+Gray Tone:
+Red:
+Red:
+Green:
+Green:
+Blue:
+Blue:
+Alpha:
+Alpha:
+Pattern:
+Pattern:
+X:
+X:
+Y:
+Y:
+Zoom X:
+Zoom X:
+Zoom Y:
+Zoom Y:
+Angle:
+Angle:
+Opacity:
+Opacity:
+Blending:
+Blending:
+Flip:
+Flip:
+Front
+Front
+Behind focus
+Behind focus
+Above focus
+Above focus
+Priority:
+Priority:
+Target
+Target
+User and target
+User and target
+Screen
+Screen
+Focus:
+Focus:
+Set Blending Color
+Set Blending Color
+Set Color Tone
+Set Color Tone
+Add: Play Sound...
+Add: Play Sound...
+Add: Set Background Graphic...
+Add: Set Background Graphic...
+Add: Edit Background Color/Location...
+Add: Edit Background Color/Location...
+Add: Set Foreground Graphic...
+Add: Set Foreground Graphic...
+Add: Edit Foreground Color/Location...
+Add: Edit Foreground Color/Location...
+Set Frame
+Set Frame
+Delete Timing
+Delete Timing
+<user's cry>
+<user's cry>
+<<[>>Play user's cry<<]>>
+<<[>>Play user's cry<<]>>
+File: "{1}"
+File: "{1}"
+Volume:
+Volume:
+Pitch:
+Pitch:
+Play Sound
+Play Sound
+Stop Sound
+Stop Sound
+<<[>>Erase background graphic<<]>>
+<<[>>Erase background graphic<<]>>
+Duration:
+Duration:
+First Frame:
+First Frame:
+Last Frame:
+Last Frame:
+Copy to:
+Copy to:
+Starting Frame:
+Starting Frame:
+Ending Frame:
+Ending Frame:
+First Cel:
+First Cel:
+Last Cel:
+Last Cel:
+Pattern
+Pattern
+Position/Zoom/Angle
+Position/Zoom/Angle
+Opacity/Blending
+Opacity/Blending
+X-Axis Movement
+X-Axis Movement
+Y-Axis Movement
+Y-Axis Movement
+SE and BG...
+SE and BG...
+Cel Focus...
+Cel Focus...
+Paste Last
+Paste Last
+Copy Frames...
+Copy Frames...
+Clear Frames...
+Clear Frames...
+Tweening...
+Tweening...
+Cel Batch...
+Cel Batch...
+Entire Slide...
+Entire Slide...
+Play Animation
+Play Animation
+Play Opp Anim
+Play Opp Anim
+Import Anim...
+Import Anim...
+Export Anim...
+Export Anim...
+Help
+Help
+Set Animation Sheet
+Set Animation Sheet
+List of Animations
+List of Animations
+Copy Frame
+Copy Frame
+Paste Frame
+Paste Frame
+Clear Frame
+Clear Frame
+Insert Frame
+Insert Frame
+Delete Frame
+Delete Frame
+Properties...
+Properties...
+Cut
+Cut
+Paste
+Paste
+Renumber...
+Renumber...
+Extrapolate Path...
+Extrapolate Path...
+Species: {1}
+Species: {1}
+Form: {1}
+Form: {1}
+Level {1}, {2}
+Level {1}, {2}
+genderless
+genderless
+shiny
+shiny
+HP: {1}/{2} ({3}%)
+HP: {1}/{2} ({3}%)
+Status: {1}
+Status: {1}
+({1} rounds left)
+({1} rounds left)
+(toxic, {1}/16)
+(toxic, {1}/16)
+Stat stages: {1}
+Stat stages: {1}
+Ability: {1}
+Ability: {1}
+Item: {1}
+Item: {1}
+(toxic)
+(toxic)
+Field options...
+Field options...
+Warp to maps, edit switches/variables, use the PC, edit Day Care, etc.
+Warp to maps, edit switches/variables, use the PC, edit Day Care, etc.
+Warp to map
+Warp to map
+Instantly warp to another map of your choice.
+Instantly warp to another map of your choice.
+Use PC
+Use PC
+Use a PC to access Pokémon storage and player's PC.
+Use a PC to access Pokémon storage and player's PC.
+Switches
+Switches
+Edit all Game Switches (except Script Switches).
+Edit all Game Switches (except Script Switches).
+Variables
+Variables
+Edit all Game Variables. Can set them to numbers or text.
+Edit all Game Variables. Can set them to numbers or text.
+Safari Zone and Bug-Catching Contest
+Safari Zone and Bug-Catching Contest
+Edit steps/time remaining and number of usable Poké Balls.
+Edit steps/time remaining and number of usable Poké Balls.
+Steps remaining: {1}
+Steps remaining: {1}
+infinite
+infinite
+Set the steps remaining in this Safari game.
+Set the steps remaining in this Safari game.
+Set the quantity of {1}.
+Set the quantity of {1}.
+{1:02d}m {2:02d}s
+{1:02d}m {2:02d}s
+Time remaining: {1}
+Time remaining: {1}
+Set the time remaining (in minutes) in this Bug-Catching Contest.
+Set the time remaining (in minutes) in this Bug-Catching Contest.
+You aren't in the Safari Zone or a Bug-Catching Contest!
+You aren't in the Safari Zone or a Bug-Catching Contest!
+Change field effects
+Change field effects
+Edit Repel steps, Strength and Flash usage, and Black/White Flute effects.
+Edit Repel steps, Strength and Flash usage, and Black/White Flute effects.
+Repel steps: {1}
+Repel steps: {1}
+Strength used
+Strength used
+Flash used
+Flash used
+Lower encounter rate
+Lower encounter rate
+Higher encounter rate
+Higher encounter rate
+Lower level wild Pokémon
+Lower level wild Pokémon
+Higher level wild Pokémon
+Higher level wild Pokémon
+Set the Pokémon's level.
+Set the Pokémon's level.
+You're not in a dark map!
+You're not in a dark map!
+Refresh map
+Refresh map
+Make all events on this map, and common events, refresh themselves.
+Make all events on this map, and common events, refresh themselves.
+The map will refresh.
+The map will refresh.
+Day Care
+Day Care
+View Pokémon in the Day Care and edit them.
+View Pokémon in the Day Care and edit them.
+Toggle storage wallpapers
+Toggle storage wallpapers
+Unlock and lock special wallpapers used in Pokémon storage.
+Unlock and lock special wallpapers used in Pokémon storage.
+There are no special wallpapers defined.
+There are no special wallpapers defined.
+Unlock all
+Unlock all
+Lock all
+Lock all
+Skip credits
+Skip credits
+Toggle whether credits can be ended early by pressing the Use input.
+Toggle whether credits can be ended early by pressing the Use input.
+Credits can be skipped when played in future.
+Credits can be skipped when played in future.
+Credits cannot be skipped when next played.
+Credits cannot be skipped when next played.
+Battle options...
+Battle options...
+Start battles, reset this map's trainers, ready rematches, edit roamers, etc.
+Start battles, reset this map's trainers, ready rematches, edit roamers, etc.
+Test wild battle
+Test wild battle
+Start a single battle against a wild Pokémon. You choose the species/level.
+Start a single battle against a wild Pokémon. You choose the species/level.
+Set the wild {1}'s level.
+Set the wild {1}'s level.
+Test wild battle advanced
+Test wild battle advanced
+Start a battle against 1 or more wild Pokémon. Battle size is your choice.
+Start a battle against 1 or more wild Pokémon. Battle size is your choice.
+<<[>>Add Pokémon<<]>>
+<<[>>Add Pokémon<<]>>
+<<[>>Set player side size<<]>>
+<<[>>Set player side size<<]>>
+<<[>>Start {1}v{2} battle<<]>>
+<<[>>Start {1}v{2} battle<<]>>
+No Pokémon were chosen, cannot start battle.
+No Pokémon were chosen, cannot start battle.
+You only have one Pokémon.
+You only have one Pokémon.
+Choose the number of battlers on the player's side (max. {1}).
+Choose the number of battlers on the player's side (max. {1}).
+Change this Pokémon?
+Change this Pokémon?
+Delete this Pokémon?
+Delete this Pokémon?
+Test trainer battle
+Test trainer battle
+Start a single battle against a trainer of your choice.
+Start a single battle against a trainer of your choice.
+SINGLE TRAINER
+SINGLE TRAINER
+Test trainer battle advanced
+Test trainer battle advanced
+Start a battle against 1 or more trainers with a battle size of your choice.
+Start a battle against 1 or more trainers with a battle size of your choice.
+<<[>>Add trainer<<]>>
+<<[>>Add trainer<<]>>
+<<[>>Set opponent side size<<]>>
+<<[>>Set opponent side size<<]>>
+No trainers were chosen, cannot start battle.
+No trainers were chosen, cannot start battle.
+Opposing side size is invalid. It should be at least {1}.
+Opposing side size is invalid. It should be at least {1}.
+Opposing side size cannot be {1}, as that requires the first trainer to have 2 or more Pokémon, which they don't.
+Opposing side size cannot be {1}, as that requires the first trainer to have 2 or more Pokémon, which they don't.
+No trainers were chosen or trainer only has one Pokémon.
+No trainers were chosen or trainer only has one Pokémon.
+Choose the number of battlers on the opponent's side (max. {1}).
+Choose the number of battlers on the opponent's side (max. {1}).
+CHOOSE A TRAINER
+CHOOSE A TRAINER
+Change this trainer?
+Change this trainer?
+Delete this trainer?
+Delete this trainer?
+Set wild encounters version
+Set wild encounters version
+Choose which version of wild encounters should be used.
+Choose which version of wild encounters should be used.
+Set encounters version to which value?
+Set encounters version to which value?
+Roaming Pokémon
+Roaming Pokémon
+Toggle and edit all roaming Pokémon.
+Toggle and edit all roaming Pokémon.
+Reset map's trainers
+Reset map's trainers
+Turn off Self Switches A and B for all events with "Trainer" in their name.
+Turn off Self Switches A and B for all events with "Trainer" in their name.
+All Trainers on this map were reset.
+All Trainers on this map were reset.
+This command can't be used here.
+This command can't be used here.
+Toggle Exp. All's effect
+Toggle Exp. All's effect
+Toggle Exp. All's effect of giving Exp. to non-participants.
+Toggle Exp. All's effect of giving Exp. to non-participants.
+Enabled Exp. All's effect.
+Enabled Exp. All's effect.
+Disabled Exp. All's effect.
+Disabled Exp. All's effect.
+Toggle logging of battle messages
+Toggle logging of battle messages
+Record debug logs for battles in Data/debuglog.txt.
+Record debug logs for battles in Data/debuglog.txt.
+Debug logs for battles will be made in the Data folder.
+Debug logs for battles will be made in the Data folder.
+Debug logs for battles will not be made.
+Debug logs for battles will not be made.
+Pokémon options...
+Pokémon options...
+Heal the party, give Pokémon, fill/empty PC storage, etc.
+Heal the party, give Pokémon, fill/empty PC storage, etc.
+Heal party
+Heal party
+Fully heal the HP/status/PP of all Pokémon in the party.
+Fully heal the HP/status/PP of all Pokémon in the party.
+Your Pokémon were fully healed.
+Your Pokémon were fully healed.
+Add Pokémon
+Add Pokémon
+Give yourself a Pokémon of a chosen species/level. Goes to PC if party is full.
+Give yourself a Pokémon of a chosen species/level. Goes to PC if party is full.
+Added {1} to party.
+Added {1} to party.
+Added {1} to Pokémon storage.
+Added {1} to Pokémon storage.
+Couldn't add Pokémon because party and storage are full.
+Couldn't add Pokémon because party and storage are full.
+Fill storage boxes
+Fill storage boxes
+Puts one Pokémon of each species (at Level 50) in storage.
+Puts one Pokémon of each species (at Level 50) in storage.
+Storage boxes were filled with one Pokémon of each species.
+Storage boxes were filled with one Pokémon of each species.
+Note: The number of storage spaces ({1} boxes of {2}) is less than the number of species.
+Note: The number of storage spaces ({1} boxes of {2}) is less than the number of species.
+Clear storage boxes
+Clear storage boxes
+Remove all Pokémon in storage.
+Remove all Pokémon in storage.
+The storage boxes were cleared.
+The storage boxes were cleared.
+Give demo party
+Give demo party
+Give yourself 6 preset Pokémon. They overwrite the current party.
+Give yourself 6 preset Pokémon. They overwrite the current party.
+Filled party with demo Pokémon.
+Filled party with demo Pokémon.
+Quick hatch all party eggs
+Quick hatch all party eggs
+Make all eggs in the party require just one more step to hatch.
+Make all eggs in the party require just one more step to hatch.
+All eggs in your party now require one step to hatch.
+All eggs in your party now require one step to hatch.
+Access Pokémon storage
+Access Pokémon storage
+Opens the Pokémon storage boxes in Organize Boxes mode.
+Opens the Pokémon storage boxes in Organize Boxes mode.
+Shadow Pokémon options...
+Shadow Pokémon options...
+Snag Machine and purification.
+Snag Machine and purification.
+Toggle Snag Machine
+Toggle Snag Machine
+Toggle all Poké Balls being able to catch Shadow Pokémon.
+Toggle all Poké Balls being able to catch Shadow Pokémon.
+Gave the Snag Machine.
+Gave the Snag Machine.
+Lost the Snag Machine.
+Lost the Snag Machine.
+Toggle Purify Chamber access
+Toggle Purify Chamber access
+Toggle access to the Purify Chamber via the PC.
+Toggle access to the Purify Chamber via the PC.
+The Purify Chamber is accessible.
+The Purify Chamber is accessible.
+The Purify Chamber is not accessible.
+The Purify Chamber is not accessible.
+Use Purify Chamber
+Use Purify Chamber
+Open the Purify Chamber for Shadow Pokémon purification.
+Open the Purify Chamber for Shadow Pokémon purification.
+Use Relic Stone
+Use Relic Stone
+Choose a Shadow Pokémon to show to the Relic Stone for purification.
+Choose a Shadow Pokémon to show to the Relic Stone for purification.
+Item options...
+Item options...
+Give and take items.
+Give and take items.
+Add item
+Add item
+Choose an item and a quantity of it to add to the Bag.
+Choose an item and a quantity of it to add to the Bag.
+ADD ITEM
+ADD ITEM
+Add how many {1}?
+Add how many {1}?
+Gave {1}x {2}.
+Gave {1}x {2}.
+Fill Bag
+Fill Bag
+Empties the Bag and then fills it with a certain number of every item.
+Empties the Bag and then fills it with a certain number of every item.
+Choose the number of items.
+Choose the number of items.
+The Bag was filled with {1} of each item.
+The Bag was filled with {1} of each item.
+Empty Bag
+Empty Bag
+Remove all items from the Bag.
+Remove all items from the Bag.
+The Bag was cleared.
+The Bag was cleared.
+Player options...
+Player options...
+Set money, badges, Pokédexes, player's appearance and name, etc.
+Set money, badges, Pokédexes, player's appearance and name, etc.
+Set money
+Set money
+Edit how much money, Game Corner Coins and Battle Points you have.
+Edit how much money, Game Corner Coins and Battle Points you have.
+Money: ${1}
+Money: ${1}
+Battle Points: {1}
+Battle Points: {1}
+Set the player's money.
+Set the player's money.
+Set the player's Coin amount.
+Set the player's Coin amount.
+Set the player's BP amount.
+Set the player's BP amount.
+Set Gym Badges
+Set Gym Badges
+Toggle possession of each Gym Badge.
+Toggle possession of each Gym Badge.
+Give all
+Give all
+Remove all
+Remove all
+Badge {1}
+Badge {1}
+Toggle running shoes
+Toggle running shoes
+Toggle possession of running shoes.
+Toggle possession of running shoes.
+Gave Running Shoes.
+Gave Running Shoes.
+Lost Running Shoes.
+Lost Running Shoes.
+Toggle Pokédex and Regional Dexes
+Toggle Pokédex and Regional Dexes
+Toggle possession of the Pokédex, and edit Regional Dex accessibility.
+Toggle possession of the Pokédex, and edit Regional Dex accessibility.
+Have Pokédex: {1}
+Have Pokédex: {1}
+Toggle Pokégear
+Toggle Pokégear
+Toggle possession of the Pokégear.
+Toggle possession of the Pokégear.
+Gave Pokégear.
+Gave Pokégear.
+Lost Pokégear.
+Lost Pokégear.
+Edit phone and contacts
+Edit phone and contacts
+Edit properties of the phone and of contacts registered in it.
+Edit properties of the phone and of contacts registered in it.
+The phone is not defined.
+The phone is not defined.
+Time until next call: {1}m {2}s
+Time until next call: {1}m {2}s
+Rematches possible
+Rematches possible
+Maximum rematch version : {1}
+Maximum rematch version : {1}
+Make all contacts ready for a rematch
+Make all contacts ready for a rematch
+Edit individual contacts: {1}
+Edit individual contacts: {1}
+Set the time (in minutes) until the next phone call.
+Set the time (in minutes) until the next phone call.
+Set the maximum version number a trainer contact can reach.
+Set the maximum version number a trainer contact can reach.
+All trainers in the phone are now ready to rebattle.
+All trainers in the phone are now ready to rebattle.
+Contact visible
+Contact visible
+Can battle
+Can battle
+Time until ready to battle: {1}m {2}s
+Time until ready to battle: {1}m {2}s
+Last defeated version: {1}
+Last defeated version: {1}
+Set the time (in minutes) until this trainer is ready to battle.
+Set the time (in minutes) until this trainer is ready to battle.
+Set the last defeated version number of this trainer.
+Set the last defeated version number of this trainer.
+Toggle access to storage from party screen
+Toggle access to storage from party screen
+Toggle Box Link's effect of accessing Pokémon storage via the party screen.
+Toggle Box Link's effect of accessing Pokémon storage via the party screen.
+Enabled access to storage from the party screen.
+Enabled access to storage from the party screen.
+Disabled access to storage from the party screen.
+Disabled access to storage from the party screen.
+Set player character
+Set player character
+Edit the player's character, as defined in "metadata.txt".
+Edit the player's character, as defined in "metadata.txt".
+There is only one player character defined.
+There is only one player character defined.
+The player character was changed.
+The player character was changed.
+Set player outfit
+Set player outfit
+Edit the player's outfit number.
+Edit the player's outfit number.
+Set the player's outfit.
+Set the player's outfit.
+Player's outfit was changed.
+Player's outfit was changed.
+Set player name
+Set player name
+Rename the player.
+Rename the player.
+Give yourself a default name?
+Give yourself a default name?
+The player's name remained {1}.
+The player's name remained {1}.
+The player's name was changed to {1}.
+The player's name was changed to {1}.
+Randomize player ID
+Randomize player ID
+Generate a random new ID for the player.
+Generate a random new ID for the player.
+The player's ID was changed to {1} (full ID: {2}).
+The player's ID was changed to {1} (full ID: {2}).
+PBS file editors...
+PBS file editors...
+Edit information in the PBS files.
+Edit information in the PBS files.
+Edit map_connections.txt
+Edit map_connections.txt
+Connect maps using a visual interface. Can also edit map encounters/metadata.
+Connect maps using a visual interface. Can also edit map encounters/metadata.
+Edit encounters.txt
+Edit encounters.txt
+Edit the wild Pokémon that can be found on maps, and how they are encountered.
+Edit the wild Pokémon that can be found on maps, and how they are encountered.
+Edit trainers.txt
+Edit trainers.txt
+Edit individual trainers, their Pokémon and items.
+Edit individual trainers, their Pokémon and items.
+Edit trainer_types.txt
+Edit trainer_types.txt
+Edit the properties of trainer types.
+Edit the properties of trainer types.
+Edit map_metadata.txt
+Edit map_metadata.txt
+Edit map metadata.
+Edit map metadata.
+Edit metadata.txt
+Edit metadata.txt
+Edit global metadata and player character metadata.
+Edit global metadata and player character metadata.
+Edit items.txt
+Edit items.txt
+Edit item data.
+Edit item data.
+Edit pokemon.txt
+Edit pokemon.txt
+Edit Pokémon species data.
+Edit Pokémon species data.
+Edit pokemon_metrics.txt
+Edit pokemon_metrics.txt
+Reposition Pokémon sprites in battle.
+Reposition Pokémon sprites in battle.
+Auto-set pokemon_metrics.txts
+Auto-set pokemon_metrics.txts
+Automatically reposition all Pokémon sprites in battle. Don't use lightly.
+Automatically reposition all Pokémon sprites in battle. Don't use lightly.
+Are you sure you want to reposition all sprites?
+Are you sure you want to reposition all sprites?
+Repositioning all sprites. Please wait.
+Repositioning all sprites. Please wait.
+Edit regional_dexes.txt
+Edit regional_dexes.txt
+Create, rearrange and delete Regional Pokédex lists.
+Create, rearrange and delete Regional Pokédex lists.
+Other editors...
+Other editors...
+Edit battle animations, terrain tags, map data, etc.
+Edit battle animations, terrain tags, map data, etc.
+Battle animation editor
+Battle animation editor
+Edit the battle animations.
+Edit the battle animations.
+Battle animation organiser
+Battle animation organiser
+Rearrange/add/delete battle animations.
+Rearrange/add/delete battle animations.
+Import all battle animations
+Import all battle animations
+Import all battle animations from the "Animations" folder.
+Import all battle animations from the "Animations" folder.
+Export all battle animations
+Export all battle animations
+Export all battle animations individually to the "Animations" folder.
+Export all battle animations individually to the "Animations" folder.
+Edit terrain tags
+Edit terrain tags
+Edit the terrain tags of tiles in tilesets. Required for tags 8+.
+Edit the terrain tags of tiles in tilesets. Required for tags 8+.
+Fix invalid tiles
+Fix invalid tiles
+Scans all maps and erases non-existent tiles.
+Scans all maps and erases non-existent tiles.
+Files options...
+Files options...
+Compile, generate PBS files, translations, Mystery Gifts, etc.
+Compile, generate PBS files, translations, Mystery Gifts, etc.
+Compile data
+Compile data
+Fully compile all data.
+Fully compile all data.
+All game data was compiled.
+All game data was compiled.
+Create PBS file(s)
+Create PBS file(s)
+Choose one or all PBS files and create it.
+Choose one or all PBS files and create it.
+<<[>>Create all<<]>>
+<<[>>Create all<<]>>
+File written.
+File written.
+Rename outdated files
+Rename outdated files
+Check for files with outdated names and rename/move them. Can alter map data.
+Check for files with outdated names and rename/move them. Can alter map data.
+Are you sure you want to automatically rename outdated files?
+Are you sure you want to automatically rename outdated files?
+Done.
+Done.
+Extract text for translation
+Extract text for translation
+Extract all text in the game to text files for translating.
+Extract all text in the game to text files for translating.
+No languages are defined in the LANGUAGES array in Settings.
+No languages are defined in the LANGUAGES array in Settings.
+You need to add at least one language to LANGUAGES first, to choose which one to extract text for.
+You need to add at least one language to LANGUAGES first, to choose which one to extract text for.
+Choose a language to extract text for.
+Choose a language to extract text for.
+Game-specific text
+Game-specific text
+Core text
+Core text
+How many text files should map event texts be extracted to?
+How many text files should map event texts be extracted to?
+One big file
+One big file
+One file per map
+One file per map
+Compile translated text
+Compile translated text
+Import text files and convert them into a language file.
+Import text files and convert them into a language file.
+No language folders found to compile.
+No language folders found to compile.
+Language folders must be named "Text_SOMETHING_core" or "Text_SOMETHING_game" and be in the root folder.
+Language folders must be named "Text_SOMETHING_core" or "Text_SOMETHING_game" and be in the root folder.
+Choose a language folder to compile.
+Choose a language folder to compile.
+Manage Mystery Gifts
+Manage Mystery Gifts
+Edit and enable/disable Mystery Gifts.
+Edit and enable/disable Mystery Gifts.
+Reload system cache
+Reload system cache
+Refreshes the system's file cache. Use if you change a file while playing.
+Refreshes the system's file cache. Use if you change a file while playing.
+WARP TO MAP
+WARP TO MAP
+Set variable {1}.
+Set variable {1}.
+{1} ({2})
+{1} ({2})
+Lv.{1} (+{2})
+Lv.{1} (+{2})
+Lv.{1}
+Lv.{1}
+<<[>>Slot {1}<<]>> {2}
+<<[>>Slot {1}<<]>> {2}
+<<[>>Slot {1}<<]>> Empty
+<<[>>Slot {1}<<]>> Empty
+<<[>>Egg available<<]>>
+<<[>>Egg available<<]>>
+<<[>>Can produce egg<<]>>
+<<[>>Can produce egg<<]>>
+<<[>>Cannot breed<<]>>
+<<[>>Cannot breed<<]>>
+<<[>>Steps to next cycle: {1}<<]>>
+<<[>>Steps to next cycle: {1}<<]>>
+Pokémon cannot breed.
+Pokémon cannot breed.
+Pokémon can breed (compatibility = {1}).
+Pokémon can breed (compatibility = {1}).
+Collect egg
+Collect egg
+Clear egg
+Clear egg
+Party is full, can't collect the egg.
+Party is full, can't collect the egg.
+Collected the {1} egg.
+Collected the {1} egg.
+Make egg available
+Make egg available
+Change number of steps to next cycle?
+Change number of steps to next cycle?
+Set to 1
+Set to 1
+Set to 256
+Set to 256
+Set to other value
+Set to other value
+Set steps until next cycle (1-256).
+Set steps until next cycle (1-256).
+Cost: ${1}
+Cost: ${1}
+Steps to next level: {1}
+Steps to next level: {1}
+Party is full, can't withdraw Pokémon.
+Party is full, can't withdraw Pokémon.
+This slot is empty.
+This slot is empty.
+Deposit
+Deposit
+Party is empty, can't deposit Pokémon.
+Party is empty, can't deposit Pokémon.
+<<[>>All roam to new locations<<]>>
+<<[>>All roam to new locations<<]>>
+<<[>>Clear all current roamer locations<<]>>
+<<[>>Clear all current roamer locations<<]>>
+All animations were extracted and saved to the Animations folder.
+All animations were extracted and saved to the Animations folder.
+There are no animations to export.
+There are no animations to export.
+The export failed.
+The export failed.
+There are no animations to import. Put each animation in a folder within the Animations folder.
+There are no animations to import. Put each animation in a folder within the Animations folder.
+All animations were imported.
+All animations were imported.
+Checking {1} maps for invalid tiles
+Checking {1} maps for invalid tiles
+{1} error tile(s) found on map {2}: {3}.
+{1} error tile(s) found on map {2}: {3}.
+Done. No errors found.
+Done. No errors found.
+No invalid tiles were found.
+No invalid tiles were found.
+Done. {1} errors found and fixed.
+Done. {1} errors found and fixed.
+RMXP data was altered. Close RMXP now to ensure changes are applied.
+RMXP data was altered. Close RMXP now to ensure changes are applied.
+{1} error(s) were found across {2} map(s) and fixed.
+{1} error(s) were found across {2} map(s) and fixed.
+Close RPG Maker XP to ensure the changes are applied properly.
+Close RPG Maker XP to ensure the changes are applied properly.
+Battlers...
+Battlers...
+Look at Pokémon in battle and change their properties.
+Look at Pokémon in battle and change their properties.
+Player-side battlers
+Player-side battlers
+Edit Pokémon on the player's side of battle.
+Edit Pokémon on the player's side of battle.
+Foe-side battlers
+Foe-side battlers
+Edit Pokémon on the opposing side of battle.
+Edit Pokémon on the opposing side of battle.
+View battler speed order
+View battler speed order
+Show all battlers in order from fastest to slowest.
+Show all battlers in order from fastest to slowest.
+Battlers are listed from fastest to slowest. Speeds include modifiers.
+Battlers are listed from fastest to slowest. Speeds include modifiers.
+Pokémon teams
+Pokémon teams
+Look at and edit all Pokémon in each team.
+Look at and edit all Pokémon in each team.
+Opponent {1}: {2} ({3} Pokémon)
+Opponent {1}: {2} ({3} Pokémon)
+Opponent: {1} wild Pokémon
+Opponent: {1} wild Pokémon
+You: {1} ({2} Pokémon)
+You: {1} ({2} Pokémon)
+Ally {1}: {2} ({3} Pokémon)
+Ally {1}: {2} ({3} Pokémon)
+Choose a team.
+Choose a team.
+Trainer options...
+Trainer options...
+Variables that apply to trainers.
+Variables that apply to trainers.
+NPC trainer items
+NPC trainer items
+View and change the items each NPC trainer has access to.
+View and change the items each NPC trainer has access to.
+Opponent {1}: {2} ({3} items)
+Opponent {1}: {2} ({3} items)
+Ally {1}: {2} ({3} items)
+Ally {1}: {2} ({3} items)
+There are no NPC trainers in this battle.
+There are no NPC trainers in this battle.
+Choose a trainer.
+Choose a trainer.
+Mega Evolution
+Mega Evolution
+Whether each trainer is allowed to Mega Evolve.
+Whether each trainer is allowed to Mega Evolve.
+Choose trainer to toggle whether they can Mega Evolve.
+Choose trainer to toggle whether they can Mega Evolve.
+Field effects...
+Field effects...
+Effects that apply to the whole battlefield.
+Effects that apply to the whole battlefield.
+Weather
+Weather
+Set weather and duration.
+Set weather and duration.
+Current weather: {1}
+Current weather: {1}
+Duration : {1} more round(s)
+Duration : {1} more round(s)
+Duration : Infinite
+Duration : Infinite
+Change type
+Change type
+Change duration
+Change duration
+Clear weather
+Clear weather
+Choose the new weather type.
+Choose the new weather type.
+There is no weather.
+There is no weather.
+Choose the new weather duration (0=infinite).
+Choose the new weather duration (0=infinite).
+Terrain
+Terrain
+Set terrain and duration.
+Set terrain and duration.
+Current terrain: {1}
+Current terrain: {1}
+Clear terrain
+Clear terrain
+Choose the new terrain type.
+Choose the new terrain type.
+There is no terrain.
+There is no terrain.
+Choose the new terrain duration (0=infinite).
+Choose the new terrain duration (0=infinite).
+Environment/time
+Environment/time
+Set the battle's environment and time of day.
+Set the battle's environment and time of day.
+Environment: {1}
+Environment: {1}
+Time of day: {1}
+Time of day: {1}
+Day
+Day
+Evening
+Evening
+Night
+Night
+Change environment
+Change environment
+Change time of day
+Change time of day
+Choose the new environment.
+Choose the new environment.
+Choose the new time.
+Choose the new time.
+Backdrop names
+Backdrop names
+Set the names of the backdrop and base graphics.
+Set the names of the backdrop and base graphics.
+Set which backdrop name?
+Set which backdrop name?
+Backdrop
+Backdrop
+Base modifier
+Base modifier
+Set the backdrop's name.
+Set the backdrop's name.
+Set the base modifier text.
+Set the base modifier text.
+Other field effects...
+Other field effects...
+View/set other effects that apply to the whole battlefield.
+View/set other effects that apply to the whole battlefield.
+Player's side effects...
+Player's side effects...
+Effects that apply to the side the player is on.
+Effects that apply to the side the player is on.
+Foe's side effects...
+Foe's side effects...
+Effects that apply to the opposing side.
+Effects that apply to the opposing side.
+Battler position effects...
+Battler position effects...
+Effects that apply to individual battler positions.
+Effects that apply to individual battler positions.
+(empty)
+(empty)
+(yours)
+(yours)
+(opposing)
+(opposing)
+(ally's)
+(ally's)
+Choose a battler position.
+Choose a battler position.
+HP/status...
+HP/status...
+Set HP
+Set HP
+{1} is an egg.
+{1} is an egg.
+Can't change HP, {1}'s maximum HP is 1 and it's in battle.
+Can't change HP, {1}'s maximum HP is 1 and it's in battle.
+Set {1}'s HP ({2}-{3}).
+Set {1}'s HP ({2}-{3}).
+Set status
+Set status
+{1} is fainted, can't change status.
+{1} is fainted, can't change status.
+<<[>>Cure<<]>>
+<<[>>Cure<<]>>
+Set {1}
+Set {1}
+Current status: {1}
+Current status: {1}
+(turns: {1})
+(turns: {1})
+(toxic, count: {1})
+(toxic, count: {1})
+Set {1}'s sleep count (0-99).
+Set {1}'s sleep count (0-99).
+Make {1} badly poisoned (toxic)?
+Make {1} badly poisoned (toxic)?
+Set {1}'s toxic count (0-16).
+Set {1}'s toxic count (0-16).
+Heal HP and status
+Heal HP and status
+Stats/level...
+Stats/level...
+Set stat stages
+Set stat stages
+<<[>>Reset all<<]>>
+<<[>>Reset all<<]>>
+Choose a stat stage to change.
+Choose a stat stage to change.
+Set the stage for {1}.
+Set the stage for {1}.
+Set stat values
+Set stat values
+Choose a stat value to change.
+Choose a stat value to change.
+Set level
+Set level
+Set the Pokémon's level (max. {1}).
+Set the Pokémon's level (max. {1}).
+Set Exp
+Set Exp
+{1} is at the maximum level.
+{1} is at the maximum level.
+Set the Pokémon's Exp (range {1}-{2}).
+Set the Pokémon's Exp (range {1}-{2}).
+EV/IV...
+EV/IV...
+Choose hidden values to edit.
+Choose hidden values to edit.
+Set EVs
+Set EVs
+Set IVs
+Set IVs
+Randomise all
+Randomise all
+Max randomise all
+Max randomise all
+Change which EV?<<n>>Total: {1}/{2} ({3}%)
+Change which EV?<<n>>Total: {1}/{2} ({3}%)
+Set the EV for {1} (max. {2}).
+Set the EV for {1} (max. {2}).
+Change which IV?<<n>>Hidden Power: {1}, power {2}<<n>>Total: {3}/{4} ({5}%)
+Change which IV?<<n>>Hidden Power: {1}, power {2}<<n>>Total: {3}/{4} ({5}%)
+Set the IV for {1} (max. 31).
+Set the IV for {1} (max. 31).
+Set happiness
+Set happiness
+Set the Pokémon's happiness (max. 255).
+Set the Pokémon's happiness (max. 255).
+Set types
+Set types
+Type {1}: {2}
+Type {1}: {2}
+Extra type: {1}
+Extra type: {1}
+Effective types: {1}
+Effective types: {1}
+(Change a type to itself to remove it.)
+(Change a type to itself to remove it.)
+Remove this type?
+Remove this type?
+Moves...
+Moves...
+Teach move
+Teach move
+{1} already knows {2} moves. It needs to forget one first.
+{1} already knows {2} moves. It needs to forget one first.
+Forget move
+Forget move
+Forget which move?
+Forget which move?
+{1} forgot {2}.
+{1} forgot {2}.
+Set move PP
+Set move PP
+Restore all PP
+Restore all PP
+Alter PP of which move?
+Alter PP of which move?
+{1} has infinite PP.
+{1} has infinite PP.
+{1}: PP {2}/{3} (PP Up {4}/3)
+{1}: PP {2}/{3} (PP Up {4}/3)
+Set PP
+Set PP
+Full PP
+Full PP
+Set PP Up
+Set PP Up
+Set PP of {1} (max. {2}).
+Set PP of {1} (max. {2}).
+Set PP Up of {1} (max. 3).
+Set PP Up of {1} (max. 3).
+Reset moves
+Reset moves
+Replace Pokémon's moves with ones it would know if it was wild?
+Replace Pokémon's moves with ones it would know if it was wild?
+{1}'s moves were reset.
+{1}'s moves were reset.
+Set item
+Set item
+Change item
+Change item
+Remove item
+Remove item
+Item is {1}.
+Item is {1}.
+No item.
+No item.
+Text
+Text
+Set ability
+Set ability
+Set ability for Pokémon
+Set ability for Pokémon
+Set ability for battler
+Set ability for battler
+Battler's ability is {1}. Pokémon's ability is {2}.
+Battler's ability is {1}. Pokémon's ability is {2}.
+Pokémon's ability is {1}.
+Pokémon's ability is {1}.
+This Pokémon isn't in battle.
+This Pokémon isn't in battle.
+Set nature
+Set nature
+{1} (---)
+{1} (---)
+{1} (+{2}, -{3})
+{1} (+{2}, -{3})
+<<[>>Reset<<]>>
+<<[>>Reset<<]>>
+Nature is {1}.
+Nature is {1}.
+Set gender
+Set gender
+{1} is single-gendered or genderless.
+{1} is single-gendered or genderless.
+Gender is male.
+Gender is male.
+Gender is female.
+Gender is female.
+Make male
+Make male
+Make female
+Make female
+{1}'s gender couldn't be changed.
+{1}'s gender couldn't be changed.
+Set form
+Set form
+Unnamed form
+Unnamed form
+Species {1} only has one form.
+Species {1} only has one form.
+Form is {1}.
+Form is {1}.
+This species decides its own form. Override?
+This species decides its own form. Override?
+Set species
+Set species
+Set shininess
+Set shininess
+Is shiny.
+Is shiny.
+Is super shiny.
+Is super shiny.
+Is normal (not shiny).
+Is normal (not shiny).
+Make shiny
+Make shiny
+Make super shiny
+Make super shiny
+Make normal
+Make normal
+Shadow Pokémon
+Shadow Pokémon
+Shadow Pokémon (in Hyper Mode)
+Shadow Pokémon (in Hyper Mode)
+Shadow Pokémon (not in Hyper Mode)
+Shadow Pokémon (not in Hyper Mode)
+Toggle Hyper Mode
+Toggle Hyper Mode
+Pokémon is fainted or not the player's. Can't put it in Hyper Mode.
+Pokémon is fainted or not the player's. Can't put it in Hyper Mode.
+Pokémon is not a Shadow Pokémon.
+Pokémon is not a Shadow Pokémon.
+Set effects
+Set effects
+<<[>>None<<]>>
+<<[>>None<<]>>
+Set value ({1}-{2}).
+Set value ({1}-{2}).
+Choose a battler/position.
+Choose a battler/position.
+Set {1}'s HP (max. {2}).
+Set {1}'s HP (max. {2}).
+Current status: {1} (turns: {2})
+Current status: {1} (turns: {2})
+Set the Pokémon's sleep count.
+Set the Pokémon's sleep count.
+Fully heal
+Fully heal
+{1} was fully healed.
+{1} was fully healed.
+Make fainted
+Make fainted
+Set Pokérus
+Set Pokérus
+{1} doesn't have Pokérus.
+{1} doesn't have Pokérus.
+Has strain {1}, infectious for {2} more days.
+Has strain {1}, infectious for {2} more days.
+Has strain {1}, not infectious.
+Has strain {1}, not infectious.
+Give random strain
+Give random strain
+Make not infectious
+Make not infectious
+Clear Pokérus
+Clear Pokérus
+Level/stats...
+Level/stats...
+EV/IV/personal ID...
+EV/IV/personal ID...
+Personal ID is {1}.
+Personal ID is {1}.
+Randomise pID
+Randomise pID
+Change which IV?<<n>>Hidden Power:<<n>>{1}, power {2}<<n>>Total: {3}/{4} ({5}%)
+Change which IV?<<n>>Hidden Power:<<n>>{1}, power {2}<<n>>Total: {3}/{4} ({5}%)
+Contest stats...
+Contest stats...
+Set Beauty
+Set Beauty
+Set the Pokémon's Beauty (max. 255).
+Set the Pokémon's Beauty (max. 255).
+Set Cool
+Set Cool
+Set the Pokémon's Cool (max. 255).
+Set the Pokémon's Cool (max. 255).
+Set Cute
+Set Cute
+Set the Pokémon's Cute (max. 255).
+Set the Pokémon's Cute (max. 255).
+Set Smart
+Set Smart
+Set the Pokémon's Smart (max. 255).
+Set the Pokémon's Smart (max. 255).
+Set Tough
+Set Tough
+Set the Pokémon's Tough (max. 255).
+Set the Pokémon's Tough (max. 255).
+Set Sheen
+Set Sheen
+Set the Pokémon's Sheen (max. 255).
+Set the Pokémon's Sheen (max. 255).
+Choose move to forget.
+Choose move to forget.
+Reset initial moves
+Reset initial moves
+{1}'s moves were set as its first-known moves.
+{1}'s moves were set as its first-known moves.
+Set possible ability
+Set possible ability
+Set any ability
+Set any ability
+Ability is {1} (index {2}).
+Ability is {1} (index {2}).
+No ability (index {1}).
+No ability (index {1}).
+Choose an ability.
+Choose an ability.
+Species/form...
+Species/form...
+Species {1}, form {2}.
+Species {1}, form {2}.
+Species {1}, form {2} (forced).
+Species {1}, form {2} (forced).
+Remove form override
+Remove form override
+Do you want to reset the form to 0?
+Do you want to reset the form to 0?
+Set the Pokémon's form.
+Set the Pokémon's form.
+Cosmetic info...
+Cosmetic info...
+Set Poké Ball
+Set Poké Ball
+{1} used.
+{1} used.
+Set ribbons
+Set ribbons
+Clear all
+Clear all
+{1} ribbons.
+{1} ribbons.
+Set nickname
+Set nickname
+{1} has the nickname {2}.
+{1} has the nickname {2}.
+{1} has no nickname.
+{1} has no nickname.
+Erase name
+Erase name
+Ownership...
+Ownership...
+Player's Pokémon<<n>>{1}<<n>>{2}<<n>>{3} ({4})
+Player's Pokémon<<n>>{1}<<n>>{2}<<n>>{3} ({4})
+Foreign Pokémon<<n>>{1}<<n>>{2}<<n>>{3} ({4})
+Foreign Pokémon<<n>>{1}<<n>>{2}<<n>>{3} ({4})
+Make player's
+Make player's
+Set OT's name
+Set OT's name
+Set OT's gender
+Set OT's gender
+Random foreign ID
+Random foreign ID
+Set foreign ID
+Set foreign ID
+{1}'s OT's name?
+{1}'s OT's name?
+Set OT's gender.
+Set OT's gender.
+Set the new ID (max. 65535).
+Set the new ID (max. 65535).
+Set discardable
+Set discardable
+Click option to toggle.
+Click option to toggle.
+Cannot store
+Cannot store
+Can store
+Can store
+Cannot release
+Cannot release
+Can release
+Can release
+Cannot trade
+Cannot trade
+Can trade
+Can trade
+Set egg
+Set egg
+Not an egg
+Not an egg
+Egg (hatches in {1} steps).
+Egg (hatches in {1} steps).
+Make egg
+Make egg
+Make Pokémon
+Make Pokémon
+Set steps left to 1
+Set steps left to 1
+{1} cannot legally be an egg. Make egg anyway?
+{1} cannot legally be an egg. Make egg anyway?
+Shadow Pkmn...
+Shadow Pkmn...
+Not a Shadow Pokémon.
+Not a Shadow Pokémon.
+Heart gauge is {1} (stage {2}).
+Heart gauge is {1} (stage {2}).
+Make Shadow
+Make Shadow
+Set heart gauge
+Set heart gauge
+{1} is already a Shadow Pokémon.
+{1} is already a Shadow Pokémon.
+Set the heart gauge (max. {1}).
+Set the heart gauge (max. {1}).
+{1} is not a Shadow Pokémon.
+{1} is not a Shadow Pokémon.
+Duplicate
+Duplicate
+Are you sure you want to copy this Pokémon?
+Are you sure you want to copy this Pokémon?
+The Pokémon was duplicated.
+The Pokémon was duplicated.
+The duplicated Pokémon was moved to your party.
+The duplicated Pokémon was moved to your party.
+The duplicated Pokémon was moved to box "{1}."
+The duplicated Pokémon was moved to box "{1}."
+Are you sure you want to delete this Pokémon?
+Are you sure you want to delete this Pokémon?
+Renaming berry tree charsets...
+Renaming berry tree charsets...
+Checking {1} maps for used berry tree charsets...
+Checking {1} maps for used berry tree charsets...
+Map {1}: '{2}' was modified and saved.
+Map {1}: '{2}' was modified and saved.
+Updating file names and locations
+Updating file names and locations
+Berry plant charset files were renamed.
+Berry plant charset files were renamed.
+Finished updating file names and locations
+Finished updating file names and locations
+File {1}, section {2}<<n>>{3}
+File {1}, section {2}<<n>>{3}
+File {1}, section {2}, key {3}<<n>>{4}
+File {1}, section {2}, key {3}<<n>>{4}
+File {1}, line {2}<<n>>{3}
+File {1}, line {2}<<n>>{3}
+Expected a section at the beginning of the file. This error may also occur if the file was not saved in UTF-8.<<n>>{1}
+Expected a section at the beginning of the file. This error may also occur if the file was not saved in UTF-8.<<n>>{1}
+Expected a section at the beginning of the file (line {1}). Sections begin with '[name of section]'.
+Expected a section at the beginning of the file (line {1}). Sections begin with '[name of section]'.
+Invalid quoted field (in: {1})<<n>>{2}
+Invalid quoted field (in: {1})<<n>>{2}
+Field {1} is not a Boolean value (true, false, 1, 0)<<n>>{2}
+Field {1} is not a Boolean value (true, false, 1, 0)<<n>>{2}
+Field {1} is not an integer<<n>>{2}
+Field {1} is not an integer<<n>>{2}
+Field {1} is not a positive integer<<n>>{2}
+Field {1} is not a positive integer<<n>>{2}
+Field {1} is not a number<<n>>{2}
+Field {1} is not a number<<n>>{2}
+Field {1} is not a positive integer or 0<<n>>{2}
+Field {1} is not a positive integer or 0<<n>>{2}
+Field '{1}' must be greater than 0<<n>>{2}
+Field '{1}' must be greater than 0<<n>>{2}
+Field '{1}' is not a hexadecimal number<<n>>{2}
+Field '{1}' is not a hexadecimal number<<n>>{2}
+Field '{1}' must contain only letters, digits, and<<n>>underscores and can't begin with a number.<<n>>{2}
+Field '{1}' must contain only letters, digits, and<<n>>underscores and can't begin with a number.<<n>>{2}
+Undefined value {1} in {2}<<n>>{3}
+Undefined value {1} in {2}<<n>>{3}
+Incorrect value {1} in {2}<<n>>{3}
+Incorrect value {1} in {2}<<n>>{3}
+Undefined value {1} (expected one of: {2})<<n>>{3}
+Undefined value {1} (expected one of: {2})<<n>>{3}
+Enumeration not defined<<n>>{1}
+Enumeration not defined<<n>>{1}
+Field '{1}' must be 0 or greater<<n>>{2}
+Field '{1}' must be 0 or greater<<n>>{2}
+Field {1} is not a floating point number<<n>>{2}
+Field {1} is not a floating point number<<n>>{2}
+Undefined item constant name: {1}<<n>>Make sure the item is defined in PBS/items.txt.<<n>>{2}
+Undefined item constant name: {1}<<n>>Make sure the item is defined in PBS/items.txt.<<n>>{2}
+Undefined species constant name: {1}<<n>>Make sure the species is defined in PBS/pokemon.txt.<<n>>{2}
+Undefined species constant name: {1}<<n>>Make sure the species is defined in PBS/pokemon.txt.<<n>>{2}
+Undefined move constant name: {1}<<n>>Make sure the move is defined in PBS/moves.txt.<<n>>{2}
+Undefined move constant name: {1}<<n>>Make sure the move is defined in PBS/moves.txt.<<n>>{2}
+Undefined nature constant name: {1}<<n>>Make sure the nature is defined in the scripts.<<n>>{2}
+Undefined nature constant name: {1}<<n>>Make sure the nature is defined in the scripts.<<n>>{2}
+Undefined Trainer type constant name: {1}<<n>>Make sure the trainer type is defined in PBS/trainer_types.txt.<<n>>{2}
+Undefined Trainer type constant name: {1}<<n>>Make sure the trainer type is defined in PBS/trainer_types.txt.<<n>>{2}
+Compiling PBS file `{1}`...
+Compiling PBS file `{1}`...
+Writing PBS file `{1}`...
+Writing PBS file `{1}`...
+Checking game data
+Checking game data
+Game data was not compiled
+Game data was not compiled
+Saving messages...
+Saving messages...
+Successfully compiled all game data
+Successfully compiled all game data
+Section name '{1}' is used twice.<<n>>{2}
+Section name '{1}' is used twice.<<n>>{2}
+Warning: Map {1}, as mentioned in the map connection data, was not found.<<n>>{2}
+Warning: Map {1}, as mentioned in the map connection data, was not found.<<n>>{2}
+North side of first map must connect with south side of second map<<n>>{1}
+North side of first map must connect with south side of second map<<n>>{1}
+South side of first map must connect with north side of second map<<n>>{1}
+South side of first map must connect with north side of second map<<n>>{1}
+East side of first map must connect with west side of second map<<n>>{1}
+East side of first map must connect with west side of second map<<n>>{1}
+West side of first map must connect with east side of second map<<n>>{1}
+West side of first map must connect with east side of second map<<n>>{1}
+'{1}' is not a defined type ({2}, section {3}, Weaknesses).
+'{1}' is not a defined type ({2}, section {3}, Weaknesses).
+'{1}' is not a defined type ({2}, section {3}, Resistances).
+'{1}' is not a defined type ({2}, section {3}, Resistances).
+'{1}' is not a defined type ({2}, section {3}, Immunities).
+'{1}' is not a defined type ({2}, section {3}, Immunities).
+Move {1} is defined as a Status move with a non-zero base damage.<<n>>{2}
+Move {1} is defined as a Status move with a non-zero base damage.<<n>>{2}
+Warning: Move {1} is defined as Physical or Special but has a base damage of 0. Changing it to a Status move.<<n>>{2}
+Warning: Move {1} is defined as Physical or Special but has a base damage of 0. Changing it to a Status move.<<n>>{2}
+Undefined species ID '{1}'.<<n>>{3}
+Undefined species ID '{1}'.<<n>>{3}
+Form {1} for species ID {2} is defined twice.<<n>>{3}
+Form {1} for species ID {2} is defined twice.<<n>>{3}
+Dex list number {1} is defined at least twice.<<n>>{2}
+Dex list number {1} is defined at least twice.<<n>>{2}
+Expected a section at the beginning of the file.<<n>>{1}
+Expected a section at the beginning of the file.<<n>>{1}
+Dex list number {1} has species {2} listed twice.<<n>>{3}
+Dex list number {1} has species {2} listed twice.<<n>>{3}
+Expected a species entry line for encounter type {1} for map '{2}', got "{3}" instead.<<n>>{4}
+Expected a species entry line for encounter type {1} for map '{2}', got "{3}" instead.<<n>>{4}
+Level number {1} is not valid (max. {2}).<<n>>{3}
+Level number {1} is not valid (max. {2}).<<n>>{3}
+Minimum level is greater than maximum level: {1}<<n>>{2}
+Minimum level is greater than maximum level: {1}<<n>>{2}
+Encounters for map '{1}' are defined twice.<<n>>{2}
+Encounters for map '{1}' are defined twice.<<n>>{2}
+Expected a map number, got "{1}" instead.<<n>>{2}
+Expected a map number, got "{1}" instead.<<n>>{2}
+Undefined encounter type "{1}" for map '{2}'.<<n>>{3}
+Undefined encounter type "{1}" for map '{2}'.<<n>>{3}
+Pokémon hasn't been defined yet!<<n>>{1}
+Pokémon hasn't been defined yet!<<n>>{1}
+Trainer with ID {1} has no Pokémon.<<n>>{2}
+Trainer with ID {1} has no Pokémon.<<n>>{2}
+Invalid Pokémon level {1} (must be 1-{2}).<<n>>{3}
+Invalid Pokémon level {1} (must be 1-{2}).<<n>>{3}
+Invalid Pokémon nickname: {1} (must be 1-{2} characters).<<n>>{3}
+Invalid Pokémon nickname: {1} (must be 1-{2} characters).<<n>>{3}
+Invalid IV: {1} (must be 0-{2}).<<n>>{3}
+Invalid IV: {1} (must be 0-{2}).<<n>>{3}
+Invalid EV: {1} (must be 0-{2}).<<n>>{3}
+Invalid EV: {1} (must be 0-{2}).<<n>>{3}
+Invalid EV set (must sum to {1} or less).<<n>>{2}
+Invalid EV set (must sum to {1} or less).<<n>>{2}
+Bad happiness: {1} (must be 0-255).<<n>>{2}
+Bad happiness: {1} (must be 0-255).<<n>>{2}
+Value {1} isn't a defined Poké Ball.<<n>>{2}
+Value {1} isn't a defined Poké Ball.<<n>>{2}
+No trainer data file given in section {1}.<<n>>{2}
+No trainer data file given in section {1}.<<n>>{2}
+Global metadata ID '{1}' is used twice.<<n>>{2}
+Global metadata ID '{1}' is used twie.<<n>>{2}
+Player metadata ID '{1}' is used twice.<<n>>{2}
+Player metadata ID '{1}' is used twice.<<n>>{2}
+The entry 'Home' is required in metadata.txt section 0.<<n>>{1}
+The entry 'Home' is required in metadata.txt section 0.<<n>>{1}
+Global metadata is not defined in metadata.txt but should be.<<n>>{1}
+Global metadata is not defined in metadata.txt but should be.<<n>>{1}
+Metadata for player character 1 is not defined in metadata.txt but should be.<<n>>{1}
+Metadata for player character 1 is not defined in metadata.txt but should be.<<n>>{1}
+Version {1} of dungeon area {2} is defined twice.<<n>>{3}
+Version {1} of dungeon area {2} is defined twice.<<n>>{3}
+Compiling animations...
+Compiling animations...
+See the documentation on the wiki to learn how to edit this file.
+See the documentation on the wiki to learn how to edit this file.
+Writing all PBS files
+Writing all PBS files
+Successfully rewrote all PBS files
+Successfully rewrote all PBS files
+{1} new map(s) copied to the Data folder were successfully imported.
+{1} new map(s) copied to the Data folder were successfully imported.
+Here you go!
+Here you go!
+You have no room left in the Bag.
+You have no room left in the Bag.
+\GHere you go!
+\GHere you go!
+\GYou have no room left in the Bag.
+\GYou have no room left in the Bag.
+\GYou don't have enough money.
+\GYou don't have enough money.
+Processing {1} maps...
+Processing {1} maps...
+Processing common events...
+Processing common events...

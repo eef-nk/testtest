@@ -1,0 +1,710 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ITEM_NAME_PLURALS]
+가라르위시
+가라르위시
+테라버스
+테라버스
+Black Augurites
+Black Augurites
+Peat Blocks
+Peat Blocks
+Linking Cords
+Linking Cords
+Adamant Crystals
+Adamant Crystals
+Lustrous Globes
+Lustrous Globes
+Legend Plates
+Legend Plates
+Blank Plates
+Blank Plates
+Hopo Berries
+Hopo Berries
+Griseous Cores
+Griseous Cores
+Feather Balls
+Feather Balls
+Wing Balls
+Wing Balls
+Jet Balls
+Jet Balls
+Leaden Balls
+Leaden Balls
+Gigaton Balls
+Gigaton Balls
+Origin Balls
+Origin Balls
+Strange Balls
+Strange Balls
+Auspicious Armors
+Auspicious Armors
+Malicious Armors
+Malicious Armors
+Scroll of Darkness
+Scroll of Darkness
+Scroll of Waters
+Scroll of Waters
+Leader's Crests
+Leader's Crests
+Booster Energies
+Booster Energies
+Ability Shields
+Ability Shields
+Clear Amulets
+Clear Amulets
+Mirror Herbs
+Mirror Herbs
+Punching Gloves
+Punching Gloves
+Covert Cloaks
+Covert Cloaks
+Loaded Dices
+Loaded Dices
+Gimmighoul Coins
+Gimmighoul Coins
+Tiny Bamboo Shoots
+Tiny Bamboo Shoots
+Big Bamboo Shoots
+Big Bamboo Shoots
+Rotom Phones
+Rotom Phones
+Scarlet Books
+Scarlet Books
+Violet Books
+Violet Books
+Health Mochi
+Health Mochi
+Muscle Mochi
+Muscle Mochi
+Resist Mochi
+Resist Mochi
+Genius Mochi
+Genius Mochi
+Clever Mochi
+Clever Mochi
+Swift Mochi
+Swift Mochi
+Fresh-Start Mochi
+Fresh-Start Mochi
+Fairy Feathers
+Fairy Feathers
+Syrupy Apples
+Syrupy Apples
+Unremarkable Teacups
+Unremarkable Teacups
+Masterpiece Teacups
+Masterpiece Teacups
+Wellspring Masks
+Wellspring Masks
+Hearthflame Masks
+Hearthflame Masks
+Cornerstone Masks
+Cornerstone Masks
+Teal Masks
+Teal Masks
+Metal Alloys
+Metal Alloys
+Indigo Disks
+Indigo Disks
+Mythical Pecha Berries
+Mythical Pecha Berries
+Synchro Machines
+Synchro Machines
+Meteorites
+Meteorites
+Briar's Books
+Briar's Books
+TM001s
+TM001s
+TM002s
+TM002s
+TM003s
+TM003s
+TM004s
+TM004s
+TM005s
+TM005s
+TM006s
+TM006s
+TM007s
+TM007s
+TM008s
+TM008s
+TM009s
+TM009s
+TM010s
+TM010s
+TM011s
+TM011s
+TM012s
+TM012s
+TM013s
+TM013s
+TM014s
+TM014s
+TM015s
+TM015s
+TM016s
+TM016s
+TM017s
+TM017s
+TM018s
+TM018s
+TM019s
+TM019s
+TM020s
+TM020s
+TM021s
+TM021s
+TM022s
+TM022s
+TM023s
+TM023s
+TM024s
+TM024s
+TM025s
+TM025s
+TM026s
+TM026s
+TM027s
+TM027s
+TM028s
+TM028s
+TM029s
+TM029s
+TM030s
+TM030s
+TM031s
+TM031s
+TM032s
+TM032s
+TM033s
+TM033s
+TM034s
+TM034s
+TM035s
+TM035s
+TM036s
+TM036s
+TM037s
+TM037s
+TM038s
+TM038s
+TM039s
+TM039s
+TM040s
+TM040s
+TM041s
+TM041s
+TM042s
+TM042s
+TM043s
+TM043s
+TM044s
+TM044s
+TM045s
+TM045s
+TM046s
+TM046s
+TM047s
+TM047s
+TM048s
+TM048s
+TM049s
+TM049s
+TM050s
+TM050s
+TM051s
+TM051s
+TM052s
+TM052s
+TM053s
+TM053s
+TM054s
+TM054s
+TM055s
+TM055s
+TM056s
+TM056s
+TM057s
+TM057s
+TM058s
+TM058s
+TM059s
+TM059s
+TM060s
+TM060s
+TM061s
+TM061s
+TM062s
+TM062s
+TM063s
+TM063s
+TM064s
+TM064s
+TM065s
+TM065s
+TM066s
+TM066s
+TM067s
+TM067s
+TM068s
+TM068s
+TM069s
+TM069s
+TM070s
+TM070s
+TM071s
+TM071s
+TM072s
+TM072s
+TM073s
+TM073s
+TM074s
+TM074s
+TM075s
+TM075s
+TM076s
+TM076s
+TM077s
+TM077s
+TM078s
+TM078s
+TM079s
+TM079s
+TM080s
+TM080s
+TM081s
+TM081s
+TM082s
+TM082s
+TM083s
+TM083s
+TM084s
+TM084s
+TM085s
+TM085s
+TM086s
+TM086s
+TM087s
+TM087s
+TM088s
+TM088s
+TM089s
+TM089s
+TM090s
+TM090s
+TM091s
+TM091s
+TM092s
+TM092s
+TM093s
+TM093s
+TM094s
+TM094s
+TM095s
+TM095s
+TM096s
+TM096s
+TM097s
+TM097s
+TM098s
+TM098s
+TM099s
+TM099s
+TM101s
+TM101s
+TM102s
+TM102s
+TM103s
+TM103s
+TM104s
+TM104s
+TM105s
+TM105s
+TM106s
+TM106s
+TM107s
+TM107s
+TM108s
+TM108s
+TM109s
+TM109s
+TM110s
+TM110s
+TM111s
+TM111s
+TM112s
+TM112s
+TM113s
+TM113s
+TM114s
+TM114s
+TM115s
+TM115s
+TM116s
+TM116s
+TM117s
+TM117s
+TM118s
+TM118s
+TM119s
+TM119s
+TM120s
+TM120s
+TM121s
+TM121s
+TM122s
+TM122s
+TM123s
+TM123s
+TM124s
+TM124s
+TM125s
+TM125s
+TM126s
+TM126s
+TM127s
+TM127s
+TM128s
+TM128s
+TM129s
+TM129s
+TM130s
+TM130s
+TM131s
+TM131s
+TM132s
+TM132s
+TM133s
+TM133s
+TM134s
+TM134s
+TM135s
+TM135s
+TM136s
+TM136s
+TM137s
+TM137s
+TM138s
+TM138s
+TM139s
+TM139s
+TM140s
+TM140s
+TM141s
+TM141s
+TM142s
+TM142s
+TM143s
+TM143s
+TM144s
+TM144s
+TM145s
+TM145s
+TM146s
+TM146s
+TM147s
+TM147s
+TM148s
+TM148s
+TM149s
+TM149s
+TM150s
+TM150s
+TM151s
+TM151s
+TM152s
+TM152s
+TM153s
+TM153s
+TM154s
+TM154s
+TM155s
+TM155s
+TM156s
+TM156s
+TM157s
+TM157s
+TM158s
+TM158s
+TM159s
+TM159s
+TM160s
+TM160s
+TM161s
+TM161s
+TM162s
+TM162s
+TM163s
+TM163s
+TM164s
+TM164s
+TM165s
+TM165s
+TM166s
+TM166s
+TM167s
+TM167s
+TM168s
+TM168s
+TM169s
+TM169s
+TM170s
+TM170s
+TM172s
+TM172s
+TM173s
+TM173s
+TM174s
+TM174s
+TM175s
+TM175s
+TM176s
+TM176s
+TM177s
+TM177s
+TM178s
+TM178s
+TM179s
+TM179s
+TM180s
+TM180s
+TM181s
+TM181s
+TM182s
+TM182s
+TM183s
+TM183s
+TM184s
+TM184s
+TM185s
+TM185s
+TM186s
+TM186s
+TM187s
+TM187s
+TM188s
+TM188s
+TM189s
+TM189s
+TM190s
+TM190s
+TM191s
+TM191s
+TM192s
+TM192s
+TM193s
+TM193s
+TM194s
+TM194s
+TM195s
+TM195s
+TM196s
+TM196s
+TM197s
+TM197s
+TM198s
+TM198s
+TM199s
+TM199s
+TM200s
+TM200s
+TM201s
+TM201s
+TM202s
+TM202s
+TM203s
+TM203s
+TM204s
+TM204s
+TM205s
+TM205s
+TM206s
+TM206s
+TM207s
+TM207s
+TM208s
+TM208s
+TM209s
+TM209s
+TM210s
+TM210s
+TM211s
+TM211s
+TM212s
+TM212s
+TM213s
+TM213s
+TM214s
+TM214s
+TM215s
+TM215s
+TM216s
+TM216s
+TM217s
+TM217s
+TM218s
+TM218s
+TM219s
+TM219s
+TM220s
+TM220s
+TM221s
+TM221s
+TM222s
+TM222s
+TM223s
+TM223s
+TM224s
+TM224s
+TM225s
+TM225s
+TM226s
+TM226s
+TM227s
+TM227s
+TM228s
+TM228s
+TM229s
+TM229s
+Berry Pots
+Berry Pots
+Dynamax Bands
+Dynamax Bands
+Wishing Stars
+Wishing Stars
+Dynamax Candies
+Dynamax Candies
+Dynamax Candies XL
+Dynamax Candies XL
+Max Soups
+Max Soups
+Mark Charms
+Mark Charms
+Tera Orbs
+Tera Orbs
+Normal Tera Shards
+Normal Tera Shards
+Fire Tera Shards
+Fire Tera Shards
+Water Tera Shards
+Water Tera Shards
+Electric Tera Shards
+Electric Tera Shards
+Grass Tera Shards
+Grass Tera Shards
+Ice Tera Shards
+Ice Tera Shards
+Fighting Tera Shards
+Fighting Tera Shards
+Poison Tera Shards
+Poison Tera Shards
+Ground Tera Shards
+Ground Tera Shards
+Flying Tera Shards
+Flying Tera Shards
+Psychic Tera Shards
+Psychic Tera Shards
+Bug Tera Shards
+Bug Tera Shards
+Rock Tera Shards
+Rock Tera Shards
+Ghost Tera Shards
+Ghost Tera Shards
+Dragon Tera Shards
+Dragon Tera Shards
+Dark Tera Shards
+Dark Tera Shards
+Steel Tera Shards
+Steel Tera Shards
+Fairy Tera Shards
+Fairy Tera Shards
+Stellar Tera Shards
+Stellar Tera Shards
+Mystery Tera Jewels
+Mystery Tera Jewels
+Master Tera Jewels
+Master Tera Jewels
+Radiant Tera Jewels
+Radiant Tera Jewels
+Glimmering Charms
+Glimmering Charms
+Z-Rings
+Z-Rings
+Z-Power Rings
+Z-Power Rings
+Z-Boosters
+Z-Boosters
+Normalium Z
+Normalium Z
+Fightinium Z
+Fightinium Z
+Flyinium Z
+Flyinium Z
+Poisonium Z
+Poisonium Z
+Groundium Z
+Groundium Z
+Rockium Z
+Rockium Z
+Buginium Z
+Buginium Z
+Ghostium Z
+Ghostium Z
+Steelium Z
+Steelium Z
+Firium Z
+Firium Z
+Waterium Z
+Waterium Z
+Grassium Z
+Grassium Z
+Electrium Z
+Electrium Z
+Psychium Z
+Psychium Z
+Icium Z
+Icium Z
+Dragonium Z
+Dragonium Z
+Darkinium Z
+Darkinium Z
+Fairium Z
+Fairium Z
+Pikanium Z
+Pikanium Z
+Pikashunium Z
+Pikashunium Z
+Aloraichium Z
+Aloraichium Z
+Eevium Z
+Eevium Z
+Snorlium Z
+Snorlium Z
+Mewnium Z
+Mewnium Z
+Decidium Z
+Decidium Z
+Incinium Z
+Incinium Z
+Primarium Z
+Primarium Z
+Lycanium Z
+Lycanium Z
+Mimikium Z
+Mimikium Z
+Kommonium Z
+Kommonium Z
+Tapunium Z
+Tapunium Z
+Solganium Z
+Solganium Z
+Lunalium Z
+Lunalium Z
+Marshadium Z
+Marshadium Z
+Ultranecrozium Z
+Ultranecrozium Z

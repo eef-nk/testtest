@@ -1,0 +1,76 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[QUEST_STAGES]
+Look for clues.
+Look for clues.
+Follow the trail.
+Follow the trail.
+Catch the troublemakers!
+Catch the troublemakers!
+A
+A
+B
+B
+C
+C
+D
+D
+E
+E
+F
+F
+G
+G
+H
+H
+I
+I
+J
+J
+K
+K
+L
+L
+Turning over a new leaf... literally!
+Turning over a new leaf... literally!
+Help your neighbours.
+Help your neighbours.
+Meet your friends near Acuity Lake.
+Meet your friends near Acuity Lake.
+Deliver the parcel to the Pokémon Mart in Viridian City.
+Deliver the parcel to the Pokémon Mart in Viridian City.
+Return to the Professor.
+Return to the Professor.
+Make contact with the strange creatures.
+Make contact with the strange creatures.
+Listen to the musician's
+Listen to the musician's
+uhh
+uhh
+music.
+music.
+Find the source of the power outage.
+Find the source of the power outage.
+Listen to The Duck Song.
+Listen to The Duck Song.
+Try not to sing it all day.
+Try not to sing it all day.
+I've run out of things to write.
+I've run out of things to write.
+If you're reading this
+If you're reading this
+I hope you have a great day!
+I hope you have a great day!
+When IS this list going to end?
+When IS this list going to end?
+123
+123
+456
+456
+789
+789
+Fight for the last of the food.
+Fight for the last of the food.
+Don't die.
+Don't die.

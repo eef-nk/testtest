@@ -1,0 +1,364 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[MOVE_NAMES]
+Dire Claw
+페이탈클로
+Springtide Storm
+봄의폭풍
+Raging Fury
+대격분
+Wave Crash
+웨이브태클
+Chloroblast
+클로로블래스트
+Mountain Gale
+빙산바람
+Headlong Rush
+들이받기
+Barb Barrage
+독침천발
+Esper Wing
+오라윙
+Bitter Malice
+천추지한
+Triple Arrows
+3연화살
+Bleakwind Storm
+찬바람폭풍
+Wildbolt Storm
+번개폭풍
+Sandsear Storm
+열사의폭풍
+Lunar Blessing
+초승달의기도
+Psyshield Bash
+배리어러시
+Power Shift
+파워시프트
+Stone Axe
+암석액스
+Mystical Power
+신비의힘
+Victory Dance
+승리의춤
+Shelter
+농성
+Infernal Parade
+백귀야행
+Ceaseless Edge
+비검천중파
+Take Heart
+브레이브차지
+Aqua Cutter
+아쿠아커터
+Aqua Step
+아쿠아스텝
+Armor Cannon
+아머캐논
+Axe Kick
+발꿈치찍기
+Bitter Blade
+원념의칼
+Blazing Torque
+번액셀
+Chilling Water
+찬물끼얹기
+Chilly Reception
+썰렁개그
+Collision Course
+액셀브레이크
+Combat Torque
+파이트액셀
+Comeuppance
+앙갚음
+Doodle
+베껴그리기
+Double Shock
+전광쌍격
+Electro Drift
+라이트닝드라이브
+Fillet Away
+제살깎기
+Flower Trick
+트릭플라워
+Gigaton Hammer
+거대해머
+Glaive Rush
+대검돌격
+Hyper Drill
+하이퍼드릴
+Ice Spinner
+아이스스피너
+Jet Punch
+제트펀치
+Kowtow Cleave
+도각참
+Last Respects
+성묘
+Lumina Crash
+루미나콜리전
+Magical Torque
+매지컬액셀
+Make It Rain
+골드러시
+Mortal Spin
+킬러스핀
+Noxious Torque
+포이즌액셀
+Order Up
+한판내기
+Population Bomb
+찍찍베기
+Pounce
+달려들기
+Rage Fist
+분노의주먹
+Raging Bull
+레이징불
+Revival Blessing
+회생의기도
+Ruination
+카타스트로피
+Salt Cure
+소금절이
+Shed Tail
+꼬리자르기
+Silk Trap
+스레드트랩
+Snowscape
+설경
+Spicy Extract
+하바네로엑기스
+Spin Out
+휠스핀
+Tidy Up
+정리정돈
+Torch Song
+플레어송
+Trailblaze
+개척하기
+Triple Dive
+트리플다이브
+Twin Beam
+트윈빔
+Wicked Torque
+다크액셀
+Hydro Steam
+하이드로스팀
+Psyblade
+사이코블레이드
+Blood Moon
+블러드문
+Matcha Gotcha
+휘적휘적포
+Syrup Bomb
+시럽봄
+Ivy Cudgel
+덩굴방망이
+Electro Shot
+일렉트로빔
+Tera Starstorm
+테라클러스터
+Fickle Beam
+변덕레이저
+Burning Bulwark
+화염의수호
+Thunderclap
+질풍신뢰
+Mighty Cleave
+파워풀에지
+Tachyon Cutter
+타키온커터
+Hard Press
+하드프레스
+Dragon Cheer
+드래곤옐
+Alluring Voice
+매혹의보이스
+Temper Flare
+열불내기
+Supercell Slam
+썬더다이브
+Psychic Noise
+사이코노이즈
+Upper Hand
+기선제압
+Malignant Chain
+악독사슬
+Max Guard
+다이월
+Max Knuckle
+다이너클
+Max Steelspike
+다이스틸
+Max Ooze
+다이애시드
+Max Quake
+다이어스
+Max Airstream
+다이제트
+Max Wyrmwind
+다이드라군
+Max Phantasm
+다이할로우
+Max Flutterby
+다이웜
+Max Darkness
+다이아크
+Max Strike
+다이어택
+Max Flare
+다이번
+Max Geyser
+다이스트림
+Max Rockfall
+다이록
+Max Hailstorm
+다이아이스
+Max Overgrowth
+다이그래스
+Max Lightning
+다이썬더
+Max Starfall
+다이페어리
+Max Mindstorm
+다이사이코
+G-Max Vine Lash
+거다이편달
+G-Max Wildfire
+거다이옥염
+G-Max Cannonade
+거다이포격
+G-Max Volcalith
+거다이분석
+G-Max Drum Solo
+거다이난타
+G-Max Fireball
+거다이화염구
+G-Max Hydrosnipe
+거다이저격
+G-Max Volt Crash
+거다이만뢰
+G-Max Malodor
+거다이악취
+G-Max Stun Shock
+거다이감전
+G-Max Befuddle
+거다이고혹
+G-Max Smite
+거다이천벌
+G-Max Cuddle
+거다이포옹
+G-Max Gold Rush
+거다이금화
+G-Max Stonesurge
+거다이암진
+G-Max Steelsurge
+거다이강철진
+G-Max Centiferno
+거다이백화
+G-Max Sandblast
+거다이사진
+G-Max Foam Burst
+거다이포말
+G-Max Wind Rage
+거다이풍격
+G-Max Gravitas
+거다이천도
+G-Max Finale
+거다이단원
+G-Max Sweetness
+거다이감로
+G-Max Tartness
+거다이산격
+G-Max Replenish
+거다이재생
+G-Max Depletion
+거다이감쇠
+G-Max Resonance
+거다이선율
+G-Max Chi Strike
+거다이회심격
+G-Max Terror
+거다이환영
+G-Max Snooze
+거다이수마
+G-Max Meltdown
+거다이융격
+G-Max One Blow
+거다이일격
+G-Max Rapid Flow
+거다이연격
+Tera Blast
+테라버스트
+Breakneck Blitz
+울트라대시어택
+All-Out Pummeling
+전력무쌍격렬권
+Supersonic Skystrike
+파이널다이브클래시
+Acid Downpour
+애시드포이즌딜리트
+Tectonic Rage
+라이징랜드오버
+Continental Crush
+월즈엔드폴
+Savage Spin-Out
+절대포식회전참
+Never-Ending Nightmare
+무한암야로의유인
+Corkscrew Crash
+초월나선연격
+Inferno Overdrive
+다이내믹풀플레임
+Hydro Vortex
+슈퍼아쿠아토네이도
+Bloom Doom
+블룸샤인엑스트라
+Gigavolt Havoc
+스파킹기가볼트
+Shattered Psyche
+맥시멈사이브레이커
+Subzero Slammer
+레이징지오프리즈
+Devastating Drake
+얼티메이트드래곤번
+Black Hole Eclipse
+블랙홀이클립스
+Twinkle Tackle
+러블리스타임팩트
+Catastropika
+필살피카슛
+10_000_000 Volt Thunderbolt
+1000만볼트
+Stoked Sparksurfer
+라이트닝서프라이드
+Extreme Evoboost
+나인이볼부스트
+Pulverizing Pancake
+진심의공격
+Genesis Supernova
+오리진즈슈퍼노바
+Sinister Arrow Raid
+섀도애로우즈스트라이크
+Malicious Moonsault
+하이퍼다크크러셔
+Oceanic Operetta
+바다의심포니
+Splintered Stormshards
+레이디얼에지스톰
+Let's Snuggle Forever
+투닥투닥프렌드타임
+Clangorous Soulblaze
+브레이징소울비트
+Guardian of Alola
+알로라의수호자
+Searing Sunraze Smash
+선샤인스매셔
+Menacing Moonraze Maelstrom
+문라이트블래스터
+Light That Burns the Sky
+하늘을태우는멸망의빛
+Soul-Stealing 7-Star Strike
+칠성탈혼퇴

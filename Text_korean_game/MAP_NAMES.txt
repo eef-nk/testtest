@@ -1,0 +1,258 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[MAP_NAMES]
+Intro
+Intro
+Lavender Town
+보라타운
+Celadon City
+무지개시티
+Fuchsia City
+연분홍시티
+Saffron City
+노랑시티
+Cinnabar Island
+홍련섬
+Indigo Plateau
+석영고원
+Routes
+Routes
+Route 1
+1번도로
+Route 2
+2번도로
+Viridian Forest
+상록숲
+Diglett's Cave
+디그다의굴
+Diglett's Cave B1F
+디그다의굴 B1F
+Route 3
+3번도로
+Route 4
+4번도로
+Mt. Moon
+달맞이산
+Mt. Moon B1F
+달맞이산 B1F
+Mt. Moon B2F
+달맞이산 B2F
+Alyssum Island
+Alyssum Island
+Route 5
+5번도로
+Route 6
+6번도로
+Route 7
+7번도로
+Route 8
+8번도로
+Route 9
+9번도로
+Route 10
+10번도로
+Vermilion Port
+갈색시티항구
+Rock Tunnel
+돌산터널
+Rock Tunnel B1F
+돌산터널 B1F
+Route 11
+11번도로
+Route 12
+12번도로
+Route 13
+13번도로
+Route 14
+14번도로
+Route 15
+15번도로
+Route 16
+16번도로
+Route 17
+17번도로
+Route 18
+18번도로
+Route 19
+19번수로
+Route 20
+20번수로
+Seafoam Islands
+쌍둥이섬
+Seafoam Islands B2F
+쌍둥이섬 B2F
+Seafoam Islands B1F
+쌍둥이섬 B1F
+Seafoam Islands B3F
+쌍둥이섬 B3F
+Seafoam Islands B4F
+쌍둥이섬 B4F
+Route 21
+21번수로
+Route 22
+22번도로
+Route 23
+23번도로
+Route 24
+24번도로
+Route 25
+25번도로
+Pallet Town
+태초마을
+Viridian City
+상록시티
+Pewter City
+회색시티
+Cerulean City
+블루시티
+Vermilion City
+갈색시티
+New Bark Town
+연두마을
+Cherrygrove City
+무궁시티
+Violet City
+도라지시티
+Azalea Town
+고동마을
+Goldenrod City
+금빛시티
+Ecruteak City
+인주시티
+Olivine City
+담청시티
+Cianwood City
+진청시티
+Mahogany Town
+황토마을
+Blackthorn City
+검은먹시티
+Ilex Forest
+너도밤나무숲
+Slowpoke Well
+야돈의우물
+Slowpoke Well 1BF
+야돈의우물 B1F
+Slowpoke Well B2F
+야돈의우물 B2F
+Tower Path
+방울소리좁은길
+Olivine Marina
+담청시티선착장
+Cliff Edge Gate
+벼랑끝게이트
+Dragon's Den
+용의굴
+Whiteport Town
+Whiteport Town
+Route 26
+26번도로
+Route 27
+27번도로
+Tohjo Falls
+동성폭포
+Route 28
+28번도로
+Mt. Silver
+은빛산
+Mt. Silver Peak
+은빛산 정상
+Route 29
+29번도로
+Route 30
+30번도로
+Route 31
+31번도로
+Dark Cave West
+어둠의동굴 서쪽
+Route 32
+Route 32번도로
+Route 33
+Route 33번도로
+Union Cave
+연결동굴
+Union Cave B1F
+연결동굴 B1F
+Union Cave B2F
+연결동굴 B2F
+Route 34
+34번도로
+Route 35
+35번도로
+National Park
+자연공원
+Route 36
+36번도로
+Route 37
+37번도로
+Route 38
+38번도로
+Route 39
+39번도로
+Route 40
+40번수로
+Battle Tower
+배틀타워
+Route 41
+41번수로
+Whirl Islands
+소용돌이섬
+Whirl Islands B1F
+소용돌이섬 B1F
+Whirl Islands B2F
+소용돌이섬 B2F
+Whirl Islands B3F
+소용돌이섬 B3F
+Route 42
+42번도로
+Mt. Mortar
+절구산
+Mt. Mortar B1F
+절구산 B1F
+Mt. Mortar B2F
+절구산 B2F
+Route 43
+43번도로
+Lake of Rage
+분노의호수
+Route 44
+44번도로
+Ice Path
+얼음샛길
+Ice Path B1F
+얼음샛길 B1F
+Ice Path B2F
+얼음샛길 B2F
+Ice Path B3F
+얼음샛길 B3F
+Route 45
+45번도로
+Dark Cave East
+어둠의동굴 동쪽
+Route 46
+46번도로
+Route 47
+47번도로
+Route 48
+48번도로
+Peaceful Garden
+Peaceful Garden
+Goldenrod Sea Path
+금빛해로
+Olivine Sea Path
+담청해로
+South Rock Cave
+South Rock Cave
+Abandoned Mine
+Abandoned Mine
+Abandoned Mine B1F
+Abandoned Mine B1F
+Abandoned Mine B2F
+Abandoned Mine B2F
+Abandoned Mine B3F
+Abandoned Mine B3F
+Abandoned Mine B4F
+Abandoned Mine B4F
+North Rock Cave
+North Rock Cave

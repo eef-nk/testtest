@@ -1,0 +1,540 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[SPECIES_FORM_NAMES]
+A
+A
+Normal Form
+캐스퐁의 모습
+Normal Forme
+노말폼
+Plant Cloak
+초목도롱
+Overcast Form
+네거폼
+West Sea
+서쪽 바다
+Rotom
+로토무
+Altered Forme
+어나더폼
+Land Forme
+랜드폼
+Normal Type
+노말타입
+Red-Striped
+적색근
+Standard Mode
+노말모드
+Spring Form
+봄의 모습
+Incarnate Forme
+화신폼
+Ordinary Form
+기본 형태
+Aria Forme
+보이스폼
+Normal
+일반
+Archipelago Pattern
+군도의 모양
+Red Flower
+빨간 꽃
+Natural Form
+야생의 모습
+Male
+수컷
+Shield Forme
+실드폼
+Small Size
+소과종
+Neutral Mode
+릴렉스모드
+50% Forme
+50% 폼
+Hoopa Confined
+굴레에빠진후파
+Baile Style
+이글이글스타일
+Midday Form
+한낮의 모습
+Solo Form
+단독의 모습
+Type: Normal
+타입: 노말
+Meteor Form
+유성의 모습
+Disguised Form
+둔갑한 모습
+Amped Form
+하이한 모습
+Phony Form
+위작폼
+Vanilla Cream
+밀키바닐라
+Ice Face
+아이스페이스
+Full Belly Mode
+배부른 모양
+Hero of Many Battles
+역전의 용사
+Single Strike Style
+일격의 태세
+Mega Venusaur
+메가이상해꽃
+Mega Charizard X
+메가리자몽X
+Mega Charizard Y
+메가리자몽Y
+Mega Blastoise
+메가거북왕
+Mega Beedrill
+메가독침붕
+Mega Pidgeot
+메가피죤투
+Alolan
+알로라의 모습
+Galarian
+가라르의 모습
+Mega Alakazam
+메가후딘
+Mega Slowbro
+메가야도란
+Mega Gengar
+메가팬텀
+Mega Kangaskhan
+메가캥카
+Mega Pinsir
+메가쁘사이저
+Mega Gyarados
+메가갸라도스
+Mega Aerodactyl
+메가프테라
+Mega Mewtwo X
+메가뮤츠X
+Mega Mewtwo Y
+메가뮤츠Y
+Spiky-Eared
+삐죽귀
+Mega Ampharos
+메가전룡
+B
+B
+C
+C
+D
+D
+E
+E
+F
+F
+G
+G
+H
+H
+I
+I
+J
+J
+K
+K
+L
+L
+M
+M
+N
+N
+O
+O
+P
+P
+Q
+Q
+R
+R
+S
+S
+T
+T
+U
+U
+V
+V
+W
+W
+X
+X
+Y
+Y
+Z
+Z
+?
+?
+!
+!
+Mega Steelix
+메가강철톤
+Mega Scizor
+메가핫삼
+Mega Heracross
+메가헤라크로스
+Mega Houndoom
+메가헬가
+Mega Tyranitar
+메가마기라스
+Mega Sceptile
+메가나무킹
+Mega Blaziken
+메가번치코
+Mega Swampert
+메가대짱이
+Mega Gardevoir
+메가가디안
+Mega Sableye
+메가깜까미
+Mega Mawile
+메가입치트
+Mega Aggron
+메가보스로라
+Mega Medicham
+메가요가램
+Mega Manectric
+메가썬더볼트
+Mega Sharpedo
+메가샤크니아
+Mega Camerupt
+메가폭타
+Mega Altaria
+메가파비코리
+Sunny Form
+태양의 모습
+Rainy Form
+빗방울의 모습
+Snowy Form
+설운의 모습
+Mega Banette
+메가다크펫
+Mega Absol
+메가앱솔
+Mega Glalie
+메가얼음귀신
+Mega Salamence
+메가보만다
+Mega Metagross
+메가메타그로스
+Mega Latias
+메가라티아스
+Mega Latios
+메가라티오스
+Primal Kyogre
+원시가이오가
+Primal Groudon
+원시그란돈
+Mega Rayquaza
+메가레쿠쟈
+Attack Forme
+어택폼
+Defense Forme
+디펜스폼
+Speed Forme
+스피드폼
+Sandy Cloak
+모래도롱
+Trash Cloak
+슈레도롱
+Sunshine Form
+포지폼
+East Sea
+동쪽 바다
+Mega Lopunny
+메가이어롭
+Mega Garchomp
+메가한카리아스
+Mega Lucario
+메가루카리오
+Mega Abomasnow
+메가눈설왕
+Mega Gallade
+메가엘레이드
+Heat Rotom
+히트로토무
+Wash Rotom
+워시로토무
+Frost Rotom
+프로스트로토무
+Fan Rotom
+스핀로토무
+Mow Rotom
+커트로토무
+Origin Forme
+오리진폼
+Sky Forme
+스카이폼
+Fighting Type
+격투타입
+Flying Type
+비행타입
+Poison Type
+독타입
+Ground Type
+땅타입
+Rock Type
+바위타입
+Bug Type
+벌레타입
+Ghost Type
+고스트타입
+Steel Type
+강철타입
+Unknown Type
+???타입
+Fire Type
+불꽃타입
+Water Type
+물타입
+Grass Type
+풀타입
+Electric Type
+전기타입
+Psychic Type
+에스퍼타입
+Ice Type
+얼음타입
+Dragon Type
+드래곤타입
+Dark Type
+악타입
+Fairy Type
+페어리타입
+Mega Audino
+메가다부니
+Blue-Striped
+청색근
+Zen Mode
+달마모드
+Galarian Standard Mode
+가라르의 노말모드
+Galarian Zen Mode
+가라르의 달마모드
+Summer Form
+여름의 모습
+Autumn Form
+가을의 모습
+Winter Form
+겨울의 모습
+Therian Forme
+화신폼
+White Kyurem
+화이트큐레무
+Black Kyurem
+블랙큐레무
+Resolute Form
+각오의 모습
+Pirouette Forme
+스텝폼
+Shock Drive
+라이트닝
+Burn Drive
+블레이즈
+Chill Drive
+프리즈
+Douse Drive
+아쿠아
+Ash-Greninja
+지우개굴닌자
+Continental Pattern
+대륙의 모양
+Elegant Pattern
+우아한 모양
+Garden Pattern
+정원의 모양
+High Plains Pattern
+황야의 모양
+Icy Snow Pattern
+빙설의 모양
+Jungle Pattern
+정글의 모양
+Marine Pattern
+마린의 모양
+Meadow Pattern
+화원의 모양
+Modern Pattern
+모던한 모양
+Monsoon Pattern
+스콜의 모양
+Ocean Pattern
+오션의 모양
+Polar Pattern
+설국의 모양
+River Pattern
+대하의 모양
+Sandstorm Pattern
+사진의 모양
+Savanna Pattern
+사바나의 모양
+Sun Pattern
+태양의 모양
+Tundra Pattern
+설원의 모양
+Fancy Pattern
+팬시한 모양
+Poké Ball Pattern
+볼의 모양
+Yellow Flower
+노란 꽃
+Orange Flower
+오렌지색 꽃
+Blue Flower
+파란 꽃
+White Flower
+하얀 꽃
+Eternal Flower
+영원의 꽃
+Heart Trim
+하트컷
+Star Trim
+스타컷
+Diamond Trim
+다이아컷
+Debutante Trim
+레이디컷
+Matron Trim
+마담컷
+Dandy Trim
+젠틀컷
+La Reine Trim
+퀸컷
+Kabuki Trim
+가부키컷
+Pharaoh Trim
+킹덤컷
+Female
+암컷
+Blade Forme
+블레이드폼
+Average Size
+중과종
+Large Size
+대과종
+Super Size
+특대과종
+Active Mode
+액티브모드
+10% Forme
+10% 폼
+Complete Forme
+퍼펙트폼
+Mega Diancie
+메가디안시
+Hoopa Unbound
+굴레를벗어난후파
+Pom-Pom Style
+파칙파칙스타일
+Pa'u Style
+훌라훌라스타일
+Sensu Style
+하늘하늘스타일
+Midnight Form
+한밤중의 모습
+Dusk Form
+황혼의 모습
+School Form
+군집의 모습
+Type: Fighting
+타입: 격투
+Type: Flying
+타입: 비행
+Type: Poison
+타입: 독
+Type: Ground
+타입: 땅
+Type: Rock
+타입: 바위
+Type: Bug
+타입: 벌레
+Type: Ghost
+타입: 고스트
+Type: Steel
+타입: 강철
+Type: Unknown
+타입: ???
+Type: Fire
+타입: 불꽃
+Type: Water
+타입: 물
+Type: Grass
+타입: 풀
+Type: Electric
+타입: 전기
+Type: Psychic
+타입: 에스퍼
+Type: Ice
+타입: 얼음
+Type: Dragon
+타입: 드래곤
+Type: Dark
+타입: 악
+Type: Fairy
+타입: 페어리
+Red Core
+빨간색 코어
+Orange Core
+주황색 코어
+Yellow Core
+노란색 코어
+Green Core
+초록색 코어
+Blue Core
+옥색 코어
+Indigo Core
+파란색 코어
+Violet Core
+보라색 코어
+Busted Form
+들킨 모습
+Dusk Mane
+황혼의 갈기
+Dawn Wings
+새벽의 날개
+Ultra Necrozma
+울트라네크로즈마
+Original Color
+500년 전의 색
+Gulping Form
+그대로 삼킨 모습
+Gorging Form
+통째로 삼킨 모습
+Low Key Form
+로우한 모습
+Antique Form
+진작폼
+Ruby Cream
+밀키루비
+Matcha Cream
+밀키말차
+Mint Cream
+밀키민트
+Lemon Cream
+밀키레몬
+Salted Cream
+밀키솔트
+Ruby Swirl
+루비믹스
+Caramel Swirl
+카라멜믹스
+Rainbow Swirl
+레인보우믹스
+Noice Face
+나이스페이스
+Hangry Mode
+배고픈 모양
+Crowned Sword
+검왕
+Crowned Shield
+방패왕
+Rapid Strike Style
+연격의 태세
+Ice Rider
+백마 탄 모습
+Shadow Rider
+흑마 탄 모습

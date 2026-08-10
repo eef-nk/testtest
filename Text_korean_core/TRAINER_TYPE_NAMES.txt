@@ -1,0 +1,100 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[TRAINER_TYPE_NAMES]
+Pokémon Trainer
+포켓몬 트레이너
+Rival
+라이벌
+Aroma Lady
+아로마 아가씨
+Beauty
+누님
+Biker
+폭주족
+Bird Keeper
+새조련사
+Bug Catcher
+곤충채집 소년
+Burglar
+불난집 전문털이범
+Channeler
+주술사
+Cue Ball
+빡빡이
+Engineer
+전기 작업원
+Fisherman
+낚시꾼
+Gambler
+갬블러
+Gentleman
+신사
+Hiker
+등산가
+Juggler
+저글러
+Lady
+아가씨
+Painter
+화가
+Poké Maniac
+포켓몬 매니아
+Pokémon Breeder
+포켓몬 브리더
+Professor
+포켓몬 박사
+Rocker
+전기그룹
+Ruin Maniac
+유적마니아
+Sailor
+선원
+Scientist
+과학자
+Super Nerd
+이과계의 남자
+Tamer
+맹수 조련사
+Black Belt
+태권왕
+Crush Girl
+배틀걸
+Camper
+캠프보이
+Picnicker
+피크닉걸
+Cool Trainer
+엘리트 트레이너
+Youngster
+Youngster
+Lass
+짧은 치마
+Pokémon Ranger
+포켓몬 레인저
+Psychic
+초능력자
+Swimmer
+수영팬티소년
+Tuber
+튜브보이
+Cool Couple
+엘리트 콤비
+Crush Kin
+격투 콤비
+Sis and Bro
+남매
+Twins
+쌍둥이
+Young Couple
+러브러브커플
+Team Rocket
+로켓단 조무래기
+Rocket Boss
+로켓단 보스
+Gym Leader
+체육관 관장
+Elite Four
+사천왕
+Champion
+챔피언
