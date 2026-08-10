@@ -7,6 +7,15 @@
 // PE v21.1 트레이너 헤더 레벨 고정 필드 (새 항목에서도 항상 렌더)
 const _TRAINER_FIXED_FIELDS = ['Items', 'LoseText'];
 
+/** 새로 추가한 포켓몬은 다이맥스와 테라스탈을 사용하지 않는 상태로 시작한다. */
+function _createEmptyTrainerPokemon() {
+  return {
+    species: '', level: 5, form: 0,
+    fields: { NoDynamax: 'true', NoTera: 'true' },
+    _keyOrder: ['NoDynamax', 'NoTera'],
+  };
+}
+
 // ── 종족/폼/특성 조회 헬퍼 ──────────────────────────────────────
 
 /** SPECIES_NAMES + SPECIES_FORM_NAMES 전 탭에서 internalId로 엔트리 탐색 */
@@ -99,6 +108,18 @@ function _buildAbilityOpts(speciesId, form, selectedIdx) {
   }).join('');
 }
 
+/** 성격 내부 ID는 그대로 유지하고, 선택지에만 한국어 이름을 함께 표시한다. */
+function _buildNatureOpts(selectedNature) {
+  const natures = ['', ...POKE_NATURES];
+  if (selectedNature && !POKE_NATURES.includes(selectedNature)) natures.push(selectedNature);
+  return natures.map(nature => {
+    const label = nature
+      ? `${nature} — ${POKE_NATURE_KOREAN[nature] || '(번역 없음)'}`
+      : '(없음)';
+    return `<option value="${escHtml(nature)}"${nature === selectedNature ? ' selected' : ''}>${escHtml(label)}</option>`;
+  }).join('');
+}
+
 function renderTrainerField(key, val) {
   if (key === 'LoseText' || key === 'WinText') {
     return `<div class="field-row">
@@ -150,8 +171,7 @@ function renderTrainerPokeBlock(poke, idx) {
   const abilityOpts = _buildAbilityOpts(poke.species, form, abilityIdx);
 
   const nature      = poke.fields['Nature'] || '';
-  const natureOpts  = ['', ...POKE_NATURES].map(n =>
-    `<option value="${escHtml(n)}"${n === nature ? ' selected' : ''}>${escHtml(n || '(없음)')}</option>`).join('');
+  const natureOpts  = _buildNatureOpts(nature);
 
   const gender      = poke.fields['Gender'] || '';
   const genderOpts  = POKE_GENDERS_TR.map(([v, l]) =>
@@ -163,6 +183,18 @@ function renderTrainerPokeBlock(poke, idx) {
   const happiness = poke.fields['Happiness'] || '';
   const shiny     = poke.fields['Shiny']  === 'true';
   const shadow    = poke.fields['Shadow'] === 'true';
+  const dynamaxEnabled = String(poke.fields['NoDynamax'] || '').toLowerCase() !== 'true';
+  const teraDisabled   = String(poke.fields['NoTera'] || '').toLowerCase() === 'true';
+  const teraType       = teraDisabled ? '__NO_TERA__' : (poke.fields['TeraType'] || '');
+  const teraTypeOpts   = [
+    `<option value="__NO_TERA__"${teraType === '__NO_TERA__' ? ' selected' : ''}>(사용 안 함)</option>`,
+    `<option value=""${teraType === '' ? ' selected' : ''}>(기본 타입 사용)</option>`,
+    ...TERA_TYPES.map(type =>
+      `<option value="${type}"${teraType === type ? ' selected' : ''}>${escHtml(getTypeKorean(type))}</option>`),
+  ];
+  if (teraType && teraType !== '__NO_TERA__' && !TERA_TYPES.includes(teraType)) {
+    teraTypeOpts.push(`<option value="${escHtml(teraType)}" selected>${escHtml(teraType)} (직접 지정)</option>`);
+  }
 
   return `<div class="tr-poke-block" data-poke-idx="${idx}">
     <div class="tr-poke-header">
@@ -210,6 +242,13 @@ function renderTrainerPokeBlock(poke, idx) {
       <div class="tr-poke-field tr-flag-row">
         <label><input type="checkbox" class="tr-shiny"  ${shiny  ? 'checked' : ''}> 이로치</label>
         <label><input type="checkbox" class="tr-shadow" ${shadow ? 'checked' : ''}> 쉐도우</label>
+      </div>
+      <div class="tr-poke-field tr-flag-row">
+        <label><input type="checkbox" class="tr-dynamax-enabled" ${dynamaxEnabled ? 'checked' : ''}> 다이맥스 사용</label>
+      </div>
+      <div class="tr-poke-field">
+        <label>테라스탈 사용 타입</label>
+        <select class="tr-tera-type" style="width:auto">${teraTypeOpts.join('')}</select>
       </div>
 
       <div class="tr-poke-stats-section">
@@ -289,6 +328,8 @@ function collectTrainerPokeFromBlock(block) {
   const shiny      = block.querySelector('.tr-shiny')?.checked  || false;
   const shadow     = block.querySelector('.tr-shadow')?.checked || false;
   const ball       = block.querySelector('.combo-wrap.tr-ball-combo')?.dataset.value || '';
+  const dynamaxEnabled = block.querySelector('.tr-dynamax-enabled')?.checked ?? false;
+  const teraType       = block.querySelector('.tr-tera-type')?.value ?? '__NO_TERA__';
 
   const ivEnabled = block.querySelector('.tr-iv-enabled')?.checked ?? false;
   const evEnabled = block.querySelector('.tr-ev-enabled')?.checked ?? false;
@@ -316,6 +357,9 @@ function collectTrainerPokeFromBlock(block) {
   if (ball)             add('Ball',          ball);
   if (ivEnabled) add('IV', ivArr.join(','));
   if (evEnabled) add('EV', evArr.join(','));
+  if (!dynamaxEnabled) add('NoDynamax', 'true');
+  if (teraType === '__NO_TERA__') add('NoTera', 'true');
+  else if (teraType) add('TeraType', teraType);
 
   return { species, level, form, fields, _keyOrder: keyOrder };
 }
@@ -324,7 +368,7 @@ function attachTrainerHandlers(entry) {
   const body = document.getElementById('edit-body');
 
   document.getElementById('tr-btn-add-poke').addEventListener('click', () => {
-    const emptyPoke = { species: '', level: 5, form: 0, fields: {}, _keyOrder: [] };
+    const emptyPoke = _createEmptyTrainerPokemon();
     const idx = body.querySelectorAll('.tr-poke-block').length;
     document.getElementById('tr-poke-list').insertAdjacentHTML(
       'beforeend', renderTrainerPokeBlock(emptyPoke, idx));

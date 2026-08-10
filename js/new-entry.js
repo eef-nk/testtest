@@ -136,7 +136,9 @@ function submitNewEntry() {
     }
     const newEntry = {
       internalId, trainerType, trainerName, version,
-      fields: {}, _keyOrder: [], pokemon: [],
+      fields: { Items: DEFAULT_TRAINER_ITEMS.join(',') },
+      _keyOrder: ['Items'],
+      pokemon: [],
     };
     _appendAndSelect(tab, newEntry);
     closeNewEntryDialog();

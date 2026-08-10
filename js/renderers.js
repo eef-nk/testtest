@@ -37,8 +37,17 @@ function getAbilitiesList() {
 
 function getItemsList() {
   const list = [{ value: '', label: '(없음)' }];
-  for (const it of (state.pbsData['items'] || []))
+  const seen = new Set(['']);
+  for (const it of (state.pbsData['items'] || [])) {
+    if (seen.has(it.internalId)) continue;
+    seen.add(it.internalId);
     list.push({ value: it.internalId, label: getKorean(it.internalId, 'ITEM_NAMES').display });
+  }
+  for (const item of Z_CRYSTAL_ITEMS) {
+    if (seen.has(item.value)) continue;
+    seen.add(item.value);
+    list.push({ value: item.value, label: `${item.kor}(${item.eng})` });
+  }
   return list;
 }
 

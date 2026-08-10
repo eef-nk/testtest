@@ -87,6 +87,7 @@ const POKEMON_TYPES = [
   'FIGHTING','POISON','GROUND','FLYING','PSYCHIC',
   'BUG','ROCK','GHOST','DRAGON','DARK','STEEL','FAIRY',
 ];
+const TERA_TYPES = [...POKEMON_TYPES, 'STELLAR'];
 
 const MOVE_CATEGORIES  = ['Physical','Special','Status'];
 const MOVE_PP_VALUES   = [5, 10, 15, 20, 25, 30, 35, 40];
@@ -140,7 +141,57 @@ const POKE_NATURES     = [
 'MODEST','MILD','QUIET','BASHFUL','RASH',
 'CALM','GENTLE','SASSY','CAREFUL','QUIRKY',
 ];
+const POKE_NATURE_KOREAN = {
+  HARDY: '노력',       LONELY: '외로움', BRAVE: '용감',       ADAMANT: '고집',  NAUGHTY: '개구쟁이',
+  BOLD: '대담',        DOCILE: '온순',    RELAXED: '무사태평', IMPISH: '장난꾸러기', LAX: '촐랑',
+  TIMID: '겁쟁이',     HASTY: '성급',     SERIOUS: '성실',     JOLLY: '명랑',    NAIVE: '천진난만',
+  MODEST: '조심',      MILD: '의젓',      QUIET: '냉정',       BASHFUL: '수줍음', RASH: '덜렁',
+  CALM: '차분',        GENTLE: '얌전',    SASSY: '건방',       CAREFUL: '신중',  QUIRKY: '변덕',
+};
 const POKE_GENDERS_TR  = [['','(미지정)'],['male','Male'],['female','Female']];
+
+// 새 트레이너가 세 배틀 기믹을 모두 사용할 수 있도록 자동 지급하는 소지품.
+const DEFAULT_TRAINER_ITEMS = ['TERAORB', 'DYNAMAXBAND', 'ZRING'];
+
+// Z-Crystal 항목은 플러그인 전용 items.txt가 로드되지 않아도 트레이너 포켓몬의
+// 지닌 아이템 목록에서 선택할 수 있어야 한다.
+const Z_CRYSTAL_ITEMS = [
+  { value: 'NORMALIUMZ',       eng: 'Normalium Z',       kor: '노말Z' },
+  { value: 'FIGHTINIUMZ',      eng: 'Fightinium Z',      kor: '격투Z' },
+  { value: 'FLYINIUMZ',        eng: 'Flyinium Z',        kor: '비행Z' },
+  { value: 'POISONIUMZ',       eng: 'Poisonium Z',       kor: '독Z' },
+  { value: 'GROUNDIUMZ',       eng: 'Groundium Z',       kor: '땅Z' },
+  { value: 'ROCKIUMZ',         eng: 'Rockium Z',         kor: '바위Z' },
+  { value: 'BUGINIUMZ',        eng: 'Buginium Z',        kor: '벌레Z' },
+  { value: 'GHOSTIUMZ',        eng: 'Ghostium Z',        kor: '고스트Z' },
+  { value: 'STEELIUMZ',        eng: 'Steelium Z',        kor: '강철Z' },
+  { value: 'FIRIUMZ',          eng: 'Firium Z',          kor: '불꽃Z' },
+  { value: 'WATERIUMZ',        eng: 'Waterium Z',        kor: '물Z' },
+  { value: 'GRASSIUMZ',        eng: 'Grassium Z',        kor: '풀Z' },
+  { value: 'ELECTRIUMZ',       eng: 'Electrium Z',       kor: '전기Z' },
+  { value: 'PSYCHIUMZ',        eng: 'Psychium Z',        kor: '에스퍼Z' },
+  { value: 'ICIUMZ',           eng: 'Icium Z',           kor: '얼음Z' },
+  { value: 'DRAGONIUMZ',       eng: 'Dragonium Z',       kor: '드래곤Z' },
+  { value: 'DARKINIUMZ',       eng: 'Darkinium Z',       kor: '악Z' },
+  { value: 'FAIRIUMZ',         eng: 'Fairium Z',         kor: '페어리Z' },
+  { value: 'PIKANIUMZ',        eng: 'Pikanium Z',        kor: '피카츄Z' },
+  { value: 'PIKASHUNIUMZ',     eng: 'Pikashunium Z',     kor: '지우피카Z' },
+  { value: 'ALORAICHIUMZ',     eng: 'Aloraichium Z',     kor: '알로라이Z' },
+  { value: 'EEVIUMZ',          eng: 'Eevium Z',          kor: '이브이Z' },
+  { value: 'SNORLIUMZ',        eng: 'Snorlium Z',        kor: '잠만보Z' },
+  { value: 'MEWNIUMZ',         eng: 'Mewnium Z',         kor: '뮤Z' },
+  { value: 'DECIDIUMZ',        eng: 'Decidium Z',        kor: '모크나이퍼Z' },
+  { value: 'INCINIUMZ',        eng: 'Incinium Z',        kor: '어흥염Z' },
+  { value: 'PRIMARIUMZ',       eng: 'Primarium Z',       kor: '누리레느Z' },
+  { value: 'LYCANIUMZ',        eng: 'Lycanium Z',        kor: '루가루암Z' },
+  { value: 'MIMIKIUMZ',        eng: 'Mimikium Z',        kor: '따라큐Z' },
+  { value: 'KOMMONIUMZ',       eng: 'Kommonium Z',       kor: '짜랑고우거Z' },
+  { value: 'TAPUNIUMZ',        eng: 'Tapunium Z',        kor: '카푸Z' },
+  { value: 'SOLGANIUMZ',       eng: 'Solganium Z',       kor: '솔가레오Z' },
+  { value: 'LUNALIUMZ',        eng: 'Lunalium Z',        kor: '루나아라Z' },
+  { value: 'MARSHADIUMZ',      eng: 'Marshadium Z',      kor: '마샤도Z' },
+  { value: 'ULTRANECROZIUMZ',  eng: 'Ultranecrozium Z',  kor: '울트라네크로Z' },
+];
 
 // IV/EV 표시 순서 (BaseStats 표시와 동일)
 // PBS 저장 순서: HP[0], Atk[1], Def[2], Spe[3], SpA[4], SpD[5]
