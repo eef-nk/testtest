@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PBS Editor — Pokémon Essentials v21.1+</title>
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/header.css">
+<link rel="stylesheet" href="css/list.css">
+<link rel="stylesheet" href="css/edit.css">
+<link rel="stylesheet" href="css/compare.css">
+<link rel="stylesheet" href="css/encounters.css">
+<link rel="stylesheet" href="css/trainer.css">
+<link rel="stylesheet" href="css/modals.css">
+</head>
+<body>
+
+<div id="header">
+  <span class="logo">PBS Editor</span><span id="app-version">v1.4.2</span>
+  <button id="btn-open-folder">📂 폴더 선택</button>
+  <button id="btn-load-kor" title="Text_korean_core / Text_korean_game 폴더를 선택해 번역을 불러옵니다">🌐 번역 폴더</button>
+  <button id="btn-help" title="사용 설명서 열기">❓ 도움말</button>
+  <div id="tabs"></div>
+  <span id="load-status">start.bat 실행 또는 폴더 선택</span>
+</div>
+
+<div id="main">
+  <div id="list-panel">
+    <div id="list-tab-label"></div>
+    <div id="search-wrap">
+      <input type="text" id="search-input" placeholder="검색 (이름 / 내부명)..." autocomplete="off">
+    </div>
+    <div id="list-actions">
+      <div id="list-count"></div>
+      <button id="btn-new-entry" style="display:none">+ 새 항목</button>
+    </div>
+    <ul id="entity-list"></ul>
+  </div>
+  <div id="edit-panel">
+    <div id="welcome">
+      <div class="big">PBS Editor</div>
+      <div class="hint">Pokémon Essentials v21.1+ PBS 파일 편집기</div>
+      <div class="hint">상단의 <strong>폴더 선택</strong> 버튼으로 프로젝트 폴더를 열어 주세요.</div>
+      <div class="hint" style="margin-top:8px;font-size:11px;opacity:0.6">start.bat 없이 사용하는 경우: Chrome 또는 Edge에서 이 페이지를 열고 📂 폴더 선택을 이용하세요.</div>
+    </div>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<!-- 변경 로그 모달 -->
+<div id="log-overlay">
+  <div id="log-modal">
+    <div id="log-modal-header">
+      <h2>📋 변경 로그</h2>
+      <button onclick="exportChangeLog()" style="background:#1a5276;color:#fff;border:none;padding:4px 12px;border-radius:4px;cursor:pointer;font-size:12px;">텍스트로 내보내기</button>
+      <button onclick="clearChangeLog()" style="background:#7b241c;color:#fff;border:none;padding:4px 10px;border-radius:4px;cursor:pointer;font-size:12px;margin-left:6px;">로그 초기화</button>
+      <button onclick="document.getElementById('log-overlay').classList.remove('open');" style="background:transparent;color:var(--text-muted);border:1px solid var(--border);padding:4px 10px;border-radius:4px;cursor:pointer;font-size:12px;margin-left:6px;">닫기</button>
+    </div>
+    <div id="log-modal-body"></div>
+  </div>
+</div>
+
+<!-- 새 항목 추가 모달 -->
+<div id="new-entry-overlay">
+  <div id="new-entry-modal">
+    <h3 id="new-entry-title">새 항목 추가</h3>
+    <div id="new-entry-form"></div>
+    <div id="new-entry-error" class="ne-error"></div>
+    <div class="ne-buttons">
+      <button class="ne-btn-ok"     id="ne-btn-ok">추가</button>
+      <button class="ne-btn-cancel" id="ne-btn-cancel">취소</button>
+    </div>
+  </div>
+</div>
+
+<!-- 사용 설명서 모달 -->
+<div id="help-overlay">
+  <div id="help-modal">
+
+    <div id="help-modal-header">
+      <h2>📖 PBS Editor 사용 설명서</h2>
+      <nav id="help-nav">
+        <a href="#help-start">시작하기</a>
+        <a href="#help-ui">화면 구성</a>
+        <a href="#help-edit">편집 방법</a>
+        <a href="#help-tabs">탭 설명</a>
+        <a href="#help-etc">기타 기능</a>
+        <a href="#help-custom">커스텀 파일</a>
+        <a href="#help-faq">FAQ</a>
+      </nav>
+      <button onclick="document.getElementById('help-overlay').classList.remove('open')" class="help-close-btn">✕ 닫기</button>
+    </div>
+
+    <div id="help-modal-body">
+
+      <!-- ── 시작하기 ── -->
+      <section class="help-section" id="help-start">
+        <h3>🚀 처음 시작하기</h3>
+        <p>PBS Editor는 Pokemon Essentials(PE) 게임의 데이터 파일을 코드 편집기 없이 쉽게 수정할 수 있는 도구입니다.<br>
+        PBS 파일이란 <code>PBS/pokemon.txt</code>, <code>PBS/moves.txt</code> 같은 텍스트 파일로, 게임의 포켓몬·기술·트레이너 등의 정보가 담겨 있습니다.</p>
+
+        <h4>▶ 3단계로 시작하기</h4>
+        <ol class="help-steps">
+          <li>
+            <strong>📂 폴더 선택</strong> 버튼 클릭<br>
+            <span class="help-sub">Pokemon Essentials 프로젝트의 최상위 폴더(Game.exe 또는 Game.rgss3a가 있는 폴더)를 선택하세요. 앱이 선택한 폴더 안의 PBS 파일을 찾아 불러옵니다.</span>
+          </li>
+          <li>
+            <strong>탭 버튼 클릭 → 편집할 파일 선택</strong><br>
+            <span class="help-sub">상단의 포켓몬 · 기술 · 서식 분포 · 트레이너 버튼을 누르면 드롭다운 메뉴가 나타납니다. 원하는 파일을 선택하세요.</span>
+          </li>
+          <li>
+            <strong>왼쪽 목록에서 항목 클릭 → 오른쪽에서 편집 → <kbd>Ctrl+Shift+S</kbd> 저장</strong><br>
+            <span class="help-sub">Chrome 또는 Edge에서 실행하면 파일에 직접 저장됩니다. 그 외 브라우저는 파일을 다운로드합니다.</span>
+          </li>
+        </ol>
+        <div class="help-note tip">
+          💡 <strong>추천 브라우저:</strong> Chrome 또는 Microsoft Edge<br>
+          이 두 브라우저에서만 파일을 직접 저장할 수 있습니다. Firefox나 Safari는 지원하지 않습니다.
+        </div>
+      </section>
+
+      <!-- ── 화면 구성 ── -->
+      <section class="help-section" id="help-ui">
+        <h3>🖥️ 화면 구성</h3>
+        <table class="help-table">
+          <tr><th>영역</th><th>위치</th><th>설명</th></tr>
+          <tr><td>헤더</td><td>최상단</td><td>폴더 선택, 번역 불러오기, 탭 전환, 로그, 내보내기 버튼이 모여 있습니다.</td></tr>
+          <tr><td>목록 패널</td><td>왼쪽</td><td>현재 선택한 탭의 항목(포켓몬·기술 등)이 나열됩니다. 클릭하면 오른쪽 편집 패널이 열립니다.</td></tr>
+          <tr><td>편집 패널</td><td>오른쪽</td><td>선택한 항목의 모든 데이터 필드를 수정할 수 있습니다.</td></tr>
+          <tr><td>상태 표시줄</td><td>헤더 우측</td><td>로드된 파일 수·로딩 상태가 표시됩니다.</td></tr>
+        </table>
+
+        <h4>▶ 검색</h4>
+        <p>목록 위의 검색창에 이름이나 내부 ID를 입력하면 목록이 실시간으로 좁혀집니다. 한국어 번역을 불러온 경우 한국어로도 검색할 수 있습니다.</p>
+
+      </section>
+
+      <!-- ── 편집 방법 ── -->
+      <section class="help-section" id="help-edit">
+        <h3>✏️ 편집 방법</h3>
+
+        <h4>▶ 저장과 취소</h4>
+        <table class="help-table">
+          <tr><th>동작</th><th>단축키</th><th>버튼</th></tr>
+          <tr><td>저장</td><td><kbd>Ctrl+Shift+S</kbd> (Mac: <kbd>Cmd+Shift+S</kbd>)</td><td>편집 패널 우측 상단의 <span class="ui-btn save">저장</span> 버튼</td></tr>
+          <tr><td>취소</td><td><kbd>Esc</kbd></td><td>편집 패널 우측 상단의 <span class="ui-btn cancel">취소</span> 버튼</td></tr>
+        </table>
+        <div class="help-note tip">
+          💡 취소를 누르면 마지막 저장 상태로 되돌아갑니다. 저장 버튼을 누르기 전까지 실제 파일에는 변경이 반영되지 않습니다.
+        </div>
+
+        <h4>▶ 항목 삭제</h4>
+        <p>편집 패널 오른쪽 상단의 <span class="ui-btn delete">🗑 삭제</span> 버튼을 누르면 버튼이 빨간색으로 바뀌며 <em>"한 번 더 클릭하면 삭제"</em> 상태가 됩니다.<br>
+        실수 방지를 위해 <strong>3초 이내에 한 번 더 클릭</strong>해야 실제로 삭제됩니다. 3초가 지나면 자동으로 취소됩니다.</p>
+        <div class="help-note warn">
+          ⚠️ 삭제한 항목은 복구할 수 없습니다. 저장 전에는 취소 버튼으로 되돌릴 수 있습니다.
+        </div>
+
+        <h4>▶ 새 항목 추가</h4>
+        <ol class="help-steps">
+          <li>목록 패널 위의 <strong>+ 새 항목</strong> 버튼 클릭 (일부 탭에서만 표시됩니다)</li>
+          <li>내부 ID 입력 후 <strong>추가</strong> (또는 <kbd>Enter</kbd>)</li>
+          <li>목록 맨 아래에 새 항목이 생성되고 편집 패널이 열립니다</li>
+        </ol>
+        <div class="help-note tip">
+          💡 <strong>내부 ID</strong>란 게임 내부에서 사용하는 식별자입니다. <code>MY_NEW_MOVE</code>, <code>CUSTOM_POKEMON</code>처럼 <strong>대문자 영문과 밑줄(_)만</strong> 사용하는 것이 안전합니다. 이미 같은 ID가 있으면 추가가 거부됩니다.
+        </div>
+
+        <h4>▶ 특수 필드 종류</h4>
+        <table class="help-table">
+          <tr><th>필드</th><th>입력 방식</th><th>예시</th></tr>
+          <tr><td>Types (타입)</td><td>드롭다운 2개 (제1·제2타입)</td><td>FIRE / FLYING</td></tr>
+          <tr><td>BaseStats (기본 능력치)</td><td>HP·공격·방어·특공·특방·스피드 6칸 숫자</td><td>45 / 49 / 49 …</td></tr>
+          <tr><td>Moves (습득기)</td><td>레벨 + 기술 이름 콤보박스 세트, + 버튼으로 행 추가</td><td>Lv.1 — TACKLE</td></tr>
+          <tr><td>Abilities (특성)</td><td>콤보박스 + 버튼으로 행 추가 (최대 2개)</td><td>OVERGROW</td></tr>
+          <tr><td>GenderRatio (성별 비율)</td><td>드롭다운 (♂ : ♀ 비율)</td><td>87.5 : 12.5 / 불명</td></tr>
+          <tr><td>Flags (기술 플래그)</td><td>체크박스 목록 + 커스텀 입력란</td><td>Contact, Sound …</td></tr>
+          <tr><td>기술명 검색 콤보박스</td><td>클릭하거나 이름을 입력하면 자동완성 목록 등장</td><td>WATERFALL</td></tr>
+        </table>
+      </section>
+
+      <!-- ── 탭 설명 ── -->
+      <section class="help-section" id="help-tabs">
+        <h3>📂 탭별 설명</h3>
+
+        <h4>🐾 포켓몬 (pokemon.txt 등)</h4>
+        <p>포켓몬의 타입·능력치·특성·기술·도감 설명 등 종족 데이터를 편집합니다.<br>
+        <strong>포켓몬 Gen9</strong> 탭은 Gen9 추가 팩 전용 데이터입니다. <strong>폼</strong> 탭은 폼 변환 데이터입니다.<br>
+        <code>Generation</code> 필드(1~9)가 설정된 포켓몬은 목록에서 해당 세대 테마 색상으로 배경이 표시됩니다.</p>
+
+        <h4>⚔️ 기술 (moves.txt 등)</h4>
+        <p>기술의 타입·분류·위력·명중·PP·효과·플래그 등을 편집합니다.<br>
+        <strong>Flags(플래그)</strong>는 체크박스로 표준 플래그를 선택할 수 있고, 목록에 없는 커스텀 플래그는 아래 커스텀 입력란에 쉼표로 구분해 직접 입력합니다.</p>
+
+        <h4>🗺️ 서식 분포 (encounters.txt)</h4>
+        <p>각 맵에서 어떤 포켓몬이 어떤 확률로 출현하는지 편집합니다.<br>
+        <strong>서식 타입</strong>(Land, Water, Cave…)별로 슬롯을 추가하고, 각 슬롯에 포켓몬·확률·레벨 범위를 지정합니다.</p>
+
+        <h4>👤 트레이너 (trainers.txt, trainer_types.txt)</h4>
+        <p>트레이너의 파티(포켓몬·레벨·기술·노력치·개체값 등)와 소지 아이템, 패배 대사를 편집합니다.<br>
+        같은 이름의 트레이너를 여러 버전(Version 필드)으로 구분해 시나리오 분기를 만들 수 있습니다.</p>
+      </section>
+
+
+      <!-- ── 커스텀 파일 ── -->
+      <section class="help-section" id="help-custom">
+        <h3>📁 커스텀 파일 자동 인식</h3>
+        <p>PBS 폴더에 <code>_Custom.txt</code>로 끝나는 파일을 만들어 두면, 폴더를 열 때 앱이 자동으로 해당 탭을 생성합니다.</p>
+        <table class="help-table">
+          <tr><th>파일 이름 예시</th><th>생성되는 탭</th><th>카테고리</th></tr>
+          <tr><td><code>PBS/moves_Custom.txt</code></td><td>기술 커스텀</td><td>기술</td></tr>
+          <tr><td><code>PBS/pokemon_Custom.txt</code></td><td>포켓몬 커스텀</td><td>포켓몬</td></tr>
+          <tr><td><code>PBS/encounters_Custom.txt</code></td><td>서식 분포 커스텀</td><td>서식 분포</td></tr>
+          <tr><td><code>PBS/trainers_Custom.txt</code></td><td>트레이너 커스텀</td><td>트레이너</td></tr>
+        </table>
+        <ul class="help-list">
+          <li>기존 파일과 동일한 카테고리 드롭다운에 표시됩니다.</li>
+          <li><strong>+ 새 항목</strong> 추가와 저장(직접 쓰기 및 내보내기)이 모두 지원됩니다.</li>
+          <li>파일 이름이 기존 PBS 파일과 대응되지 않으면(예: <code>PBS/unknown_Custom.txt</code>) 탭이 생성되지 않습니다.</li>
+        </ul>
+        <div class="help-note tip">
+          💡 앱 사용 중에 파일을 추가했다면 <strong>📂 폴더 선택</strong>으로 폴더를 다시 선택하면 새 탭이 나타납니다.
+        </div>
+      </section>
+
+      <!-- ── 기타 기능 ── -->
+      <section class="help-section" id="help-etc">
+        <h3>🔧 기타 기능</h3>
+
+        <h4>📋 변경 로그</h4>
+        <p>헤더의 <strong>📋 로그</strong> 버튼을 클릭하면 이 세션에서 수정한 모든 항목과 변경 내역을 확인할 수 있습니다.<br>
+        <strong>텍스트로 내보내기</strong>로 로그를 파일로 저장할 수 있습니다. 로그는 브라우저를 닫아도 다음 세션에 유지됩니다.</p>
+
+        <h4>🌐 한국어 번역 불러오기</h4>
+        <ol class="help-steps">
+          <li><strong>🌐 번역 폴더</strong> 버튼 클릭</li>
+          <li>프로젝트의 <code>Text_korean_core</code> 또는 <code>Text_korean_game</code> 폴더를 선택</li>
+          <li>포켓몬·기술·특성·아이템 이름이 한국어로 표시되고, 한국어 검색도 가능해집니다</li>
+        </ol>
+
+        <h4>💾 파일 내보내기</h4>
+        <p>헤더의 <strong>💾 파일 내보내기</strong> 버튼을 클릭하면 현재 탭의 전체 데이터를 파일로 다운로드합니다.<br>
+        Chrome/Edge에서 📂 폴더 선택으로 연 경우에는 저장 시 자동으로 파일에 직접 기록되므로, 이 버튼은 주로 다른 브라우저 사용 시 활용합니다.</p>
+      </section>
+
+      <!-- ── FAQ ── -->
+      <section class="help-section" id="help-faq">
+        <h3>❓ 자주 묻는 질문</h3>
+
+        <div class="help-faq-item">
+          <p class="help-q">Q. 저장 버튼을 눌렀는데 파일이 바뀌지 않아요.</p>
+          <p class="help-a">A. Chrome 또는 Edge 브라우저에서 <strong>📂 폴더 선택</strong>으로 폴더를 연 경우에만 직접 저장이 됩니다. 처음 저장 시 브라우저가 파일 쓰기 권한을 요청하는 팝업을 띄울 수 있으니 <strong>허용</strong>을 클릭하세요.</p>
+        </div>
+        <div class="help-faq-item">
+          <p class="help-q">Q. 수정하고 저장했는데 게임에 반영이 안 돼요.</p>
+          <p class="help-a">A. RPGMaker XP / 게임을 완전히 종료하고 다시 실행해야 변경 사항이 반영됩니다.</p>
+        </div>
+        <div class="help-faq-item">
+          <p class="help-q">Q. 탭 이름 옆에 "(없음)"이라고 나와요.</p>
+          <p class="help-a">A. 해당 PBS 파일이 프로젝트 폴더에 없다는 뜻입니다. 플러그인 전용 파일(Gen9 팩 등)은 플러그인을 설치하지 않으면 없을 수 있습니다.</p>
+        </div>
+        <div class="help-faq-item">
+          <p class="help-q">Q. 기술의 플래그가 뭔가요?</p>
+          <p class="help-a">A. 플래그는 기술의 특성을 나타내는 태그입니다. 예를 들어 <code>Contact</code>가 있으면 접촉 기술, <code>Sound</code>가 있으면 소리 기술로 처리됩니다. 게임 엔진이 이 플래그를 읽어 특성(Iron Fist, 방음 등)과의 상호작용을 계산합니다.</p>
+        </div>
+        <div class="help-faq-item">
+          <p class="help-q">Q. GrowthRate(성장 속도)에 어떤 값을 선택해야 하나요?</p>
+          <p class="help-a">A. 드롭다운에서 선택합니다. 선택 가능한 값: <code>Erratic</code>(불규칙), <code>Fast</code>(빠름), <code>Medium</code>(중간), <code>Parabolic</code>(스타터 계열), <code>Slow</code>(전설·유사전설), <code>Fluctuating</code>(변동).</p>
+        </div>
+        <div class="help-faq-item">
+          <p class="help-q">Q. 실수로 항목을 삭제했어요.</p>
+          <p class="help-a">A. 삭제는 즉시 메모리에 반영되므로 취소할 수 없습니다. 아직 파일에 저장(Ctrl+Shift+S)하지 않았다면 앱을 새로고침하거나 폴더를 다시 선택해 원본 파일을 다시 불러오면 복구됩니다. 이미 저장했다면 변경 로그(📋)에서 이전 값을 확인해 수동으로 복구하거나, 백업 파일이 있다면 복원하세요.</p>
+        </div>
+      </section>
+
+    </div><!-- /help-modal-body -->
+  </div><!-- /help-modal -->
+</div><!-- /help-overlay -->
+
+<!-- 로드 순서가 의존성 해결 순서입니다 -->
+<script src="js/constants.js"></script>
+<script src="js/state.js"></script>
+<script src="js/utils.js"></script>
+<script src="js/parsers.js"></script>
+<script src="js/translation.js"></script>
+<script src="js/loader.js"></script>
+<script src="js/tabs.js"></script>
+<script src="js/renderers.js"></script>
+<script src="js/compare.js"></script>
+<script src="js/edit-entity.js"></script>
+<script src="js/edit-trainer.js"></script>
+<script src="js/edit-encounter.js"></script>
+<script src="js/serializers.js"></script>
+<script src="js/new-entry.js"></script>
+<script src="js/init.js"></script>
+</body>
+</html>
