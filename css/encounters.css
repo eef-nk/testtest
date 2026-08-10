@@ -1,0 +1,83 @@
+/* ═══════════════════════════════════════════════════════════
+   ENCOUNTERS — 인카운터 에디터
+   ═══════════════════════════════════════════════════════════ */
+
+.enc-map-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+.enc-map-header .field-label { padding-top: 0; }
+.enc-map-header input[type="text"] { max-width: 280px; }
+
+.enc-type-block {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  margin-bottom: 12px;
+  overflow: hidden;
+}
+
+.enc-type-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 12px;
+  background: var(--surface2);
+  font-weight: 600;
+  font-size: 12px;
+}
+.enc-type-header .type-name { flex: 1; font-family: var(--font-mono); color: #9bc4f0; }
+
+.enc-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.enc-table th {
+  background: var(--surface);
+  padding: 5px 8px;
+  text-align: left;
+  font-size: 11px;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border);
+}
+.enc-table td {
+  padding: 4px 6px;
+  border-bottom: 1px solid var(--border);
+}
+.enc-table tr:last-child td    { border-bottom: none; }
+.enc-table tr:nth-child(even) td { background: var(--row-even); }
+.enc-table tr:hover td         { background: var(--row-hover); }
+.enc-table input[type="number"] { width: 54px; }
+.enc-table select               { min-width: 160px; }
+.enc-table .btn-remove          { margin: 0 auto; display: block; }
+
+.enc-add-slot {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding: 6px 12px;
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+}
+.enc-copy-tools {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: auto;
+}
+.enc-copy-src {
+  font-size: 11px;
+  max-width: 160px;
+}
+.enc-copy-src:disabled { opacity: 0.5; }
+.enc-copy-btn:disabled { opacity: 0.4; cursor: default; }
+
+.enc-add-type {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 14px;
+  flex-wrap: wrap;
+}

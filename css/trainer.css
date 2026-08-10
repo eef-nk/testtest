@@ -1,0 +1,90 @@
+/* ═══════════════════════════════════════════════════════════
+   TRAINER — 트레이너 에디터
+   ═══════════════════════════════════════════════════════════ */
+
+.trainer-section { margin-bottom: 18px; }
+.trainer-section-title {
+  font-size: 10px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  margin-bottom: 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--border);
+  font-weight: 600;
+}
+
+.tr-poke-block {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  margin-bottom: 10px;
+  overflow: visible;
+}
+
+.tr-poke-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: var(--surface2);
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 6px 6px 0 0;
+}
+
+.tr-poke-num {
+  color: var(--text-muted);
+  font-size: 11px;
+  flex-shrink: 0;
+}
+
+.tr-poke-body {
+  padding: 10px 12px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.tr-poke-field {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.tr-poke-field label {
+  font-size: 10px;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.tr-poke-moves {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 6px;
+}
+
+.tr-poke-stats-section { grid-column: 1 / -1; }
+.tr-poke-stats {
+  display: flex;
+  gap: 6px;
+  flex-wrap: nowrap;
+}
+
+.tr-stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  flex: 1;
+}
+.tr-stat-item label { font-size: 9px; color: var(--text-muted); white-space: nowrap; }
+.tr-stat-item input[type="number"] { width: 100%; min-width: 0; text-align: center; }
+
+.tr-flag-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-direction: row !important;
+  padding-top: 14px;
+}
+.tr-flag-row label { display: flex; align-items: center; gap: 4px; cursor: pointer; }

@@ -1,0 +1,95 @@
+/* ═══════════════════════════════════════════════════════════
+   BASE — 변수, 리셋, body, 스크롤바, 공통 유틸
+   ═══════════════════════════════════════════════════════════ */
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #1a1a2e;
+  --surface: #16213e;
+  --surface2: #0f3460;
+  --accent: #e94560;
+  --accent2: #533483;
+  --text: #eaeaea;
+  --text-muted: #8892a4;
+  --border: #2a3a5c;
+  --input-bg: #0d1b2a;
+  --hover: #1e3a5f;
+  --danger: #c0392b;
+  --success: #27ae60;
+  --row-even: #111827;
+  --row-hover: #1e2d45;
+  --tab-active: #e94560;
+  --scrollbar: #2a3a5c;
+  --scrollbar-thumb: #4a6a9c;
+  --font: 'Segoe UI', system-ui, sans-serif;
+  --font-mono: 'Consolas', 'Courier New', monospace;
+}
+
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  font-size: 13px;
+}
+
+/* ── Scrollbars ── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--scrollbar); }
+::-webkit-scrollbar-thumb { background: var(--scrollbar-thumb); border-radius: 3px; }
+
+/* ── Global form controls ── */
+input[type="text"], input[type="number"], select, textarea {
+  background: var(--input-bg);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 5px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-family: var(--font);
+  outline: none;
+  width: 100%;
+}
+input[type="text"]:focus, input[type="number"]:focus, select:focus, textarea:focus {
+  border-color: var(--accent2);
+}
+input[type="number"] { width: 64px; }
+select { cursor: pointer; }
+select option { background: var(--input-bg); }
+
+/* kbd / code */
+kbd {
+  display: inline-block;
+  padding: 1px 6px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-family: var(--font-mono);
+  color: var(--text);
+  line-height: 1.6;
+}
+code {
+  background: rgba(255,255,255,0.08);
+  border-radius: 3px;
+  padding: 1px 5px;
+  font-size: 11.5px;
+  font-family: var(--font-mono);
+  color: #a8d8f0;
+}
+
+/* ── Misc ── */
+.separator { border: none; border-top: 1px solid var(--border); margin: 12px 0; }
+.badge {
+  font-size: 10px;
+  background: var(--accent2);
+  color: #fff;
+  padding: 1px 5px;
+  border-radius: 3px;
+  margin-left: 4px;
+}

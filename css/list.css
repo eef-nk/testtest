@@ -1,0 +1,115 @@
+/* ═══════════════════════════════════════════════════════════
+   LIST PANEL — 목록 패널, 검색, 항목 목록, 세대별 색상
+   ═══════════════════════════════════════════════════════════ */
+
+/* ── Main layout ── */
+#main {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* ── List Panel ── */
+#list-panel {
+  width: 240px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  overflow: hidden;
+}
+
+#list-tab-label {
+  padding: 6px 10px 5px;
+  font-size: 11px;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border);
+  background: var(--surface2);
+  flex-shrink: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  letter-spacing: 0.02em;
+}
+#list-tab-label .ltl-cat  { color: var(--text-muted); }
+#list-tab-label .ltl-sep  { margin: 0 4px; opacity: 0.5; }
+#list-tab-label .ltl-name { color: var(--text); font-weight: 600; }
+
+#search-wrap {
+  padding: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+#search-input {
+  width: 100%;
+  background: var(--input-bg);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 5px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-family: var(--font);
+  outline: none;
+}
+#search-input:focus { border-color: var(--accent2); }
+
+#list-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4px 8px 3px;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+#list-count {
+  font-size: 10px;
+  color: var(--text-muted);
+}
+
+#btn-new-entry {
+  background: var(--accent2);
+  color: #fff;
+  border: none;
+  padding: 3px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 11px;
+  font-family: var(--font);
+  white-space: nowrap;
+}
+#btn-new-entry:hover { background: #6a43a3; }
+
+#entity-list {
+  flex: 1;
+  overflow-y: auto;
+  list-style: none;
+}
+
+#entity-list li {
+  padding: 7px 12px;
+  cursor: pointer;
+  border-bottom: 1px solid transparent;
+  font-size: 12px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: background 0.1s;
+}
+
+/* ── 세대별 배경색 (hover/selected보다 먼저 선언) ── */
+#entity-list li[data-gen="1"] { background-color: #2d1416; } /* Gen 1 — 적/청         (진홍) */
+#entity-list li[data-gen="2"] { background-color: #281c0a; } /* Gen 2 — 금/은         (황금) */
+#entity-list li[data-gen="3"] { background-color: #0c2214; } /* Gen 3 — 루비/에메랄드 (녹)   */
+#entity-list li[data-gen="4"] { background-color: #0e1e3c; } /* Gen 4 — 다이아/펄     (강청) */
+#entity-list li[data-gen="5"] { background-color: #222234; } /* Gen 5 — 블랙/화이트   (회청) */
+#entity-list li[data-gen="6"] { background-color: #082830; } /* Gen 6 — X/Y           (청록) */
+#entity-list li[data-gen="7"] { background-color: #2e1800; } /* Gen 7 — 선/달         (호박) */
+#entity-list li[data-gen="8"] { background-color: #1c0c2e; } /* Gen 8 — 소드/실드     (자주) */
+#entity-list li[data-gen="9"] { background-color: #2e0c24; } /* Gen 9 — 스칼렛/바이올렛 (자홍) */
+
+#entity-list li:hover    { background: var(--hover); }
+#entity-list li.selected { background: var(--accent2); color: #fff; }
+#entity-list li .list-id { color: var(--text-muted); font-size: 10px; margin-left: 4px; font-family: var(--font-mono); }
+li.selected .list-id     { color: #c9b8f0; }

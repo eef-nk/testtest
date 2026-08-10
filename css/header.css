@@ -1,0 +1,152 @@
+/* ═══════════════════════════════════════════════════════════
+   HEADER — 헤더 바, 탭 카테고리 드롭다운
+   ═══════════════════════════════════════════════════════════ */
+
+#header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 16px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+  flex-wrap: wrap;
+}
+
+#header .logo {
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--accent);
+  margin-right: 2px;
+  white-space: nowrap;
+}
+
+#app-version {
+  font-size: 10px;
+  color: var(--text-muted);
+  opacity: 0.6;
+  margin-right: 8px;
+  align-self: flex-end;
+  padding-bottom: 1px;
+  white-space: nowrap;
+}
+
+#btn-open-folder {
+  background: var(--accent2);
+  color: var(--text);
+  border: none;
+  padding: 5px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  font-family: var(--font);
+  white-space: nowrap;
+}
+#btn-open-folder:hover { background: #6a43a3; }
+
+#btn-load-kor {
+  background: #1a5276;
+  color: var(--text);
+  border: none;
+  padding: 5px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  font-family: var(--font);
+  white-space: nowrap;
+}
+#btn-load-kor:hover         { background: #2471a3; }
+#btn-load-kor.loaded        { background: #1a6b4a; }
+#btn-load-kor.loaded:hover  { background: #1e8449; }
+
+#btn-help {
+  background: transparent;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  padding: 5px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  font-family: var(--font);
+  white-space: nowrap;
+}
+#btn-help:hover { background: var(--hover); color: var(--text); }
+
+#tabs {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+
+/* ── Tab category dropdowns ── */
+.tab-group { position: relative; }
+
+.tab-group-btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  background: transparent;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  padding: 4px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  font-family: var(--font);
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.tab-group-btn:hover           { background: var(--hover); color: var(--text); }
+.tab-group-btn.open            { background: var(--hover); color: var(--text); }
+.tab-group-btn.active          { background: var(--tab-active); color: #fff; border-color: var(--tab-active); }
+.tab-group-btn.has-warn        { color: #f39c12; border-color: #f39c12; }
+.tab-group-btn.active.has-warn { color: #ffd166; border-color: var(--tab-active); }
+
+.tab-group-arrow {
+  font-size: 9px;
+  opacity: 0.7;
+  display: inline-block;
+  transition: transform 0.15s;
+}
+.tab-group-btn.open .tab-group-arrow { transform: rotate(180deg); }
+
+.tab-dropdown {
+  display: none;
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 4px;
+  z-index: 300;
+  min-width: 150px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.5);
+  flex-direction: column;
+  gap: 2px;
+}
+.tab-dropdown.open { display: flex; }
+
+.tab-dropdown-item {
+  background: transparent;
+  color: var(--text);
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  font-family: var(--font);
+  text-align: left;
+  width: 100%;
+  transition: background 0.1s;
+}
+.tab-dropdown-item:hover       { background: var(--hover); }
+.tab-dropdown-item.active      { background: var(--tab-active); color: #fff; }
+.tab-dropdown-item.warn        { color: #f39c12; }
+.tab-dropdown-item.active.warn { background: var(--tab-active); color: #ffd166; }
+
+#load-status {
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-left: auto;
+}
